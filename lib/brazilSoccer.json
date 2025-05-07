@@ -1,0 +1,228 @@
+[
+    {
+      "id": "wc2002-champions",
+      "label": "Brazil wins its fifth FIFA World Cup",
+      "date": 2002
+    },
+    {
+      "id": "ronaldo-golden-boot-2002",
+      "label": "Ronaldo earns his first World Cup Golden Boot for Brazil",
+      "date": 2002
+    },
+    {
+      "id": "confed-cup-2005",
+      "label": "Brazil claims the FIFA Confederations Cup in Germany",
+      "date": 2005
+    },
+    {
+      "id": "ronaldinho-ballon-2004",
+      "label": "Ronaldinho wins the FIFA World Player of the Year award",
+      "date": 2004
+    },
+    {
+      "id": "kaka-ballon-2007",
+      "label": "Kaká becomes the first Brazilian since 1994 to win the Ballon d’Or",
+      "date": 2007
+    },
+    {
+      "id": "neymar-santos-debut",
+      "label": "Neymar makes his professional debut for Santos FC",
+      "date": 2009
+    },
+    {
+      "id": "confed-cup-2009",
+      "label": "Brazil wins the Confederations Cup on home soil",
+      "date": 2009
+    },
+    {
+      "id": "libertadores-2011",
+      "label": "Santos wins the Copa Libertadores with Neymar starring",
+      "date": 2011
+    },
+    {
+      "id": "clubwc-corinthians-2012",
+      "label": "Corinthians defeat Chelsea to win the Club World Cup",
+      "date": 2012
+    },
+    {
+      "id": "neymar-barca-transfer",
+      "label": "FC Barcelona signs Neymar in a record €57 million deal",
+      "date": 2013
+    },
+    {
+      "id": "confed-cup-2013",
+      "label": "Brazil wins the Confederations Cup for a third time",
+      "date": 2013
+    },
+    {
+      "id": "wc2014-host",
+      "label": "Brazil hosts the FIFA World Cup for the second time",
+      "date": 2014
+    },
+    {
+      "id": "semifinal-tragedy-2014",
+      "label": "Brazil suffer a 1–7 loss to Germany in the World Cup semi-final",
+      "date": 2014
+    },
+    {
+      "id": "neymar-injury-2014",
+      "label": "Neymar fractures vertebra and misses Brazil’s World Cup semi-final",
+      "date": 2014
+    },
+    {
+      "id": "olympic-gold-2016",
+      "label": "Brazil wins its first Olympic men’s soccer gold medal in Rio",
+      "date": 2016
+    },
+    {
+      "id": "copa-america-2016",
+      "label": "Brazil crowned Copa América champions in the Centenario edition",
+      "date": 2016
+    },
+    {
+      "id": "palmeiras-brasileirao-2016",
+      "label": "Palmeiras end a 22-year drought to win the Campeonato Brasileiro",
+      "date": 2016
+    },
+    {
+      "id": "neymar-paris-transfer",
+      "label": "Paris Saint-Germain sign Neymar for a world-record €222 million",
+      "date": 2017
+    },
+    {
+      "id": "kaka-retirement-2017",
+      "label": "Kaká announces his retirement from professional football",
+      "date": 2017
+    },
+    {
+      "id": "flamengo-libertadores-2019",
+      "label": "Flamengo win the Copa Libertadores with a last-minute comeback",
+      "date": 2019
+    },
+    {
+      "id": "flamengo-brasileirao-2019",
+      "label": "Flamengo clinch the Brasileirão title by 14 points",
+      "date": 2019
+    },
+    {
+      "id": "paqueta-olympics-2016",
+      "label": "Lucas Paquetá scores in Brazil’s Olympic gold-medal run",
+      "date": 2016
+    },
+    {
+      "id": "filipe-luis-return-2019",
+      "label": "Filipe Luís returns to Flamengo after a European stint",
+      "date": 2019
+    },
+    {
+      "id": "copa-america-2019",
+      "label": "Brazil win the Copa América on home soil",
+      "date": 2019
+    },
+    {
+      "id": "coutinho-epl-record",
+      "label": "Philippe Coutinho becomes Liverpool’s record signing",
+      "date": 2018
+    },
+    {
+      "id": "arthur-barca-transfer",
+      "label": "Barcelona sign Arthur Melo from Grêmio",
+      "date": 2018
+    },
+    {
+      "id": "paqueta-lyon-transfer",
+      "label": "Lucas Paquetá moves from Flamengo to Olympique Lyonnais",
+      "date": 2018
+    },
+    {
+      "id": "brasileirao-2020",
+      "label": "Flamengo win back-to-back Brasileirão titles",
+      "date": 2020
+    },
+    {
+      "id": "libertadores-2020",
+      "label": "Palmeiras win the Copa Libertadores in a pandemic-delayed final",
+      "date": 2020
+    },
+    {
+      "id": "alisson-premier-2018",
+      "label": "Alisson Becker becomes the world’s most expensive goalkeeper (€62.5 M)",
+      "date": 2018
+    },
+    {
+      "id": "ederson-mancity-2017",
+      "label": "Ederson joins Manchester City and wins the Premier League the following year",
+      "date": 2017
+    },
+    {
+      "id": "women-olympic-final-2021",
+      "label": "Brazil women reach their first Olympic football final",
+      "date": 2021
+    },
+    {
+      "id": "brasileirao-2021",
+      "label": "Atlético Mineiro win their first Brasileirão since 1971",
+      "date": 2021
+    },
+    {
+      "id": "var-debate-2019",
+      "label": "VAR overturns a penalty call in the Brasileirão, sparking debate",
+      "date": 2019
+    },
+    {
+      "id": "women-copa-2022",
+      "label": "Brazil women reach their first Women’s Copa América final",
+      "date": 2022
+    },
+    {
+      "id": "nacional-carioca-2022",
+      "label": "Nacional win the Campeonato Carioca after 9 years",
+      "date": 2022
+    },
+    {
+      "id": "copa-america-covid-2021",
+      "label": "Copa América postponed and played in Brazil during COVID",
+      "date": 2021
+    },
+    {
+      "id": "alex-sandro-juventus-2015",
+      "label": "Alex Sandro moves from Porto to Juventus",
+      "date": 2015
+    },
+    {
+      "id": "palmeiras-triple-2022",
+      "label": "Palmeiras clinch a historic treble of league and cups",
+      "date": 2022
+    },
+    {
+      "id": "juninho-coach-2020",
+      "label": "Juninho Pernambucano coaches Vasco da Gama",
+      "date": 2020
+    },
+    {
+      "id": "cristiane-top-scorer-2021",
+      "label": "Cristiane becomes Brazil women’s all-time top scorer",
+      "date": 2021
+    },
+    {
+      "id": "hepta-celebration-2022",
+      "label": "Brazil women celebrate their seventh South American title",
+      "date": 2022
+    },
+    {
+      "id": "gabigol-top-scorer-2020",
+      "label": "Gabigol reclaims the top-scorer crown in the Brasileirão",
+      "date": 2020
+    },
+    {
+      "id": "ronaldinho-farewell-2018",
+      "label": "Ronaldinho returns for a farewell Cruzeiro match",
+      "date": 2018
+    },
+    {
+      "id": "playoff-refund-2021",
+      "label": "Flamengo vs. Palmeiras playoff controversy sparks refunds",
+      "date": 2021
+    }
+  ]
+  
