@@ -32,6 +32,7 @@ export type Puzzle = {
   category: "History" | "Arts" | "Entertainment" | "Sports" | "Current Events";
   /** Full list of candidate cards for this puzzle */
   cards: EventCard[];
+  hideDates?: boolean; 
 };
 
 export const puzzles: Puzzle[] = [
