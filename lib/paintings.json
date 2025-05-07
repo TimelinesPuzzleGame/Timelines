@@ -4,67 +4,86 @@
                 "title":"Venus of Urbino",
                 "artist": "Titian",
                 "date": 1538,
-                "image": "https://upload.wikimedia.org/wikipedia/commons/3/34/Tiziano%27s_Venere_di_Urbino_%28from_The_History_BLog%29.jpg"
+                "image": "https://upload.wikimedia.org/wikipedia/commons/3/34/Tiziano%27s_Venere_di_Urbino_%28from_The_History_BLog%29.jpg",
+                "label": "Venus of Urbino"
               },
             {
               "id": "madonna-and-child",
               "title": "Madonna and Child",
               "artist": "Giotto di Bondone",
               "date": 1320,
-              "image": "https://upload.wikimedia.org/wikipedia/commons/5/53/Giotto_di_Bondone_086.jpg"
+              "image": "https://upload.wikimedia.org/wikipedia/commons/5/53/Giotto_di_Bondone_086.jpg",
+              "label": "Madonna and Child"
             },
             {
               "id": "the-night-watch",
               "title":"The Night Watch",
               "artist":"Rembrandt",
               "date": 1642,
-              "image": "https://upload.wikimedia.org/wikipedia/commons/9/94/The_Nightwatch_by_Rembrandt_-_Rijksmuseum.jpg"
+              "image": "https://upload.wikimedia.org/wikipedia/commons/9/94/The_Nightwatch_by_Rembrandt_-_Rijksmuseum.jpg",
+              "label": "The Night Watch"
             },
             { "id":"Jean-Michel-Basquiat", 
             "title":"Jean-Michel Basquiat",
             "artist":"Andy Warhol",
-            "date":1982,"image":"https://upload.wikimedia.org/wikipedia/en/3/31/Andy-warhol-jean-michel-basquiat-1982.jpg" },
+            "date":1982,"image":"https://upload.wikimedia.org/wikipedia/en/3/31/Andy-warhol-jean-michel-basquiat-1982.jpg",
+            "label": "Jean-Michel Basquiat"
+            },
+            {
+              "id": "the-scream",
+              "title":"The Scream",
+              "artist":"Munch",
+              "date": 1893,
+              "image": "https://upload.wikimedia.org/wikipedia/commons/f/f4/The_Scream.jpg",
+              "label": "The Scream"
+            },
             {
               "id": "the-persistence-of-memory",
               "title":"The Persistence of Memory",
               "artist":"Dalí",
               "date": 1931,
-              "image": "https://upload.wikimedia.org/wikipedia/en/d/dd/The_Persistence_of_Memory.jpg"
+              "image": "https://upload.wikimedia.org/wikipedia/en/d/dd/The_Persistence_of_Memory.jpg",
+              "label": "The Persistence of Memory"
             },
             {
               "id": "american-gothic",
               "title":"American Gothic",
               "artist":"Grant Wood",
               "date": 1930,
-              "image": "https://cdn.britannica.com/47/24347-050-9719FF7E/American-Gothic-beaverboard-Grant-Wood-Art-Institute-1930.jpg"
+              "image": "https://cdn.britannica.com/47/24347-050-9719FF7E/American-Gothic-beaverboard-Grant-Wood-Art-Institute-1930.jpg",
+              "label": "American Gothic"
             },
             {
               "id": "les-demoiselles-davignon",
               "title":"Les Demoiselles d'Avignon",
               "artist":"Picasso",
               "date": 1907,
-              "image": "https://upload.wikimedia.org/wikipedia/en/4/4c/Les_Demoiselles_d%27Avignon.jpg"
+              "image": "https://upload.wikimedia.org/wikipedia/en/4/4c/Les_Demoiselles_d%27Avignon.jpg",
+              "label": "Les Demoiselles d'Avignon"
             },
             {
               "id": "woman-with-a-parasol",
               "title":"Woman with a Parasol",
               "artist":"Monet",
               "date": 1875,
-              "image": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Claude_Monet_-_Woman_with_a_Parasol_-_Madame_Monet_and_Her_Son_-_Google_Art_Project.jpg"
+              "image": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Claude_Monet_-_Woman_with_a_Parasol_-_Madame_Monet_and_Her_Son_-_Google_Art_Project.jpg",
+              "label": "Woman with a Parasol" 
             },
             {
               "id": "the-kiss-klimt",
               "title":"The Kiss",
               "artist":"Klimt",
               "date": 1907,
-              "image": "https://upload.wikimedia.org/wikipedia/commons/4/40/The_Kiss_-_Gustav_Klimt_-_Google_Cultural_Institute.jpg"
+              "image": "https://upload.wikimedia.org/wikipedia/commons/4/40/The_Kiss_-_Gustav_Klimt_-_Google_Cultural_Institute.jpg",
+              "label": "The Kiss"
             },
             {
               "id": "number-5-pollock",
               "title":"Number 5",
               "artist":"Jackson Pollock",
               "date": 1948,
-              "image": "https://upload.wikimedia.org/wikipedia/en/4/4a/No._5%2C_1948.jpg"
+              "image": "https://upload.wikimedia.org/wikipedia/en/4/4a/No._5%2C_1948.jpg",
+              "label": "Number 5"
             }
           ]
           
