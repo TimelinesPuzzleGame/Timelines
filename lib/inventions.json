@@ -1,7 +1,8 @@
 {
     "slug": "inventions",
     "topic": "Major Inventions (Past 2000 Years)",
-    "category": "History"
+    "category": "History",
+    "hideDates": false,
     "cards": [
       { "id": "0105-paper-making",            "label": "Papermaking in China",                                   "date": 105 },
       { "id": "0750-block-printing",          "label": "Woodblock printing invented",                            "date": 750 },

@@ -16,7 +16,7 @@ export type EventCard = {
   /** Label to display on the card */
   label: string;
   //next 2 are for image puzzles
-  title: string;
+  title?: string;
   artist?: string;
   /** Numerical year of the event */
   date: number;
