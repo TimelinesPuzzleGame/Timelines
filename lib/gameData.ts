@@ -3,7 +3,7 @@
 import nbaEvents from "./nbaEvents.json";
 import brazilSoccer from "./brazilSoccer.json";
 import horrorFilms from "./horrorFilms.json";
-import Inventions from "./Inventions.json";
+import inventions from "./inventions.json";
 import economicEvents from "./economicEvents.json";
 import videoGameMechanics from "./videoGameMechanics.json";
 import videoGameReleases from "./videoGameReleases.json";
@@ -1364,7 +1364,7 @@ export const puzzles: Puzzle[] = [
     ],
   },
 
-  Inventions,
+  inventions,
   economicEvents,
   videoGameMechanics,
   videoGameReleases,
