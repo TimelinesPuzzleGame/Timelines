@@ -1,0 +1,58 @@
+{
+    "slug": "back-to-the-future",
+    "topic": "Back to the Future",
+    "category": "Entertainment",
+    "hideDates": true,
+    "cards": [
+        {
+            "id": "flux-capacitor",
+            "label": "Doc invents the Flux Capacitor",
+            "date": 1
+        },
+        {
+            "id": "einstein-test",
+            "label": "Doc tests time travel by sending Einstein one minute ahead",
+            "date": 2
+        },
+        {
+            "id": "marty-time-jump",
+            "label": "Doc gets shot by the Libyan Terrorists",
+            "date": 3
+        },
+        {
+            "id": "marty-time-jump",
+            "label": "Marty accidentally travels to 1955",
+            "date": 4
+        },
+        {
+            "id": "meets-young-parents",
+            "label": "Marty meets young George McFly and young Lorraine",
+            "date": 5
+        },
+        {
+            "id": "enchantment-dance",
+            "label": "Marty performs at the ‘Enchantment Under the Sea’ dance",
+            "date": 6
+        },
+        {
+            "id": "returns-1985",
+            "label": "Marty returns to 1985 just as the clock tower strikes",
+            "date": 7
+        },
+        {
+            "id": "doc-2015-visit",
+            "label": "Doc appears in a flying DeLorean from 2015",
+            "date": 8
+        },
+        {
+            "id": "journey-1885",
+            "label": "Marty and Doc journey to 1885 to rescue Doc Brown",
+            "date": 9
+        },
+        {
+            "id": "final-return-1985",
+            "label": "Marty returns to a restored 1985 in the repaired DeLorean",
+            "date": 10
+        }
+    ]
+}

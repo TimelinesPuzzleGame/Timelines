@@ -1,0 +1,50 @@
+{
+    "slug": "lotr-movies",
+    "topic": "Lord of the Rings",
+    "category": "Entertainment",
+    "hideDates": true,
+    "cards": [
+      {
+        "id": "bilbo-farewell",
+        "label": "Bilbo departs the Shire after his 111th birthday",
+        "date": 1
+      },
+      {
+        "id": "fellowship-departs",
+        "label": "Fellowship leaves Rivendell",
+        "date": 2
+      },
+      {
+        "id": "gandalf-falls",
+        "label": "Gandalf falls in the Mines of Moria",
+        "date": 3
+      },
+      {
+        "id": "lorien-arrival",
+        "label": "Fellowship arrives in Lothlórien",
+        "date": 4
+      },
+      { "id": "helms-deep", "label": "Defense of Helm’s Deep", "date": 5 },
+      { "id": "ents-attack", "label": "Ents march on and flood Isengard", "date": 6 },
+      {
+        "id": "gollum-betrayal",
+        "label": "Gollum leads Frodo & Sam toward Shelob’s lair",
+        "date": 7
+      },
+      {
+        "id": "ring-destroyed",
+        "label": "One Ring is destroyed in Mount Doom",
+        "date": 8
+      },
+      {
+        "id": "great-eagles-rescue",
+        "label": "The Great Eagles rescue Frodo and Sam",
+        "date": 9
+      },
+      {
+        "id": "aragorn-coronation",
+        "label": "Aragorn crowned King at Minas Tirith",
+        "date": 10
+      }
+    ]
+  }

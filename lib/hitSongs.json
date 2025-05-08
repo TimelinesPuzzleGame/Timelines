@@ -1,3 +1,9 @@
+{
+  "slug": "hit-songs",
+  "topic": "Hit Songs (1920s–2020s)",
+  "category": "Entertainment",
+  "hideDates": false,
+  "cards":
 [
     { "id": "1927-my-blue-heaven", "label": "My Blue Heaven – Gene Austin", "date": 1927 },
     { "id": "1939-over-the-rainbow", "label": "Over the Rainbow – Judy Garland", "date": 1939 },
@@ -75,4 +81,4 @@
   { "id": "2023-flowers", "label": "Flowers – Miley Cyrus", "date": 2023 }
 
 ]
-  
+}

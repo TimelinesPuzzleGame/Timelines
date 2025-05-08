@@ -1,0 +1,58 @@
+{
+    "slug": "lively-baldoni",
+    "topic": "Lively vs Baldoni",
+    "category": "Current Events",
+    "hideDates": false,
+    "cards": [
+        {
+            "id": "casting-announced",
+            "label": "Blake Lively & Justin Baldoni cast in It Ends With Us",
+            "date": 1
+        },
+        {
+            "id": "filming-pauses",
+            "label": "Production halts amid the writers’ strike",
+            "date": 2
+        },
+        {
+            "id": "cryptic-post",
+            "label": "Lively shares a cryptic Instagram post on respect & consent",
+            "date": 3
+        },
+        {
+            "id": "baldoni-denies",
+            "label": "Baldoni publicly denies all allegations",
+            "date": 4
+        },
+        {
+            "id": "filming-resumes",
+            "label": "Filming quietly resumes under new protocols",
+            "date": 5
+        },
+        {
+            "id": "lively-complaint",
+            "label": "Lively files a formal harassment complaint",
+            "date": 6
+        },
+        {
+            "id": "agency-drops",
+            "label": "Baldoni is dropped by his longtime talent agency",
+            "date": 7
+        },
+        {
+            "id": "baldoni-sues-nyt",
+            "label": "Baldoni sues The New York Times for defamation",
+            "date": 8
+        },
+        {
+            "id": "settlement-rumors",
+            "label": "Rumors surface of confidential settlement talks",
+            "date": 9
+        },
+        {
+            "id": "judge-ruling",
+            "label": "Judge grants partial dismissal reshaping the case",
+            "date": 10
+        }
+    ]
+}

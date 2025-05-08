@@ -1,3 +1,9 @@
+{
+  "slug": "nba-history",
+  "topic": "NBA",
+  "category": "Sports",
+  "hideDates": false,
+  "cards":
 [
     { "id": "nba-formed",             "label": "BAA merges with NBL to form the NBA",                       "date": 1949 },
     { "id": "first-all-star",         "label": "Inaugural NBA All-Star Game in Boston",                     "date": 1951 },
@@ -112,4 +118,5 @@
     { "id": "first-fan-vote",         "label": "NBA becomes first major league to introduce All-Star fan voting", "date": 1994 },
     { "id": "first-shoe-contract",    "label": "Michael Jordan signs first $250K+ sneaker deal",          "date": 1984 }
   ]
+}
   

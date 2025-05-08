@@ -1,0 +1,157 @@
+{
+    "slug": "cold-war",
+    "topic": "Cold War",
+    "category": "History",
+    "cards": [
+        {
+            "id": "1947-truman-doctrine",
+            "label": "Truman Doctrine declares global containment",
+            "date": 1947
+        },
+        {
+            "id": "1947-cominform-formed",
+            "label": "Cominform established to coordinate communist states",
+            "date": 1947
+        },
+        {
+            "id": "1948-marshall-plan",
+            "label": "Marshall Plan rolls out massive European aid",
+            "date": 1948
+        },
+        {
+            "id": "1948-berlin-blockade",
+            "label": "Soviets blockade West Berlin, Allies launch airlift",
+            "date": 1948
+        },
+        {
+            "id": "1949-nato-formed",
+            "label": "NATO founded as Western military alliance",
+            "date": 1949
+        },
+        {
+            "id": "1949-communist-china",
+            "label": "People’s Republic established after civil war",
+            "date": 1949
+        },
+        {
+            "id": "1950-korean-war-begins",
+            "label": "North Korea invades South—Korean War erupts",
+            "date": 1950
+        },
+        {
+            "id": "1953-stalin-dies",
+            "label": "Death of Stalin sparks brief thaw in tensions",
+            "date": 1953
+        },
+        {
+            "id": "1955-warsaw-pact",
+            "label": "Warsaw Pact formed in response to NATO",
+            "date": 1955
+        },
+        {
+            "id": "1956-hungarian-uprising",
+            "label": "Hungary’s revolt crushed by Soviet tanks",
+            "date": 1956
+        },
+        {
+            "id": "1957-sputnik-launch",
+            "label": "USSR launches Sputnik—space race ignites",
+            "date": 1957
+        },
+        {
+            "id": "1960-u2-incident",
+            "label": "U-2 spy plane shot down, Summit collapses",
+            "date": 1960
+        },
+        {
+            "id": "1961-berlin-wall-erected",
+            "label": "East Germans build Berlin Wall overnight",
+            "date": 1961
+        },
+        {
+            "id": "1961-bay-of-pigs",
+            "label": "CIA-backed Bay of Pigs invasion ends in failure",
+            "date": 1961
+        },
+        {
+            "id": "1962-cuban-missile-crisis",
+            "label": "13-day Cuban Missile Crisis brings superpowers to brink",
+            "date": 1962
+        },
+        {
+            "id": "1963-hotline-established",
+            "label": "Moscow–Washington hotline set up after JFK assassination",
+            "date": 1963
+        },
+        {
+            "id": "1964-gulf-of-tonkin",
+            "label": "Gulf of Tonkin incident escalates Vietnam conflict",
+            "date": 1964
+        },
+        {
+            "id": "1965-vietnam-escalation",
+            "label": "U.S. combat troops deploy—Vietnam War intensifies",
+            "date": 1965
+        },
+        {
+            "id": "1968-prague-spring",
+            "label": "Prague Spring ends under Soviet invasion",
+            "date": 1968
+        },
+        {
+            "id": "1972-salt-i-signed",
+            "label": "SALT I limits nuclear arms—historic détente step",
+            "date": 1972
+        },
+        {
+            "id": "1972-nixon-visits-china",
+            "label": "Nixon’s China visit reorders Cold War alliances",
+            "date": 1972
+        },
+        {
+            "id": "1973-vietnam-peace-accords",
+            "label": "Paris Accords provide U.S. troop withdrawal plan",
+            "date": 1973
+        },
+        {
+            "id": "1975-helsinki-accords",
+            "label": "Helsinki Accords bind East and West on human rights",
+            "date": 1975
+        },
+        {
+            "id": "1979-soviet-afghanistan",
+            "label": "Soviets invade Afghanistan—new Cold War front opens",
+            "date": 1979
+        },
+        {
+            "id": "1980-solidarity-poland",
+            "label": "Solidarity movement challenges Soviet regime in Poland",
+            "date": 1980
+        },
+        {
+            "id": "1983-reagan-evil-empire",
+            "label": "Reagan labels USSR the 'Evil Empire'",
+            "date": 1983
+        },
+        {
+            "id": "1985-gorbachev-rise",
+            "label": "Gorbachev becomes leader, launches glasnost & perestroika",
+            "date": 1985
+        },
+        {
+            "id": "1987-inf-treaty",
+            "label": "INF Treaty eliminates an entire class of missiles",
+            "date": 1987
+        },
+        {
+            "id": "1989-berlin-wall-falls",
+            "label": "Berlin Wall falls—symbolic end to Iron Curtain",
+            "date": 1989
+        },
+        {
+            "id": "1991-ussr-dissolution",
+            "label": "Soviet Union dissolves, Cold War officially ends",
+            "date": 1991
+        }
+    ]
+}

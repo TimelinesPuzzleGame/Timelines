@@ -1,0 +1,341 @@
+{
+    "slug": "pop-culture",
+    "topic": "Modern Pop Culture",
+    "category": "History",
+    "hideDates": false,
+    "cards": [
+      {
+        "id": "1900-vogue-first-issue",
+        "label": "First Vogue fashion issue",
+        "date": 1900
+      },
+      {
+        "id": "1902-trip-to-coontown",
+        "label": "Broadway musical 'A Trip to Coontown'",
+        "date": 1902
+      },
+      {
+        "id": "1903-great-train-robbery",
+        "label": "The Great Train Robbery (film)",
+        "date": 1903
+      },
+      {
+        "id": "1905-first-radio-broadcast",
+        "label": "First experimental public radio broadcast",
+        "date": 1905
+      },
+      {
+        "id": "1907-les-demoiselles",
+        "label": "Picasso paints ‘Les Demoiselles d’Avignon’",
+        "date": 1907
+      },
+      {
+        "id": "1909-jazz-term",
+        "label": "The term ‘jazz’ first appears in print",
+        "date": 1909
+      },
+      {
+        "id": "1913-rite-of-spring",
+        "label": "Stravinsky’s 'Rite of Spring' premiere",
+        "date": 1913
+      },
+      {
+        "id": "1914-bringing-up-father",
+        "label": "'Bringing Up Father' comic strip debuts",
+        "date": 1914
+      },
+      {
+        "id": "1915-chaplin-film-debut",
+        "label": "Charlie Chaplin’s film debut",
+        "date": 1915
+      },
+      {
+        "id": "1917-hollywood-shakespeare",
+        "label": "Hollywood’s first Shakespeare adaptation",
+        "date": 1917
+      },
+      {
+        "id": "1919-harlem-renaissance",
+        "label": "Harlem Renaissance begins",
+        "date": 1919
+      },
+      {
+        "id": "1920-valentino-idol",
+        "label": "Rudolph Valentino becomes silent film idol",
+        "date": 1920
+      },
+      {
+        "id": "1922-ulysses-published",
+        "label": "James Joyce publishes Ulysses",
+        "date": 1922
+      },
+      {
+        "id": "1923-bbc-radio",
+        "label": "BBC begins regular radio broadcasts",
+        "date": 1923
+      },
+      {
+        "id": "1925-gatsby-published",
+        "label": "Publication of F. Scott Fitzgerald’s The Great Gatsby",
+        "date": 1925
+      },
+      {
+        "id": "1926-first-tv-demo",
+        "label": "John Logie Baird’s first TV demonstration",
+        "date": 1926
+      },
+      {
+        "id": "1927-the-jazz-singer",
+        "label": "The Jazz Singer: first ‘talkie’ film",
+        "date": 1927
+      },
+      {
+        "id": "1928-steamboat-willie",
+        "label": "Steamboat Willie (Mickey Mouse debut)",
+        "date": 1928
+      },
+      {
+        "id": "1929-crash-great-depression",
+        "label": "Stock Market Crash, start of Great Depression",
+        "date": 1929
+      },
+      {
+        "id": "1930-earl-carroll-vanities",
+        "label": "Broadway revue 'The Earl Carroll Vanities' debuts",
+        "date": 1930
+      },
+      {
+        "id": "1933-king-kong-premiere",
+        "label": "King Kong premieres",
+        "date": 1933
+      },
+      {
+        "id": "1935-dick-tracy-debut",
+        "label": "Dick Tracy comic strip debuts",
+        "date": 1935
+      },
+      {
+        "id": "1937-snow-white-premiere",
+        "label": "Disney’s Snow White and the Seven Dwarfs premieres",
+        "date": 1937
+      },
+      {
+        "id": "1938-war-of-worlds",
+        "label": "Orson Welles’ 'War of the Worlds' radio broadcast",
+        "date": 1938
+      },
+      {
+        "id": "1939-wizard-of-oz",
+        "label": "The Wizard of Oz premieres",
+        "date": 1939
+      },
+      {
+        "id": "1940-batman-comics",
+        "label": "Batman first appears in comics",
+        "date": 1940
+      },
+      {
+        "id": "1941-looney-tunes",
+        "label": "Bugs Bunny debuts in 'A Wild Hare'",
+        "date": 1941
+      },
+      {
+        "id": "1945-gi-bill",
+        "label": "GI Bill fuels postwar pop culture boom",
+        "date": 1945
+      },
+      {
+        "id": "1947-red-river",
+        "label": "Howard Hawks’ 'Red River' defines western genre",
+        "date": 1947
+      },
+      {
+        "id": "1949-tv-licensing",
+        "label": "US begins TV licensing—mass audience era begins",
+        "date": 1949
+      },
+      {
+        "id": "1950-rock-n-roll-term",
+        "label": "Alan Freed coins term ‘Rock ’n’ Roll’",
+        "date": 1950
+      },
+      { "id": "1951-i-love-lucy", "label": "I Love Lucy premieres", "date": 1951 },
+      {
+        "id": "1953-televised-wrestling",
+        "label": "Professional wrestling hits television",
+        "date": 1953
+      },
+      {
+        "id": "1955-honeymooners-debut",
+        "label": "The Honeymooners sketches debut",
+        "date": 1955
+      },
+      {
+        "id": "1956-heartbreak-hotel",
+        "label": "Elvis Presley records 'Heartbreak Hotel'",
+        "date": 1956
+      },
+      {
+        "id": "1957-sputnik-launch",
+        "label": "Sputnik launch sparks sci-fi craze",
+        "date": 1957
+      },
+      {
+        "id": "1958-children-programming",
+        "label": "Educational children’s programming begins",
+        "date": 1958
+      },
+      {
+        "id": "1960-james-bond-novel",
+        "label": "First James Bond novel released",
+        "date": 1960
+      },
+      {
+        "id": "1962-warhol-soup-cans",
+        "label": "Andy Warhol’s Campbell’s Soup Cans exhibit",
+        "date": 1962
+      },
+      {
+        "id": "1964-beatles-sullivan",
+        "label": "The Beatles on The Ed Sullivan Show",
+        "date": 1964
+      },
+      {
+        "id": "1966-star-trek-tos",
+        "label": "Star Trek: The Original Series premieres",
+        "date": 1966
+      },
+      { "id": "1969-woodstock", "label": "Woodstock Music Festival", "date": 1969 },
+      {
+        "id": "1970-mary-tyler-moore",
+        "label": "The Mary Tyler Moore Show premieres",
+        "date": 1970
+      },
+      {
+        "id": "1971-all-in-the-family",
+        "label": "All in the Family premieres",
+        "date": 1971
+      },
+      { "id": "1972-mash-premiere", "label": "M*A*S*H premieres", "date": 1972 },
+      {
+        "id": "1974-punk-rock-emerges",
+        "label": "Punk Rock emerges in London",
+        "date": 1974
+      },
+      {
+        "id": "1977-star-wars",
+        "label": "Star Wars: A New Hope premieres",
+        "date": 1977
+      },
+      { "id": "1978-grease-premiere", "label": "Grease film release", "date": 1978 },
+      { "id": "1979-snl-debut", "label": "Saturday Night Live debuts", "date": 1975 },
+      {
+        "id": "1980-empire-strikes",
+        "label": "The Empire Strikes Back premieres",
+        "date": 1980
+      },
+      { "id": "1981-mtv-launch", "label": "MTV launches", "date": 1981 },
+      { "id": "1982-cheers-debut", "label": "Cheers premieres", "date": 1982 },
+      {
+        "id": "1984-ghostbusters",
+        "label": "Ghostbusters film release",
+        "date": 1984
+      },
+      {
+        "id": "1987-simpsons-ullman",
+        "label": "The Simpsons shorts debut on Tracey Ullman",
+        "date": 1987
+      },
+      {
+        "id": "1989-indiana-jones-3",
+        "label": "Indiana Jones and the Last Crusade premieres",
+        "date": 1989
+      },
+      { "id": "1989-seinfeld", "label": "Seinfeld premieres", "date": 1989 },
+      {
+        "id": "1990-new-jack-city",
+        "label": "New Jack City film release",
+        "date": 1991
+      },
+      {
+        "id": "1991-nevermind",
+        "label": "Nirvana releases 'Nevermind'",
+        "date": 1991
+      },
+      { "id": "1993-ufc-1", "label": "UFC 1: The Beginning", "date": 1993 },
+      { "id": "1994-friends-premiere", "label": "Friends premieres", "date": 1994 },
+      { "id": "1995-toy-story", "label": "Toy Story releases", "date": 1995 },
+      { "id": "1996-spice-girls-form", "label": "Spice Girls form", "date": 1996 },
+      {
+        "id": "1997-hp1-book",
+        "label": "Harry Potter and the Philosopher’s Stone (book)",
+        "date": 1997
+      },
+      { "id": "1997-titanic-film", "label": "Titanic film release", "date": 1997 },
+      { "id": "1999-matrix", "label": "The Matrix premieres", "date": 1999 },
+      {
+        "id": "2000-survivor-debut",
+        "label": "Survivor reality show debuts",
+        "date": 2000
+      },
+      {
+        "id": "2001-lotr-fellowship",
+        "label": "The Lord of the Rings: The Fellowship premieres",
+        "date": 2001
+      },
+      { "id": "2003-facebook-founded", "label": "Facebook founded", "date": 2004 },
+      { "id": "2005-youtube-launch", "label": "YouTube launches", "date": 2005 },
+      { "id": "2006-nintendo-wii", "label": "Nintendo Wii releases", "date": 2006 },
+      {
+        "id": "2007-iphone-unveiled",
+        "label": "Apple unveils the iPhone",
+        "date": 2007
+      },
+      {
+        "id": "2008-dark-knight",
+        "label": "The Dark Knight premieres",
+        "date": 2008
+      },
+      { "id": "2009-avatar-premiere", "label": "Avatar film release", "date": 2009 },
+      { "id": "2010-ipad-launch", "label": "iPad launches", "date": 2010 },
+      {
+        "id": "2011-got-premiere",
+        "label": "Game of Thrones premieres",
+        "date": 2011
+      },
+      { "id": "2012-avengers", "label": "The Avengers premieres", "date": 2012 },
+      { "id": "2013-frozen", "label": "Frozen film release", "date": 2013 },
+      {
+        "id": "2014-ice-bucket-challenge",
+        "label": "ALS Ice Bucket Challenge goes viral",
+        "date": 2014
+      },
+      {
+        "id": "2015-force-awakens",
+        "label": "Star Wars: The Force Awakens premieres",
+        "date": 2015
+      },
+      { "id": "2016-pokemon-go", "label": "Pokémon Go launches", "date": 2016 },
+      {
+        "id": "2017-wonder-woman",
+        "label": "Wonder Woman film release",
+        "date": 2017
+      },
+      {
+        "id": "2018-black-panther",
+        "label": "Black Panther premieres",
+        "date": 2018
+      },
+      {
+        "id": "2019-avengers-endgame",
+        "label": "Avengers: Endgame premieres",
+        "date": 2019
+      },
+      {
+        "id": "2020-squid-game",
+        "label": "Netflix releases Squid Game",
+        "date": 2021
+      },
+      { "id": "2021-wandavision", "label": "WandaVision premieres", "date": 2021 }
+    ]
+  }

@@ -1,0 +1,172 @@
+{
+    "slug": "harry‐potter‐timeline",
+    "topic": "Harry Potter",
+    "category": "Entertainment",
+    "hideDates": true,
+    "cards": [
+      { "id": "hp1-harry-born", "label": "Harry’s birth", "date": 1 },
+      {
+        "id": "hp2-voldemort-downfall",
+        "label": "Voldemort’s first downfall",
+        "date": 2
+      },
+      { "id": "hp3-letter-arrives", "label": "Hogwarts letter arrives", "date": 3 },
+      { "id": "hp4-meeting-hagrid", "label": "Harry meets Hagrid", "date": 4 },
+      { "id": "hp5-diagon-alley", "label": "First Diagon Alley visit", "date": 5 },
+      { "id": "hp6-sorting-ceremony", "label": "Sorting Hat ceremony", "date": 6 },
+      { "id": "hp7-first-potions", "label": "First Potions class", "date": 7 },
+      {
+        "id": "hp8-first-quidditch",
+        "label": "First Quidditch match win",
+        "date": 8
+      },
+      {
+        "id": "hp9-mirror-of-erised",
+        "label": "Mirror of Erised discovered",
+        "date": 9
+      },
+      {
+        "id": "hp10-philosophers-stone-chamber",
+        "label": "Philosopher’s Stone chamber",
+        "date": 10
+      },
+      { "id": "hp11-dobby-appears", "label": "Dobby’s first appearance", "date": 11 },
+      {
+        "id": "hp12-norris-petrified",
+        "label": "Mrs. Norris is petrified",
+        "date": 12
+      },
+      {
+        "id": "hp13-basilisk-defeated",
+        "label": "The Basilisk is defeated",
+        "date": 13
+      },
+      {
+        "id": "hp14-dementor-attack",
+        "label": "Dementor attack by the lake",
+        "date": 14
+      },
+      {
+        "id": "hp15-patronus-charm",
+        "label": "Harry casts the Patronus charm to defeat Dementors",
+        "date": 15
+      },
+      {
+        "id": "hp16-sirius-revealed",
+        "label": "Sirius Black is revealed",
+        "date": 16
+      },
+      {
+        "id": "hp17-time-turner-rescue",
+        "label": "Time-Turner rescue at Hogwarts",
+        "date": 17
+      },
+      {
+        "id": "hp18-triwizard-tournament",
+        "label": "Triwizard Tournament begins",
+        "date": 18
+      },
+      {
+        "id": "hp19-first-task",
+        "label": "Triwizard First task: facing the dragon",
+        "date": 19
+      },
+      {
+        "id": "hp20-second-task",
+        "label": "Triwizard Second task: rescuing under the lake",
+        "date": 20
+      },
+      {
+        "id": "hp21-third-task",
+        "label": "Triwizard Third task: navigating the maze",
+        "date": 21
+      },
+      { "id": "hp22-cedric-death", "label": "Cedric Diggory’s death", "date": 22 },
+      {
+        "id": "hp23-umbridge-arrives",
+        "label": "Dolores Umbridge takes over Hogwarts",
+        "date": 23
+      },
+      {
+        "id": "hp24-dumbledores-army",
+        "label": "Formation of Dumbledore’s Army",
+        "date": 24
+      },
+      {
+        "id": "hp25-ministry-battle",
+        "label": "Battle at the Ministry of Magic",
+        "date": 25
+      },
+      {
+        "id": "hp26-hbp-book-found",
+        "label": "Half-Blood Prince’s potion book discovered",
+        "date": 26
+      },
+      {
+        "id": "hp27-slughorn-horcrux-memory",
+        "label": "Slughorn’s Horcrux memory obtained",
+        "date": 27
+      },
+      {
+        "id": "hp28-dumbledore-death",
+        "label": "Death of Albus Dumbledore",
+        "date": 28
+      },
+      {
+        "id": "hp29-horcrux-hunt",
+        "label": "Harry’s Horcrux hunt begins",
+        "date": 29
+      },
+      {
+        "id": "hp30-godrics-hollow",
+        "label": "Return to Godric’s Hollow",
+        "date": 30
+      },
+      {
+        "id": "hp31-gringotts-break-in",
+        "label": "Gringotts vault break-in",
+        "date": 31
+      },
+      {
+        "id": "hp32-flight-seven-potters",
+        "label": "Flight of the Seven Potters",
+        "date": 32
+      },
+      {
+        "id": "hp33-infiltration-hogwarts",
+        "label": "Death Eater infiltration at Hogwarts",
+        "date": 33
+      },
+      {
+        "id": "hp34-snape-memories",
+        "label": "Reveal of Snape’s memories",
+        "date": 34
+      },
+      { "id": "hp35-battle-of-hogwarts", "label": "Battle of Hogwarts", "date": 35 },
+      {
+        "id": "hp36-voldemort-defeated",
+        "label": "The final defeat of Voldemort",
+        "date": 36
+      },
+      {
+        "id": "hp37-hogwarts-rebuilt",
+        "label": "Rebuilding of Hogwarts begins",
+        "date": 37
+      },
+      {
+        "id": "hp38-epilogue-king-s-cross",
+        "label": "Epilogue at King’s Cross",
+        "date": 38
+      },
+      {
+        "id": "hp39-next-generation",
+        "label": "Next generation boards the train",
+        "date": 39
+      },
+      {
+          "id": "hp40-wizarding-world-restored",
+          "label": "Peace returns to the wizarding world",
+          "date": 40
+        }
+      ]
+  }

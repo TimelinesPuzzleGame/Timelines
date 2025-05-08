@@ -1,3 +1,9 @@
+{
+  "slug": "horror-films",
+  "topic": "Horror Films",
+  "category": "Entertainment",
+  "hideDates": false,
+  "cards":
 [
     { "id": "cabinet-dr-caligari",       "label": "The Cabinet of Dr. Caligari",                          "date": 1920 },
     { "id": "nosferatu",                 "label": "Nosferatu",                                           "date": 1922 },
@@ -96,4 +102,5 @@
     { "id": "youre-next-2013",            "label": "You’re Next",                                    "date": 2013 },
     { "id": "x-2022",                     "label": "X",                                              "date": 2022 }
   ]
+}
   

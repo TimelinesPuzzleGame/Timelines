@@ -1,0 +1,108 @@
+{
+    "slug": "diddy-life-career",
+    "topic": "Diddy: Life, Career & Controversy",
+    "category": "Entertainment",
+    "hideDates": false,
+    "cards": [
+        {
+            "id": "uptown-intern",
+            "label": "Interns at Uptown Records under Andre Harrell",
+            "date": 1990
+        },
+        {
+            "id": "fired-uptown",
+            "label": "Fired from Uptown Records, founds Bad Boy Entertainment",
+            "date": 1993
+        },
+        {
+            "id": "biggie-signed",
+            "label": "Signs The Notorious B.I.G. to Bad Boy",
+            "date": 1993
+        },
+        {
+            "id": "crazy-remix-era",
+            "label": "Dominates airwaves with Bad Boy remix hits",
+            "date": 1995
+        },
+        {
+            "id": "biggie-death",
+            "label": "Biggie is killed in Los Angeles; Diddy releases tribute",
+            "date": 1997
+        },
+        {
+            "id": "ill-be-missing",
+            "label": "Releases \"I'll Be Missing You\" – a No. 1 global hit",
+            "date": 1997
+        },
+        {
+            "id": "grammy-win",
+            "label": "Wins Grammy for Best Rap Album for *No Way Out*",
+            "date": 1998
+        },
+        {
+            "id": "jlo-nightclub",
+            "label": "Arrested after nightclub shooting with Jennifer Lopez",
+            "date": 1999
+        },
+        {
+            "id": "not-guilty",
+            "label": "Found not guilty on all charges in weapons trial",
+            "date": 2001
+        },
+        {
+            "id": "mtv-making-band",
+            "label": "Launches *Making the Band* reality show on MTV",
+            "date": 2002
+        },
+        {
+            "id": "votes-or-die",
+            "label": "Creates 'Vote or Die!' campaign for youth voting",
+            "date": 2004
+        },
+        {
+            "id": "name-diddy",
+            "label": "Officially changes name to Diddy",
+            "date": 2005
+        },
+        {
+            "id": "ciroc-deal",
+            "label": "Partners with Cîroc Vodka, eventually owns half the brand",
+            "date": 2007
+        },
+        {
+            "id": "beats-rivalry",
+            "label": "Competes with Beats by Dre with his brand 'Diddybeats'",
+            "date": 2009
+        },
+        {
+            "id": "forbes-top",
+            "label": "Tops Forbes' list of highest-paid entertainers",
+            "date": 2017
+        },
+        {
+            "id": "cassie-lawsuit",
+            "label": "Singer Cassie files explosive civil lawsuit against Diddy",
+            "date": 2023
+        },
+        {
+            "id": "lawsuit-settled",
+            "label": "Cassie lawsuit settled within 24 hours",
+            "date": 2023
+        },
+        {
+            "id": "feds-raid",
+            "label": "Federal agents raid Diddy’s homes in LA and Miami",
+            "date": 2024
+        },
+        {
+            "id": "lawsuits-pile",
+            "label": "Multiple sexual assault lawsuits filed against Diddy",
+            "date": 2024
+        },
+        {
+            "id": "silence-public",
+            "label": "Diddy remains largely silent in public amid growing scandal",
+            "date": 2024
+        }
+    ]
+}

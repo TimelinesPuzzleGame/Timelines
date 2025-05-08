@@ -1,4 +1,10 @@
-        [
+{
+  "slug": "paintings",
+  "topic": "Paintings",
+  "category": "Arts",
+  "hideDates": false,
+  "cards":
+       [
             {
                 "id": "venus-of-urbino",
                 "title":"Venus of Urbino",
@@ -86,6 +92,7 @@
               "label": "Number 5"
             }
           ]
+        }
           
       
       

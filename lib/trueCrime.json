@@ -1,0 +1,221 @@
+{
+    "slug": "true-crime",
+    "topic": "True Crime",
+    "category": "History",
+    "cards": [
+      {
+        "id": "1888-jack-the-ripper",
+        "label": "Jack the Ripper murders",
+        "date": 1888
+      },
+      {
+        "id": "1929-valentines-massacre",
+        "label": "St. Valentine’s Day Massacre",
+        "date": 1929
+      },
+      {
+        "id": "1932-lindbergh-kidnapping",
+        "label": "Lindbergh baby kidnapping",
+        "date": 1932
+      },
+      {
+        "id": "1934-bonnie-and-clyde",
+        "label": "Death of Bonnie and Clyde",
+        "date": 1934
+      },
+      { "id": "1947-black-dahlia", "label": "Black Dahlia murder", "date": 1947 },
+      { "id": "1955-emmett-till", "label": "Lynching of Emmett Till", "date": 1955 },
+      {
+        "id": "1963-jfk-assassination",
+        "label": "Assassination of President Kennedy",
+        "date": 1963
+      },
+      {
+        "id": "1969-zodiac-begins",
+        "label": "Zodiac killer’s first confirmed murder",
+        "date": 1969
+      },
+      {
+        "id": "1976-son-of-sam-begins",
+        "label": "Son of Sam murders begin",
+        "date": 1976
+      },
+      {
+        "id": "1978-son-of-sam-arrest",
+        "label": "David Berkowitz (‘Son of Sam’) arrested",
+        "date": 1978
+      },
+      {
+        "id": "1978-jonestown-massacre",
+        "label": "Jonestown mass suicide–murder",
+        "date": 1978
+      },
+      {
+        "id": "1982-tylenol-murders",
+        "label": "Chicago Tylenol poisonings",
+        "date": 1982
+      },
+      {
+        "id": "1989-central-park-jogger",
+        "label": "Central Park jogger assault",
+        "date": 1989
+      },
+      {
+        "id": "1991-jeffrey-dahmer",
+        "label": "Jeffrey Dahmer arrested",
+        "date": 1991
+      },
+      {
+        "id": "1994-menendez-brothers",
+        "label": "Menendez brothers murder parents",
+        "date": 1994
+      },
+      {
+        "id": "1995-oj-simpson-trial",
+        "label": "O. J. Simpson murder trial begins",
+        "date": 1995
+      },
+      {
+        "id": "1996-unabomber-arrest",
+        "label": "Ted Kaczynski (‘Unabomber’) arrested",
+        "date": 1996
+      },
+      {
+        "id": "1996-olympic-park-bombing",
+        "label": "Atlanta Olympic Park bombing",
+        "date": 1996
+      },
+      {
+        "id": "1997-heavens-gate",
+        "label": "Heaven’s Gate cult mass suicide",
+        "date": 1997
+      },
+      {
+        "id": "1999-columbine-massacre",
+        "label": "Columbine High School massacre",
+        "date": 1999
+      },
+      {
+        "id": "2001-911-attacks",
+        "label": "September 11 terrorist attacks",
+        "date": 2001
+      },
+      {
+        "id": "2001-anthrax-attacks",
+        "label": "U.S. anthrax letter attacks",
+        "date": 2001
+      },
+      {
+        "id": "2002-elizabeth-smart-kidnapping",
+        "label": "Elizabeth Smart kidnapped",
+        "date": 2002
+      },
+      { "id": "2002-2003-dc-sniper", "label": "DC sniper shootings", "date": 2002 },
+      {
+        "id": "2003-dc-sniper-arrest",
+        "label": "DC sniper suspects arrested",
+        "date": 2003
+      },
+      {
+        "id": "2004-scott-peterson",
+        "label": "Scott Peterson convicted",
+        "date": 2004
+      },
+      {
+        "id": "2005-andrea-yates",
+        "label": "Andrea Yates drowns her children",
+        "date": 2005
+      },
+      {
+        "id": "2006-btk-arrested",
+        "label": "Dennis Rader (‘BTK Killer’) arrested",
+        "date": 2006
+      },
+      {
+        "id": "2008-casey-anthony-arrest",
+        "label": "Casey Anthony arrested",
+        "date": 2008
+      },
+      {
+        "id": "2009-ariarc-kidnappings-found",
+        "label": "Cleveland captives rescued (Ariel Castro kidnappings)",
+        "date": 2009
+      },
+      {
+        "id": "2011-casey-anthony-trial",
+        "label": "Casey Anthony murder trial",
+        "date": 2011
+      },
+      {
+        "id": "2012-aurora-shooting",
+        "label": "Aurora movie theater shooting",
+        "date": 2012
+      },
+      {
+        "id": "2013-castro-charged",
+        "label": "Ariel Castro indicted for kidnappings",
+        "date": 2013
+      },
+      {
+        "id": "2013-boston-bombing",
+        "label": "Boston Marathon bombing",
+        "date": 2013
+      },
+      {
+        "id": "2015-dylann-roof",
+        "label": "Charleston church shooting by Dylann Roof",
+        "date": 2015
+      },
+      {
+        "id": "2016-el-chapo-recaptured",
+        "label": "‘El Chapo’ Guzmán recaptured by Mexican authorities",
+        "date": 2016
+      },
+      {
+        "id": "2016-pulse-nightclub",
+        "label": "Orlando Pulse nightclub massacre",
+        "date": 2016
+      },
+      {
+        "id": "2017-las-vegas-shooting",
+        "label": "Las Vegas Strip mass shooting",
+        "date": 2017
+      },
+      {
+        "id": "2018-epstein-arrested",
+        "label": "Jeffrey Epstein arrested on sex‐trafficking charges",
+        "date": 2018
+      },
+      {
+        "id": "2018-jayme-closs",
+        "label": "Jayme Closs escapes her kidnapper",
+        "date": 2018
+      },
+      {
+        "id": "2019-weinstein-convicted",
+        "label": "Harvey Weinstein convicted of sexual assault",
+        "date": 2019
+      },
+      { "id": "2020-george-floyd", "label": "Murder of George Floyd", "date": 2020 },
+      {
+        "id": "2021-gabby-petito",
+        "label": "Gabby Petito’s disappearance and murder",
+        "date": 2021
+      },
+      {
+        "id": "2021-capitol-attack",
+        "label": "U.S. Capitol riot on Jan 6",
+        "date": 2021
+      },
+      {
+        "id": "2022-chicago-torture-video",
+        "label": "Viral Chicago torture video",
+        "date": 2022
+      },
+      {
+        "id": "2023-tyre-nichols",
+        "label": "Death of Tyre Nichols in Memphis",
+        "date": 2023
+      }
+    ]
+  }

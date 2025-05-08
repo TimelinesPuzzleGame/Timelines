@@ -1,3 +1,9 @@
+{
+  "slug": "Brazilian-Football",
+  "topic": "Brazil Football",
+  "hideDates": false,
+  "category": "Sports",
+  "cards":
 [
     {
       "id": "wc2002-champions",
@@ -225,4 +231,5 @@
       "date": 2021
     }
   ]
+}
   

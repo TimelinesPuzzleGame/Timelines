@@ -1,0 +1,58 @@
+{
+    "slug": "kingkiller-chronicles",
+    "topic": "The Kingkiller Chronicles",
+    "category": "Entertainment",
+    "hideDates": true,
+    "cards": [
+        {
+            "id": "meets-abenthy",
+            "label": "Kvothe meets Abenthy and learns Sympathy",
+            "date": 1
+        },
+        {
+            "id": "wedding-chandrian",
+            "label": "Kvothe witnesses the Chandrian at his troupe’s wedding",
+            "date": 2
+        },
+        {
+            "id": "university-arrival",
+            "label": "Kvothe arrives at the University",
+            "date": 3
+        },
+        {
+            "id": "first-sympathy",
+            "label": "Kvothe masters his first Sympathy lesson",
+            "date": 4
+        },
+        {
+            "id": "eolian-silver",
+            "label": "Kvothe wins his first silver at the Eolian",
+            "date": 5
+        },
+        {
+            "id": "eolian-pipes",
+            "label": "Kvothe earns a pair of silver talent pipes at the Eolian",
+            "date": 6
+        },
+        {
+            "id": "ambrose-duel",
+            "label": "Kvothe duels Ambrose and is suspended",
+            "date": 7
+        },
+        {
+            "id": "draccus-fight",
+            "label": "Kvothe battles the drugged draccus in Trebon",
+            "date": 8
+        },
+        {
+            "id": "meets-felurian",
+            "label": "Kvothe meets Felurian and enters the Fae realm",
+            "date": 9
+        },
+        {
+            "id": "calls-name",
+            "label": "Kvothe calls the true name of the wind",
+            "date": 10
+        }
+    ]
+}
