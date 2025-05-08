@@ -17,6 +17,7 @@ import livelyBaldoni from "./livelyBaldoni.json" assert { type: "json" };
 import trueCrime from "./trueCrime.json" assert { type: "json" };
 import coldWar from "./coldWar.json" assert { type: "json" };
 import diddyLifeCareer from "./diddyLifeCareer.json" assert { type: "json" };
+import celebrityApologies from "./celebrityApologies.json" assert { type: "json" };
 
 
 export const puzzles: Puzzle[] = [
@@ -38,10 +39,6 @@ export const puzzles: Puzzle[] = [
   trueCrime as Puzzle,
   harryPotter as Puzzle,
   diddyLifeCareer as Puzzle,
-  trueCrime as Puzzle,
-  harryPotter as Puzzle,
-  coldWar as Puzzle,  
-  inventions as Puzzle,
-  paintings as Puzzle,
-  economicEvents as Puzzle
+  celebrityApologies as Puzzle
+
 ];
