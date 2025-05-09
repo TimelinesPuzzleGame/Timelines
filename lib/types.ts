@@ -5,6 +5,10 @@ export type EventCard = {
     title?: string;
     artist?: string;
     image?: string;
+    tooltip?: {
+      description: string;
+      quote: string;
+    }; 
   };
   
   export type Puzzle = {
@@ -13,5 +17,6 @@ export type EventCard = {
     category: "History" | "Arts" | "Entertainment" | "Sports" | "Current Events";
     cards: EventCard[];
     hideDates?: boolean;
+    showTooltips?: boolean;
   };
   

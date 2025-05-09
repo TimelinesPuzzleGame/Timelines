@@ -6,6 +6,8 @@ import { EventCard, puzzles, Puzzle } from "../lib/gameData";
 import { checkPlacement } from "../lib/gameLogic";
 import { motion, AnimatePresence } from "framer-motion";
 
+import { CardTooltip } from '../components/CardTooltip'; 
+
 function shuffleArray<T>(array: T[]): T[] {
   const a = array.slice();
   for (let i = a.length - 1; i > 0; i--) {
@@ -102,7 +104,8 @@ export default function Home() {
       handlePlace(hoveredIndex);
     }
   }
-
+ 
+  
   return (
     <div className="min-h-screen bg-gray-50 p-6 pb-96">
       <h1 className="text-3xl font-bold mb-1">Today's Timeline:</h1>
@@ -147,89 +150,41 @@ export default function Home() {
         </div>
       )}
 
-      <div
-        className="relative w-full mt-20"
-        onDragOver={onTimelineDragOver}
-        onDrop={onTimelineDrop}
-      >
-        <div className="absolute bottom-[8px] left-0 right-0 h-0.5 bg-gray-300 z-0" />
-        {!gameOver && feedback === null && hoveredIndex !== null && (
-          <div
-            className="absolute inset-y-0 bg-green-50 opacity-30 transition-opacity duration-150"
-            style={{
-              left: `${(hoveredIndex * 100) / (timeline.length + 1)}%`,
-              width: `${100 / (timeline.length + 1)}%`,
-              zIndex: 5,
-            }}
+<div
+  className="relative w-full mt-20 h-[240px]"
+  onDragOver={onTimelineDragOver}
+  onDrop={onTimelineDrop}
+>
+  <div className="flex justify-between items-end relative z-10 h-full">
+    {timeline.map((p, i) => {
+      const isLatest = i === lastPlacedIndex;
+      const isAnchor = p.card.id === anchorCardId;
+      const bgClass = isAnchor
+        ? "bg-gray-300 text-black"
+        : p.correct
+        ? "bg-green-100 text-black"
+        : "bg-red-100 text-black";
+
+      return (
+        <div key={p.card.id} className="flex flex-col items-center flex-1 min-w-[100px]">
+          <TimelineCardWithTooltip
+            card={p.card}
+            isLatest={isLatest}
+            isAnchor={isAnchor}
+            bgClass={bgClass}
+            hideDates={hideDates}
+            showTooltip={puzzle.showTooltips ?? false}
           />
-        )}
-
-        <div className="flex justify-between items-end relative z-10">
-          {timeline.map((p, i) => {
-            const isLatest = i === lastPlacedIndex;
-            const isAnchor = p.card.id === anchorCardId;
-            const bgClass = isAnchor
-              ? "bg-gray-300 text-black"
-              : p.correct
-              ? "bg-green-100 text-black"
-              : "bg-red-100 text-black";
-
-            return (
-              <div
-                key={p.card.id}
-                className="flex flex-col items-center flex-1 min-w-[100px]"
-              >
-                <AnimatePresence>
-                  <motion.div
-                    className="timeline-slot"
-                    initial={isLatest ? { scale: 0.5 } : false}
-                    animate={isLatest ? { scale: [0.5, 1.1, 1] } : false}
-                    transition={
-                      isLatest ? { duration: 0.3, ease: "easeOut" } : undefined
-                    }
-                  >
-                    <div
-                      className={`w-32 px-3 py-2 bg-gray-100 shadow rounded text-center text-sm text-black ${bgClass}`}
-                    >
-                      {p.card.image ? (
-                        <>
-                          <div className="text-sm font-semibold">
-                            {p.card.title}
-                          </div>
-                          {p.card.artist && (
-                            <div className="text-xs italic">
-                              {p.card.artist}
-                            </div>
-                          )}
-                          <img
-                            src={p.card.image}
-                            alt={p.card.title}
-                            className="max-h-32 object-contain mx-auto my-1"
-                          />
-                          {!hideDates && (
-                            <div className="font-bold">{p.card.date}</div>
-                          )}
-                        </>
-                      ) : (
-                        <>
-                          <p className="italic text-sm whitespace-pre-wrap break-words text-center">
-                            {p.card.label}
-                          </p>
-                          {!hideDates && (
-                            <p className="font-bold text-4xl">{p.card.date}</p>
-                          )}
-                        </>
-                      )}
-                    </div>
-                  </motion.div>
-                </AnimatePresence>
-                <div className="h-14 w-0.5 bg-gray-600" />
-                <div className="w-4 h-4 bg-gray-700 rounded-full -mt-2" />
-              </div>
-            );
-          })}
+          <div className="h-14 w-0.5 bg-gray-600" />
+          <div className="w-4 h-4 bg-gray-700 rounded-full -mt-2" />
         </div>
-      </div>
+      );
+    })}
+  </div>
+
+  {/* Timeline line correctly anchored at bottom of the visible card container */}
+  <div className="absolute bottom-[6px] left-0 right-0 h-0.5 bg-gray-300 z-[1]" />
+</div>
 
       {!gameOver && feedback !== null && (
         <div className="mt-6 flex justify-center">
@@ -303,5 +258,75 @@ export default function Home() {
         </a>
       </div>
     </div>
+    
   );
 }
+
+function TimelineCardWithTooltip({
+    card,
+    isLatest,
+    isAnchor,
+    hideDates,
+    showTooltip,
+    bgClass,
+  }: {
+    card: EventCard;
+    isLatest: boolean;
+    isAnchor: boolean;
+    hideDates: boolean;
+    showTooltip: boolean;
+    bgClass: string;
+  }) {
+    const [hovered, setHovered] = React.useState(false);
+    const hasTooltip = showTooltip && card.tooltip;
+  
+    return (
+      <AnimatePresence>
+        <motion.div
+          className="timeline-slot relative"
+          initial={isLatest ? { scale: 0.5 } : false}
+          animate={isLatest ? { scale: [0.5, 1.1, 1] } : false}
+          transition={isLatest ? { duration: 0.3, ease: "easeOut" } : undefined}
+          onMouseEnter={() => setHovered(true)}
+          onMouseLeave={() => setHovered(false)}
+        >
+          <div
+            className={`w-32 px-3 py-2 bg-gray-100 shadow rounded text-center text-sm text-black ${bgClass}`}
+          >
+            {card.image ? (
+              <>
+                <div className="text-sm font-semibold">{card.title}</div>
+                {card.artist && <div className="text-xs italic">{card.artist}</div>}
+                <img
+                  src={card.image}
+                  alt={card.title}
+                  className="max-h-32 object-contain mx-auto my-1"
+                />
+                {!hideDates && <div className="font-bold">{card.date}</div>}
+              </>
+            ) : (
+              <>
+                <p className="italic text-sm whitespace-pre-wrap break-words text-center">
+                  {card.label}
+                </p>
+                {!hideDates && (
+                  <p className="font-bold text-4xl">{card.date}</p>
+                )}
+              </>
+            )}
+            {hasTooltip && (
+              <span className="ml-1 text-gray-400 cursor-pointer">ⓘ</span>
+            )}
+          </div>
+          {hasTooltip && hovered && (
+            <div className="absolute top-full left-1/2 -translate-x-1/2 mt-2 w-72 p-4 bg-white text-sm text-gray-800 rounded-lg shadow-lg z-50">
+              <p className="mb-2">{card.tooltip!.description}</p>
+              <blockquote className="italic text-gray-600 border-l-2 border-gray-300 pl-2">
+                “{card.tooltip!.quote}”
+              </blockquote>
+            </div>
+          )}
+        </motion.div>
+      </AnimatePresence>
+    );
+  }
