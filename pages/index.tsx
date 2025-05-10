@@ -32,6 +32,8 @@ export default function Home() {
   const [feedback, setFeedback] = useState<boolean | null>(null);
   const [hoveredIndex, setHoveredIndex] = useState<number | null>(null);
   const [lastPlacedIndex, setLastPlacedIndex] = useState<number>(0);
+  const [hovered, setHovered] = useState(false); // for draggable tooltip
+
 
   useEffect(() => {
     const shuffled = shuffleArray(masterCards);
@@ -113,40 +115,56 @@ export default function Home() {
 
       {!gameOver && currentCard && (
         <div className="mb-36 flex flex-col items-center">
-          <div
-            draggable
-            onDragStart={onDragStart}
-            className="relative inline-block"
-          >
-            <div
-              className={`${
-                currentCard.image ? "w-96" : "w-32"
-              } px-3 py-2 bg-gray-100 shadow rounded text-center text-base text-black cursor-move`}
-            >
-              {!currentCard.image ? (
-                <div className="text-sm font-semibold whitespace-pre-wrap">
-                  {currentCard.label}
-                </div>
-              ) : (
-                <img
-                  src={currentCard.image}
-                  alt={currentCard.title}
-                  className="h-96 object-contain mx-auto"
-                />
-              )}
-            </div>
-            <div
-              className="absolute text-lg italic text-gray-600 whitespace-nowrap"
-              style={{
-                left: "50%",
-                transform: "translateX(-50%)",
-                top: "100%",
-                marginTop: "0.5rem",
-              }}
-            >
-              (Drag to timeline)
-            </div>
-          </div>
+         <div
+  draggable
+  onDragStart={onDragStart}
+  className="relative inline-block"
+>
+  <div
+    className={`${
+      currentCard.image ? "w-96" : "w-32"
+    } px-3 py-2 bg-gray-100 shadow rounded text-center text-base text-black cursor-move relative`}
+    onMouseEnter={() => setHovered(true)}
+    onMouseLeave={() => setHovered(false)}
+  >
+    {!currentCard.image ? (
+      <div className="text-sm font-semibold whitespace-pre-wrap">
+        {currentCard.label}
+      </div>
+    ) : (
+      <img
+        src={currentCard.image}
+        alt={currentCard.title}
+        className="h-96 object-contain mx-auto"
+      />
+    )}
+    {puzzle.showTooltips && currentCard.tooltip && (
+      <span className="ml-1 text-gray-400 cursor-pointer">ⓘ</span>
+    )}
+   {puzzle.showTooltips && currentCard.tooltip && hovered && (
+  <div className="absolute left-full top-0 ml-4 w-72 p-4 bg-white text-sm text-gray-800 rounded-lg shadow-lg z-50">
+    <p className="mb-2">{currentCard.tooltip.description}</p>
+    <blockquote className="italic text-gray-600 border-l-2 border-gray-300 pl-2">
+      “{currentCard.tooltip.quote}”
+    </blockquote>
+  </div>
+)}
+
+  </div>
+
+  <div
+    className="absolute text-lg italic text-gray-600 whitespace-nowrap"
+    style={{
+      left: "50%",
+      transform: "translateX(-50%)",
+      top: "100%",
+      marginTop: "0.5rem",
+    }}
+  >
+    (Drag to timeline)
+  </div>
+</div>
+
         </div>
       )}
 

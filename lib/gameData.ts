@@ -19,6 +19,8 @@ import coldWar from "./coldWar.json" assert { type: "json" };
 import diddyLifeCareer from "./diddyLifeCareer.json" assert { type: "json" };
 import celebrityApologies from "./celebrityApologies.json" assert { type: "json" };
 import moralPanics from "./moral-panics.json";
+import rapDissTracks from "./rapDissTracks.json" assert { type: "json" };
+import hitSongsMusic from "./hitSongsMusic.json"; 
 
 
 export const puzzles: Puzzle[] = [
@@ -41,5 +43,7 @@ export const puzzles: Puzzle[] = [
   harryPotter as Puzzle,
   diddyLifeCareer as Puzzle,
   celebrityApologies as Puzzle,
-  moralPanics as Puzzle
+  moralPanics as Puzzle,
+  rapDissTracks as Puzzle,
+  hitSongsMusic as Puzzle
 ];

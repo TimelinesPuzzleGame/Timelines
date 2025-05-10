@@ -1,0 +1,91 @@
+{
+    "slug": "rap-diss-tracks",
+    "topic": "Coldest Rap Diss Tracks o.a.t.",
+    "category": "Entertainment",
+    "showTooltips": true,
+    "cards": [
+      {
+        "id": "hit-em-up",
+        "label": "\"Hit 'Em Up\" – 2Pac disses Biggie",
+        "date": 1996,
+        "tooltip": {
+          "quote": "That's why I f***ed your b****, you fat motherf***er. First off, f*** your b**** and the clique you claim, Westside when we ride, come equipped with game."
+        }
+      },
+     {
+      "id": "without-me",
+      "label": "\"Without Me\" – Eminem disses Moby",
+      "date": 2002,
+      "tooltip": { 
+        "quote": "You 36-year-old bald-headed f***, blow me / You don't know me, you're too old / Let go, it's over, nobody listens to techno. Now let's go, just give me the signal / I'll be there with a whole"
+      }
+    },
+      {
+        "id": "ether",
+        "label": "\"Ether\" – Nas disses Jay-Z",
+        "date": 2001,
+        "tooltip": {
+          "quote": "When these streets keep calling, heard it when I was sleep / That this Gay-Z and Cockafella Records wanted beef. Y’all n***** deal with emotions like bitches / What’s sad is I love you ‘cause you’re my brother, you traded your soul for riches."
+        }
+      },
+      {
+        "id": "story-of-adidon",
+        "label": "\"The Story of Adidon\" – Pusha T disses Drake",
+        "date": 2018,
+        "tooltip": {
+         "quote": "You are hiding a child, let that boy come home / Deadbeat motherf***er playin’ border patrol. Adonis is your son / And he deserves more than an Adidas press run, that’s real."
+
+        }
+      },
+      {
+        "id": "no-vaseline",
+        "label": "\"No Vaseline\" – Ice Cube disses N.W.A",
+        "date": 1991,
+        "tooltip": {
+       "quote": "Lookin' like straight Bozos / I saw it comin', that's why I went solo / And kept on stompin' / While y'all motherf***ers moved straight outta Compton. Used to be hard now you're just wet and soft."
+ }
+      },
+      {
+        "id": "back-to-back",
+        "label": "\"Back to Back\" – Drake disses Meek Mill",
+        "date": 2015,
+        "tooltip": {
+         "quote": "Trigger fingers turn to Twitter fingers / You gettin' bodied by a singin' n**** / I'm not the type of n**** that'll type to n***** / And shout to all my boss bitches wifin' n*****."
+
+        }
+      },
+      {
+        "id": "second-round-ko",
+        "label": "\"Second Round K.O.\" – Canibus disses LL Cool J",
+        "date": 1998,
+        "tooltip": {
+          "quote": "You walk around showin' off your body 'cause it sells."
+        }
+      },
+      {
+        "id": "lost-ones",
+        "label": "\"Lost Ones\" – Lauryn Hill disses Wyclef Jean",
+        "date": 1998,
+        "tooltip": {
+          "quote": "You might win some but you just lost one / Now don’t you understand man universal law? / What you throw out comes back to you, star."
+        }
+      },  
+      {
+        "id": "the-bitch-in-yoo",
+        "label": "\"The B**** in Yoo\" – Common disses Ice Cube",
+        "date": 1996,
+        "tooltip": {
+          "quote": "You ain't made nothin' dope since AmeriKKKa's Most."
+        }
+      },
+      {
+        "id": "dre-day",
+        "label": "\"Dre Day\" – Snoop Dogg & Dr. Dre diss Eazy-E",
+        "date": 1992,
+        "tooltip": {
+            "quote": "Mista Busta, where the f*** you at?\\nCan't scrap a lick, so I know you got your gat\\nYour d*** on hard from f***in' your road dogs\\nThe hoods you threw up with, n***** you grew up with\\nDon't even respect your ass\\nThat's why it's time for the doctor to check your ass, n****\\nUsed to be my homie, used to be my ace\\nNow I wanna slap the taste out your mouth\\nMake you bow down to the Row\\nF***in' me, now I'm f***in' you, little hoe\\nOh, don't think I forgot, let you slide\\nLet me ride, just another homicide\\nYeah, it's me so I'ma talk on\\nStomping on the easiest streets that you can walk on\\nSo strap on your Compton hat, your locs\\nAnd watch your back 'cause you might get smoked, loc\\nAnd pass the bud, and stay low-key\\nB.G. 'cause you lost all your homie's love\\nNow call it what you want to\\nYou f***ed with me, now it's a must that I f*** with you"
+          }
+      }
+    ]
+  }
+  
