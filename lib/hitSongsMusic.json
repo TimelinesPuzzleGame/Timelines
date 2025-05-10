@@ -6,16 +6,6 @@
     "cards":
   [
 {
-  "id": "1975-bohemian-rhapsody",
-  "label": "Bohemian Rhapsody – Queen",
-  "date": 1975,
-  "spotify": {
-    "trackId": "6l8GvAyoUZwWDgF1e4822w",
-    "preview": null,
-    "url": "https://open.spotify.com/track/6l8GvAyoUZwWDgF1e4822w"
-  }
-},
-{
     "id": "1975-bohemian-rhapsody-queen",
     "label": "Bohemian Rhapsody – Queen",
     "date": 1975,

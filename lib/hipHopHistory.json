@@ -1,0 +1,498 @@
+{
+  "slug": "hip-hop-history",
+  "topic": "Hip-Hop History in 50 Songs",
+  "category": "Entertainment",
+  "showTooltips": false,
+  "cards": [
+    {
+      "id": "1979-rapper-s-delight-the-sugarhill-gang",
+      "label": "Rapper's Delight – The Sugarhill Gang",
+      "date": 1979,
+      "deezer": {
+        "trackId": 2594514302,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/a/f/0/1afe0afe4733d9cc9b029888b87b3bd5.mp3?hdnea=exp=1746859539~acl=/api/1/1/1/a/f/0/1afe0afe4733d9cc9b029888b87b3bd5.mp3*~data=user_id=0,application_id=42~hmac=64934b0cd590ece40c6fa228f539fbb80f4bce59387b6de3c2ef8a301a7a84a6",
+        "url": "https://www.deezer.com/track/2594514302"
+      }
+    },
+    {
+      "id": "1980-the-breaks-kurtis-blow",
+      "label": "The Breaks – Kurtis Blow",
+      "date": 1980,
+      "deezer": {
+        "trackId": 1580525,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/a/9/0/8a9c4315b7d5f2b07e49528f73f2e9f5.mp3?hdnea=exp=1746859539~acl=/api/1/1/8/a/9/0/8a9c4315b7d5f2b07e49528f73f2e9f5.mp3*~data=user_id=0,application_id=42~hmac=0159877b4c249d9bfc9a0e9e5eb8a0078731fe316566ac6c4323f5669da1f473",
+        "url": "https://www.deezer.com/track/1580525"
+      }
+    },
+    {
+      "id": "1982-planet-rock-afrika-bambaataa",
+      "label": "Planet Rock – Afrika Bambaataa",
+      "date": 1982,
+      "deezer": {
+        "trackId": 1587016002,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/f/7/0/4f7d73626d580a42920ea00591181d82.mp3?hdnea=exp=1746859539~acl=/api/1/1/4/f/7/0/4f7d73626d580a42920ea00591181d82.mp3*~data=user_id=0,application_id=42~hmac=6b1631ac937c8a5ad1db6f1a7604913945797405fc4f45869cd28a3e8616a0ae",
+        "url": "https://www.deezer.com/track/1587016002"
+      }
+    },
+    {
+      "id": "1983-it-s-like-that-run-d-m-c-",
+      "label": "It's Like That – Run-D.M.C.",
+      "date": 1983,
+      "deezer": {
+        "trackId": 2490954011,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/b/a/0/5bad601874af5b939d552f707f31fc93.mp3?hdnea=exp=1746859540~acl=/api/1/1/5/b/a/0/5bad601874af5b939d552f707f31fc93.mp3*~data=user_id=0,application_id=42~hmac=540aa72ae6851f84baefc068cc16233312e7e258acbcbb0d51d2e818c26627cb",
+        "url": "https://www.deezer.com/track/2490954011"
+      }
+    },
+    {
+      "id": "1984-rock-box-run-d-m-c-",
+      "label": "Rock Box – Run-D.M.C.",
+      "date": 1984,
+      "deezer": {
+        "trackId": 2242425,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/6/7/0/c67481a58287ad6e33148922a924b421.mp3?hdnea=exp=1746859540~acl=/api/1/1/c/6/7/0/c67481a58287ad6e33148922a924b421.mp3*~data=user_id=0,application_id=42~hmac=d95d8fa911b874616f002052489926de60523ddbfd10436dbdf9cb29af77b7e5",
+        "url": "https://www.deezer.com/track/2242425"
+      }
+    },
+    {
+      "id": "1985-la-di-da-di-slick-rick-doug-e-fresh",
+      "label": "La Di Da Di – Slick Rick & Doug E. Fresh",
+      "date": 1985,
+      "deezer": {
+        "trackId": 2654690442,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/1/9/0/719451a323872bd7bdff20075374e47c.mp3?hdnea=exp=1746859541~acl=/api/1/1/7/1/9/0/719451a323872bd7bdff20075374e47c.mp3*~data=user_id=0,application_id=42~hmac=7f062d4635cdeb6559b05812901ae5995f2111a210ef9c98310ac3ee53f05afb",
+        "url": "https://www.deezer.com/track/2654690442"
+      }
+    },
+    {
+      "id": "1986-eric-b-is-president-eric-b-rakim",
+      "label": "Eric B. Is President – Eric B. & Rakim",
+      "date": 1986,
+      "deezer": {
+        "trackId": 63477634,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/b/8/0/ab835c206aa9b61c9984a05540267a01.mp3?hdnea=exp=1746859541~acl=/api/1/1/a/b/8/0/ab835c206aa9b61c9984a05540267a01.mp3*~data=user_id=0,application_id=42~hmac=736ea2efdb4773bcd3c5b15d2f83360fa6a369e8d3e87be5c3b6f770d470a9dd",
+        "url": "https://www.deezer.com/track/63477634"
+      }
+    },
+    {
+      "id": "1986-paul-revere-beastie-boys",
+      "label": "Paul Revere – Beastie Boys",
+      "date": 1986,
+      "deezer": {
+        "trackId": 1085500,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/d/a/0/ada41cea55b1876398e3b197ce0f7bea.mp3?hdnea=exp=1746859541~acl=/api/1/1/a/d/a/0/ada41cea55b1876398e3b197ce0f7bea.mp3*~data=user_id=0,application_id=42~hmac=3c5e1190d403a1413db7d970bcd11ea5f61a37d1d4858356706d6d027535b99a",
+        "url": "https://www.deezer.com/track/1085500"
+      }
+    },
+    {
+      "id": "1987-push-it-salt-n-pepa",
+      "label": "Push It – Salt-N-Pepa",
+      "date": 1987,
+      "deezer": {
+        "trackId": 4812724,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/2/2/0/0224d0c539f9b759d247b55a3d29a246.mp3?hdnea=exp=1746859542~acl=/api/1/1/0/2/2/0/0224d0c539f9b759d247b55a3d29a246.mp3*~data=user_id=0,application_id=42~hmac=d9570d1104a9e85a71df12bc3a3e1fcf0f1781f33fbc6b29b48ded1764496a61",
+        "url": "https://www.deezer.com/track/4812724"
+      }
+    },
+    {
+      "id": "1988-my-philosophy-boogie-down-productions",
+      "label": "My Philosophy – Boogie Down Productions",
+      "date": 1988,
+      "deezer": {
+        "trackId": 75785642,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/d/a/0/5daf4f3603f1b2b924148c634531197e.mp3?hdnea=exp=1746859542~acl=/api/1/1/5/d/a/0/5daf4f3603f1b2b924148c634531197e.mp3*~data=user_id=0,application_id=42~hmac=d18eb06e35440cac4fa1b98e941f8f53a1a2c161c0579171a1e06093a2b56d0e",
+        "url": "https://www.deezer.com/track/75785642"
+      }
+    },
+    {
+      "id": "1990-fight-the-power-public-enemy",
+      "label": "Fight The Power – Public Enemy",
+      "date": 1990,
+      "deezer": {
+        "trackId": 2120901,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/7/9/0/8792a21c27f60ebf18e1f51420f1e561.mp3?hdnea=exp=1746859542~acl=/api/1/1/8/7/9/0/8792a21c27f60ebf18e1f51420f1e561.mp3*~data=user_id=0,application_id=42~hmac=225ed53a5d29432c837daa41323fbea86a2652eac59f3680718d3544a50b7c02",
+        "url": "https://www.deezer.com/track/2120901"
+      }
+    },
+    {
+      "id": "1991-check-the-rhime-a-tribe-called-quest",
+      "label": "Check the Rhime – A Tribe Called Quest",
+      "date": 1991,
+      "deezer": {
+        "trackId": 14881320,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/1/5/0/415a69e6469d006d728c1631c68efa0c.mp3?hdnea=exp=1746859543~acl=/api/1/1/4/1/5/0/415a69e6469d006d728c1631c68efa0c.mp3*~data=user_id=0,application_id=42~hmac=3fb2ee19b6f77e0f05d951f62346f9c766c7d9cd5ec6cb6704b0db6ee3f0b227",
+        "url": "https://www.deezer.com/track/14881320"
+      }
+    },
+    {
+      "id": "1992-nuthin-but-a-g-thang-dr-dre",
+      "label": "Nuthin' But a 'G' Thang – Dr. Dre",
+      "date": 1992,
+      "deezer": {
+        "trackId": 2132919007,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/b/e/0/8be7509f231eb8a3716f231b6b5c1603.mp3?hdnea=exp=1746859543~acl=/api/1/1/8/b/e/0/8be7509f231eb8a3716f231b6b5c1603.mp3*~data=user_id=0,application_id=42~hmac=88134f15142647a8b601b2eae09faf32e5fc5be4c8324905dc7201055b09fdb4",
+        "url": "https://www.deezer.com/track/2132919007"
+      }
+    },
+    {
+      "id": "1993-c-r-e-a-m-wu-tang-clan",
+      "label": "C.R.E.A.M. – Wu-Tang Clan",
+      "date": 1993,
+      "deezer": {
+        "trackId": 541322,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/e/5/0/2e5556957eb4b531a9a148013c803a64.mp3?hdnea=exp=1746859543~acl=/api/1/1/2/e/5/0/2e5556957eb4b531a9a148013c803a64.mp3*~data=user_id=0,application_id=42~hmac=9600168890890ba483cff55aa9ac49358c98379d10eafceae129699862662db6",
+        "url": "https://www.deezer.com/track/541322"
+      }
+    },
+    {
+      "id": "1994-juicy-the-notorious-b-i-g-",
+      "label": "Juicy – The Notorious B.I.G.",
+      "date": 1994,
+      "deezer": {
+        "trackId": 2793753,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/b/d/0/fbdf7aac76a870170917c53bc49bb40b.mp3?hdnea=exp=1746859544~acl=/api/1/1/f/b/d/0/fbdf7aac76a870170917c53bc49bb40b.mp3*~data=user_id=0,application_id=42~hmac=e869d2ca5be0f17dc8a536185a94abca5e18e2f138867554c5e637acee6ba04c",
+        "url": "https://www.deezer.com/track/2793753"
+      }
+    },
+    {
+      "id": "1995-shook-ones-pt-ii-mobb-deep",
+      "label": "Shook Ones Pt. II – Mobb Deep",
+      "date": 1995,
+      "deezer": {
+        "trackId": 1044157,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/a/5/0/4a5d95e7ea77cdec7aa9873de2792e8f.mp3?hdnea=exp=1746859544~acl=/api/1/1/4/a/5/0/4a5d95e7ea77cdec7aa9873de2792e8f.mp3*~data=user_id=0,application_id=42~hmac=1e0b7cbe08321bfdfe2b76c793b656aad3597b6dff680c4f80bf636523e53a3d",
+        "url": "https://www.deezer.com/track/1044157"
+      }
+    },
+    {
+      "id": "1995-california-love-2pac-dr-dre",
+      "label": "California Love – 2Pac & Dr. Dre",
+      "date": 1995,
+      "deezer": {
+        "trackId": 87960517,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/9/0/0/19076e85f658db2eaea4789c95a1655a.mp3?hdnea=exp=1746859544~acl=/api/1/1/1/9/0/0/19076e85f658db2eaea4789c95a1655a.mp3*~data=user_id=0,application_id=42~hmac=8eed82068dde5549e49ff72289b554763fa38efa5ac5b41c13c28bde4a8ed53b",
+        "url": "https://www.deezer.com/track/87960517"
+      }
+    },
+    {
+      "id": "1995-put-it-on-big-l",
+      "label": "Put It On – Big L",
+      "date": 1995,
+      "deezer": {
+        "trackId": 70580071,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/2/9/0/9298c5d180a47370f67aa907ad1b136d.mp3?hdnea=exp=1746859545~acl=/api/1/1/9/2/9/0/9298c5d180a47370f67aa907ad1b136d.mp3*~data=user_id=0,application_id=42~hmac=2697070392d344bb767f238629709966bfb880431650cd7bb1c0df3d9f63f734",
+        "url": "https://www.deezer.com/track/70580071"
+      }
+    },
+    {
+      "id": "1997-the-rain-supa-dupa-fly-missy-elliott",
+      "label": "The Rain (Supa Dupa Fly) – Missy Elliott",
+      "date": 1997,
+      "deezer": {
+        "trackId": 2803643,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/e/3/0/2e3857d73fc4868d819cc5716f3e2f49.mp3?hdnea=exp=1746859545~acl=/api/1/1/2/e/3/0/2e3857d73fc4868d819cc5716f3e2f49.mp3*~data=user_id=0,application_id=42~hmac=f0d2afe98cafe1467ffb8693f265ad60e6dd714dbaacfc1e3f99fc0a57973e80",
+        "url": "https://www.deezer.com/track/2803643"
+      }
+    },
+    {
+      "id": "1998-hard-knock-life-jay-z",
+      "label": "Hard Knock Life – Jay-Z",
+      "date": 1998,
+      "deezer": {
+        "trackId": 377242021,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/c/6/0/2c60b272d4c06e0e84532c99a19aaf38.mp3?hdnea=exp=1746859546~acl=/api/1/1/2/c/6/0/2c60b272d4c06e0e84532c99a19aaf38.mp3*~data=user_id=0,application_id=42~hmac=995bf94ede57f978f6772bc30a496449a65e4a8b85386050ac02513aac7e283d",
+        "url": "https://www.deezer.com/track/377242021"
+      }
+    },
+    {
+      "id": "1999-my-name-is-eminem",
+      "label": "My Name Is – Eminem",
+      "date": 1999,
+      "deezer": {
+        "trackId": 1109729,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/d/c/0/bdc51623d58600791c11720906bac5b3.mp3?hdnea=exp=1746859546~acl=/api/1/1/b/d/c/0/bdc51623d58600791c11720906bac5b3.mp3*~data=user_id=0,application_id=42~hmac=25b53235965011b700ec0c137723b1778764fb8093fa956429cc393f68d18437",
+        "url": "https://www.deezer.com/track/1109729"
+      }
+    },
+    {
+      "id": "2000-ms-jackson-outkast",
+      "label": "Ms. Jackson – Outkast",
+      "date": 2000,
+      "deezer": {
+        "trackId": 963042,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/8/1/0/e81cf633d05ce15ce038684f06edf032.mp3?hdnea=exp=1746859546~acl=/api/1/1/e/8/1/0/e81cf633d05ce15ce038684f06edf032.mp3*~data=user_id=0,application_id=42~hmac=650d8d31532079e2eac6f5c7014cb959d3a3d33764aab3d6a69ca422b1d23c0d",
+        "url": "https://www.deezer.com/track/963042"
+      }
+    },
+    {
+      "id": "2000-forgot-about-dre-dr-dre-ft-eminem",
+      "label": "Forgot About Dre – Dr. Dre ft. Eminem",
+      "date": 2000,
+      "deezer": {
+        "trackId": 128743593,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/8/6/0/386934fb234fcbad988e0d49da77c597.mp3?hdnea=exp=1746859546~acl=/api/1/1/3/8/6/0/386934fb234fcbad988e0d49da77c597.mp3*~data=user_id=0,application_id=42~hmac=159d3359e87e61a198ae57537570f09e38930143897ce54c3ff175c8a486ca1e",
+        "url": "https://www.deezer.com/track/128743593"
+      }
+    },
+    {
+      "id": "2000-stan-eminem",
+      "label": "Stan – Eminem",
+      "date": 2000,
+      "deezer": {
+        "trackId": 1109730,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/1/2/0/b12a45a11b396586adf4b124aaa192bc.mp3?hdnea=exp=1746859547~acl=/api/1/1/b/1/2/0/b12a45a11b396586adf4b124aaa192bc.mp3*~data=user_id=0,application_id=42~hmac=26f9a6da37c23cb5cde4b6700f3d3fc2b0fe3d89a6b25062b1594c4a507cf07a",
+        "url": "https://www.deezer.com/track/1109730"
+      }
+    },
+    {
+      "id": "2002-hot-in-herre-nelly",
+      "label": "Hot in Herre – Nelly",
+      "date": 2002,
+      "deezer": {
+        "trackId": 2447436,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/0/d/0/d0d9d55037e52c4b8e25b3c37582ed11.mp3?hdnea=exp=1746859547~acl=/api/1/1/d/0/d/0/d0d9d55037e52c4b8e25b3c37582ed11.mp3*~data=user_id=0,application_id=42~hmac=c8f861c40f53321e53a94cacc9596f2eaebd5c8086991da35407689e19d882d2",
+        "url": "https://www.deezer.com/track/2447436"
+      }
+    },
+    {
+      "id": "2002-grindin-clipse",
+      "label": "Grindin' – Clipse",
+      "date": 2002,
+      "deezer": {
+        "trackId": 71728683,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/4/3/0/8432b76559be1569da9a48dc2dc20f62.mp3?hdnea=exp=1746859547~acl=/api/1/1/8/4/3/0/8432b76559be1569da9a48dc2dc20f62.mp3*~data=user_id=0,application_id=42~hmac=318a4c539384612e1e8263702a06c9bf1b76a0deaa67586484d7050b724d03ef",
+        "url": "https://www.deezer.com/track/71728683"
+      }
+    },
+    {
+      "id": "2003-through-the-wire-kanye-west",
+      "label": "Through the Wire – Kanye West",
+      "date": 2003,
+      "deezer": {
+        "trackId": 528869611,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/0/6/0/c06e42a582976ecf4db34cf5dd251c43.mp3?hdnea=exp=1746859548~acl=/api/1/1/c/0/6/0/c06e42a582976ecf4db34cf5dd251c43.mp3*~data=user_id=0,application_id=42~hmac=73ec822cd06f24296554fc406680d26a2698a04d3d265e2029f47051e33addd3",
+        "url": "https://www.deezer.com/track/528869611"
+      }
+    },
+    {
+      "id": "2004-drop-it-like-it-s-hot-snoop-dogg",
+      "label": "Drop It Like It's Hot – Snoop Dogg",
+      "date": 2004,
+      "deezer": {
+        "trackId": 429125352,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/0/6/0/9063b6e44653f56206f10726f20853ba.mp3?hdnea=exp=1746859548~acl=/api/1/1/9/0/6/0/9063b6e44653f56206f10726f20853ba.mp3*~data=user_id=0,application_id=42~hmac=933c302aa587f8e22efd3d811d295a7aff58b70b8079ff3ad5ed47d097db014c",
+        "url": "https://www.deezer.com/track/429125352"
+      }
+    },
+    {
+      "id": "2005-hate-it-or-love-it-the-game",
+      "label": "Hate It or Love It – The Game",
+      "date": 2005,
+      "deezer": {
+        "trackId": 4586924,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/5/1/0/151590e64be3cde7abe60dcd3024b5df.mp3?hdnea=exp=1746859548~acl=/api/1/1/1/5/1/0/151590e64be3cde7abe60dcd3024b5df.mp3*~data=user_id=0,application_id=42~hmac=e13ad71801c0ecd71474a05598fa69fcf1b613f2ac25b5ccbe4d10fd6997562b",
+        "url": "https://www.deezer.com/track/4586924"
+      }
+    },
+    {
+      "id": "2005-gold-digger-kanye-west",
+      "label": "Gold Digger – Kanye West",
+      "date": 2005,
+      "deezer": {
+        "trackId": 1184309,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/2/5/0/525c0a401d49612f4ceb35367c52ccb3.mp3?hdnea=exp=1746859549~acl=/api/1/1/5/2/5/0/525c0a401d49612f4ceb35367c52ccb3.mp3*~data=user_id=0,application_id=42~hmac=e6c9765c06636d3916ad8c6d4724ceeb4da7077818f91d0000a1440b2f0d76a4",
+        "url": "https://www.deezer.com/track/1184309"
+      }
+    },
+    {
+      "id": "2006-hustlin-rick-ross",
+      "label": "Hustlin' – Rick Ross",
+      "date": 2006,
+      "deezer": {
+        "trackId": 1162527,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/5/1/0/85141c1088d0208c21b49cc79b6b7d6a.mp3?hdnea=exp=1746859549~acl=/api/1/1/8/5/1/0/85141c1088d0208c21b49cc79b6b7d6a.mp3*~data=user_id=0,application_id=42~hmac=bf8eecbf8c9cddbd3252120a2f8cfb52311b2c5ac4498feee9227afa5cfaee4c",
+        "url": "https://www.deezer.com/track/1162527"
+      }
+    },
+    {
+      "id": "2007-crank-that-soulja-boy",
+      "label": "Crank That – Soulja Boy",
+      "date": 2007,
+      "deezer": {
+        "trackId": 909969,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/8/7/0/187625a96cc04ba1a0046148cb7f5ee6.mp3?hdnea=exp=1746859549~acl=/api/1/1/1/8/7/0/187625a96cc04ba1a0046148cb7f5ee6.mp3*~data=user_id=0,application_id=42~hmac=4596262bdb382350f38d312ef8f003e3094281ccd1b27501325a14a828a822ef",
+        "url": "https://www.deezer.com/track/909969"
+      }
+    },
+    {
+      "id": "2008-a-milli-lil-wayne",
+      "label": "A Milli – Lil Wayne",
+      "date": 2008,
+      "deezer": {
+        "trackId": 2124739,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/4/5/0/045958cf9feb7515ef707b6dadb9a913.mp3?hdnea=exp=1746859550~acl=/api/1/1/0/4/5/0/045958cf9feb7515ef707b6dadb9a913.mp3*~data=user_id=0,application_id=42~hmac=5934f219143e47d5b8cd6987e0dff0f48cfc7db2ea2f4f214d915d7cbeced94b",
+        "url": "https://www.deezer.com/track/2124739"
+      }
+    },
+    {
+      "id": "2008-day-n-nite-kid-cudi",
+      "label": "Day 'n' Nite – Kid Cudi",
+      "date": 2008,
+      "deezer": {
+        "trackId": 7371872,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/1/b/0/91ba03ed956ccf12e4a0b5a6bb0c8e17.mp3?hdnea=exp=1746859550~acl=/api/1/1/9/1/b/0/91ba03ed956ccf12e4a0b5a6bb0c8e17.mp3*~data=user_id=0,application_id=42~hmac=319579d16d906b659a985bee8c6fcbc501fbdf1d840d0cfb4aecbf0234e9fe03",
+        "url": "https://www.deezer.com/track/7371872"
+      }
+    },
+    {
+      "id": "2010-power-kanye-west",
+      "label": "Power – Kanye West",
+      "date": 2010,
+      "deezer": {
+        "trackId": 7667059,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/a/a/0/4aa5d2dce95b43b74605ad529180483a.mp3?hdnea=exp=1746859551~acl=/api/1/1/4/a/a/0/4aa5d2dce95b43b74605ad529180483a.mp3*~data=user_id=0,application_id=42~hmac=66f8942f0242a3919b8ad0e2ef67b1ce45e48b2cbcc123aac3db96f3c5c732d2",
+        "url": "https://www.deezer.com/track/7667059"
+      }
+    },
+    {
+      "id": "2010-black-and-yellow-wiz-khalifa",
+      "label": "Black and Yellow – Wiz Khalifa",
+      "date": 2010,
+      "deezer": {
+        "trackId": 10260075,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/d/5/0/7d53c673c1040b94c45d68a4f4def008.mp3?hdnea=exp=1746859551~acl=/api/1/1/7/d/5/0/7d53c673c1040b94c45d68a4f4def008.mp3*~data=user_id=0,application_id=42~hmac=68ae6a43792f2cce504c2ef40e7d1ea780bb14152fb598052f7ea26af83a13f6",
+        "url": "https://www.deezer.com/track/10260075"
+      }
+    },
+    {
+      "id": "2011-the-motto-drake-ft-lil-wayne",
+      "label": "The Motto – Drake ft. Lil Wayne",
+      "date": 2011,
+      "deezer": {
+        "trackId": 17347988,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/5/e/0/65e7f2405f539294489aedb09191985e.mp3?hdnea=exp=1746859551~acl=/api/1/1/6/5/e/0/65e7f2405f539294489aedb09191985e.mp3*~data=user_id=0,application_id=42~hmac=63313889fea20deae15058c226684438f6151bcec53ffde29b00d08d3f39f171",
+        "url": "https://www.deezer.com/track/17347988"
+      }
+    },
+    {
+      "id": "2012-mercy-g-o-o-d-music",
+      "label": "Mercy – G.O.O.D. Music",
+      "date": 2012,
+      "deezer": {
+        "trackId": 60742275,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/7/7/0/87744d3a69a531a0e09898bb3a7e7ce6.mp3?hdnea=exp=1746859551~acl=/api/1/1/8/7/7/0/87744d3a69a531a0e09898bb3a7e7ce6.mp3*~data=user_id=0,application_id=42~hmac=ffe3718aa29519725fa60c558cb1693bce4fcc083d2cb374954d57c43603ee26",
+        "url": "https://www.deezer.com/track/60742275"
+      }
+    },
+    {
+      "id": "2012-swimming-pools-kendrick-lamar",
+      "label": "Swimming Pools – Kendrick Lamar",
+      "date": 2012,
+      "deezer": {
+        "trackId": 52735971,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/0/6/0/f06fa179d479343a013f4699449dd429.mp3?hdnea=exp=1746859552~acl=/api/1/1/f/0/6/0/f06fa179d479343a013f4699449dd429.mp3*~data=user_id=0,application_id=42~hmac=a3ee1c8ce5962c3f07b0f7c59a97514a8a270eaf60992b08c2e2e9884d8d963e",
+        "url": "https://www.deezer.com/track/52735971"
+      }
+    },
+    {
+      "id": "2012-u-n-i-t-y-queen-latifah",
+      "label": "U.N.I.T.Y. – Queen Latifah",
+      "date": 2012,
+      "deezer": {
+        "trackId": 978410002,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/5/b/0/35bb6895a39311560df1ccd98a84a8fc.mp3?hdnea=exp=1746859552~acl=/api/1/1/3/5/b/0/35bb6895a39311560df1ccd98a84a8fc.mp3*~data=user_id=0,application_id=42~hmac=6d6aed4b1c0bba9feb05a8d56c3b9d3278537576b2dc2c61f963876dded7f723",
+        "url": "https://www.deezer.com/track/978410002"
+      }
+    },
+    {
+      "id": "2015-alright-kendrick-lamar",
+      "label": "Alright – Kendrick Lamar",
+      "date": 2015,
+      "deezer": {
+        "trackId": 97206068,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/2/f/0/12fd60e1cc86369ca2153e461ea6f0eb.mp3?hdnea=exp=1746859552~acl=/api/1/1/1/2/f/0/12fd60e1cc86369ca2153e461ea6f0eb.mp3*~data=user_id=0,application_id=42~hmac=ebef3f4ed7a1522182164d42d84a182ada34edbf28b4203c86e26b5cba01408f",
+        "url": "https://www.deezer.com/track/97206068"
+      }
+    },
+    {
+      "id": "2016-panda-desiigner",
+      "label": "Panda – Desiigner",
+      "date": 2016,
+      "deezer": {
+        "trackId": 120026876,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/0/b/0/a0b25f07b310ca6e5d36d9b849130a22.mp3?hdnea=exp=1746859553~acl=/api/1/1/a/0/b/0/a0b25f07b310ca6e5d36d9b849130a22.mp3*~data=user_id=0,application_id=42~hmac=595aff79b3f891baeb5936c744e00a00a2c7afd3bf217eefee3a20c25f76ba25",
+        "url": "https://www.deezer.com/track/120026876"
+      }
+    },
+    {
+      "id": "2016-bad-and-boujee-migos",
+      "label": "Bad and Boujee – Migos",
+      "date": 2016,
+      "deezer": {
+        "trackId": 1693337757,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/e/8/0/de88bc9fc93c3418be679a8133ebbd17.mp3?hdnea=exp=1746859553~acl=/api/1/1/d/e/8/0/de88bc9fc93c3418be679a8133ebbd17.mp3*~data=user_id=0,application_id=42~hmac=2440c7f5b7f7b5f27374ce1033d28f26ef42c6df0214c460b32e3ea6af6b95b1",
+        "url": "https://www.deezer.com/track/1693337757"
+      }
+    },
+    {
+      "id": "2017-bodak-yellow-cardi-b",
+      "label": "Bodak Yellow – Cardi B",
+      "date": 2017,
+      "deezer": {
+        "trackId": 373063001,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/7/9/0/87987d748bdb469c0bc3c342c37bff4e.mp3?hdnea=exp=1746859553~acl=/api/1/1/8/7/9/0/87987d748bdb469c0bc3c342c37bff4e.mp3*~data=user_id=0,application_id=42~hmac=30b9c10ae361fdf9b42ee04726a6b86597ce680eab28d2ab31639b8a9ef3d44e",
+        "url": "https://www.deezer.com/track/373063001"
+      }
+    },
+    {
+      "id": "2020-the-box-roddy-ricch",
+      "label": "The Box – Roddy Ricch",
+      "date": 2020,
+      "deezer": {
+        "trackId": 825986992,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/e/6/0/7e61ec8c874ba922036b79bc7948d20b.mp3?hdnea=exp=1746859554~acl=/api/1/1/7/e/6/0/7e61ec8c874ba922036b79bc7948d20b.mp3*~data=user_id=0,application_id=42~hmac=9ba262e8181f622842f0933c702413f8e3d3f8c3470f9b0d9b625d608041d8f2",
+        "url": "https://www.deezer.com/track/825986992"
+      }
+    },
+    {
+      "id": "2020-what-s-poppin-jack-harlow",
+      "label": "What's Poppin – Jack Harlow",
+      "date": 2020,
+      "deezer": {
+        "trackId": 855687392,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/5/6/0/4563d8523bd38878c447c5d13c6e8937.mp3?hdnea=exp=1746859554~acl=/api/1/1/4/5/6/0/4563d8523bd38878c447c5d13c6e8937.mp3*~data=user_id=0,application_id=42~hmac=e5713eff0ee32f7b3dc9a95e2a64528b7e0e121598dfe95444b1d3a3336c2a9f",
+        "url": "https://www.deezer.com/track/855687392"
+      }
+    },
+    {
+      "id": "2020-wap-cardi-b-ft-megan-thee-stallion",
+      "label": "WAP – Cardi B ft. Megan Thee Stallion",
+      "date": 2020,
+      "deezer": {
+        "trackId": 1044791832,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/1/7/0/b172302ca3867d0c570058c26ba0137c.mp3?hdnea=exp=1746859554~acl=/api/1/1/b/1/7/0/b172302ca3867d0c570058c26ba0137c.mp3*~data=user_id=0,application_id=42~hmac=36092a5e4d98ea52b57c0687abf67609970a2b49a255d377b80483253f827109",
+        "url": "https://www.deezer.com/track/1044791832"
+      }
+    },
+    {
+      "id": "2021-industry-baby-lil-nas-x-jack-harlow",
+      "label": "Industry Baby – Lil Nas X & Jack Harlow",
+      "date": 2021,
+      "deezer": {
+        "trackId": 1439691952,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/5/7/0/5577101efe35c3671f18a1039c8c6d77.mp3?hdnea=exp=1746859555~acl=/api/1/1/5/5/7/0/5577101efe35c3671f18a1039c8c6d77.mp3*~data=user_id=0,application_id=42~hmac=93ed1cc6f11d80d9af65f3071aba51c40e56b63a653b3410a3884bac5b6d6cfa",
+        "url": "https://www.deezer.com/track/1439691952"
+      }
+    },
+    {
+      "id": "2022-first-class-jack-harlow",
+      "label": "First Class – Jack Harlow",
+      "date": 2022,
+      "deezer": {
+        "trackId": 1711360637,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/c/e/0/9ce77d7531449386b741eef98b5acd7c.mp3?hdnea=exp=1746859555~acl=/api/1/1/9/c/e/0/9ce77d7531449386b741eef98b5acd7c.mp3*~data=user_id=0,application_id=42~hmac=4371e88394aeb4d65c76466c93bdcf801617400dedd59c1bf4f760cfd934e030",
+        "url": "https://www.deezer.com/track/1711360637"
+      }
+    }
+  ]
+}

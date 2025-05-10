@@ -5,6 +5,7 @@ import { useRouter } from "next/router";
 import { EventCard, puzzles, Puzzle } from "../lib/gameData";
 import { checkPlacement } from "../lib/gameLogic";
 import { motion, AnimatePresence } from "framer-motion";
+import { useRef } from "react";
 
 import { CardTooltip } from '../components/CardTooltip'; 
 
@@ -33,6 +34,7 @@ export default function Home() {
   const [hoveredIndex, setHoveredIndex] = useState<number | null>(null);
   const [lastPlacedIndex, setLastPlacedIndex] = useState<number>(0);
   const [hovered, setHovered] = useState(false); // for draggable tooltip
+  const audioRef = useRef<HTMLAudioElement | null>(null);
 
 
   useEffect(() => {
@@ -113,60 +115,68 @@ export default function Home() {
       <h1 className="text-3xl font-bold mb-1">Today's Timeline:</h1>
       <p className="text-lg mb-6 ml-10">{topic}</p>
 
-      {!gameOver && currentCard && (
-        <div className="mb-36 flex flex-col items-center">
-         <div
-  draggable
-  onDragStart={onDragStart}
-  className="relative inline-block"
+      <div className="mb-36 flex flex-col items-center">
+  <div
+    draggable
+    onDragStart={onDragStart}
+    className="relative inline-block"
+  >
+    <div
+  className={`${
+    currentCard?.deezer?.trackId ? "w-96" : "w-32"
+  } px-3 py-2 bg-gray-100 shadow rounded text-center text-base text-black cursor-move relative`}
+  onMouseEnter={() => setHovered(true)}
+  onMouseLeave={() => setHovered(false)}
 >
-  <div
-    className={`${
-      currentCard.image ? "w-96" : "w-32"
-    } px-3 py-2 bg-gray-100 shadow rounded text-center text-base text-black cursor-move relative`}
-    onMouseEnter={() => setHovered(true)}
-    onMouseLeave={() => setHovered(false)}
-  >
-    {!currentCard.image ? (
-      <div className="text-sm font-semibold whitespace-pre-wrap">
-        {currentCard.label}
-      </div>
-    ) : (
-      <img
-        src={currentCard.image}
-        alt={currentCard.title}
-        className="h-96 object-contain mx-auto"
-      />
-    )}
-    {puzzle.showTooltips && currentCard.tooltip && (
-      <span className="ml-1 text-gray-400 cursor-pointer">ⓘ</span>
-    )}
-   {puzzle.showTooltips && currentCard.tooltip && hovered && (
-  <div className="absolute left-full top-0 ml-4 w-72 p-4 bg-white text-sm text-gray-800 rounded-lg shadow-lg z-50">
-    <p className="mb-2">{currentCard.tooltip.description}</p>
-    <blockquote className="italic text-gray-600 border-l-2 border-gray-300 pl-2">
-      “{currentCard.tooltip.quote}”
-    </blockquote>
-  </div>
-)}
-
+  <div className="text-sm font-semibold whitespace-pre-wrap">
+    {currentCard?.deezer?.trackId
+      ? "Drag this song to the timeline"
+      : currentCard?.label}
   </div>
 
-  <div
-    className="absolute text-lg italic text-gray-600 whitespace-nowrap"
-    style={{
-      left: "50%",
-      transform: "translateX(-50%)",
-      top: "100%",
-      marginTop: "0.5rem",
-    }}
-  >
-    (Drag to timeline)
+  {/* ℹ️ Tooltip icon */}
+  {puzzle.showTooltips && currentCard?.tooltip && (
+    <span className="ml-1 text-gray-400 cursor-pointer">ⓘ</span>
+  )}
+
+  {/* 🗨️ Tooltip body */}
+  {puzzle.showTooltips && currentCard?.tooltip && hovered && (
+    <div className="absolute left-full top-0 ml-2 w-72 p-4 bg-white text-sm text-gray-800 rounded-lg shadow-lg z-50">
+      <p className="mb-2">{currentCard.tooltip.description}</p>
+      <blockquote className="italic text-gray-600 border-l-2 border-gray-300 pl-2">
+        “{currentCard.tooltip.quote}”
+      </blockquote>
+    </div>
+  )}
+
+  {/* 🎵 Embedded Deezer Player */}
+  {currentCard?.deezer?.trackId && (
+    <iframe
+      title="Deezer Player"
+      scrolling="no"
+      frameBorder="0"
+      allow="autoplay; clipboard-write"
+      src={`https://widget.deezer.com/widget/dark/track/${currentCard.deezer.trackId}`}
+      className="rounded w-full h-20 mt-2 shadow"
+    />
+  )}
+</div>
+
+
+    <div
+      className="absolute text-lg italic text-gray-600 whitespace-nowrap"
+      style={{
+        left: "50%",
+        transform: "translateX(-50%)",
+        top: "100%",
+        marginTop: "0.5rem",
+      }}
+    >
+      (Drag to timeline)
+    </div>
   </div>
 </div>
 
-        </div>
-      )}
 
 <div
   className="relative w-full mt-20 h-[240px]"
@@ -337,7 +347,7 @@ function TimelineCardWithTooltip({
             )}
           </div>
           {hasTooltip && hovered && (
-            <div className="absolute top-full left-1/2 -translate-x-1/2 mt-2 w-72 p-4 bg-white text-sm text-gray-800 rounded-lg shadow-lg z-50">
+           <div className="absolute left-full top-0 ml-2 w-72 p-4 bg-white text-sm text-gray-800 rounded-lg shadow-lg z-50">
               <p className="mb-2">{card.tooltip!.description}</p>
               <blockquote className="italic text-gray-600 border-l-2 border-gray-300 pl-2">
                 “{card.tooltip!.quote}”
