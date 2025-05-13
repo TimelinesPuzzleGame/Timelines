@@ -21,10 +21,16 @@ function shuffleArray<T>(array: T[]): T[] {
 type PlacedCard = { card: EventCard; correct: boolean };
 
 export default function Home() {
+  const [topic, setTopic] = useState("");
+const [loading, setLoading] = useState(false);
+const [error, setError] = useState<string | null>(null);
+const [generatedPuzzle, setGeneratedPuzzle] = useState<Puzzle | null>(null);
   const router = useRouter();
   const { slug } = router.query as { slug?: string };
-  const puzzle: Puzzle = puzzles.find((p) => p.slug === slug) ?? puzzles[0];
-  const { topic, cards: masterCards, hideDates = false } = puzzle;
+const basePuzzle: Puzzle = puzzles.find((p) => p.slug === slug) ?? puzzles[0];
+const puzzle: Puzzle = generatedPuzzle ?? basePuzzle;
+
+  const {cards: masterCards, hideDates = false } = puzzle;
 
   const [cards, setCards] = useState<EventCard[]>([]);
   const [timeline, setTimeline] = useState<PlacedCard[]>([]);
@@ -108,12 +114,77 @@ export default function Home() {
       handlePlace(hoveredIndex);
     }
   }
- 
+ const handleGenerate = async (e: React.FormEvent) => {
+  e.preventDefault();
+  setError(null);
+  setLoading(true);
+  try {
+    const res = await fetch("/api/generate", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ topic }),
+    });
+
+    const json = await res.json();
+    if (!res.ok) throw new Error(json.error || "Unknown error");
+
+    const newPuzzle: Puzzle = {
+      slug: `user-${Date.now()}`,
+      topic: topic.trim(),
+      category: "User Generated",
+      showTooltips: false,
+      hideDates: false,
+      cards: json.cards,
+    };
+
+    setGeneratedPuzzle(newPuzzle);
+  } catch (err: any) {
+    console.error("Generate error:", err);
+    setError((prev) => prev || "Oopsie, the robot did a no-no. Please try again.");
+  } finally {
+    setLoading(false);
+  }
+};
+
   
   return (
-    <div className="min-h-screen bg-gray-50 p-6 pb-96">
+     <div className="min-h-screen bg-white text-gray-900 flex flex-col items-center px-4 py-8">
+   <form onSubmit={handleGenerate} className="mb-6 flex items-center gap-2 w-full max-w-2xl">
+  <input
+    type="text"
+    className="border rounded p-2 flex-grow"
+    placeholder="Enter a topic to generate a puzzle"
+    value={topic}
+    onChange={(e) => setTopic(e.target.value)}
+    disabled={loading}
+    required
+  />
+  <button
+    type="submit"
+    className="bg-blue-600 text-white rounded px-4 py-2 disabled:opacity-50"
+    disabled={loading || !topic.trim()}
+  >
+    {loading ? "Generating..." : "Generate Puzzle"}
+  </button>
+</form>
+
+{error && (
+  <div className="mb-6 text-red-600 text-center">
+    <p>{error}</p>
+    <button
+      onClick={handleGenerate as any}
+      className="mt-2 underline"
+      disabled={loading}
+    >
+      Retry
+    </button>
+  </div>
+)}
+
+
+    <div className="bg-gray-50 p-6 pb-96 w-full">
       <h1 className="text-3xl font-bold mb-1">Today's Timeline:</h1>
-      <p className="text-lg mb-6 ml-10">{topic}</p>
+     <p className="text-lg mb-6 ml-10">{topic || puzzle.topic}</p>
 
       <div className="mb-36 flex flex-col items-center">
   <div
@@ -286,7 +357,7 @@ export default function Home() {
         </a>
       </div>
     </div>
-    
+     </div>
   );
 }
 
@@ -356,5 +427,5 @@ function TimelineCardWithTooltip({
           )}
         </motion.div>
       </AnimatePresence>
-    );
+);
   }
