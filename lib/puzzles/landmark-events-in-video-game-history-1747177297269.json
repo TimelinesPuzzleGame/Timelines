@@ -1,0 +1,50 @@
+{
+  "slug": "user-1747177289580",
+  "topic": "Landmark Events in Video Game History",
+  "category": "Entertainment",
+  "subcategory": "Video Games",
+  "showTooltips": false,
+  "hideDates": false,
+  "cards": [
+    {
+      "label": "Pong Sparks the Video Game Revolution",
+      "date": 1972
+    },
+    {
+      "label": "Atari 2600 Ignites Home Gaming",
+      "date": 1977
+    },
+    {
+      "label": "Donkey Kong Introduces Mario",
+      "date": 1981
+    },
+    {
+      "label": "Nintendo Entertainment System Revives U.S. Market",
+      "date": 1985
+    },
+    {
+      "label": "Sega Genesis Locks Horns with Nintendo",
+      "date": 1989
+    },
+    {
+      "label": "Sonic the Hedgehog Speeds onto the Scene",
+      "date": 1991
+    },
+    {
+      "label": "Doom Redefines the First-Person Shooter",
+      "date": 1993
+    },
+    {
+      "label": "PlayStation Brings Gaming into the CD Era",
+      "date": 1994
+    },
+    {
+      "label": "World of Warcraft Defines MMORPGs",
+      "date": 2004
+    },
+    {
+      "label": "Minecraft Redefines Sandbox Gaming",
+      "date": 2011
+    }
+  ]
+}

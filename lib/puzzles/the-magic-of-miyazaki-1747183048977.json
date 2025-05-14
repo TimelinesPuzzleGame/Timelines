@@ -1,0 +1,50 @@
+{
+  "slug": "user-1747183035235",
+  "topic": "The Magic of Miyazaki",
+  "category": "Entertainment",
+  "subcategory": "Movies/TV",
+  "showTooltips": false,
+  "hideDates": false,
+  "cards": [
+    {
+      "label": "Gateway to the Spirit World",
+      "date": 1988
+    },
+    {
+      "label": "Pigs Might Fly",
+      "date": 1992
+    },
+    {
+      "label": "A Tale of Earth, Water, and Sky",
+      "date": 1997
+    },
+    {
+      "label": "A Spirited Journey Begins",
+      "date": 2001
+    },
+    {
+      "label": "Castle in the Air",
+      "date": 2004
+    },
+    {
+      "label": "World of Witches & Warriors",
+      "date": 2004
+    },
+    {
+      "label": "Enchanted by the Sea",
+      "date": 2008
+    },
+    {
+      "label": "A Flight of Imagination",
+      "date": 2013
+    },
+    {
+      "label": "Whiskers on Kittens",
+      "date": 2010
+    },
+    {
+      "label": "Echoes of War",
+      "date": 2016
+    }
+  ]
+}

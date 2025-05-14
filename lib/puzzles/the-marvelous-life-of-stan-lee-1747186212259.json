@@ -1,0 +1,50 @@
+{
+  "slug": "user-1747186181528",
+  "topic": "The Marvelous Life of Stan Lee",
+  "category": "Entertainment",
+  "subcategory": "Comics",
+  "showTooltips": false,
+  "hideDates": false,
+  "cards": [
+    {
+      "label": "The Birth of a Legend",
+      "date": 1922
+    },
+    {
+      "label": "First Voyage into the 'Timely' World",
+      "date": 1939
+    },
+    {
+      "label": "Behold the Birth of 'Captain America'",
+      "date": 1941
+    },
+    {
+      "label": "A Temporary Departure: Military Service",
+      "date": 1942
+    },
+    {
+      "label": "Return to the Comic World at 'Atlas'",
+      "date": 1950
+    },
+    {
+      "label": "The Rise of the 'Fantastic Four'",
+      "date": 1961
+    },
+    {
+      "label": "Weaving the Web with 'Spider-Man'",
+      "date": 1962
+    },
+    {
+      "label": "'Avengers Assemble!' Begins",
+      "date": 1963
+    },
+    {
+      "label": "Lee Takes on the Marvel Universe",
+      "date": 1972
+    },
+    {
+      "label": "A Legend's Farewell",
+      "date": 2018
+    }
+  ]
+}

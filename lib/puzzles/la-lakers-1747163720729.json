@@ -1,0 +1,60 @@
+{
+  "slug": "user-1747163692658",
+  "topic": "LA Lakers",
+  "category": "Sports",
+  "subcategory": "Basketball", 
+  "showTooltips": false,
+  "hideDates": false,
+  "cards": [
+    {
+      "label": "Magic Johnson drafted by Lakers",
+      "date": 1979,
+      "id": "ugc-1747163692273-0"
+    },
+    {
+      "label": "Lakers win first NBA Championship in LA",
+      "date": 1972,
+      "id": "ugc-1747163692326-1"
+    },
+    {
+      "label": "Kobe Bryant's NBA debut with Lakers",
+      "date": 1996,
+      "id": "ugc-1747163692198-2"
+    },
+    {
+      "label": "Lakers three-peat as NBA Champions",
+      "date": 2002,
+      "id": "ugc-1747163692341-3"
+    },
+    {
+      "label": "LeBron James signs with the Lakers",
+      "date": 2018,
+      "id": "ugc-1747163692289-4"
+    },
+    {
+      "label": "First Back to Back Championship",
+      "date": 1988,
+      "id": "ugc-1747163692187-5"
+    },
+    {
+      "label": "Shaq traded to Miami Heat",
+      "date": 2004,
+      "id": "ugc-1747163692656-6"
+    },
+    {
+      "label": "Jerry Buss buys the Lakers",
+      "date": 1979,
+      "id": "ugc-1747163692320-7"
+    },
+    {
+      "label": "Kareem Abdul-Jabbar becomes all-time leading scorer",
+      "date": 1984,
+      "id": "ugc-1747163692231-8"
+    },
+    {
+      "label": "Phil Jackson becomes Lakers head coach",
+      "date": 1999,
+      "id": "ugc-1747163692369-9"
+    }
+  ]
+}

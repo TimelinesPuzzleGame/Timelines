@@ -1,0 +1,50 @@
+{
+  "slug": "user-1747240701943",
+  "topic": "Celtics Chronicles",
+  "category": "Sports",
+  "subcategory": "Basketball",
+  "showTooltips": false,
+  "hideDates": false,
+  "cards": [
+    {
+      "label": "Celtics Founded",
+      "date": 1946
+    },
+    {
+      "label": "Red Auerbach's Reign Begins",
+      "date": 1950
+    },
+    {
+      "label": "Russell Joins the Team",
+      "date": 1956
+    },
+    {
+      "label": "8th Consecutive Championship",
+      "date": 1966
+    },
+    {
+      "label": "Bird Flies into the Court",
+      "date": 1979
+    },
+    {
+      "label": "Death of Len Bias",
+      "date": 1986
+    },
+    {
+      "label": "Pierce Arrival",
+      "date": 1998
+    },
+    {
+      "label": "Big Three Era Begins",
+      "date": 2007
+    },
+    {
+      "label": "Rondo's Triple-Double Mania",
+      "date": 2012
+    },
+    {
+      "label": "Arrival of Jayson Tatum",
+      "date": 2017
+    }
+  ]
+}

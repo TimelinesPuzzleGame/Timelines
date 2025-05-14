@@ -1,0 +1,50 @@
+{
+  "slug": "user-1747205753642",
+  "topic": "Pixar's Playbook",
+  "category": "Entertainment",
+  "subcategory": "Movies/TV",
+  "showTooltips": false,
+  "hideDates": false,
+  "cards": [
+    {
+      "label": "Buzz and Woody debut in 'Toy Story'",
+      "date": 1995
+    },
+    {
+      "label": "'A Bug's Life' buzzes into theaters",
+      "date": 1998
+    },
+    {
+      "label": "Monsters Inc opens its doors",
+      "date": 2001
+    },
+    {
+      "label": "Finding Nemo swims to success",
+      "date": 2003
+    },
+    {
+      "label": "Pixar's first super flick 'The Incredibles'",
+      "date": 2004
+    },
+    {
+      "label": "'Cars' speeds into cinema",
+      "date": 2006
+    },
+    {
+      "label": "'Ratatouille' cooks up a storm",
+      "date": 2007
+    },
+    {
+      "label": "'Wall-E' cleans up big time",
+      "date": 2008
+    },
+    {
+      "label": "'Up' lifts Pixar to new heights",
+      "date": 2009
+    },
+    {
+      "label": "'Toy Story 3' brings a tear to our eyes",
+      "date": 2010
+    }
+  ]
+}

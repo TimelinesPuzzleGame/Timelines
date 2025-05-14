@@ -1,6 +1,7 @@
 import type { NextApiRequest, NextApiResponse } from 'next';
 import { OpenAI } from 'openai';
 import { z } from 'zod';
+import { SYSTEM_PROMPT } from "../../lib/systemPrompt";
 
 const openai = new OpenAI({ apiKey: process.env.OPENAI_API_KEY });
 
@@ -16,7 +17,11 @@ const CardSchema = z.object({
   source: z.string().url().optional(),
   id: z.string().optional(),
 });
-const PuzzleSchema = z.array(CardSchema).length(10);
+const PuzzleSchema = z.object({
+  category: z.enum(["History", "Arts", "Entertainment", "Sports", "Current Events"]),
+  cards: z.array(CardSchema).length(10),
+});
+
 
 async function lookupEventDate(title: string): Promise<{ date: number; source: string } | null> {
   try {
@@ -37,36 +42,8 @@ async function lookupEventDate(title: string): Promise<{ date: number; source: s
   return null;
 }
 
-const SYSTEM_PROMPT = `
-You are a puzzle-writing assistant for a game called Timelines.
-The player provides a topic, and you generate a set of 10 chronological trivia cards related to that topic.
-Each card must have a short, punchy, emotionally resonant title and an exact year.
-The puzzle should be fun, surprising, and often nostalgic.
-The game is designed to feel smart and cinematic — like building a mini documentary timeline from scratch.
 
-PUZZLE GUIDELINES:
-- Exactly 10 cards.
-- Distribution: ~5 easy (widely recognizable), ~3 medium (moderately challenging), ~2 hard (obscure or surprising).
-- Each card must anchor to a single calendar year—no vague eras or multi-year spans.
-- Avoid duplicate years when possible.
-- All dates must be realistic historical years between 0 and 2025.
-- Fictional timelines allowed if clearly requested.
-- Each event must refer to a specific, verifiable historical occurrence, not a general theme or tradition.
-- Avoid vague or overlapping entries.
-- Do not include contradictory or ambiguous events. Choose one verifiable version.
-- Do not include mythological or geological formation events unless the date can be verified via historical record.
 
-FORMAT:
-Return a JSON array of 10 objects, each with:
-{ "label": "Event title", "date": YYYY }
-
-WRITING STYLE:
-- Concise, headline-style writing.
-- Use playful tone for entertainment topics; neutral for serious topics.
-
-FINAL OUTPUT:
-Return only the JSON array. No commentary.
-`;
 
 export default async function handler(req: NextApiRequest, res: NextApiResponse) {
   if (req.method !== 'POST') {
@@ -124,29 +101,29 @@ export default async function handler(req: NextApiRequest, res: NextApiResponse)
       console.table(parsed);
     }
 
-    const baseCards = PuzzleBaseSchema.parse(parsed);
+    const base = PuzzleSchema.parse(parsed);
 
-    const enriched = await Promise.all(
-      baseCards.map(async (card, index) => {
-        const info = await lookupEventDate(card.label);
-        if (info) {
-          return {
-            label: card.label,
-            date: info.date,
-            source: info.source,
-            id: `ugc-${Date.now()}-${index}`,
-          };
-        }
-        return {
-          label: card.label,
-          date: card.date,
-          id: `ugc-${Date.now()}-${index}`,
-        };
-      })
-    );
+const enriched = await Promise.all(
+  base.cards.map(async (card, index) => {
+    const info = await lookupEventDate(card.label);
+    if (info) {
+      return {
+        label: card.label,
+        date: info.date,
+        source: info.source,
+        id: `ugc-${Date.now()}-${index}`,
+      };
+    }
+    return {
+      label: card.label,
+      date: card.date,
+      id: `ugc-${Date.now()}-${index}`,
+    };
+  })
+);
 
-    const finalCards = PuzzleSchema.parse(enriched);
-    return res.status(200).json({ cards: finalCards });
+const finalCards = PuzzleSchema.shape.cards.parse(enriched);
+return res.status(200).json({ cards: finalCards, category: base.category });
   } catch (err: any) {
     console.error('Error generating puzzle:', err);
     return res.status(500).json({ error: 'Oopsie, the robot did a no-no. Please try again.' });

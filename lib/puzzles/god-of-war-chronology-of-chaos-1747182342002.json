@@ -1,0 +1,50 @@
+{
+  "slug": "user-1747182308866",
+  "topic": "God of War",
+  "category": "Entertainment",
+  "subcategory": "Video Games",
+  "showTooltips": false,
+  "hideDates": false,
+  "cards": [
+    {
+      "label": "Debut of the Spartan Warrior",
+      "date": 2005
+    },
+    {
+      "label": "A Vengeful Return: Chains of Olympus",
+      "date": 2008
+    },
+    {
+      "label": "Conquering the Labyrinth in God of War III",
+      "date": 2010
+    },
+    {
+      "label": "Prequel Perfection: Ascension",
+      "date": 2013
+    },
+    {
+      "label": "Kratos Meets Atreus",
+      "date": 2018
+    },
+    {
+      "label": "First Encounter with the Norse Gods",
+      "date": 2018
+    },
+    {
+      "label": "The Secret Identity of Atreus Revealed",
+      "date": 2018
+    },
+    {
+      "label": "Unleashing Spartan Rage on Hel-Walkers",
+      "date": 2018
+    },
+    {
+      "label": "The Ultimate Showdown with Baldur",
+      "date": 2018
+    },
+    {
+      "label": "Teaser for the Next Odyssey: Ragnarok",
+      "date": 2020
+    }
+  ]
+}

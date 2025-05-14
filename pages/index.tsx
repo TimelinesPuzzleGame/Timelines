@@ -42,6 +42,86 @@ const puzzle: Puzzle = generatedPuzzle ?? basePuzzle;
   const [hovered, setHovered] = useState(false); // for draggable tooltip
   const audioRef = useRef<HTMLAudioElement | null>(null);
 
+  //update displayed puzzle when you click a new one, reset Save button
+useEffect(() => {
+  if (slug) {
+    const found = puzzles.find((p) => p.slug === slug);
+    if (found) {
+      setGeneratedPuzzle(found);
+      setSaveStatus("unsaved"); // ✅ reset Save button when switching puzzles
+    }
+  }
+}, [slug]);
+
+
+//subcategory grouping
+function getSubcategoryMap(category: string) {
+  const subMap: Record<string, Puzzle[]> = {};
+
+  puzzles
+    .filter((p) => p.category === category)
+    .forEach((p) => {
+      const sub = p.subcategory || "Other";
+      if (!subMap[sub]) subMap[sub] = [];
+      subMap[sub].push(p);
+    });
+
+  return subMap;
+}
+
+
+
+  //PUZZLE SAVING 
+  const [saveStatus, setSaveStatus] = useState<"unsaved" | "saved" | "already">("unsaved");
+
+async function handleSave() {
+  if (!puzzle || !puzzle.topic) return;
+  const slug = `${puzzle.topic.toLowerCase().replace(/[^a-z0-9]+/g, '-')}-${Date.now()}`;
+
+  const res = await fetch("/api/save-puzzle", {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify({ puzzle, slug }),
+  });
+
+  const json = await res.json();
+  if (json.result === "already-saved") setSaveStatus("already");
+  else if (json.result === "saved") setSaveStatus("saved");
+}
+
+
+// Surprise me handler
+async function handleSurprise(subcategory: string) {
+  setLoading(true);
+  setError(null);
+  try {
+    const res = await fetch("/api/surprise", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ subcategory }),
+    });
+    const json = await res.json();
+    if (!res.ok) throw new Error(json.error || "Unknown error");
+
+    const newPuzzle: Puzzle = {
+      slug: `user-${Date.now()}`,
+      topic: json.topic,
+      category: json.category,
+      subcategory: json.subcategory,
+      showTooltips: false,
+      hideDates: false,
+      cards: json.cards,
+    };
+
+    setGeneratedPuzzle(newPuzzle);
+  } catch (err) {
+    console.error("Surprise error", err);
+    setError("Surprise Me failed. Try again.");
+  } finally {
+    setLoading(false);
+  }
+}
+
 
   useEffect(() => {
     const shuffled = shuffleArray(masterCards);
@@ -71,8 +151,14 @@ const puzzle: Puzzle = generatedPuzzle ?? basePuzzle;
     const sortedIndex = dates.findIndex((d) => d > currentCard.date);
     const correctIndex = sortedIndex === -1 ? timeline.length : sortedIndex;
 
-    // Determine if user's drop was correct
-    const isCorrect = attemptedIndex === correctIndex;
+const left = timeline[attemptedIndex - 1];
+const right = timeline[attemptedIndex];
+
+const isCorrect =
+  attemptedIndex === correctIndex ||
+  currentCard.date === left?.card.date ||
+  currentCard.date === right?.card.date;
+
 
     // Insert the card where it *belongs*, not where the user dropped it
     setFeedback(isCorrect);
@@ -128,10 +214,10 @@ const puzzle: Puzzle = generatedPuzzle ?? basePuzzle;
     const json = await res.json();
     if (!res.ok) throw new Error(json.error || "Unknown error");
 
-    const newPuzzle: Puzzle = {
-      slug: `user-${Date.now()}`,
-      topic: topic.trim(),
-      category: "User Generated",
+const newPuzzle: Puzzle = {
+  slug: `user-${Date.now()}`,
+  topic: topic.trim(),
+  category: json.category,
       showTooltips: false,
       hideDates: false,
       cards: json.cards,
@@ -182,9 +268,27 @@ const puzzle: Puzzle = generatedPuzzle ?? basePuzzle;
 )}
 
 
-    <div className="bg-gray-50 p-6 pb-96 w-full">
-      <h1 className="text-3xl font-bold mb-1">Today's Timeline:</h1>
-     <p className="text-lg mb-6 ml-10">{topic || puzzle.topic}</p>
+<div className="bg-gray-50 p-6 pb-96 w-full">
+  <div className="flex items-baseline gap-2 mb-2">
+  <h1 className="text-3xl font-bold">Timeline:</h1>
+  <h2 className="text-2xl font-light italic">{puzzle.topic}</h2>
+</div>
+
+
+  {puzzle.slug?.startsWith("user-") && (
+    <button
+      onClick={handleSave}
+      className="text-sm bg-blue-600 text-white px-3 py-1 rounded hover:bg-gray-800 transition"
+      disabled={saveStatus === "saved" || saveStatus === "already"}
+    >
+      {saveStatus === "saved"
+        ? "✅ Saved!"
+        : saveStatus === "already"
+        ? "🟡 Already Saved"
+        : "💾 Save Timeline"}
+    </button>
+  )}
+
 
       <div className="mb-36 flex flex-col items-center">
   <div
@@ -316,35 +420,50 @@ const puzzle: Puzzle = generatedPuzzle ?? basePuzzle;
               ))}
           </div>
           <button className="bg-black text-white px-6 py-2 rounded">
-            SHARE
+            Challenge a friend!
           </button>
         </div>
       )}
 
       <div className="mt-40 px-6 pb-20">
         <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-8">
-          {["History", "Arts", "Entertainment", "Sports", "Current Events"].map(
-            (category) => (
-              <div key={category}>
-                <h2 className="text-lg font-bold mb-2">{category}</h2>
-                {puzzles
-                  .filter((p) => p.category === category)
-                  .sort((a, b) => a.topic.localeCompare(b.topic))
-                  .map((p) => (
-                    <div key={p.slug}>
-                      <Link
-                        href={`/?slug=${p.slug}`}
-                        className="text-blue-800 hover:underline block py-0.5"
-                      >
-                        {p.topic}
-                      </Link>
-                    </div>
-                  ))}
+{["History", "Arts", "Entertainment", "Sports", "Current Events"].map((category) => {
+  const subMap = getSubcategoryMap(category);
+
+  return (
+    <div key={category}>
+      <h2 className="text-xl font-bold mb-4">{category}</h2>
+
+      {Object.entries(subMap).map(([subcat, group]) => (
+        <div key={subcat} className="mb-6 ml-4">
+          <div className="flex items-center gap-2 mb-1">
+            <h3 className="font-bold text-md">{subcat}</h3>
+            <button
+              onClick={() => handleSurprise(subcat)}
+              className="bg-blue-600 text-white text-xs px-2 py-1 rounded hover:bg-blue-700"
+            >
+              Surprise Me!
+            </button>
+          </div>
+          {group
+            .sort((a, b) => a.topic.localeCompare(b.topic))
+            .map((p) => (
+              <div key={p.slug}>
+                <Link
+                  href={`/?slug=${p.slug}`}
+                  className="text-blue-800 hover:underline block py-0.5"
+                >
+                  {p.topic}
+                </Link>
               </div>
-            )
-          )}
+            ))}
         </div>
-      </div>
+      ))}
+    </div>
+  );
+})} 
+   </div>
+    </div>
       <div className="mt-12 max-w-xl mx-auto text-center">
         <h3 className="text-lg font-semibold mb-2">
           Have an idea for a Timeline?

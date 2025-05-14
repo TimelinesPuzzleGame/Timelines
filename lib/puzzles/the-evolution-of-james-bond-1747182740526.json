@@ -1,0 +1,50 @@
+{
+  "slug": "user-1747182694996",
+  "topic": "Bond, James Bond",
+  "category": "Entertainment",
+  "subcategory": "Movies/TV",
+  "showTooltips": false,
+  "hideDates": false,
+  "cards": [
+    {
+      "label": "Birth of a Spy: 'Dr. No'",
+      "date": 1962
+    },
+    {
+      "label": "'Goldfinger' Sets Box Office Gold",
+      "date": 1964
+    },
+    {
+      "label": "End of Connery Era: 'Diamonds are Forever'",
+      "date": 1971
+    },
+    {
+      "label": "'Live and Let Die': Welcome Roger Moore",
+      "date": 1973
+    },
+    {
+      "label": "Bond Meets Outer Space: 'Moonraker'",
+      "date": 1979
+    },
+    {
+      "label": "Hello, Dalton: 'The Living Daylights'",
+      "date": 1987
+    },
+    {
+      "label": "Brosnan's Debut: 'GoldenEye' Revives Franchise",
+      "date": 1995
+    },
+    {
+      "label": "Bond's Invisible Car: 'Die Another Day'",
+      "date": 2002
+    },
+    {
+      "label": "The Birth of Craig Era: 'Casino Royale'",
+      "date": 2006
+    },
+    {
+      "label": "Farewell Craig: 'No Time to Die'",
+      "date": 2021
+    }
+  ]
+}

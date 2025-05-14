@@ -1,0 +1,50 @@
+{
+  "slug": "user-1747181487563",
+  "topic": "The Legend of Zelda: A Hero's Journey",
+  "category": "Entertainment",
+  "subcategory": "Video Games",
+  "showTooltips": false,
+  "hideDates": false,
+  "cards": [
+    {
+      "label": "Link's Debut Adventure",
+      "date": 1986
+    },
+    {
+      "label": "Dark World Rises: A Link to the Past",
+      "date": 1991
+    },
+    {
+      "label": "Link's Awakening: The Dream Begins",
+      "date": 1993
+    },
+    {
+      "label": "Ocarina of Time: The Hero of Time Emerges",
+      "date": 1998
+    },
+    {
+      "label": "Majora's Mask: The Three-Day Challenge",
+      "date": 2000
+    },
+    {
+      "label": "The Wind Waker: Sailing Uncharted Waters",
+      "date": 2002
+    },
+    {
+      "label": "Twilight Princess: Shadows Over Hyrule",
+      "date": 2006
+    },
+    {
+      "label": "Skyward Sword: The Origins Revealed",
+      "date": 2011
+    },
+    {
+      "label": "Breath of the Wild: Link's Open-Air Adventure",
+      "date": 2017
+    },
+    {
+      "label": "Hyrule Warriors: The Battle of Ages",
+      "date": 2020
+    }
+  ]
+}

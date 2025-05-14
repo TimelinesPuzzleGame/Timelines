@@ -1,0 +1,50 @@
+{
+  "slug": "user-1747177687775",
+  "topic": "The Evolution of Nintendo",
+  "category": "Entertainment",
+  "subcategory": "Video Games",
+  "showTooltips": false,
+  "hideDates": false,
+  "cards": [
+    {
+      "label": "Nintendo starts producing hanafuda playing cards",
+      "date": 1889
+    },
+    {
+      "label": "The original gameboy is released",
+      "date": 1989
+    },
+    {
+      "label": "A Revolution: Nintendo Entertainment System (NES) Launches",
+      "date": 1983
+    },
+    {
+      "label": "Plumber's Debut: Release of 'Super Mario Bros.'",
+      "date": 1985
+    },
+    {
+      "label": "Nintendo enters the video game market",
+      "date": 1974
+    },
+    {
+      "label": "3D Era: Nintendo 64 Hits the Market",
+      "date": 1996
+    },
+    {
+      "label": "NES, the longest-lasting console in history, is discontinued",
+      "date": 2004
+    },
+    {
+      "label": "Wii Would Like to Play: The Wii Console Launch",
+      "date": 2006
+    },
+    {
+      "label": "Portable Power: Nintendo 3DS Launches",
+      "date": 2011
+    },
+    {
+      "label": "Switching It Up: Arrival of Nintendo Switch",
+      "date": 2017
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+"use strict";
+/*
+ * ATTENTION: An "eval-source-map" devtool has been used.
+ * This devtool is neither made for production nor for readable output files.
+ * It uses "eval()" calls to create a separate source file with attached SourceMaps in the browser devtools.
+ * If you are trying to read the output file, select a different devtool (https://webpack.js.org/configuration/devtool/)
+ * or disable the default devtool with "devtool: false".
+ * If you are looking for production-ready output files, see mode: "production" (https://webpack.js.org/configuration/mode/).
+ */
+self["webpackHotUpdate_N_E"]("pages/index",{
+
+/***/ "(pages-dir-browser)/./lib/puzzles/sit-coms-1747175975965.json":
+/*!*************************************************!*\
+  !*** ./lib/puzzles/sit-coms-1747175975965.json ***!
+  \*************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+module.exports = /*#__PURE__*/JSON.parse('{"slug":"user-1747175933821","topic":"Sit Coms","category":"Movies/TV","showTooltips":false,"hideDates":false,"cards":[{"label":"I Love Lucy Premieres","date":1951,"id":"ugc-1747175933498-0"},{"label":"The Brady Bunch Debuts","date":1969,"id":"ugc-1747175933479-1"},{"label":"Friends Pilot Episode Airs","date":1994,"id":"ugc-1747175933510-2"},{"label":"The Office (US) Series Finale","date":2013,"id":"ugc-1747175933819-3"},{"label":"Seinfeld Last Episode Airs","date":1998,"id":"ugc-1747175933543-4"},{"label":"Cheers Wins Emmy for Outstanding Comedy Series","date":1983,"id":"ugc-1747175933626-5"},{"label":"The Simpsons First Episode Airs","date":1989,"id":"ugc-1747175933658-6"},{"label":"Golden Girls Premieres","date":1985,"id":"ugc-1747175933553-7"},{"label":"All in the Family Debuts","date":1971,"id":"ugc-1747175933508-8"},{"label":"Modern Family Wins 5 Emmy Awards","date":2010,"id":"ugc-1747175933607-9"}]}');
+
+/***/ })
+
+});

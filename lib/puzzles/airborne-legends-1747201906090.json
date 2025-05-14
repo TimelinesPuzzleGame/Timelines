@@ -1,0 +1,50 @@
+{
+  "slug": "user-1747201835927",
+  "topic": "Dunk Contest Highlights",
+  "category": "Sports",
+  "subcategory": "Basketball",
+  "showTooltips": false,
+  "hideDates": false,
+  "cards": [
+    {
+      "label": "The Doctor's Surgical Slam",
+      "date": 1976
+    },
+    {
+      "label": "Jordan's Free-Throw Line Flyer",
+      "date": 1988
+    },
+    {
+      "label": "Kemp's Thunderous Tomahawk",
+      "date": 1991
+    },
+    {
+      "label": "Vince Carter's Elbow Hang",
+      "date": 2000
+    },
+    {
+      "label": "Jason Richardson's Between-the-Legs Reversal",
+      "date": 2003
+    },
+    {
+      "label": "Dwight Howard's Super Dunk",
+      "date": 2008
+    },
+    {
+      "label": "Blake Griffin's Car Leap",
+      "date": 2011
+    },
+    {
+      "label": "Zach LaVine's Space Jam Slam",
+      "date": 2015
+    },
+    {
+      "label": "Aaron Gordon's Hoverboard Helicopter",
+      "date": 2016
+    },
+    {
+      "label": "Derrick Jones Jr.'s Windmill Whip",
+      "date": 2020
+    }
+  ]
+}

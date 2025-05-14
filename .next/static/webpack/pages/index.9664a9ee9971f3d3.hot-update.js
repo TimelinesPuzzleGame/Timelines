@@ -1,0 +1,22 @@
+"use strict";
+/*
+ * ATTENTION: An "eval-source-map" devtool has been used.
+ * This devtool is neither made for production nor for readable output files.
+ * It uses "eval()" calls to create a separate source file with attached SourceMaps in the browser devtools.
+ * If you are trying to read the output file, select a different devtool (https://webpack.js.org/configuration/devtool/)
+ * or disable the default devtool with "devtool: false".
+ * If you are looking for production-ready output files, see mode: "production" (https://webpack.js.org/configuration/mode/).
+ */
+self["webpackHotUpdate_N_E"]("pages/index",{
+
+/***/ "(pages-dir-browser)/./lib/puzzles/iconic-moments-in-film-and-television-history-1747173454581.json":
+/*!**************************************************************************************!*\
+  !*** ./lib/puzzles/iconic-moments-in-film-and-television-history-1747173454581.json ***!
+  \**************************************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+module.exports = /*#__PURE__*/JSON.parse('{"slug":"user-1747173362648","topic":"Iconic Moments in TV/Film","category":"Entertainment","subcategory":"Movies/TV","showTooltips":false,"hideDates":false,"cards":[{"label":"The Birth of Cinema: \'The Great Train Robbery\'","date":1903},{"label":"Talkies Take Over: \'The Jazz Singer\' Premieres","date":1927},{"label":"Golden Age Begins: \'Gone with the Wind\' Sweeps Oscars","date":1940},{"label":"Television Revolution: First Color TV Broadcast","date":1951},{"label":"Sci-Fi Epics Born: \'2001: A Space Odyssey\' Lands","date":1968},{"label":"Jaws Drops: The Birth of the Summer Blockbuster","date":1975},{"label":"Cable Gamechanger: MTV Launches","date":1981},{"label":"Reality TV Era Begins: \'Survivor\' Airs","date":2000},{"label":"Superhero Domination: \'The Dark Knight\' Shatters Box Office","date":2008},{"label":"Streaming Era: Netflix Releases \'House of Cards\'","date":2013}]}');
+
+/***/ })
+
+});

@@ -1,0 +1,50 @@
+{
+  "slug": "user-1747180331784",
+  "topic": "All Things Mario",
+  "category": "Entertainment",
+  "subcategory": "Video Games",
+  "showTooltips": false,
+  "hideDates": false,
+  "cards": [
+    {
+      "label": "Mario's Debut",
+      "date": 1981
+    },
+    {
+      "label": "Super Mario Bros",
+      "date": 1985
+    },
+    {
+      "label": "Super Mario World's Release",
+      "date": 1990
+    },
+    {
+      "label": "Super Mario 64 Revolutionizes 3D",
+      "date": 1996
+    },
+    {
+      "label": "Super Mario Sunshine Brightens Screens",
+      "date": 2002
+    },
+    {
+      "label": "Super Mario Galaxy Takes Flight",
+      "date": 2007
+    },
+    {
+      "label": "Super Mario Galaxy 2 Doubles the Fun",
+      "date": 2010
+    },
+    {
+      "label": "Super Mario 3D World Expands Horizons",
+      "date": 2013
+    },
+    {
+      "label": "Super Mario Maker Unleashes Creativity",
+      "date": 2015
+    },
+    {
+      "label": "Super Mario Odyssey Begins",
+      "date": 2017
+    }
+  ]
+}

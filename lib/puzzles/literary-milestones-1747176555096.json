@@ -1,0 +1,50 @@
+{
+  "slug": "user-1747176488041",
+  "topic": "Literary Milestones",
+  "category": "Arts",
+  "subcategory": "Books",
+  "showTooltips": false,
+  "hideDates": false,
+  "cards": [
+    {
+      "label": "Shakespeare's 'Romeo and Juliet' Takes Stage",
+      "date": 1597
+    },
+    {
+      "label": "Swift's Satirical 'Gulliver's Travels' Released",
+      "date": 1726
+    },
+    {
+      "label": "Jane Austen Introduces 'Pride and Prejudice'",
+      "date": 1813
+    },
+    {
+      "label": "Dickens Delivers 'A Tale of Two Cities'",
+      "date": 1859
+    },
+    {
+      "label": "Tolstoy's Epic 'War and Peace' Hits Shelves",
+      "date": 1869
+    },
+    {
+      "label": "Conan Doyle Debuts 'Sherlock Holmes'",
+      "date": 1887
+    },
+    {
+      "label": "Fitzgerald's 'The Great Gatsby' Published",
+      "date": 1925
+    },
+    {
+      "label": "Orwell's Dystopian '1984' Unveiled",
+      "date": 1949
+    },
+    {
+      "label": "Harper Lee's 'To Kill a Mockingbird' Wins Pulitzer",
+      "date": 1961
+    },
+    {
+      "label": "Rowling Introduces 'Harry Potter'",
+      "date": 1997
+    }
+  ]
+}

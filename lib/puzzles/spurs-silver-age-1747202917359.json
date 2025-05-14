@@ -1,0 +1,50 @@
+{
+  "slug": "user-1747202847771",
+  "topic": "Spurs' Silver Age",
+  "category": "Sports",
+  "subcategory": "Basketball",
+  "showTooltips": false,
+  "hideDates": false,
+  "cards": [
+    {
+      "label": "Birth of a Franchise",
+      "date": 1967
+    },
+    {
+      "label": "ABA-NBA Merger",
+      "date": 1976
+    },
+    {
+      "label": "First Playoff Appearance",
+      "date": 1977
+    },
+    {
+      "label": "Iceman's 63-point Game",
+      "date": 1982
+    },
+    {
+      "label": "David Robinson Drafted",
+      "date": 1987
+    },
+    {
+      "label": "The Admiral's Quadruple-Double",
+      "date": 1994
+    },
+    {
+      "label": "Tim Duncan Joins the Squad",
+      "date": 1997
+    },
+    {
+      "label": "First NBA Championship",
+      "date": 1999
+    },
+    {
+      "label": "The Big Three Era Begins",
+      "date": 2002
+    },
+    {
+      "label": "Passing the Torch to Kawhi",
+      "date": 2011
+    }
+  ]
+}
