@@ -1,0 +1,89 @@
+{
+  "slug": "user-1747281508853",
+  "topic": "Songs: Rap Diss Tracks",
+  "category": "Entertainment",
+  "showTooltips": false,
+  "hideDates": false,
+  "cards": [
+    {
+      "label": "Hit 'Em Up – 2Pac",
+      "date": 1996,
+      "id": "ugc-1747281508807-0",
+      "deezer": {
+        "trackId": 1761388347
+      }
+    },
+    {
+      "label": "Ether – Nas",
+      "date": 2001,
+      "id": "ugc-1747281508766-1",
+      "deezer": {
+        "trackId": 3151970
+      }
+    },
+    {
+      "label": "The Story of Adidon – Pusha T",
+      "date": 2018,
+      "id": "ugc-1747281508728-2",
+      "deezer": {
+        "trackId": 381076511
+      }
+    },
+    {
+      "label": "No Vaseline – Ice Cube",
+      "date": 1991,
+      "id": "ugc-1747281508740-3",
+      "deezer": {
+        "trackId": 116945566
+      }
+    },
+    {
+      "label": "Killshot – Eminem",
+      "date": 2018,
+      "id": "ugc-1747281508723-4",
+      "deezer": {
+        "trackId": 556305252
+      }
+    },
+    {
+      "label": "Back to Back – Drake",
+      "date": 2015,
+      "id": "ugc-1747281508851-5",
+      "deezer": {
+        "trackId": 105064722
+      }
+    },
+    {
+      "label": "Takeover – Jay-Z",
+      "date": 2001,
+      "id": "ugc-1747281508764-6",
+      "deezer": {
+        "trackId": 88195563
+      }
+    },
+    {
+      "label": "Duppy Freestyle – Drake",
+      "date": 2018,
+      "id": "ugc-1747281508745-7",
+      "deezer": {
+        "trackId": 1028083552
+      }
+    },
+    {
+      "label": "ShEther – Remy Ma",
+      "date": 2017,
+      "id": "ugc-1747281508750-8",
+      "deezer": {
+        "trackId": 1369456672
+      }
+    },
+    {
+      "label": "Second Round K.O. – Canibus",
+      "date": 1998,
+      "id": "ugc-1747281508725-9",
+      "deezer": {
+        "trackId": 2228698
+      }
+    }
+  ]
+}

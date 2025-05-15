@@ -2,6 +2,7 @@ import type { NextApiRequest, NextApiResponse } from 'next';
 import { OpenAI } from 'openai';
 import { z } from 'zod';
 import { SYSTEM_PROMPT } from "../../lib/systemPrompt";
+import { searchDeezerTrack } from '../../lib/deezer';
 
 const openai = new OpenAI({ apiKey: process.env.OPENAI_API_KEY });
 
@@ -57,7 +58,14 @@ export default async function handler(req: NextApiRequest, res: NextApiResponse)
   }
 
   try {
-    const userPrompt = `Generate a puzzle about the topic: "${topic.trim()}".`;
+  const rawInput = topic.trim();
+const isSongsMode = rawInput.toLowerCase().startsWith("songs:");
+const cleanedTopic = isSongsMode ? rawInput.slice(6).trim() : rawInput;
+
+const userPrompt = isSongsMode
+  ? `Generate a list of 10 real, popular songs that match the theme: "${cleanedTopic}". Each must include title, artist, and release year. Return only a JSON array like: [{"label": "Bohemian Rhapsody – Queen", "date": 1975}, ...]`
+  : `Generate a puzzle about the topic: "${cleanedTopic}".`;
+
 
     let raw: string | undefined;
     let parsed: unknown;
@@ -96,12 +104,59 @@ export default async function handler(req: NextApiRequest, res: NextApiResponse)
       }
     }
 
+if (isSongsMode && Array.isArray(parsed)) {
+  parsed = {
+    topic: cleanedTopic,
+    category: "Songs",
+    cards: parsed,
+  };
+}
+
+
     if (process.env.NODE_ENV !== 'production') {
       console.log(`✅ GPT response succeeded on attempt ${successfulAttempt}`);
       console.table(parsed);
     }
 
+    // Normalize known variants before validation
+if (parsed && typeof parsed === 'object' && 'category' in parsed) {
+  if (parsed.category === 'Music') parsed.category = 'Entertainment';
+}
+
+
     const base = PuzzleSchema.parse(parsed);
+
+let finalCards;
+
+if (isSongsMode) {
+  const base = PuzzleSchema.parse(parsed);
+
+  const enriched = await Promise.all(
+    base.cards.map(async (card, index) => {
+      const match = await searchDeezerTrack(card.label, card.date);
+      return match
+        ? {
+            ...card,
+            id: `ugc-${Date.now()}-${index}`,
+            deezer: { trackId: match.trackId },
+          }
+        : null;
+    })
+  );
+
+  const finalCards = enriched.filter(Boolean).slice(0, 10);
+  if (finalCards.length < 10) {
+    throw new Error("Not enough songs with valid previews.");
+  }
+
+  return res.status(200).json({
+    topic: base.topic || cleanedTopic,
+    category: "Entertainment",
+    subcategory: "Music",
+    cards: finalCards,
+  });
+}
+
 
 const enriched = await Promise.all(
   base.cards.map(async (card, index) => {
@@ -122,8 +177,13 @@ const enriched = await Promise.all(
   })
 );
 
-const finalCards = PuzzleSchema.shape.cards.parse(enriched);
-return res.status(200).json({ cards: finalCards, category: base.category });
+finalCards = PuzzleSchema.shape.cards.parse(enriched);
+
+return res.status(200).json({
+  cards: finalCards,
+  category: isSongsMode ? "Songs" : base.category,
+});
+
   } catch (err: any) {
     console.error('Error generating puzzle:', err);
     return res.status(500).json({ error: 'Oopsie, the robot did a no-no. Please try again.' });

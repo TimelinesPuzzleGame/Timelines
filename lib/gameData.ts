@@ -38,6 +38,11 @@ import airborne_legends_1747201906090 from './puzzles/airborne-legends-174720190
 import spurs_silver_age_1747202917359 from './puzzles/spurs-silver-age-1747202917359.json';
 import pixar_s_playbook_1747205818789 from './puzzles/pixar-s-playbook-1747205818789.json';
 import celtics_chronicles_1747240777235 from './puzzles/celtics-chronicles-1747240777235.json';
+import songs_aerosmith_1747273075637 from './puzzles/songs-aerosmith-1747273075637.json';
+import nba_draft_classes_1747280660045 from './puzzles/nba-draft-classes-1747280660045.json';
+import songs_rap_diss_tracks_1747282327137 from './puzzles/songs-rap-diss-tracks-1747282327137.json';
+import rising_suns_1747329855335 from './puzzles/rising-suns-1747329855335.json';
+import history_of_switzerland_1747330039109 from './puzzles/history-of-switzerland-1747330039109.json';
 // END IMPORTS
 
 export const puzzles: Puzzle[] = [
@@ -80,5 +85,10 @@ export const puzzles: Puzzle[] = [
     spurs_silver_age_1747202917359 as Puzzle,
     pixar_s_playbook_1747205818789 as Puzzle,
     celtics_chronicles_1747240777235 as Puzzle,
+    songs_aerosmith_1747273075637 as Puzzle,
+    nba_draft_classes_1747280660045 as Puzzle,
+    songs_rap_diss_tracks_1747282327137 as Puzzle,
+    rising_suns_1747329855335 as Puzzle,
+    history_of_switzerland_1747330039109 as Puzzle,
   // END EXPORTS
 ];

@@ -1,0 +1,60 @@
+{
+  "slug": "user-1747329845558",
+  "topic": "Rising Suns",
+  "category": "Sports",
+  "subcategory": "Basketball",
+  "showTooltips": false,
+  "hideDates": false,
+  "cards": [
+    {
+      "label": "Birth of the Suns",
+      "date": 1968,
+      "id": "surprise-1747329845557-0"
+    },
+    {
+      "label": "Adoption of Suns Gorilla",
+      "date": 1980,
+      "id": "surprise-1747329845557-1"
+    },
+    {
+      "label": "Charles Barkley Arrives",
+      "date": 1992,
+      "id": "surprise-1747329845557-2"
+    },
+    {
+      "label": "Nash Returns to Suns",
+      "date": 2004,
+      "id": "surprise-1747329845557-3"
+    },
+    {
+      "label": "7SOL Era Begins",
+      "date": 2005,
+      "id": "surprise-1747329845557-4"
+    },
+    {
+      "label": "Statue for Colangelo",
+      "date": 2007,
+      "id": "surprise-1747329845557-5"
+    },
+    {
+      "label": "First Western Conference Finals since '93",
+      "date": 2010,
+      "id": "surprise-1747329845557-6"
+    },
+    {
+      "label": "Drought: No Playoffs",
+      "date": 2011,
+      "id": "surprise-1747329845557-7"
+    },
+    {
+      "label": "Welcome, Deandre Ayton",
+      "date": 2018,
+      "id": "surprise-1747329845557-8"
+    },
+    {
+      "label": "Bubble Suns Emerge",
+      "date": 2020,
+      "id": "surprise-1747329845557-9"
+    }
+  ]
+}

@@ -1,7 +1,15 @@
 export const SURPRISE_PROMPTS: Record<string, { prompt: string; category: string }> = {
   "Music": {
     category: "Entertainment",
-    prompt: `Generate a puzzle of 10 iconic moments in music history. Each card must include a short label and a specific year. Avoid duplicate years. Format as a JSON object with "category", "subcategory", and "cards".`,
+    prompt: `
+Generate a list of 20 popular songs that span different decades, genres.  Important: Prioritize variety and randomness. Avoid overly popular or cliché choices. Mix in lesser-known hits and deeper cuts to keep the puzzles surprising and diverse each time. Try not to repeat songs frequently used in common playlists or typical 'greatest hits' compilations.s.
+Each entry should be a single song with its official release year — no events, albums, or artist bios.
+Respond with only the JSON array of objects like:
+[{ "label": "Bohemian Rhapsody – Queen", "date": 1975 }, ...]
+Do not include commentary, backstory, or non-song events.
+Only use songs that are likely to have Deezer preview clips.
+`,
+
   },
   "Movies/TV": {
     category: "Entertainment",

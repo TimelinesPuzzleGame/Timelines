@@ -1,0 +1,59 @@
+{
+  "slug": "user-1747280621159",
+  "topic": "NBA Draft Classes",
+  "category": "Sports",
+  "showTooltips": false,
+  "hideDates": false,
+  "cards": [
+    {
+      "label": "LeBron James Goes 1st Overall",
+      "date": 2003,
+      "id": "ugc-1747280619210-0"
+    },
+    {
+      "label": "Kevin Durant's Rookie Debut",
+      "date": 2007,
+      "id": "ugc-1747280619242-1"
+    },
+    {
+      "label": "Stephen Curry Emerges as a Star",
+      "date": 2009,
+      "id": "ugc-1747280619251-2"
+    },
+    {
+      "label": "Anthony Davis Drafted as No. 1 Pick",
+      "date": 2012,
+      "id": "ugc-1747280619224-3"
+    },
+    {
+      "label": "Giannis Antetokounmpo's Breakout Season",
+      "date": 2013,
+      "id": "ugc-1747280619109-4"
+    },
+    {
+      "label": "Karl-Anthony Towns Wins Rookie of the Year",
+      "date": 2016,
+      "id": "ugc-1747280621156-5"
+    },
+    {
+      "label": "Zion Williamson's Highly Anticipated Debut",
+      "date": 2019,
+      "id": "ugc-1747280619236-6"
+    },
+    {
+      "label": "LaMelo Ball Becomes Rookie Sensation",
+      "date": 2020,
+      "id": "ugc-1747280619225-7"
+    },
+    {
+      "label": "Cade Cunningham Selected First in Draft",
+      "date": 2021,
+      "id": "ugc-1747280619254-8"
+    },
+    {
+      "label": "2022 NBA Draft's Rising Stars",
+      "date": 2022,
+      "id": "ugc-1747280619635-9"
+    }
+  ]
+}

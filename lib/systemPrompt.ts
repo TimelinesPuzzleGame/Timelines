@@ -18,6 +18,7 @@ PUZZLE GUIDELINES:
 - Fictional timelines allowed if clearly requested.
 - Avoid vague or overlapping entries.
 - Do not include mythological or geological formation events unless the date can be verified via historical record.
+- If it's a sports topic, try to include the opposing team/player/fighter's name (ex. don't just say "Silva's Knockout" — say "Silva KOs Franklin"). 
 
 FORMAT:
 Return a JSON object with four keys:

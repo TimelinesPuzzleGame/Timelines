@@ -1,0 +1,60 @@
+{
+  "slug": "user-1747329909857",
+  "topic": "History of Switzerland",
+  "category": "History",
+  "showTooltips": false,
+  "hideDates": false,
+  "cards": [
+    {
+      "label": "Founding of the Swiss Confederation",
+      "date": 1291,
+      "id": "ugc-1747329909464-0"
+    },
+    {
+      "label": "Signing of the Treaty of Westphalia",
+      "date": 1648,
+      "id": "ugc-1747329909607-1"
+    },
+    {
+      "label": "Congress of Vienna",
+      "date": 1814,
+      "source": "https://en.wikipedia.org/wiki/Congress_of_Vienna",
+      "id": "ugc-1747329909036-2"
+    },
+    {
+      "label": "Switzerland's Neutrality Policy Established",
+      "date": 1815,
+      "id": "ugc-1747329909579-3"
+    },
+    {
+      "label": "Switzerland Joins the League of Nations",
+      "date": 1920,
+      "id": "ugc-1747329909765-4"
+    },
+    {
+      "label": "Women's Suffrage Granted Nationwide",
+      "date": 1971,
+      "id": "ugc-1747329909522-5"
+    },
+    {
+      "label": "Switzerland Becomes a Member of the United Nations",
+      "date": 2002,
+      "id": "ugc-1747329909669-6"
+    },
+    {
+      "label": "Opening of the Gotthard Base Tunnel",
+      "date": 2016,
+      "id": "ugc-1747329909855-7"
+    },
+    {
+      "label": "Legalization of Same-Sex Marriage",
+      "date": 2021,
+      "id": "ugc-1747329909607-8"
+    },
+    {
+      "label": "Swiss Referendum on EU Bilateral Agreements",
+      "date": 2021,
+      "id": "ugc-1747329909607-9"
+    }
+  ]
+}
