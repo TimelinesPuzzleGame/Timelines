@@ -1,0 +1,59 @@
+{
+  "slug": "user-1747533441979",
+  "topic": "Trends in Popular Music 1900-2025",
+  "category": "Arts",
+  "showTooltips": false,
+  "hideDates": false,
+  "cards": [
+    {
+      "label": "First Jazz Record Released",
+      "date": 1917,
+      "id": "ugc-1747533441874-0"
+    },
+    {
+      "label": "Elvis Presley's Debut Single",
+      "date": 1954,
+      "id": "ugc-1747533441845-1"
+    },
+    {
+      "label": "The Beatles' First No. 1 Hit",
+      "date": 1964,
+      "id": "ugc-1747533441970-2"
+    },
+    {
+      "label": "Michael Jackson's Thriller Album Release",
+      "date": 1982,
+      "id": "ugc-1747533441873-3"
+    },
+    {
+      "label": "Nirvana's 'Smells Like Teen Spirit' Hits Airwaves",
+      "date": 1991,
+      "id": "ugc-1747533441897-4"
+    },
+    {
+      "label": "Spotify Launches in the U.S.",
+      "date": 2011,
+      "id": "ugc-1747533441877-5"
+    },
+    {
+      "label": "BTS Makes Billboard Hot 100 History",
+      "date": 2020,
+      "id": "ugc-1747533441863-6"
+    },
+    {
+      "label": "Taylor Swift Re-Records Her Albums",
+      "date": 2021,
+      "id": "ugc-1747533441892-7"
+    },
+    {
+      "label": "First Virtual Reality Concert Goes Live",
+      "date": 2022,
+      "id": "ugc-1747533441933-8"
+    },
+    {
+      "label": "AI-Generated Music Dominates Charts",
+      "date": 2025,
+      "id": "ugc-1747533441893-9"
+    }
+  ]
+}

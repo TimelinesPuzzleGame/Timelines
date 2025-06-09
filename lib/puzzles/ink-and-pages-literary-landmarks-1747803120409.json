@@ -1,0 +1,60 @@
+{
+  "slug": "user-1747803046585",
+  "topic": "Ink and Pages: Literary Landmarks",
+  "category": "Arts",
+  "subcategory": "Books",
+  "showTooltips": false,
+  "hideDates": false,
+  "cards": [
+    {
+      "label": "'War and Peace' Drops!",
+      "date": 1869,
+      "id": "surprise-1747803046583-0"
+    },
+    {
+      "label": "Sherlock Holmes First Appears",
+      "date": 1887,
+      "id": "surprise-1747803046583-1"
+    },
+    {
+      "label": "'Gone with the Wind' Sweeps Nation",
+      "date": 1936,
+      "id": "surprise-1747803046583-2"
+    },
+    {
+      "label": "Bilbo Baggins Begins His Journey",
+      "date": 1937,
+      "id": "surprise-1747803046583-3"
+    },
+    {
+      "label": "'The Catcher in the Rye' Ruffles Feathers",
+      "date": 1951,
+      "id": "surprise-1747803046583-4"
+    },
+    {
+      "label": "First Entry in Asimov's Epic 'Foundation' Series",
+      "date": 1951,
+      "id": "surprise-1747803046583-5"
+    },
+    {
+      "label": "Harper Lee Stirs Souls with 'To Kill a Mockingbird'",
+      "date": 1960,
+      "id": "surprise-1747803046583-6"
+    },
+    {
+      "label": "'The Shining' Chills Readers",
+      "date": 1977,
+      "id": "surprise-1747803046583-7"
+    },
+    {
+      "label": "Harry Potter is 'The Boy Who Lived'",
+      "date": 1997,
+      "id": "surprise-1747803046583-8"
+    },
+    {
+      "label": "Katniss Everdeen Ignites the 'Hunger Games'",
+      "date": 2008,
+      "id": "surprise-1747803046583-9"
+    }
+  ]
+}

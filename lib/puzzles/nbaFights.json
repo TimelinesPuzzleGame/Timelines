@@ -1,0 +1,64 @@
+{
+  "slug": "nba-fights",
+  "topic": "NBA Fights",
+  "category": "Sports",
+  "subcategory": "Basketball",
+  "hideDates": false,
+  "cards": [
+       {
+      "label": "The Malice at the Palace",
+      "date": 2004, 
+      "youtube": "https://www.youtube.com/watch?v=t_Ri35w3kwE{&t=2s&end=45s"
+    },
+    {
+      "label": "Lebron James vs. Isaiah Stewart",
+      "date": 2021,
+      "youtube": "https://www.youtube.com/watch?v=B-pbpGhv3So&t=46s&end=111s"
+    },
+    {
+      "label": "Devin Booker vs. Grant Williams",
+      "date": 2018,
+      "youtube": "https://www.youtube.com/watch?v=B-pbpGhv3So&t=112s&end=150s"
+    },
+    {
+      "label": "Klay Thompson vs. Jaden McDaniels", 
+      "date": 2023,
+      "youtube": "https://www.youtube.com/watch?v=B-pbpGhv3So&t=232s&end=254s"
+    },
+    {
+      "label": "Rondo vs. Chris Paul",
+      "date": 2018,
+      "youtube": "https://www.youtube.com/watch?v=B-pbpGhv3So&t=811s&end=821s"
+    },
+    {
+      "label": "Loinel Hollins vs Tree Rollins",
+      "date": 1982,
+      "youtube": "https://www.youtube.com/watch?v=B-pbpGhv3So&t=4s&end=39s"
+    },
+    {
+      "label": "Michael Cooper vs. Rick Mahorn",
+      "date": 1989,
+      "youtube": "https://www.youtube.com/watch?v=-5S2Jqq1eNo&t=27s&end=99s"
+    },
+    {
+      "label": "Isaiah Thomas vs. Rick Mahorn",
+      "date": 1990,
+      "youtube": "https://www.youtube.com/watch?v=B-pbpGhv3So&t=106s&end=50s"
+    },
+    {
+      "label": "Kobe Bryant vs. Chris Childs",
+      "date": 2000,
+      "youtube": "https://www.youtube.com/watch?v=-5S2Jqq1eNo&t=811s&end=147s"
+    },
+    {
+      "label": "Lopez vs. Ibaka",
+      "date": 2004,
+      "youtube": "https://www.youtube.com/watch?v=-5S2Jqq1eNo&t=253s&end=321s"
+    },
+    {
+      "label": "Denis Scott's Son vs. Shaq",
+      "date": 2016,
+      "youtube": "https://www.youtube.com/watch?v=B-pbpGhv3So&t=320s&end=339s"
+    }
+  ]
+}

@@ -1,0 +1,432 @@
+{
+  "slug": "gibboanx-test-31",
+  "topic": "Gibboanx Test Puzzle 31",
+  "category": "Entertainment",
+  "subcategory": "Movies/TV",
+  "hideDates": false,
+  "showTooltips": true,
+  "variantSystem": {
+    "enabled": true,
+    "totalScenes": 10,
+    "selectionStrategy": "random_per_round"
+  },
+  "cards": [
+    {
+      "id": "gibboanx-test-31-1",
+      "label": "Birdman or (The Unexpected Virtue of Ignorance)",
+      "date": 2014,
+      "year": 2014,
+      "youtube": "https://www.youtube.com/watch?v=XtWP94WWaL0&t=0s&end=156s",
+      "duration": 156,
+      "variants": [
+        {
+          "id": "XtWP94WWaL0-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=XtWP94WWaL0&t=0s&end=156s",
+          "sceneDescription": "Birdman or (The Unexpected Virtue of Ignorance) - Part 1 (0:00 - 2:36)",
+          "startTime": 0,
+          "endTime": 156
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Birdman or (The Unexpected Virtue of Ignorance) (2014) - Quality Score: 35/100",
+        "genre": "Classic Film",
+        "crawlerScore": 35,
+        "breakdown": {
+          "titleRelevance": 20,
+          "sceneIndicators": 20,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:36:24.333Z"
+      },
+      "movie": "Birdman or (The Unexpected Virtue of Ignorance)"
+    },
+    {
+      "id": "gibboanx-test-31-2",
+      "label": "Beverly Hills Cop",
+      "date": 1984,
+      "year": 1984,
+      "youtube": "https://www.youtube.com/watch?v=HbChcjfL7Mw&t=0s&end=120s",
+      "duration": 301,
+      "variants": [
+        {
+          "id": "HbChcjfL7Mw-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=HbChcjfL7Mw&t=0s&end=120s",
+          "sceneDescription": "Beverly Hills Cop - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "HbChcjfL7Mw-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=HbChcjfL7Mw&t=120s&end=240s",
+          "sceneDescription": "Beverly Hills Cop - Part 2 (2:00 - 4:00)",
+          "startTime": 120,
+          "endTime": 240
+        },
+        {
+          "id": "HbChcjfL7Mw-variant-2",
+          "youtube": "https://www.youtube.com/watch?v=HbChcjfL7Mw&t=240s&end=301s",
+          "sceneDescription": "Beverly Hills Cop - Part 3 (4:00 - 5:01)",
+          "startTime": 240,
+          "endTime": 301
+        }
+      ],
+      "variantCount": 3,
+      "tooltip": {
+        "description": "Beverly Hills Cop (1984) - Quality Score: 50/100",
+        "genre": "Classic Film",
+        "crawlerScore": 50,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 10,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:36:24.333Z"
+      },
+      "movie": "Beverly Hills Cop"
+    },
+    {
+      "id": "gibboanx-test-31-3",
+      "label": "Kids",
+      "date": 1995,
+      "year": 1995,
+      "youtube": "https://www.youtube.com/watch?v=sPmtDXN8nn8&t=0s&end=25s",
+      "duration": 25,
+      "variants": [
+        {
+          "id": "sPmtDXN8nn8-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=sPmtDXN8nn8&t=0s&end=25s",
+          "sceneDescription": "Kids - Full Scene (0:00 - 0:25)",
+          "startTime": 0,
+          "endTime": 25
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Kids (1995) - Quality Score: 42/100",
+        "genre": "Classic Film",
+        "crawlerScore": 42,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 2,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:36:24.333Z"
+      },
+      "movie": "Kids"
+    },
+    {
+      "id": "gibboanx-test-31-4",
+      "label": "Hard Candy",
+      "date": 2005,
+      "year": 2005,
+      "youtube": "https://www.youtube.com/watch?v=NMXed9Nvjfo&t=0s&end=120s",
+      "duration": 520,
+      "variants": [
+        {
+          "id": "NMXed9Nvjfo-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=NMXed9Nvjfo&t=0s&end=120s",
+          "sceneDescription": "Hard Candy - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "NMXed9Nvjfo-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=NMXed9Nvjfo&t=120s&end=240s",
+          "sceneDescription": "Hard Candy - Part 2 (2:00 - 4:00)",
+          "startTime": 120,
+          "endTime": 240
+        },
+        {
+          "id": "NMXed9Nvjfo-variant-2",
+          "youtube": "https://www.youtube.com/watch?v=NMXed9Nvjfo&t=240s&end=360s",
+          "sceneDescription": "Hard Candy - Part 3 (4:00 - 6:00)",
+          "startTime": 240,
+          "endTime": 360
+        },
+        {
+          "id": "NMXed9Nvjfo-variant-3",
+          "youtube": "https://www.youtube.com/watch?v=NMXed9Nvjfo&t=360s&end=520s",
+          "sceneDescription": "Hard Candy - Part 4 (6:00 - 8:40)",
+          "startTime": 360,
+          "endTime": 520
+        }
+      ],
+      "variantCount": 4,
+      "tooltip": {
+        "description": "Hard Candy (2005) - Quality Score: 60/100",
+        "genre": "Classic Film",
+        "crawlerScore": 60,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 20,
+          "resolutionQuality": 0,
+          "popularityFactor": 10,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:36:24.333Z"
+      },
+      "movie": "Hard Candy"
+    },
+    {
+      "id": "gibboanx-test-31-5",
+      "label": "Sicko",
+      "date": 2007,
+      "year": 2007,
+      "youtube": "https://www.youtube.com/watch?v=rQ1lPPTPSR4&t=0s&end=68s",
+      "duration": 68,
+      "variants": [
+        {
+          "id": "rQ1lPPTPSR4-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=rQ1lPPTPSR4&t=0s&end=68s",
+          "sceneDescription": "Sicko - Full Scene (0:00 - 1:08)",
+          "startTime": 0,
+          "endTime": 68
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Sicko (2007) - Quality Score: 45/100",
+        "genre": "Classic Film",
+        "crawlerScore": 45,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:36:24.333Z"
+      },
+      "movie": "Sicko"
+    },
+    {
+      "id": "gibboanx-test-31-6",
+      "label": "Lenny",
+      "date": 1974,
+      "year": 1974,
+      "youtube": "https://www.youtube.com/watch?v=qsMYM5IQ6is&t=0s&end=120s",
+      "duration": 426,
+      "variants": [
+        {
+          "id": "qsMYM5IQ6is-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=qsMYM5IQ6is&t=0s&end=120s",
+          "sceneDescription": "Lenny - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "qsMYM5IQ6is-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=qsMYM5IQ6is&t=120s&end=240s",
+          "sceneDescription": "Lenny - Part 2 (2:00 - 4:00)",
+          "startTime": 120,
+          "endTime": 240
+        },
+        {
+          "id": "qsMYM5IQ6is-variant-2",
+          "youtube": "https://www.youtube.com/watch?v=qsMYM5IQ6is&t=240s&end=360s",
+          "sceneDescription": "Lenny - Part 3 (4:00 - 6:00)",
+          "startTime": 240,
+          "endTime": 360
+        },
+        {
+          "id": "qsMYM5IQ6is-variant-3",
+          "youtube": "https://www.youtube.com/watch?v=qsMYM5IQ6is&t=360s&end=426s",
+          "sceneDescription": "Lenny - Part 4 (6:00 - 7:06)",
+          "startTime": 360,
+          "endTime": 426
+        }
+      ],
+      "variantCount": 4,
+      "tooltip": {
+        "description": "Lenny (1974) - Quality Score: 35/100",
+        "genre": "Classic Film",
+        "crawlerScore": 35,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 0,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:36:24.333Z"
+      },
+      "movie": "Lenny"
+    },
+    {
+      "id": "gibboanx-test-31-7",
+      "label": "Persepolis",
+      "date": 2007,
+      "year": 2007,
+      "youtube": "https://www.youtube.com/watch?v=SfNDOhQLeuQ&t=0s&end=92s",
+      "duration": 92,
+      "variants": [
+        {
+          "id": "SfNDOhQLeuQ-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=SfNDOhQLeuQ&t=0s&end=92s",
+          "sceneDescription": "Persepolis - Full Scene (0:00 - 1:32)",
+          "startTime": 0,
+          "endTime": 92
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Persepolis (2007) - Quality Score: 42/100",
+        "genre": "Classic Film",
+        "crawlerScore": 42,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 2,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:36:24.333Z"
+      },
+      "movie": "Persepolis"
+    },
+    {
+      "id": "gibboanx-test-31-8",
+      "label": "The Others",
+      "date": 2001,
+      "year": 2001,
+      "youtube": "https://www.youtube.com/watch?v=xGm7v1lH0jg&t=0s&end=120s",
+      "duration": 380,
+      "variants": [
+        {
+          "id": "xGm7v1lH0jg-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=xGm7v1lH0jg&t=0s&end=120s",
+          "sceneDescription": "The Others - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "xGm7v1lH0jg-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=xGm7v1lH0jg&t=120s&end=240s",
+          "sceneDescription": "The Others - Part 2 (2:00 - 4:00)",
+          "startTime": 120,
+          "endTime": 240
+        },
+        {
+          "id": "xGm7v1lH0jg-variant-2",
+          "youtube": "https://www.youtube.com/watch?v=xGm7v1lH0jg&t=240s&end=380s",
+          "sceneDescription": "The Others - Part 3 (4:00 - 6:20)",
+          "startTime": 240,
+          "endTime": 380
+        }
+      ],
+      "variantCount": 3,
+      "tooltip": {
+        "description": "The Others (2001) - Quality Score: 50/100",
+        "genre": "Classic Film",
+        "crawlerScore": 50,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 20,
+          "resolutionQuality": 0,
+          "popularityFactor": 0,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:36:24.333Z"
+      },
+      "movie": "The Others"
+    },
+    {
+      "id": "gibboanx-test-31-9",
+      "label": "Bill & Ted's Excellent Adventure",
+      "date": 1989,
+      "year": 1989,
+      "youtube": "https://www.youtube.com/watch?v=3FbYcu5NhtQ&t=0s&end=120s",
+      "duration": 261,
+      "variants": [
+        {
+          "id": "3FbYcu5NhtQ-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=3FbYcu5NhtQ&t=0s&end=120s",
+          "sceneDescription": "Bill & Ted's Excellent Adventure - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "3FbYcu5NhtQ-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=3FbYcu5NhtQ&t=120s&end=261s",
+          "sceneDescription": "Bill & Ted's Excellent Adventure - Part 2 (2:00 - 4:21)",
+          "startTime": 120,
+          "endTime": 261
+        }
+      ],
+      "variantCount": 2,
+      "tooltip": {
+        "description": "Bill & Ted's Excellent Adventure (1989) - Quality Score: 35/100",
+        "genre": "Classic Film",
+        "crawlerScore": 35,
+        "breakdown": {
+          "titleRelevance": 20,
+          "sceneIndicators": 10,
+          "resolutionQuality": 10,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:36:24.333Z"
+      },
+      "movie": "Bill & Ted's Excellent Adventure"
+    },
+    {
+      "id": "gibboanx-test-31-10",
+      "label": "Rescue Dawn",
+      "date": 2006,
+      "year": 2006,
+      "youtube": "https://www.youtube.com/watch?v=216PoUl2RIA&t=0s&end=39s",
+      "duration": 39,
+      "variants": [
+        {
+          "id": "216PoUl2RIA-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=216PoUl2RIA&t=0s&end=39s",
+          "sceneDescription": "Rescue Dawn - Full Scene (0:00 - 0:39)",
+          "startTime": 0,
+          "endTime": 39
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Rescue Dawn (2006) - Quality Score: 35/100",
+        "genre": "Classic Film",
+        "crawlerScore": 35,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 0,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:36:24.333Z"
+      },
+      "movie": "Rescue Dawn"
+    }
+  ]
+}

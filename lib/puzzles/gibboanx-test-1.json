@@ -1,0 +1,404 @@
+{
+  "slug": "gibboanx-test-1",
+  "topic": "Gibboanx Test Puzzle 1",
+  "category": "Entertainment",
+  "subcategory": "Movies/TV",
+  "hideDates": false,
+  "showTooltips": true,
+  "variantSystem": {
+    "enabled": true,
+    "totalScenes": 10,
+    "selectionStrategy": "random_per_round"
+  },
+  "cards": [
+    {
+      "id": "gibboanx-test-1-1",
+      "label": "12 Monkeys",
+      "date": 1995,
+      "year": 1995,
+      "youtube": "https://www.youtube.com/watch?v=NDNc-CPMb90&t=0s&end=34s",
+      "duration": 34,
+      "variants": [
+        {
+          "id": "NDNc-CPMb90-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=NDNc-CPMb90&t=0s&end=34s",
+          "sceneDescription": "12 Monkeys - Full Scene (0:00 - 0:34)",
+          "startTime": 0,
+          "endTime": 34
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "12 Monkeys (1995) - Quality Score: 42/100",
+        "genre": "Classic Film",
+        "crawlerScore": 42,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 2,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T20:28:25.107Z"
+      },
+      "movie": "12 Monkeys"
+    },
+    {
+      "id": "gibboanx-test-1-2",
+      "label": "A Bittersweet Life",
+      "date": 2005,
+      "year": 2005,
+      "youtube": "https://www.youtube.com/watch?v=Mkc0vL7a5vo&t=0s&end=139s",
+      "duration": 139,
+      "variants": [
+        {
+          "id": "Mkc0vL7a5vo-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=Mkc0vL7a5vo&t=0s&end=139s",
+          "sceneDescription": "A Bittersweet Life - Part 1 (0:00 - 2:19)",
+          "startTime": 0,
+          "endTime": 139
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "A Bittersweet Life (2005) - Quality Score: 45/100",
+        "genre": "Classic Film",
+        "crawlerScore": 45,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T20:28:25.107Z"
+      },
+      "movie": "A Bittersweet Life"
+    },
+    {
+      "id": "gibboanx-test-1-3",
+      "label": "Alan Partridge",
+      "date": 2013,
+      "year": 2013,
+      "youtube": "https://www.youtube.com/watch?v=Mt_swWjj7b8&t=0s&end=66s",
+      "duration": 66,
+      "variants": [
+        {
+          "id": "Mt_swWjj7b8-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=Mt_swWjj7b8&t=0s&end=66s",
+          "sceneDescription": "Alan Partridge - Full Scene (0:00 - 1:06)",
+          "startTime": 0,
+          "endTime": 66
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Alan Partridge (2013) - Quality Score: 42/100",
+        "genre": "Classic Film",
+        "crawlerScore": 42,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 2,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T20:28:25.107Z"
+      },
+      "movie": "Alan Partridge"
+    },
+    {
+      "id": "gibboanx-test-1-4",
+      "label": "Almost Famous",
+      "date": 2000,
+      "year": 2000,
+      "youtube": "https://www.youtube.com/watch?v=sHX7bVOU4FY&t=0s&end=120s",
+      "duration": 184,
+      "variants": [
+        {
+          "id": "sHX7bVOU4FY-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=sHX7bVOU4FY&t=0s&end=120s",
+          "sceneDescription": "Almost Famous - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "sHX7bVOU4FY-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=sHX7bVOU4FY&t=120s&end=184s",
+          "sceneDescription": "Almost Famous - Part 2 (2:00 - 3:04)",
+          "startTime": 120,
+          "endTime": 184
+        }
+      ],
+      "variantCount": 2,
+      "tooltip": {
+        "description": "Almost Famous (2000) - Quality Score: 55/100",
+        "genre": "Classic Film",
+        "crawlerScore": 55,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 20,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T20:28:25.107Z"
+      },
+      "movie": "Almost Famous"
+    },
+    {
+      "id": "gibboanx-test-1-5",
+      "label": "Army of Darkness",
+      "date": 1992,
+      "year": 1992,
+      "youtube": "https://www.youtube.com/watch?v=GULItNlBvJc&t=0s&end=120s",
+      "duration": 239,
+      "variants": [
+        {
+          "id": "GULItNlBvJc-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=GULItNlBvJc&t=0s&end=120s",
+          "sceneDescription": "Army of Darkness - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "GULItNlBvJc-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=GULItNlBvJc&t=120s&end=239s",
+          "sceneDescription": "Army of Darkness - Part 2 (2:00 - 3:59)",
+          "startTime": 120,
+          "endTime": 239
+        }
+      ],
+      "variantCount": 2,
+      "tooltip": {
+        "description": "Army of Darkness (1992) - Quality Score: 50/100",
+        "genre": "Classic Film",
+        "crawlerScore": 50,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 0,
+          "resolutionQuality": 10,
+          "popularityFactor": 10,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T20:28:25.107Z"
+      },
+      "movie": "Army of Darkness"
+    },
+    {
+      "id": "gibboanx-test-1-6",
+      "label": "Before the Devil Knows You're Dead",
+      "date": 2007,
+      "year": 2007,
+      "youtube": "https://www.youtube.com/watch?v=X83acBOd7W4&t=0s&end=120s",
+      "duration": 299,
+      "variants": [
+        {
+          "id": "X83acBOd7W4-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=X83acBOd7W4&t=0s&end=120s",
+          "sceneDescription": "Before the Devil Knows You're Dead - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "X83acBOd7W4-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=X83acBOd7W4&t=120s&end=299s",
+          "sceneDescription": "Before the Devil Knows You're Dead - Part 2 (2:00 - 4:59)",
+          "startTime": 120,
+          "endTime": 299
+        }
+      ],
+      "variantCount": 2,
+      "tooltip": {
+        "description": "Before the Devil Knows You're Dead (2007) - Quality Score: 42/100",
+        "genre": "Classic Film",
+        "crawlerScore": 42,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 2,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T20:28:25.107Z"
+      },
+      "movie": "Before the Devil Knows You're Dead"
+    },
+    {
+      "id": "gibboanx-test-1-7",
+      "label": "Biloxi Blues",
+      "date": 1988,
+      "year": 1988,
+      "youtube": "https://www.youtube.com/watch?v=FVNDI2IaUeo&t=0s&end=120s",
+      "duration": 360,
+      "variants": [
+        {
+          "id": "FVNDI2IaUeo-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=FVNDI2IaUeo&t=0s&end=120s",
+          "sceneDescription": "Biloxi Blues - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "FVNDI2IaUeo-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=FVNDI2IaUeo&t=120s&end=240s",
+          "sceneDescription": "Biloxi Blues - Part 2 (2:00 - 4:00)",
+          "startTime": 120,
+          "endTime": 240
+        },
+        {
+          "id": "FVNDI2IaUeo-variant-2",
+          "youtube": "https://www.youtube.com/watch?v=FVNDI2IaUeo&t=240s&end=360s",
+          "sceneDescription": "Biloxi Blues - Part 3 (4:00 - 6:00)",
+          "startTime": 240,
+          "endTime": 360
+        }
+      ],
+      "variantCount": 3,
+      "tooltip": {
+        "description": "Biloxi Blues (1988) - Quality Score: 45/100",
+        "genre": "Classic Film",
+        "crawlerScore": 45,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T20:28:25.107Z"
+      },
+      "movie": "Biloxi Blues"
+    },
+    {
+      "id": "gibboanx-test-1-8",
+      "label": "Cast Away",
+      "date": 2000,
+      "year": 2000,
+      "youtube": "https://www.youtube.com/watch?v=mqtrNstS2jE&t=0s&end=67s",
+      "duration": 67,
+      "variants": [
+        {
+          "id": "mqtrNstS2jE-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=mqtrNstS2jE&t=0s&end=67s",
+          "sceneDescription": "Cast Away - Full Scene (0:00 - 1:07)",
+          "startTime": 0,
+          "endTime": 67
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Cast Away (2000) - Quality Score: 42/100",
+        "genre": "Classic Film",
+        "crawlerScore": 42,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 2,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T20:28:25.107Z"
+      },
+      "movie": "Cast Away"
+    },
+    {
+      "id": "gibboanx-test-1-9",
+      "label": "Die Hard 2",
+      "date": 1990,
+      "year": 1990,
+      "youtube": "https://www.youtube.com/watch?v=hM8ROlP3w-o&t=0s&end=68s",
+      "duration": 68,
+      "variants": [
+        {
+          "id": "hM8ROlP3w-o-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=hM8ROlP3w-o&t=0s&end=68s",
+          "sceneDescription": "Die Hard 2 - Full Scene (0:00 - 1:08)",
+          "startTime": 0,
+          "endTime": 68
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Die Hard 2 (1990) - Quality Score: 45/100",
+        "genre": "Classic Film",
+        "crawlerScore": 45,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T20:28:25.107Z"
+      },
+      "movie": "Die Hard 2"
+    },
+    {
+      "id": "gibboanx-test-1-10",
+      "label": "Dope",
+      "date": 2015,
+      "year": 2015,
+      "youtube": "https://www.youtube.com/watch?v=rxFskV3wXlM&t=0s&end=120s",
+      "duration": 397,
+      "variants": [
+        {
+          "id": "rxFskV3wXlM-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=rxFskV3wXlM&t=0s&end=120s",
+          "sceneDescription": "Dope - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "rxFskV3wXlM-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=rxFskV3wXlM&t=120s&end=240s",
+          "sceneDescription": "Dope - Part 2 (2:00 - 4:00)",
+          "startTime": 120,
+          "endTime": 240
+        },
+        {
+          "id": "rxFskV3wXlM-variant-2",
+          "youtube": "https://www.youtube.com/watch?v=rxFskV3wXlM&t=240s&end=397s",
+          "sceneDescription": "Dope - Part 3 (4:00 - 6:37)",
+          "startTime": 240,
+          "endTime": 397
+        }
+      ],
+      "variantCount": 3,
+      "tooltip": {
+        "description": "Dope (2015) - Quality Score: 45/100",
+        "genre": "Classic Film",
+        "crawlerScore": 45,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T20:28:25.107Z"
+      },
+      "movie": "Dope"
+    }
+  ]
+}

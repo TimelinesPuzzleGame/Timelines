@@ -1,0 +1,637 @@
+{
+  "slug": "best-movie-songs",
+  "topic": "Best Movie Songs",
+  "category": "Movies/TV",
+  "subcategory": "Music",
+  "hideDates": false,
+  "showToolTips": true,
+  "cards": [
+    {
+      "label": "Pure Shores (The Beach)",
+      "date": 2000,
+      "youtube": "https://www.youtube.com/watch?v=IzN1lg4Es3Q",
+      "tooltip": { "description": "All Saints" }
+    },
+    {
+      "label": "Kiss Me (She's All That)",
+        "date": 1999,
+      "youtube": "https://www.youtube.com/watch?v=uEaouwm3ebA&t=73s",
+      "tooltip": { "description": "Sixpence None the Richer" }
+    },
+        {
+      "label": "Lady Marmalade (Moulin Rouge)",
+        "date": 2001,
+      "youtube": "https://www.youtube.com/watch?v=RQa7SvVCdZk&t=61s",
+      "tooltip": { "description": "Christina Aguilera, Pink, Lil Kim and Mya" }
+    },
+    { 
+    "label": "To Sir With Love (To Sir With Love)",
+          "date": 1967,
+      "youtube": "https://www.youtube.com/watch?v=EV1qmmMwc9M&t=14s",
+      "tooltip": { "description": "Lulu" }
+},
+    { 
+    "label":"'I Got You Babe' (Groundhog Day)",
+    "date": 1993,
+      "youtube": "https://www.youtube.com/watch?v=OyBSrBqogPY",
+      "tooltip": { "description": "Sonny & Cher" }
+},
+   {
+      "label":"Hold On (Waiting to Exhale)",
+      "date": 1992,
+      "youtube": "https://www.youtube.com/watch?v=CyLKkU9F2xw",
+      "tooltip": { "description": "Wilson Phillips" }
+    },
+{
+      "label":"'Mad World' (Donnie Darko)",
+      "date": 2001,
+      "youtube": "https://www.youtube.com/watch?v=L42OhzVWzc0&t=15s",
+      "tooltip": { "description": "Gary Jules and Michael Andrews" }
+    },
+    {
+      "label":"'Happy' (Despicable Me 2)",
+      "date": 2013, 
+      "youtube":"https://www.youtube.com/watch?v=MOWDb2TBYDg&t=3s",
+      "tooltip": { "description": "Pharell Williams" }
+    },
+    {
+      "label":"'The Way You Look Tonight' (Swing Time)",
+      "date": 1936, 
+      "youtube":"https://www.youtube.com/watch?v=dIW_Ah0wg-w&t=92s",
+      "tooltip": { "description": "Fred Astaire" }
+    },   
+    {
+      "label":"'Que Sera Sera (Whatever Will Be Will be)' (The Man Who Knew Too Much)",
+      "date": 1956, 
+      "youtube":"https://www.youtube.com/watch?v=xZbKHDPPrrc&t=15s",
+      "tooltip": { "description": "Doris Day" }
+    },
+    {
+        "label":"'Purple Rain' (Purple Rain)",
+      "date": 1984,
+      "youtube":"https://www.youtube.com/watch?v=TvnYmWpD_T8&t=69s",
+        "tooltip": { "description": "Prince" }
+    },
+    {
+      "label":" 'Men in Black' (Men in Black)",
+      "date": 1997,
+      "youtube":"https://www.youtube.com/watch?v=fiBLgEx6svA&t=25s",
+      "tooltip": { "description": "Will Smith" }
+    },
+    {
+      "label":"'The Way We Were' (The Way We Were)",
+      "date": 1973,
+      "youtube":"https://www.youtube.com/watch?v=jT0IXTXAnmo",
+      "tooltip": { "description": "Barbra Streisand" }  
+    },
+        {
+      "label":"'Endless Love' (Endless Love)",
+      "date": 1981,
+      "youtube":"https://www.youtube.com/watch?v=06l6kpAwhow",
+      "tooltip": { "description": "Lionel Richie and Diana Ross" }
+    },
+    {
+      "label":"'In Your Eyes' (Say Anything)",
+      "date": 1989,
+      "youtube":"https://www.youtube.com/watch?v=XlljhoQH5HU&t=90s",
+      "tooltip": { "description": "Peter Gabriel" }    
+    },
+    {
+      "label":"'Everybody's Talkin'' (Midnight Cowboy)",
+      "date": 1969,
+      "youtube":"https://www.youtube.com/watch?v=5zHVFXorF38",
+      "tooltip":{ "description": "Harry Nilsson" }
+ 
+    },
+    {
+      "label":"'Raindrops Keep Fallin' on My Head' (Butch Cassidy and the Sundance Kid)",
+      "date": 1969,
+      "youtube":"https://www.youtube.com/watch?v=_VyA2f6hGW4&",
+      "tooltip": { "description": "B.J. Thomas" }
+    },
+    {
+      "label":"'Theme from Shaft (Shaft)",
+      "date": 1971,
+      "youtube":"https://www.youtube.com/watch?v=Q429AOpL_ds&t=161s",
+      "tooltip": { "description": "Isaac Hayes" }
+    },
+    {
+      "label":"'Tiny Dancer' (Almost Famous)",
+      "date": 2000,
+      "youtube":"https://www.youtube.com/watch?v=_qW9wqUI4Lg&t=194s",
+      "tooltip": { "description": "Elton John" } 
+    },
+    {
+      "label":"'White Christmas' (Holiday Inn)",
+      "date": 1942,
+      "youtube":"https://www.youtube.com/watch?v=_3ZC45Q82pg",
+      "tooltip": { "description": "Bing Crosby" }
+    },    
+    {
+      "label":"'Licence to Kill' (Licence to Kill)",
+      "date": 1989,
+      "youtube":"https://www.youtube.com/watch?v=e1iRaS3gqws&t=69s",
+      "tooltip": { "description": "Gladys Knight" }
+    },   
+     {
+      "label":"'Bohemian Rhapsody' (Wayne's World)",
+      "date": 1992,
+      "youtube":"https://www.youtube.com/watch?v=thyJOnasHVE&t=98s",
+      "tooltip": { "description": "Queen" }
+    },  
+      {
+      "label":"'Oh, Pretty Woman' (Pretty Woman)",
+      "date": 1990,
+      "youtube":"https://www.youtube.com/watch?v=Gqj_uc3KGTA&t=139s",
+      "tooltip": {"description": "Roy Orbison"}
+    },    
+    {
+      "label":"'The Windmills of Your Mind' (The Thomas Crown Affair)",
+      "date": 1968,
+      "youtube":"https://www.youtube.com/watch?v=WEhS9Y9HYjU&t=53s",
+      "tooltip": {"description": "Noel Harrison"}
+    },    
+    {
+      "label":"'A Whole New World' (Aladdin)",
+      "date": 1992,
+      "youtube":"https://www.youtube.com/watch?v=PmvT7B3u7II&t=7s",
+"tooltip": {"description": "Peabo Bryson & Regina Belle"}
+    },
+    {
+      "label":"'Both Sides Now' (Love Actually)",
+      "date": 2003,
+      "youtube":"https://www.youtube.com/watch?v=2y-8vxObugM&t=116s",
+      "tooltip": {"description": "Joni Mitchell"}
+    },    
+    {
+      "label":"'How Do I Live' (Con Air)",
+      "date": 1997,
+      "youtube":"https://www.youtube.com/watch?v=_IPZzNSz_Ls&t=87s",
+      "tooltip": {"description": "Trisha Yearwood"}
+    },  
+
+   {
+      "label":"'Fame' (Fame)",
+      "date": 1980,
+      "youtube":"https://www.youtube.com/watch?v=H1gMQ_q3FSM",
+      "tooltip": {"description": "Irene Cara"}
+    },
+
+    {
+      "label":"'The Rainbow Connection' (The Muppet Movie)",
+      "date": 1979,
+      "youtube":"https://www.youtube.com/watch?v=WS3Lkc6Gzlk&t=82s",
+      "tooltip": {"description": "Kermit the Frog"}
+    },
+    {
+      "label":"'Underground' (Labyrinth)",
+      "date": 1986,
+      "youtube":"https://www.youtube.com/watch?v=BwrXsUPVaIE",
+      "tooltip": {"description": "David Bowie"}
+    },
+ {
+      "label":"'Nothing's Gonna Stop Us Now' (Mannequin)",
+      "date":1987,
+      "youtube":"https://www.youtube.com/watch?v=3wxyN3z9PL4&t=42s",
+      "tooltip": {"description": "Starship"}
+    },
+     {
+      "label":"'Gangsta's Paradise' (Dangerous Minds)",
+      "date": 1995,
+      "youtube":"https://www.youtube.com/watch?v=fPO76Jlnz6c&t=97s",
+      "tooltip": {"description": "Coolio"}
+    },
+     {
+      "label":"'Stand By Me' (Stand By Me)",
+      "date": 1986,
+      "youtube":"https://www.youtube.com/watch?v=dTd2ylacYNU&t=124s",
+      "tooltip": {"description": "Ben E King"}
+    }, 
+         {
+      "label":"'There You'll Be' (Pearl Harbour)",
+      "date":2001,
+      "youtube":"https://www.youtube.com/watch?v=MeC64cjhkxE&t=50s",
+      "tooltip": {"description": "Faith Hill"}
+    }, 
+         {
+      "label":"'It Must Have Been Love' (Pretty Woman)",
+      "date": 1990,
+      "youtube":"https://www.youtube.com/watch?v=k2C5TjS2sh4&t=26s",
+      "tooltip": {"description": "Roxette"}
+    }, 
+         {
+      "label":"'Ghostbusters' (Ghostbusters)",
+      "date": 1984,
+      "youtube":"https://www.youtube.com/watch?v=Fe93CLbHjxQ&t=10s",
+      "tooltip": {"description": "Ray Parker Jr"}
+    }, 
+         {
+      "label":"'Ain't No Sunshine' (Notting Hill)",
+      "date": 1999,
+      "youtube":"https://www.youtube.com/watch?v=Ce_BXD_ONQ8",
+      "tooltip": {"description": ""}
+    },       
+    {
+      "label":"'I Just Called to Say I Love You' (The Woman in Red)",
+      "date": 1984,
+      "youtube":"https://www.youtube.com/watch?v=VtPLdL5GWDg&t=56",
+      "tooltip": {"description": "Stevie Wonder"}
+    }, 
+    {
+      "label":"'You've Got a Friend in Me' (Toy Story)",
+      "date": 1995,
+      "youtube":"https://www.youtube.com/watch?v=nMN4JZ8crVY&t=31",
+      "tooltip": {"description": "Randy Newman"}
+    },
+
+    {
+      "label": "Free Fallin' (Jerry Maguire)",
+      "date": 1989,
+      "youtube": "https://www.youtube.com/watch?v=1lWJXDG2i0At=31s",
+      "tooltip": { "description": "Tom Petty" }
+    },
+    {
+      "label": "Lose Yourself (8 Mile)",
+      "date": 2002,
+      "youtube": "https://www.youtube.com/watch?v=_Yhyp-_hX2s",
+      "tooltip": { "description": "Eminem" }
+    },
+  {
+    "label": "Stuck in the Middle with You (Reservoir Dogs)",
+    "date": 1992,
+    "youtube": "https://www.youtube.com/watch?v=xerx80SWgkA&t=191s",
+    "tooltip": { "description": "Stealers Wheel - Quentin Tarantino used this classic rock staple during a gruesome yet comedic scene, forever changing its mood." }
+  },
+  {
+    "label": "Iris (City of Angels)",
+    "date": 1998,
+    "youtube": "https://www.youtube.com/watch?v=5sFHqCWnpd4&t=105s",
+    "tooltip": { "description": "Goo Goo Dolls - This alt-rock power ballad was a highlight of City of Angels’ memorable soundtrack." }
+  },
+  {
+    "label": "I Have Nothing (The Bodyguard)",
+    "date": 1992,
+    "youtube": "https://www.youtube.com/watch?v=FxYw0XPEoKE&t=163s",
+    "tooltip": { "description": "Whitney Houston - Signature tune from The Bodyguard soundtrack, overshadowed by her mega-hit but equally iconic." }
+  },
+  {
+    "label": "Johnny B Goode (Back to the Future)",
+    "date": 1985,
+    "youtube": "https://www.youtube.com/watch?v=S1i5coU-0_Q&t=15s",
+    "tooltip": { "description": "Chuck Berry - Though sung by Marty McFly, this song forever ties to the iconic Enchanted Under the Sea dance." }
+  },
+  {
+    "label": "Always Look on the Bright Side of Life (Life of Brian)",
+    "date": 1979,
+    "youtube": "https://www.youtube.com/watch?v=SJUhlRoBL8M&t=24s",
+    "tooltip": { "description": "Monty Python - A hilarious and mellow finale song, perfectly closing their cult classic film." }
+  },
+  {
+    "label": "Skyfall (Skyfall)",
+    "date": 2012,
+    "youtube": "https://www.youtube.com/watch?v=DeumyOzKqgI&t=50s",
+    "tooltip": { "description": "Adele - This Bond theme won multiple major awards and revitalized the franchise’s music legacy." }
+  },
+  {
+    "label": "Moon River (Breakfast at Tiffany's)",
+    "date": 1961,
+    "youtube": "https://www.youtube.com/watch?v=uirBWk-qd9A&t=44s",
+    "tooltip": { "description": "Audrey Hepburn - Oscar-winning song later covered extensively and becoming a classic standard." }
+  },
+  {
+    "label": "Against All Odds (Against All Odds)",
+    "date": 1984,
+    "youtube": "https://www.youtube.com/watch?v=SWSQS06i7-w&t=107s",
+    "tooltip": { "description": "Phil Collins - Title track outlasted the film to become a timeless classic." }
+  },
+  {
+    "label": "A Thousand Years (The Twilight Saga - Breaking Dawn Part 1)",
+    "date": 2011,
+    "youtube": "https://www.youtube.com/watch?v=rtOvBOTyX00&t=39s",
+    "tooltip": { "description": "Christina Perri - A defining love song of the last decade, associated strongly with the Twilight franchise." }
+  },
+  {
+    "label": "Night Fever (Saturday Night Fever)",
+    "date": 1977,
+    "youtube": "https://www.youtube.com/watch?v=e6GB04zeDeQ&t=10s",
+    "tooltip": { "description": "Bee Gees - One of many hits from the soundtrack that made disco a global phenomenon." }
+  },
+  {
+    "label": "St Elmo's Fire (St Elmo's Fire)",
+    "date": 1985,
+    "youtube": "https://www.youtube.com/watch?v=dx7vNdAb5e4&t=52s",
+    "tooltip": { "description": "John Parr - Title track with a challenging name, yet a staple ’80s power anthem." }
+  },
+  {
+    "label": "Take My Breath Away (Top Gun)",
+    "date": 1986,
+    "youtube": "https://www.youtube.com/watch?v=Bx51eegLTY8&t=7s",
+    "tooltip": { "description": "Berlin - Oscar-winning love theme made the movie’s soundtrack unforgettable." }
+  },
+  {
+    "label": "Somewhere (West Side Story)",
+    "date": 1961,
+    "youtube": "https://www.youtube.com/watch?v=_SQ4ogstDVE&t=52s",
+    "tooltip": { "description": "West Side Story Cast - Heartbreaking love theme famously dubbed by Jim Bryant and Marni Nixon." }
+  },
+  {
+    "label": "The Sound of Music (The Sound of Music)",
+    "date": 1965,
+    "youtube": "https://www.youtube.com/watch?v=6f0T6UV-HiI&t=54s",
+    "tooltip": { "description": "Julie Andrews - Iconic opening number remains one of cinema’s most beloved musical moments." }
+  },
+  {
+    "label": "Danger Zone (Top Gun)",
+    "date": 1986,
+    "youtube": "https://www.youtube.com/watch?v=siwpn14IE7E&t=14s",
+    "tooltip": { "description": "Kenny Loggins - Ultimate ’80s power ballad that perfectly captures the film’s high-octane spirit." }
+  },
+  {
+    "label": "Summer Nights (Grease)",
+    "date": 1978,
+    "youtube": "https://www.youtube.com/watch?v=ZW0DfsCzfq4&t=10s",
+    "tooltip": { "description": "John Travolta & Olivia Newton-John - Catchy duet still a karaoke favorite decades later." }
+  },
+  {
+    "label": "We Don't Need Another Hero (Mad Max Beyond Thunderdome)",
+    "date": 1985,
+    "youtube": "https://www.youtube.com/watch?v=Gcm-tOGiva0&t=30s",
+    "tooltip": { "description": "Tina Turner - Catchy anthem from the Mad Max sequel that transcended the film." }
+  },
+  {
+    "label": "The Glory of Love (The Karate Kid II)",
+    "date": 1986,
+    "youtube": "https://www.youtube.com/watch?v=yQHhqDRn4_c&t=120s",
+    "tooltip": { "description": "Peter Cetera - Epic ’80s love song narrowly missed the Oscar to Berlin’s Top Gun hit." }
+  },
+  {
+    "label": "Eye of the Tiger (Rocky III)",
+    "date": 1982,
+    "youtube": "https://www.youtube.com/watch?v=btPJPFnesV4$t=46s",
+    "tooltip": { "description": "Survivor - Rock staple and perfect replacement theme for Rocky III, hitting #1 worldwide." }
+  },
+  {
+    "label": "Flashdance... What a Feeling! (Flashdance)",
+    "date": 1983,
+    "youtube": "https://www.youtube.com/watch?v=miax0Jpe5mA&t=56s",
+    "tooltip": { "description": "Irene Cara - Oscar-winning anthem immortalizing Jennifer Beals’ iconic dance routine." }
+  },
+  {
+    "label": "Goldfinger (Goldfinger)",
+    "date": 1964,
+    "youtube": "https://www.youtube.com/watch?v=6D1nK7q2i8I&t=10s",
+    "tooltip": { "description": "Shirley Bassey - Powerful James Bond theme that was a turning point for the franchise’s music." }
+  },
+  {
+    "label": "Can You Feel the Love Tonight (The Lion King)",
+    "date": 1994,
+    "youtube": "https://www.youtube.com/watch?v=KjgWWjkNbhU&t=40s",
+    "tooltip": { "description": "Elton John - Oscar-winning ballad from the beloved Disney classic." }
+  },
+  {
+    "label": "When You Wish Upon a Star (Pinocchio)",
+    "date": 1940,
+    "youtube": "https://www.youtube.com/watch?v=HKh6XxYbbIc&t=22s",
+    "tooltip": { "description": "Cliff Edwards - First Disney song to win an Oscar, sung by Jiminy Cricket." }
+  },
+  {
+    "label": "Arthur's Theme (Arthur)",
+    "date": 1981,
+    "youtube": "https://www.youtube.com/watch?v=DVbx0KVwfao&t=40s",
+    "tooltip": { "description": "Christopher Cross - Oscar-winning title track for the film Arthur." }
+  },
+  {
+    "label": "Streets of Philadelphia (Philadelphia)",
+    "date": 1993,
+    "youtube": "https://www.youtube.com/watch?v=4z2DtNW79sQ&t=26s",
+    "tooltip": { "description": "Bruce Springsteen - Poignant song raising awareness about HIV/AIDS alongside the film." }
+  },
+  {
+    "label": "Love is All Around (Four Weddings and a Funeral)",
+    "date": 1994,
+    "youtube": "https://www.youtube.com/watch?v=h3gEkwhdXUE&t=53s",
+    "tooltip": { "description": "Wet Wet Wet - Cover spent 15 weeks at #1 in the UK, dominating the summer charts." }
+  },
+  {
+    "label": "She's Like the Wind (Dirty Dancing)",
+    "date": 1987,
+    "youtube": "https://www.youtube.com/watch?v=lU9p1WRfA9w&t=99s",
+    "tooltip": { "description": "Patrick Swayze - Co-wrote and performed this emotional ballad for the film." }
+  },
+  {
+    "label": "Live and Let Die (Live and Let Die)",
+    "date": 1973,
+    "youtube": "https://www.youtube.com/watch?v=b07Z_qfchFk&t=16s",
+    "tooltip": { "description": "Paul McCartney & Wings - Bond theme that remains a timeless classic despite Oscar loss." }
+  },
+  {
+    "label": "Don't You Forget About Me (The Breakfast Club)",
+    "date": 1985,
+    "youtube": "https://www.youtube.com/watch?v=4gLVqjIvokc&t=124s",
+    "tooltip": { "description": "Simple Minds - Anthem synonymous with the film’s iconic final scene." }
+  },
+  {
+    "label": "As Time Goes By (Casablanca)",
+    "date": 1942,
+    "youtube": "https://www.youtube.com/watch?v=7vThuwa5RZU&t=54s",
+    "tooltip": { "description": "Dooley Wilson - Timeless ballad symbolizing classic Hollywood romance." }
+  },
+  {
+    "label": "Mrs Robinson (The Graduate)",
+    "date": 1967,
+    "youtube": "https://www.youtube.com/watch?v=nkXyreJV604&t=55s",
+    "tooltip": { "description": "Simon & Garfunkel - Hit that defined the cultural impact of The Graduate’s soundtrack." }
+  },
+  {
+    "label": "Old Time Rock & Roll (Risky Business)",
+    "date": 1979,
+    "youtube": "https://www.youtube.com/watch?v=G2UVsyVLLcE&t=36s",
+    "tooltip": { "description": "Bob Seger - Classic rock track cemented in pop culture with an iconic Tom Cruise scene." }
+  },
+  {
+    "label": "I Don't Want to Miss a Thing (Armageddon)",
+    "date": 1998,
+    "youtube": "https://www.youtube.com/watch?v=JkK8g6FMEXE&t=28s",
+    "tooltip": { "description": "Aerosmith - Power ballad became their biggest UK hit, featured in blockbuster Armageddon." }
+  },
+  {
+    "label": "Shallow (A Star is Born)",
+    "date": 2018,
+    "youtube": "https://www.youtube.com/watch?v=bo_efYhYU2A&t=5s",
+    "tooltip": { "description": "Lady Gaga & Bradley Cooper - Oscar-winning duet that redefined the film’s soundtrack." }
+  },
+  {
+    "label": "Over the Rainbow (The Wizard of Oz)",
+    "date": 1939,
+    "youtube": "https://www.youtube.com/watch?v=PSZxmZmBfnU",
+    "tooltip": { "description": "Judy Garland - Oscar-winning, timeless ballad that transformed cinema history." }
+  },
+  {
+    "label": "Kiss from a Rose (Batman Forever)",
+    "date": 1995,
+    "youtube": "https://www.youtube.com/watch?v=AMD2TwRvuoU&t=68s",
+    "tooltip": { "description": "Seal - Grammy-winning hit popularized by its use in Batman Forever." }
+  },
+  {
+    "label": "Hopelessly Devoted to You (Grease)",
+    "date": 1978,
+    "youtube": "https://www.youtube.com/watch?v=cU_pcU6AFPQ&t=71s",
+    "tooltip": { "description": "Olivia Newton-John - Emotional solo adding depth to the Grease soundtrack." }
+  },
+  {
+    "label": "Stayin' Alive (Saturday Night Fever)",
+    "date": 1977,
+    "youtube": "https://www.youtube.com/watch?v=fNFzfwLM72c&t=11s",
+    "tooltip": { "description": "Bee Gees - Disco anthem forever linked with John Travolta’s dance moves." }
+  },
+  {
+    "label": "Unchained Melody (Ghost)",
+    "date": 1990,
+    "youtube": "https://www.youtube.com/watch?v=MhAE3lQ_FHg&t=20s",
+    "tooltip": { "description": "Righteous Brothers - Revived as a definitive love ballad after its iconic movie scene." }
+  },
+  {
+    "label": "(Everything I Do) I Do It For You (Robin Hood: Prince of Thieves)",
+    "date": 1991,
+    "youtube": "https://www.youtube.com/watch?v=Y0pdQU87dc8&t=74s",
+    "tooltip": { "description": "Bryan Adams - Record-setting ballad that became a romantic staple." }
+  },
+  {
+    "label": "Up Where We Belong (An Officer and a Gentleman)",
+    "date": 1982,
+    "youtube": "https://www.youtube.com/watch?v=bjrOcrisGyI&t=50s",
+    "tooltip": { "description": "Joe Cocker & Jennifer Warnes - Initially doubted, this Oscar-winning duet became a classic." }
+  },
+  {
+    "label": "The Power of Love (Back to the Future)",
+    "date": 1985,
+    "youtube": "https://www.youtube.com/watch?v=wBl2QGAIx1s&t=134s",
+    "tooltip": { "description": "Huey Lewis & the News - Feel-good anthem created for the iconic film." }
+  },
+  {
+    "label": "Footloose (Footloose)",
+    "date": 1984,
+    "youtube": "https://www.youtube.com/watch?v=ltrMfT4Qz5Y&t=53s",
+    "tooltip": { "description": "Kenny Loggins - Catchy anthem defining the rebellious spirit of the film." }
+  },
+  {
+    "label": "Circle of Life (The Lion King)",
+    "date": 1994,
+    "youtube": "https://www.youtube.com/watch?v=IwH9YvhPN7c&t=155s",
+    "tooltip": { "description": "Elton John - Powerful opening theme of the Disney classic." }
+  },
+  {
+    "label": "I Want it Now (Willy Wonka and the Chocolate Factory",
+    "date": 1971,
+    "youtube": "https://www.youtube.com/watch?v=TRTkCHE1sS4&t=88s",
+    "tooltip": { "description": "Veruca Salt" }
+  },
+ 
+  {
+    "label": "Singin' in the Rain (Singin' in the Rain)",
+    "date": 1952,
+    "youtube": "https://www.youtube.com/watch?v=swloMVFALXw&t=32s",
+    "tooltip": { "description": "Gene Kelly - Despite having a fever, Gene Kelly delivered one of the most iconic and joyful dance performances in film history." }
+  },
+  {
+    "label": "The Wind Beneath My Wings (Beaches)",
+    "date": 1988,
+    "youtube": "https://www.youtube.com/watch?v=93dkoUtrnZM&t=60s",
+    "tooltip": { "description": "Bette Midler - This heartfelt ballad became one of Midler’s signature songs and won multiple Grammy Awards." }
+  },
+  {
+    "label": "You're the One That I Want (Grease)",
+    "date": 1978,
+    "youtube": "https://www.youtube.com/watch?v=itRFjzQICJU&t=4s",
+    "tooltip": { "description": "John Travolta & Olivia Newton-John - One of the two biggest hits from Grease, selling 15 million copies and topping UK charts." }
+  },
+  {
+    "label": "9 to 5 (9 to 5)",
+    "date": 1980,
+    "youtube": "https://www.youtube.com/watch?v=UbxUSsFXYo4&t=8s",
+    "tooltip": { "description": "Dolly Parton - This empowering anthem for workers earned an Oscar nomination and two Grammys." }
+  },
+  {
+    "label": "My Heart Will Go On (Titanic)",
+    "date": 1997,
+    "youtube": "https://www.youtube.com/watch?v=A3QAqZQYLIQ&t=145s",
+    "tooltip": { "description": "Celine Dion - The blockbuster hit won an Oscar and dominated the Grammys, becoming forever linked to Titanic." }
+  },
+  {
+    "label": "I Will Always Love You (The Bodyguard)",
+    "date": 1992,
+    "youtube": "https://www.youtube.com/watch?v=3JWTaaS7LdU&t=77s",
+    "tooltip": { "description": "Whitney Houston - Made famous by Houston’s powerful rendition, it spent weeks atop global charts." }
+  },
+  {
+    "label": "(I've Had) The Time of My Life (Dirty Dancing)",
+    "date": 1987,
+    "youtube": "https://www.youtube.com/watch?v=WpmILPAcRQo&t=55s",
+    "tooltip": { "description": "Bill Medley & Jennifer Warnes - Oscar, Golden Globe, and Grammy-winning finale duet known for its unforgettable dance scene." }
+  },
+ {
+      "id": "anchorsAweigh",
+      "label": "Anchors Aweigh – Gene Kelly and Jerry",
+      "date": 1945,
+      "youtube": "https://www.youtube.com/watch?v=Ddm8l1VlFgg&t=80s"
+    },
+     {
+      "id": "rockyHorrorPictureShow",
+      "label": "Rocky Horror Picture Show – Tim Curry and Susan Sarandon",
+      "date": 1975,
+      "youtube": "https://www.youtube.com/watch?v=YC1E8yVJIS4&t=53s"
+    },
+         {
+      "id": "titanic",
+      "label": "Titanic – Leonardo DiCaprio and Kate Winslet",
+      "date": 1997,
+      "youtube": "https://www.youtube.com/watch?v=vaU0o52Hy2g&t=124s"
+    },
+    {
+      "id": "houseParty",
+      "label": "House Party – Kid 'n Play",
+      "date": 1990,
+      "youtube": "https://www.youtube.com/watch?v=NLpzg-QLE-o&t=145s"
+    },
+     {
+      "id": "saturdayNightFever",
+      "label": "Saturday Night Fever – John Travolta",
+      "date": 1977,
+      "youtube": "https://www.youtube.com/watch?v=LUID0jSh2Ic&t=92s"
+    },
+         {
+      "id": "breakin",
+      "label": "Breakin' – Turbo and Ozone",
+      "date": 1984,
+      "youtube": "https://www.youtube.com/watch?v=yEoaN9qIxFs&t=37s"
+    },
+    {
+      "id": "stormyWeather",
+      "label": "Stormy Weather – Cab Calloway and Nicholas Brothers",
+      "date": 1943,
+      "youtube": "https://www.youtube.com/watch?v=_8yGGtVKrD8&t=109s"
+    },
+        {
+      "id": "napoleonDynamite",
+      "label": "Napoleon Dynamite – Jon Heder",
+      "date": 2004,
+      "youtube": "https://www.youtube.com/watch?v=BiAwpYIkRmU&t=42s"
+    }
+  ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  

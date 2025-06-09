@@ -1,6 +1,6 @@
 {
     "slug": "inventions",
-    "topic": "Major Inventions (Past 2000 Years)",
+    "topic": "Major Inventions",
     "category": "History",
     "hideDates": false,
     "cards": [
@@ -77,7 +77,730 @@
       { "id": "2021-foldable-phones",         "label": "Foldable smartphones hit consumer markets",             "date": 2023 },
       { "id": "2022-ai-image-generation",     "label": "AI art tools like DALL·E 2 redefine digital creativity",  "date": 2022 },
       { "id": "2023-quantum-internet-demo",   "label": "First prototype quantum internet transmission",          "date": 2023 },
-      { "id": "2024-ambient-computing",       "label": "Smart environments begin ambient computing rollout",     "date": 2024 }
-    ]
+      { "id": "2024-ambient-computing",       "label": "Smart environments begin ambient computing rollout",     "date": 2024 },
+        {
+          "id": "-3500-wheel-revolutionizes-transport",
+          "label": "Wheel Revolutionizes Transport",
+          "date": -3500,
+          "tooltip": {
+            "description": "The invention of the wheel and axle enables efficient movement of goods and people, laying groundwork for trade and civilization."
+          }
+        },
+        {
+          "id": "-3400-writing-emerges-in-sumer",
+          "label": "Writing Emerges in Sumer",
+          "date": -3400,
+          "tooltip": {
+            "description": "Cuneiform script begins appearing on clay tablets, ushering in record-keeping, literature, and complex administration."
+          }
+        },
+        {
+          "id": "-3300-bronze-alloy-strengthens-tools",
+          "label": "Bronze Alloy Strengthens Tools",
+          "date": -3300,
+          "tooltip": {
+            "description": "Mixing copper and tin creates bronze, producing harder, longer-lasting weapons and tools that accelerate technological progress."
+          }
+        },
+        {
+          "id": "-3000-sail-enables-seafaring-trade",
+          "label": "Sail Enables Seafaring Trade",
+          "date": -3000,
+          "tooltip": {
+            "description": "Attaching cloth to masts harnesses wind power, opening long-distance maritime routes and linking distant cultures."
+          }
+        },
+        {
+          "id": "-3000-irrigation-transforms-agriculture",
+          "label": "Irrigation Transforms Agriculture",
+          "date": -3000,
+          "tooltip": {
+            "description": "Networks of canals and dikes direct river water to fields, boosting crop yields and supporting larger urban populations."
+          }
+        },
+        {
+          "id": "-3000-pottery-wheel-accelerates-ceramics",
+          "label": "Pottery Wheel Accelerates Ceramics",
+          "date": -3000,
+          "tooltip": {
+            "description": "Spinning clay on a wheel allows faster, uniform pottery production—improving storage, cooking, and artistic expression."
+          }
+        },
+        {
+          "id": "-2500-sewer-systems-improve-sanitation",
+          "label": "Sewer Systems Improve Sanitation",
+          "date": -2500,
+          "tooltip": {
+            "description": "Early urban drainage channels carry waste away from homes, reducing disease and enabling denser city growth."
+          }
+        },
+        {
+          "id": "-2500-sundial-introduces-timekeeping",
+          "label": "Sundial Introduces Timekeeping",
+          "date": -2500,
+          "tooltip": {
+            "description": "Observing the sun’s shadow on marked surfaces creates the first method for dividing daytime into hours."
+          }
+        },
+        {
+          "id": "-2400-plow-boosts-farming-efficiency",
+          "label": "Plow Boosts Farming Efficiency",
+          "date": -2400,
+          "tooltip": {
+            "description": "The heavy-moldboard plow cuts deeper furrows, turning thicker soils and expanding arable land across river valleys."
+          }
+        },
+        {
+          "id": "-2300-metal-casting-expands-tool-production",
+          "label": "Metal Casting Expands Tool Production",
+          "date": -2300,
+          "tooltip": {
+            "description": "Casting molten metals into molds allows mass production of standardized tools, accelerating construction and warfare."
+          }
+        },
+        {
+          "id": "-2000-alphabet-simplifies-writing",
+          "label": "Alphabet Simplifies Writing",
+          "date": -2000,
+          "tooltip": {
+            "description": "Early Semitic scripts reduce complex hieroglyphs to phonetic symbols, making writing more accessible and widespread."
+          }
+        },
+        {
+          "id": "-1800-iron-smelting-introduces-stronger-metal",
+          "label": "Iron Smelting Introduces Stronger Metal",
+          "date": -1800,
+          "tooltip": {
+            "description": "Smelting iron ore produces durable tools and weapons, gradually replacing bronze and reshaping economies and armies."
+          }
+        },
+        {
+          "id": "-1500-water-clock-measures-time-at-night",
+          "label": "Water Clock Measures Time at Night",
+          "date": -1500,
+          "tooltip": {
+            "description": "Flowing water in calibrated vessels tracks hours after sunset, providing more precise timekeeping than sundials."
+          }
+        },
+        {
+          "id": "-1200-coinage-standardizes-trade",
+          "label": "Coinage Standardizes Trade",
+          "date": -1200,
+          "tooltip": {
+            "description": "Minted metal coins with consistent weight and value replace barter, streamlining commerce across regions."
+          }
+        },
+        {
+          "id": "-1000-arch-strengthens-architecture",
+          "label": "Arch Strengthens Architecture",
+          "date": -1000,
+          "tooltip": {
+            "description": "The curved arch distributes weight efficiently, allowing construction of larger bridges, aqueducts, and monumental buildings."
+          }
+        },
+        {
+          "id": "-800-iron-plowshare-improves-farming",
+          "label": "Iron Plowshare Improves Farming",
+          "date": -800,
+          "tooltip": {
+            "description": "Replacing wooden plow blades with iron shares cuts through tough soil, increasing agricultural productivity."
+          }
+        },
+        {
+          "id": "-600-glass-molding-begins-craftsmanship",
+          "label": "Glass Molding Begins Craftsmanship",
+          "date": -600,
+          "tooltip": {
+            "description": "Early glassworkers heat and shape silica into vessels and beads, founding a craft that spreads across empires."
+          }
+        },
+        {
+          "id": "-600-water-mill-uses-flow-to-grind-grain",
+          "label": "Water Mill Uses Flow to Grind Grain",
+          "date": -600,
+          "tooltip": {
+            "description": "Attaching millstones to harness river currents automates flour grinding, freeing labor for other economic activities."
+          }
+        },
+        {
+          "id": "-400-compass-discovers-magnetic-navigation",
+          "label": "Compass Discovers Magnetic Navigation",
+          "date": -400,
+          "tooltip": {
+            "description": "Floating lodestones align north-south, guiding mariners when stars or landmarks are obscured."
+          }
+        },
+        {
+          "id": "-200-aeolipile-demonstrates-steam-power",
+          "label": "Aeolipile Demonstrates Steam Power",
+          "date": -200,
+          "tooltip": {
+            "description": "Hero of Alexandria’s spinning device uses steam jets to create motion, foreshadowing later steam engines."
+          }
+        },
+        {
+          "id": "-200-papyrus-scrolls-facilitate-records",
+          "label": "Papyrus Scrolls Facilitate Records",
+          "date": -200,
+          "tooltip": {
+            "description": "Pressing and drying papyrus reeds into sheets creates a lightweight writing medium that spreads administration and scholarship."
+          }
+        },
+        {
+          "id": "-100-concrete-invention-strengthens-structures",
+          "label": "Concrete Invention Strengthens Structures",
+          "date": -100,
+          "tooltip": {
+            "description": "Roman engineers blend volcanic ash and lime to form durable concrete, enabling massive aqueducts, harbors, and monuments."
+          }
+        },
+      {
+        "id": "0105-papermaking-empowers-knowledge-spread",
+        "label": "Papermaking Empowers Knowledge Spread",
+        "date": 105,
+        "tooltip": {
+          "description": "Early papermaking techniques enable affordable record-keeping and accelerate the sharing of ideas across societies."
+        }
+      },
+      {
+        "id": "0200-water-wheels-power-flourishing-mills",
+        "label": "Water Wheels Power Flourishing Mills",
+        "date": 200,
+        "tooltip": {
+          "description": "Harnessing river currents, water wheels drive mechanical milling—boosting grain production and fueling early industry."
+        }
+      },
+      {
+        "id": "0300-stirrups-enable-cavalry-supremacy",
+        "label": "Stirrups Enable Cavalry Supremacy",
+        "date": 300,
+        "tooltip": {
+          "description": "The invention of stirrups transforms mounted combat—granting riders unprecedented stability and shifting warfare tactics."
+        }
+      },
+      {
+        "id": "0725-mechanical-clocks-structure-societal-timekeeping",
+        "label": "Mechanical Clocks Structure Societal Timekeeping",
+        "date": 725,
+        "tooltip": {
+          "description": "Early mechanical clocks introduce standardized hours, reshaping daily life, work schedules, and religious observances across Europe."
+        }
+      },
+      {
+        "id": "0750-woodblock-printing-ignites-textual-culture",
+        "label": "Woodblock Printing Ignites Textual Culture",
+        "date": 750,
+        "tooltip": {
+          "description": "Reproducing text and images on paper en masse, woodblock printing democratizes literature and preserves religious and scholarly works."
+        }
+      },
+      {
+        "id": "0850-gunpowder-redefines-warfare",
+        "label": "Gunpowder Redefines Warfare",
+        "date": 850,
+        "tooltip": {
+          "description": "The emergence of gunpowder weapons—from primitive bombs to early cannons—overhauls military tactics and fortifications worldwide."
+        }
+      },
+      {
+        "id": "1000-windmills-harness-wind-power-for-grinding",
+        "label": "Windmills Harness Wind Power for Grinding",
+        "date": 1000,
+        "tooltip": {
+          "description": "Innovative windmills convert air currents into mechanical energy, powering grain mills and heralding new energy sources in agriculture."
+        }
+      },
+      {
+        "id": "1040-magnetic-compass-navigates-open-seas",
+        "label": "Magnetic Compass Navigates Open Seas",
+        "date": 1040,
+        "tooltip": {
+          "description": "The magnetic compass offers sailors reliable direction—even under cloudy skies—fueling transoceanic exploration and trade."
+        }
+      },
+      {
+        "id": "1286-eyeglasses-sharpen-vision-for-learners",
+        "label": "Eyeglasses Sharpen Vision for Learners",
+        "date": 1286,
+        "tooltip": {
+          "description": "Lens-based eyeglasses correct farsightedness, extending scholarly productivity and improving daily life throughout medieval Europe."
+        }
+      },
+      {
+        "id": "1440-movable-type-printing-democratizes-knowledge",
+        "label": "Movable-Type Printing Democratizes Knowledge",
+        "date": 1440,
+        "tooltip": {
+          "description": "The movable-type press dramatically reduces book production time and cost, igniting mass literacy and the Renaissance."
+        }
+      },
+      {
+        "id": "1495-automatic-loom-revolutionizes-textile-production",
+        "label": "Automatic Loom Revolutionizes Textile Production",
+        "date": 1495,
+        "tooltip": {
+          "description": "The needle bar mechanism in looms automates complex weaving patterns—boosting textile output and lowering fabric costs."
+        }
+      },
+      {
+        "id": "1500-odometer-standardizes-distance-measurement",
+        "label": "Odometer Standardizes Distance Measurement",
+        "date": 1500,
+        "tooltip": {
+          "description": "Early odometers attach to carts and wagons, providing reliable distance data that revolutionizes mapping and trade logistics."
+        }
+      },
+      {
+        "id": "1530-spiral-groove-cannon-design-boosts-accuracy",
+        "label": "Spiral-Groove Cannon Design Boosts Accuracy",
+        "date": 1530,
+        "tooltip": {
+          "description": "Rifled cannon barrels impart spin to projectiles, greatly improving range and precision on battlefields."
+        }
+      },
+      {
+        "id": "1550-matchsticks-spark-easier-fire-lighting",
+        "label": "Matchsticks Spark Easier Fire Lighting",
+        "date": 1550,
+        "tooltip": {
+          "description": "Early matchstick-like tools allow individuals to start fires quickly—transforming daily life and simplifying cooking and heating."
+        }
+      },
+      {
+        "id": "1575-astrolabe-advances-navigation-by-stars",
+        "label": "Astrolabe Advances Navigation by Stars",
+        "date": 1575,
+        "tooltip": {
+          "description": "The astrolabe’s precise celestial measurements improve maritime navigation and facilitate global exploration."
+        }
+      },
+      {
+        "id": "1593-mercury-thermometer-measures-heat-precisely",
+        "label": "Mercury Thermometer Measures Heat Precisely",
+        "date": 1593,
+        "tooltip": {
+          "description": "Mercury’s consistent expansion provides accurate, repeatable temperature readings—revolutionizing medical diagnostics and meteorology."
+        }
+      },
+      {
+    "id": "1628-first-map-of-blood-circulation",
+    "label": "First Map of Blood Circulation Revolutionizes Medicine",
+    "date": 1628,
+    "tooltip": {
+      "description": "William Harvey publishes De Motu Cordis, detailing the complete circulatory system for the first time."
+    }
+  },
+  {
+    "id": "1644-first-pendulum-clock-slashes-timekeeping-errors",
+    "label": "First Pendulum Clock Slashes Time-Keeping Errors from Minutes to Seconds",
+    "date": 1644,
+    "tooltip": {
+      "description": "Christiaan Huygens builds the first practical pendulum clock, slashing time‐keeping error from minutes to seconds."
+    }
+  },
+  {
+    "id": "1720-lightning-rod-protects-buildings-from-strikes",
+    "label": "Lightning Rod Protects Buildings from Strikes",
+    "date": 1720,
+    "tooltip": {
+      "description": "Benjamin Franklin’s rod diverts electrical storms safely into the ground, laying foundations for modern electrical engineering."
+    }
+  },
+  {
+    "id": "1769-steam-engine-efficiency-fuels-industrial-revolution",
+    "label": "Steam Engine Efficiency Fuels the Industrial Revolution",
+    "date": 1769,
+    "tooltip": {
+      "description": "James Watt’s separate condenser design drastically boosts efficiency, fueling the Industrial Revolution."
+    }
+  },
+  {
+    "id": "1796-first-smallpox-vaccine-sparks-immunology",
+    "label": "First Smallpox Vaccine Sparks Modern Immunology",
+    "date": 1796,
+    "tooltip": {
+      "description": "Edward Jenner inoculates a boy with cowpox material, paving the way for immunology and global vaccination campaigns."
+    }
+  },
+  {
+    "id": "1801-punch-card-controlled-loom-begins-automation",
+    "label": "Punch-Card–Controlled Loom Begins Automation",
+    "date": 1801,
+    "tooltip": {
+      "description": "Joseph-Marie Jacquard invents a punch-card–controlled loom, a direct ancestor of modern programmable machines."
+    }
+  },
+  {
+    "id": "1821-electric-motor-converts-electricity-to-motion",
+    "label": "Electric Motor Converts Electricity to Mechanical Motion",
+    "date": 1821,
+    "tooltip": {
+      "description": "Michael Faraday demonstrates the first true electric motor, converting electrical energy to mechanical motion."
+    }
+  },
+  {
+    "id": "1831-continuous-current-generator-sparks-electric-age",
+    "label": "Continuous-Current Generator Sparks Electric Age",
+    "date": 1831,
+    "tooltip": {
+      "description": "Faraday’s homopolar generator produces continuous current, the very first direct-drive electric generator."
+    }
+  },
+  {
+    "id": "1844-first-telegraph-message-inaugurates-instant-communication",
+    "label": "First Telegraph Message Inaugurates Instant Communication",
+    "date": 1844,
+    "tooltip": {
+      "description": "“What hath God wrought?” travels from Washington to Baltimore, inaugurating instant long-distance communication."
+    }
+  },
+  {
+    "id": "1856-steelmaking-changes-construction-and-transport",
+    "label": "Steelmaking Changes Construction and Transport",
+    "date": 1856,
+    "tooltip": {
+      "description": "Henry Bessemer’s converter slashes the cost of turning pig iron into steel, enabling skyscrapers, railroads, and bridges."
+    }
+  },
+  {
+    "id": "1866-practical-incandescent-lightbulb-illuminates-world",
+    "label": "Practical Incandescent Lightbulb Illuminates the World",
+    "date": 1866,
+    "tooltip": {
+      "description": "Joseph Swan patents his carbon-filament bulb, predating and complementing Edison’s later work on electric lighting."
+    }
+  },
+  {
+    "id": "1870-antiseptic-surgery-slashes-postoperative-deaths",
+    "label": "Antiseptic Surgery Slashes Postoperative Deaths",
+    "date": 1870,
+    "tooltip": {
+      "description": "Joseph Lister uses phenol to sterilize surgical instruments and wounds, dramatically reducing postoperative deaths."
+    }
+  },
+  {
+    "id": "1873-electromagnetism-unifies-light-and-electricity",
+    "label": "Electromagnetism Unifies Light and Electricity",
+    "date": 1873,
+    "tooltip": {
+      "description": "James Clerk Maxwell publishes his equations showing that light is an electromagnetic wave, foreshadowing radio."
+    }
+  },
+  {
+    "id": "1878-first-phonograph-replays-recorded-sound",
+    "label": "First Phonograph Replays Recorded Sound",
+    "date": 1878,
+    "tooltip": {
+      "description": "Thomas Edison’s device etches audio onto tinfoil, the first machine capable of both recording and replaying sound."
+    }
+  },
+  {
+    "id": "1884-steam-powered-dental-drill-revolutionizes-oral-surgery",
+    "label": "Steam-Powered Dental Drill Revolutionizes Oral Surgery",
+    "date": 1884,
+    "tooltip": {
+      "description": "Dr. William Johnson introduces a steam-powered dental drill, ushering in modern dentistry (a huge leap in oral surgery)."
+    }
+  },
+  {
+    "id": "1895-x-rays-reveal-bones-inside-living-bodies",
+    "label": "X-Rays Reveal Bones Inside Living Bodies",
+    "date": 1895,
+    "tooltip": {
+      "description": "Wilhelm Röntgen’s “X-ray” images reveal bones inside living bodies, revolutionizing medicine and diagnostics."
+    }
+  },
+  {
+    "id": "1901-transatlantic-wireless-proofs-long-distance-radio",
+    "label": "Transatlantic Wireless Proves Long-Distance Radio",
+    "date": 1901,
+    "tooltip": {
+      "description": "Guglielmo Marconi sends the first radio signal across the Atlantic, proving long-distance wireless communication is possible."
+    }
+  },
+  {
+    "id": "1905-special-relativity-overthrows-classical-physics",
+    "label": "Special Relativity Overthrows Classical Physics",
+    "date": 1905,
+    "tooltip": {
+      "description": "Albert Einstein publishes “On the Electrodynamics of Moving Bodies,” overthrowing classical notions of space and time."
+    }
+  },
+  {
+    "id": "1912-three-position-traffic-light-makes-roads-safer",
+    "label": "Three-Position Traffic Light Makes Roads Safer",
+    "date": 1912,
+    "tooltip": {
+      "description": "Garrett Morgan’s three-position traffic light introduces the modern “yellow light” warning, making roads safer world-wide."
+    }
+  },
+  {
+    "id": "1914-first-commercial-tank-alters-warfare",
+    "label": "First Commercial Tank Alters Ground Combat",
+    "date": 1914,
+    "tooltip": {
+      "description": "Though born of wartime urgency, the British Mark I tank forever alters ground combat and military strategy."
+    }
+  },
+  {
+    "id": "1921-artificial-radioactivity-enables-nuclear-medicine",
+    "label": "Artificial Radioactivity Enables Nuclear Medicine",
+    "date": 1921,
+    "tooltip": {
+      "description": "Irène and Frédéric Joliot-Curie demonstrate how bombarding elements with particles creates new radioactive isotopes, laying groundwork for nuclear medicine."
+    }
+  },
+  {
+    "id": "1927-iconoscope-tv-camera-tube-powers-broadcasts",
+    "label": "Iconoscope TV Camera Tube Powers Broadcasts",
+    "date": 1927,
+    "tooltip": {
+      "description": "Vladimir Zworykin’s TV camera tube makes live television broadcasts practical, ushering in the age of mass media."
+    }
+  },
+  {
+    "id": "1936-first-program-controlled-computer-introduces-automation",
+    "label": "First Program-Controlled Computer Introduces Automation",
+    "date": 1936,
+    "tooltip": {
+      "description": "Konrad Zuse’s Z1 machine reads instructions from punched tape—an early ancestor of modern programmable computers."
+    }
+  },
+  {
+    "id": "1943-first-electronic-speech-synthesizer-begins-voice-encoding",
+    "label": "First Electronic Speech Synthesizer Begins Voice Encoding",
+    "date": 1943,
+    "tooltip": {
+      "description": "Homer Dudley’s VOCODER at Bell Labs transforms human voice into digital signals, a forerunner of today’s voice assistants."
+    }
+  },
+  {
+    "id": "1947-information-theory-lays-foundations-for-digital-data",
+    "label": "Information Theory Lays Foundations for Digital Data",
+    "date": 1947,
+    "tooltip": {
+      "description": "Claude Shannon’s landmark paper “A Mathematical Theory of Communication” lays mathematical foundations for digital data transmission and compression."
+    }
+  },
+  {
+    "id": "1952-superconductivity-theory-explains-zero-resistance",
+    "label": "Superconductivity Theory Explains Zero Resistance",
+    "date": 1952,
+    "tooltip": {
+      "description": "The BCS theory explains how electrons pair up to conduct electricity with zero resistance—an insight still powering cutting-edge physics research."
+    }
+  },
+  {
+    "id": "1957-first-artificial-satellite-launch-ignites-space-race",
+    "label": "First Artificial Satellite Launch Ignites Space Race",
+    "date": 1957,
+    "tooltip": {
+      "description": "The Soviet Union’s Sputnik 1 ignites the space race, spurring satellite communication and GPS decades later."
+    }
+  },
+  {
+    "id": "1962-computer-mouse-debuts-in-mother-of-all-demos",
+    "label": "Computer Mouse Debuts in the Mother of All Demos",
+    "date": 1962,
+    "tooltip": {
+      "description": "Douglas Engelbart reveals the first mouse, hypertext, and real-time collaboration in “The Mother of All Demos,” reshaping personal computing."
+    }
+  },
+  {
+    "id": "1969-moon-landing-guidance-computer-enables-lunar-touchdown",
+    "label": "Moon-Landing Guidance Computer Enables Lunar Touchdown",
+    "date": 1969,
+    "tooltip": {
+      "description": "The Apollo Guidance Computer uses innovative integrated circuits to land humans on the Moon—pioneering reliable mini-computers."
+    }
+  },
+  {
+    "id": "1970-first-email-sparks-electronic-communication-era",
+    "label": "First E-Mail Sparks Electronic Communication Era",
+    "date": 1970,
+    "tooltip": {
+      "description": "Using the “@” sign to separate user and host, Tomlinson’s message sparks the birth of modern electronic mail."
+    }
+  },
+  {
+    "id": "1971-first-jumbo-jet-reduces-air-travel-costs",
+    "label": "First Jumbo Jet Reduces Air-Travel Costs",
+    "date": 1971,
+    "tooltip": {
+      "description": "The “Jumbo Jet” revolutionizes air travel—cutting per-passenger costs and making long-distance flight accessible to the masses."
+    }
+  },
+  {
+    "id": "1975-8080-microprocessor-kicks-off-pc-revolution",
+    "label": "8080 Microprocessor Kicks Off the PC Revolution",
+    "date": 1975,
+    "tooltip": {
+      "description": "Building on the 4004, this chip becomes the heart of the first consumer personal computers, launching the PC revolution."
+    }
+  },
+  {
+    "id": "1981-first-personal-computer-standardizes-pc-architecture",
+    "label": "First Personal Computer Standardizes PC Architecture",
+    "date": 1981,
+    "tooltip": {
+      "description": "The IBM 5150 standardizes the “PC” architecture, forever changing homes and offices around the world."
+    }
+  },
+  {
+    "id": "1983-first-forensic-dna-test-solves-crime",
+    "label": "First Forensic DNA Test Solves a Crime",
+    "date": 1983,
+    "tooltip": {
+      "description": "Alec Jeffreys’ method solves a murder case in the UK—a watershed moment in forensic science."
+    }
+  },
+  {
+    "id": "1983-first-commercial-cell-phone-launches-mobile-revolution",
+    "label": "First Commercial Cell Phone Launches Mobile Revolution",
+    "date": 1983,
+    "tooltip": {
+      "description": "Though brick-sized, the DynaTAC frees us from landlines and kickstarts the mobile revolution."
+    }
+  },
+  {
+    "id": "1985-first-hiv-blood-test-saves-countless-lives",
+    "label": "First HIV Blood Test Saves Countless Lives",
+    "date": 1985,
+    "tooltip": {
+      "description": "This screening tool transforms public health by dramatically reducing transfusion-related HIV transmission."
+    }
+  },
+  {
+    "id": "1987-hubble-space-telescope-delivers-clear-universe-views",
+    "label": "Hubble Space Telescope Delivers Clear Universe Views",
+    "date": 1987,
+    "tooltip": {
+      "description": "Despite initial mirror flaws, Hubble’s crystal-clear images revolutionize astronomy and cosmology."
+    }
+  },
+  {
+    "id": "1990-first-web-browser-makes-internet-accessible",
+    "label": "First Web Browser Makes the Internet Accessible",
+    "date": 1990,
+    "tooltip": {
+      "description": "Tim Berners-Lee’s original browser/editor makes the web accessible beyond CERN, igniting the Information Age."
+    }
+  },
+  {
+    "id": "1996-first-cloned-mammal-raises-ethical-debate",
+    "label": "First Cloned Mammal Raises Global Ethical Debate",
+    "date": 1996,
+    "tooltip": {
+      "description": "The birth of Dolly raises global ethical debates and accelerates stem-cell and regenerative medicine research."
+    }
+  },
+  {
+    "id": "1997-ai-chess-victory-signals-machine-intelligence-leap",
+    "label": "AI Chess Victory Signals Machine Intelligence Leap",
+    "date": 1997,
+    "tooltip": {
+      "description": "IBM’s Deep Blue defeats reigning world champion Kasparov, marking a landmark moment in artificial intelligence."
+    }
+  },
+  {
+    "id": "1998-search-engine-page-rank-redefines-information-access",
+    "label": "Search Engine PageRank Redefines Information Access",
+    "date": 1998,
+    "tooltip": {
+      "description": "Google’s PageRank algorithm forever changes how we find information online."
+    }
+  },
+  {
+    "id": "2001-ipod-popularizes-portable-digital-music",
+    "label": "iPod Popularizes Portable Digital Music",
+    "date": 2001,
+    "tooltip": {
+      "description": "Apple’s sleek MP3 player reshapes both the music industry and mobile tech design."
+    }
+  },
+  {
+    "id": "2003-human-genome-sequence-unlocks-biomedical-breakthroughs",
+    "label": "Human Genome Sequence Unlocks Biomedical Breakthroughs",
+    "date": 2003,
+    "tooltip": {
+      "description": "The $3-billion effort reveals the full human DNA blueprint, fueling personalized medicine and biotech breakthroughs."
+    }
+  },
+  {
+    "id": "2004-autonomous-car-success-kicks-off-self-driving-research",
+    "label": "Autonomous Car Success Kicks Off Self-Driving Research",
+    "date": 2004,
+    "tooltip": {
+      "description": "DARPA’s Grand Challenge win proves robotic vehicle feasibility, kickstarting modern self-driving research."
+    }
+  },
+  {
+    "id": "2006-reusable-rocket-technology-ushers-in-private-space-age",
+    "label": "Reusable Rocket Technology Ushers in Private Space Age",
+    "date": 2006,
+    "tooltip": {
+      "description": "SpaceX’s Falcon 1 success paves the way for reusable rockets and a new era of private space exploration."
+    }
+  },
+  {
+    "id": "2007-first-streaming-video-transforms-entertainment",
+    "label": "First Streaming Video Transforms Entertainment",
+    "date": 2007,
+    "tooltip": {
+      "description": "Netflix streams its first video, foreshadowing the decline of broadcast television and DVDs."
+    }
+  },
+  {
+    "id": "2008-cryptocurrency-blockchain-opens-new-financial-frontier",
+    "label": "Cryptocurrency Blockchain Opens New Financial Frontier",
+    "date": 2008,
+    "tooltip": {
+      "description": "Bitcoin’s Genesis Block introduces blockchain consensus, igniting a worldwide crypto ecosystem."
+    }
+  },
+  {
+    "id": "2012-first-mass-market-electric-sedan-proves-ev-feasibility",
+    "label": "First Mass-Market Electric Sedan Proves EV Feasibility",
+    "date": 2012,
+    "tooltip": {
+      "description": "Tesla delivers the Model S, proving long-range, high-performance EVs are feasible and accelerating the global shift to electric transportation."
+    }
+  },
+  {
+    "id": "2016-human-embryo-gene-editing-opens-bioethical-debate",
+    "label": "Human Embryo Gene Editing Opens Bioethical Debate",
+    "date": 2016,
+    "tooltip": {
+      "description": "CRISPR-Cas9 achieves its first human embryo edits, paving the way for genetic therapies and raising profound ethical questions."
+    }
+  },
+  {
+    "id": "2019-first-black-hole-image-confirms-einstein",
+    "label": "First Black Hole Image Confirms Einstein’s Predictions",
+    "date": 2019,
+    "tooltip": {
+      "description": "The Event Horizon Telescope delivers the first direct visual proof of a supermassive black hole, confirming century-old predictions of general relativity."
+    }
+  },
+  {
+    "id": "2020-first-mrna-covid-vaccines-introduce-new-platform",
+    "label": "First mRNA COVID Vaccines Introduce a New Platform",
+    "date": 2020,
+    "tooltip": {
+      "description": "Pfizer/BioNTech and Moderna’s vaccines demonstrate unprecedented speed and efficacy, ushering in a new vaccine technology."
+    }
+  },
+  {
+    "id": "2022-first-deep-space-images-from-webb-expand-cosmic-knowledge",
+    "label": "First Deep-Space Images from Webb Expand Cosmic Knowledge",
+    "date": 2022,
+    "tooltip": {
+      "description": "The James Webb Space Telescope reveals the earliest galaxies ever seen, beginning a new era in astronomy."
+    }
+  }
+]
+ 
+    
+    
   }
   

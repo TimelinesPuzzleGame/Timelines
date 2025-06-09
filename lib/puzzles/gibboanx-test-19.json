@@ -1,0 +1,502 @@
+{
+  "slug": "gibboanx-test-19",
+  "topic": "Gibboanx Test Puzzle 19",
+  "category": "Entertainment",
+  "subcategory": "Movies/TV",
+  "hideDates": false,
+  "showTooltips": true,
+  "variantSystem": {
+    "enabled": true,
+    "totalScenes": 10,
+    "selectionStrategy": "random_per_round"
+  },
+  "cards": [
+    {
+      "id": "gibboanx-test-19-1",
+      "label": "Us",
+      "date": 2019,
+      "year": 2019,
+      "youtube": "https://www.youtube.com/watch?v=VoWetQ8wUNM&t=0s&end=120s",
+      "duration": 318,
+      "variants": [
+        {
+          "id": "VoWetQ8wUNM-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=VoWetQ8wUNM&t=0s&end=120s",
+          "sceneDescription": "Us - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "VoWetQ8wUNM-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=VoWetQ8wUNM&t=120s&end=240s",
+          "sceneDescription": "Us - Part 2 (2:00 - 4:00)",
+          "startTime": 120,
+          "endTime": 240
+        },
+        {
+          "id": "VoWetQ8wUNM-variant-2",
+          "youtube": "https://www.youtube.com/watch?v=VoWetQ8wUNM&t=240s&end=318s",
+          "sceneDescription": "Us - Part 3 (4:00 - 5:18)",
+          "startTime": 240,
+          "endTime": 318
+        }
+      ],
+      "variantCount": 3,
+      "tooltip": {
+        "description": "Us (2019) - Quality Score: 60/100",
+        "genre": "Classic Film",
+        "crawlerScore": 60,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 20,
+          "resolutionQuality": 0,
+          "popularityFactor": 10,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:25:15.481Z"
+      },
+      "movie": "Us"
+    },
+    {
+      "id": "gibboanx-test-19-2",
+      "label": "The Town",
+      "date": 2010,
+      "year": 2010,
+      "youtube": "https://www.youtube.com/watch?v=qRx4EHNjNAU&t=0s&end=120s",
+      "duration": 260,
+      "variants": [
+        {
+          "id": "qRx4EHNjNAU-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=qRx4EHNjNAU&t=0s&end=120s",
+          "sceneDescription": "The Town - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "qRx4EHNjNAU-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=qRx4EHNjNAU&t=120s&end=260s",
+          "sceneDescription": "The Town - Part 2 (2:00 - 4:20)",
+          "startTime": 120,
+          "endTime": 260
+        }
+      ],
+      "variantCount": 2,
+      "tooltip": {
+        "description": "The Town (2010) - Quality Score: 50/100",
+        "genre": "Classic Film",
+        "crawlerScore": 50,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 10,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:25:15.481Z"
+      },
+      "movie": "The Town"
+    },
+    {
+      "id": "gibboanx-test-19-3",
+      "label": "Sherlock Holmes",
+      "date": 2009,
+      "year": 2009,
+      "youtube": "https://www.youtube.com/watch?v=It9JC1pcN20&t=0s&end=120s",
+      "duration": 203,
+      "variants": [
+        {
+          "id": "It9JC1pcN20-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=It9JC1pcN20&t=0s&end=120s",
+          "sceneDescription": "Sherlock Holmes - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "It9JC1pcN20-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=It9JC1pcN20&t=120s&end=203s",
+          "sceneDescription": "Sherlock Holmes - Part 2 (2:00 - 3:23)",
+          "startTime": 120,
+          "endTime": 203
+        }
+      ],
+      "variantCount": 2,
+      "tooltip": {
+        "description": "Sherlock Holmes (2009) - Quality Score: 55/100",
+        "genre": "Classic Film",
+        "crawlerScore": 55,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 20,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:25:15.481Z"
+      },
+      "movie": "Sherlock Holmes"
+    },
+    {
+      "id": "gibboanx-test-19-4",
+      "label": "Piranha 3D",
+      "date": 2010,
+      "year": 2010,
+      "youtube": "https://www.youtube.com/watch?v=qomV-Kg5XHU&t=0s&end=39s",
+      "duration": 39,
+      "variants": [
+        {
+          "id": "qomV-Kg5XHU-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=qomV-Kg5XHU&t=0s&end=39s",
+          "sceneDescription": "Piranha 3D - Full Scene (0:00 - 0:39)",
+          "startTime": 0,
+          "endTime": 39
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Piranha 3D (2010) - Quality Score: 45/100",
+        "genre": "Classic Film",
+        "crawlerScore": 45,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 0,
+          "resolutionQuality": 10,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:25:15.481Z"
+      },
+      "movie": "Piranha 3D"
+    },
+    {
+      "id": "gibboanx-test-19-5",
+      "label": "Kingsman: The Secret Service",
+      "date": 2014,
+      "year": 2014,
+      "youtube": "https://www.youtube.com/watch?v=HDJEyqNw-9k&t=0s&end=120s",
+      "duration": 323,
+      "variants": [
+        {
+          "id": "HDJEyqNw-9k-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=HDJEyqNw-9k&t=0s&end=120s",
+          "sceneDescription": "Kingsman: The Secret Service - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "HDJEyqNw-9k-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=HDJEyqNw-9k&t=120s&end=240s",
+          "sceneDescription": "Kingsman: The Secret Service - Part 2 (2:00 - 4:00)",
+          "startTime": 120,
+          "endTime": 240
+        },
+        {
+          "id": "HDJEyqNw-9k-variant-2",
+          "youtube": "https://www.youtube.com/watch?v=HDJEyqNw-9k&t=240s&end=323s",
+          "sceneDescription": "Kingsman: The Secret Service - Part 3 (4:00 - 5:23)",
+          "startTime": 240,
+          "endTime": 323
+        }
+      ],
+      "variantCount": 3,
+      "tooltip": {
+        "description": "Kingsman: The Secret Service (2014) - Quality Score: 40/100",
+        "genre": "Classic Film",
+        "crawlerScore": 40,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 0,
+          "resolutionQuality": 0,
+          "popularityFactor": 10,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:25:15.481Z"
+      },
+      "movie": "Kingsman: The Secret Service"
+    },
+    {
+      "id": "gibboanx-test-19-6",
+      "label": "Song of the Sea",
+      "date": 2014,
+      "year": 2014,
+      "youtube": "https://www.youtube.com/watch?v=qg_DqD3ze8A&t=0s&end=99s",
+      "duration": 99,
+      "variants": [
+        {
+          "id": "qg_DqD3ze8A-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=qg_DqD3ze8A&t=0s&end=99s",
+          "sceneDescription": "Song of the Sea - Full Scene (0:00 - 1:39)",
+          "startTime": 0,
+          "endTime": 99
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Song of the Sea (2014) - Quality Score: 45/100",
+        "genre": "Classic Film",
+        "crawlerScore": 45,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:25:15.481Z"
+      },
+      "movie": "Song of the Sea"
+    },
+    {
+      "id": "gibboanx-test-19-7",
+      "label": "Creed",
+      "date": 2015,
+      "year": 2015,
+      "youtube": "https://www.youtube.com/watch?v=m90aWKOfu6k&t=0s&end=120s",
+      "duration": 1175,
+      "variants": [
+        {
+          "id": "m90aWKOfu6k-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=m90aWKOfu6k&t=0s&end=120s",
+          "sceneDescription": "Creed - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "m90aWKOfu6k-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=m90aWKOfu6k&t=120s&end=240s",
+          "sceneDescription": "Creed - Part 2 (2:00 - 4:00)",
+          "startTime": 120,
+          "endTime": 240
+        },
+        {
+          "id": "m90aWKOfu6k-variant-2",
+          "youtube": "https://www.youtube.com/watch?v=m90aWKOfu6k&t=240s&end=360s",
+          "sceneDescription": "Creed - Part 3 (4:00 - 6:00)",
+          "startTime": 240,
+          "endTime": 360
+        },
+        {
+          "id": "m90aWKOfu6k-variant-3",
+          "youtube": "https://www.youtube.com/watch?v=m90aWKOfu6k&t=360s&end=480s",
+          "sceneDescription": "Creed - Part 4 (6:00 - 8:00)",
+          "startTime": 360,
+          "endTime": 480
+        },
+        {
+          "id": "m90aWKOfu6k-variant-4",
+          "youtube": "https://www.youtube.com/watch?v=m90aWKOfu6k&t=480s&end=600s",
+          "sceneDescription": "Creed - Part 5 (8:00 - 10:00)",
+          "startTime": 480,
+          "endTime": 600
+        },
+        {
+          "id": "m90aWKOfu6k-variant-5",
+          "youtube": "https://www.youtube.com/watch?v=m90aWKOfu6k&t=600s&end=720s",
+          "sceneDescription": "Creed - Part 6 (10:00 - 12:00)",
+          "startTime": 600,
+          "endTime": 720
+        },
+        {
+          "id": "m90aWKOfu6k-variant-6",
+          "youtube": "https://www.youtube.com/watch?v=m90aWKOfu6k&t=720s&end=840s",
+          "sceneDescription": "Creed - Part 7 (12:00 - 14:00)",
+          "startTime": 720,
+          "endTime": 840
+        },
+        {
+          "id": "m90aWKOfu6k-variant-7",
+          "youtube": "https://www.youtube.com/watch?v=m90aWKOfu6k&t=840s&end=960s",
+          "sceneDescription": "Creed - Part 8 (14:00 - 16:00)",
+          "startTime": 840,
+          "endTime": 960
+        },
+        {
+          "id": "m90aWKOfu6k-variant-8",
+          "youtube": "https://www.youtube.com/watch?v=m90aWKOfu6k&t=960s&end=1080s",
+          "sceneDescription": "Creed - Part 9 (16:00 - 18:00)",
+          "startTime": 960,
+          "endTime": 1080
+        },
+        {
+          "id": "m90aWKOfu6k-variant-9",
+          "youtube": "https://www.youtube.com/watch?v=m90aWKOfu6k&t=1080s&end=1175s",
+          "sceneDescription": "Creed - Part 10 (18:00 - 19:35)",
+          "startTime": 1080,
+          "endTime": 1175
+        }
+      ],
+      "variantCount": 10,
+      "tooltip": {
+        "description": "Creed (2015) - Quality Score: 40/100",
+        "genre": "Classic Film",
+        "crawlerScore": 40,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 0,
+          "resolutionQuality": 0,
+          "popularityFactor": 10,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:25:15.481Z"
+      },
+      "movie": "Creed"
+    },
+    {
+      "id": "gibboanx-test-19-8",
+      "label": "Star Wars: Episode VIII - The Last Jedi",
+      "date": 2017,
+      "year": 2017,
+      "youtube": "https://www.youtube.com/watch?v=UT6Q2C44oMY&t=0s&end=120s",
+      "duration": 602,
+      "variants": [
+        {
+          "id": "UT6Q2C44oMY-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=UT6Q2C44oMY&t=0s&end=120s",
+          "sceneDescription": "Star Wars: Episode VIII - The Last Jedi - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "UT6Q2C44oMY-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=UT6Q2C44oMY&t=120s&end=240s",
+          "sceneDescription": "Star Wars: Episode VIII - The Last Jedi - Part 2 (2:00 - 4:00)",
+          "startTime": 120,
+          "endTime": 240
+        },
+        {
+          "id": "UT6Q2C44oMY-variant-2",
+          "youtube": "https://www.youtube.com/watch?v=UT6Q2C44oMY&t=240s&end=360s",
+          "sceneDescription": "Star Wars: Episode VIII - The Last Jedi - Part 3 (4:00 - 6:00)",
+          "startTime": 240,
+          "endTime": 360
+        },
+        {
+          "id": "UT6Q2C44oMY-variant-3",
+          "youtube": "https://www.youtube.com/watch?v=UT6Q2C44oMY&t=360s&end=480s",
+          "sceneDescription": "Star Wars: Episode VIII - The Last Jedi - Part 4 (6:00 - 8:00)",
+          "startTime": 360,
+          "endTime": 480
+        },
+        {
+          "id": "UT6Q2C44oMY-variant-4",
+          "youtube": "https://www.youtube.com/watch?v=UT6Q2C44oMY&t=480s&end=602s",
+          "sceneDescription": "Star Wars: Episode VIII - The Last Jedi - Part 5 (8:00 - 10:02)",
+          "startTime": 480,
+          "endTime": 602
+        }
+      ],
+      "variantCount": 5,
+      "tooltip": {
+        "description": "Star Wars: Episode VIII - The Last Jedi (2017) - Quality Score: 35/100",
+        "genre": "Classic Film",
+        "crawlerScore": 35,
+        "breakdown": {
+          "titleRelevance": 20,
+          "sceneIndicators": 20,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:25:15.481Z"
+      },
+      "movie": "Star Wars: Episode VIII - The Last Jedi"
+    },
+    {
+      "id": "gibboanx-test-19-9",
+      "label": "Hacksaw Ridge",
+      "date": 2016,
+      "year": 2016,
+      "youtube": "https://www.youtube.com/watch?v=yZXfJd4qRpI&t=0s&end=120s",
+      "duration": 319,
+      "variants": [
+        {
+          "id": "yZXfJd4qRpI-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=yZXfJd4qRpI&t=0s&end=120s",
+          "sceneDescription": "Hacksaw Ridge - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "yZXfJd4qRpI-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=yZXfJd4qRpI&t=120s&end=240s",
+          "sceneDescription": "Hacksaw Ridge - Part 2 (2:00 - 4:00)",
+          "startTime": 120,
+          "endTime": 240
+        },
+        {
+          "id": "yZXfJd4qRpI-variant-2",
+          "youtube": "https://www.youtube.com/watch?v=yZXfJd4qRpI&t=240s&end=319s",
+          "sceneDescription": "Hacksaw Ridge - Part 3 (4:00 - 5:19)",
+          "startTime": 240,
+          "endTime": 319
+        }
+      ],
+      "variantCount": 3,
+      "tooltip": {
+        "description": "Hacksaw Ridge (2016) - Quality Score: 50/100",
+        "genre": "Classic Film",
+        "crawlerScore": 50,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 10,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:25:15.481Z"
+      },
+      "movie": "Hacksaw Ridge"
+    },
+    {
+      "id": "gibboanx-test-19-10",
+      "label": "Kinsey",
+      "date": 2004,
+      "year": 2004,
+      "youtube": "https://www.youtube.com/watch?v=QLaELku7kFo&t=0s&end=175s",
+      "duration": 175,
+      "variants": [
+        {
+          "id": "QLaELku7kFo-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=QLaELku7kFo&t=0s&end=175s",
+          "sceneDescription": "Kinsey - Part 1 (0:00 - 2:55)",
+          "startTime": 0,
+          "endTime": 175
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Kinsey (2004) - Quality Score: 40/100",
+        "genre": "Classic Film",
+        "crawlerScore": 40,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 0,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:25:15.481Z"
+      },
+      "movie": "Kinsey"
+    }
+  ]
+}

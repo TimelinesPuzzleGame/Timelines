@@ -1,0 +1,488 @@
+{
+  "slug": "imdb-top10-greatest-films",
+  "topic": "IMDB Top 10 Greatest Films of All Time",
+  "category": "Entertainment",
+  "subcategory": "Movies/TV",
+  "hideDates": false,
+  "showTooltips": true,
+  "variantSystem": {
+    "enabled": true,
+    "totalScenes": 10,
+    "totalVariants": 19,
+    "averageScore": 78.46221136066822,
+    "qualityThreshold": 55,
+    "thresholdLowered": true,
+    "enhancedFeatures": [
+      "Scene/Quote Detection",
+      "Frame Analysis",
+      "Context Matching",
+      "Lowered Threshold"
+    ]
+  },
+  "description": "Greatest films of all time with enhanced scene detection (threshold lowered to 55)",
+  "cards": [
+    {
+      "id": "imdb-top10-1",
+      "label": "The Godfather (1972)",
+      "date": 1972,
+      "youtube": "https://www.youtube.com/watch?v=efMQRfmrlA0&t=0s&end=120s",
+      "duration": 228,
+      "variants": [
+        {
+          "id": "efMQRfmrlA0-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=efMQRfmrlA0&t=0s&end=120s",
+          "sceneDescription": "The Godfather - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "efMQRfmrlA0-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=efMQRfmrlA0&t=120s&end=228s",
+          "sceneDescription": "The Godfather - Part 2 (2:00 - 3:48)",
+          "startTime": 120,
+          "endTime": 228
+        }
+      ],
+      "variantCount": 2,
+      "tooltip": {
+        "description": "The Godfather - Enhanced scene detection (Score: 82.35554116089726/100)",
+        "genre": "Classic Film",
+        "crawlerScore": 82.35554116089726,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 20,
+          "popularityFactor": 7.4,
+          "penalties": 0
+        },
+        "frameAnalysis": {
+          "confidence": 80,
+          "scenes_detected": 1,
+          "is_compilation": false,
+          "visual_quality": "good",
+          "contains_text_overlay": false
+        },
+        "source": "IMDB Top 10 Greatest Films (gibboanx)",
+        "qualityChecked": true,
+        "sceneDetection": true,
+        "thresholdLowered": true
+      }
+    },
+    {
+      "id": "imdb-top10-2",
+      "label": "Goodfellas (1990)",
+      "date": 1990,
+      "youtube": "https://www.youtube.com/watch?v=veg0cHBspNY&t=0s&end=171s",
+      "duration": 171,
+      "variants": [
+        {
+          "id": "veg0cHBspNY-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=veg0cHBspNY&t=0s&end=171s",
+          "sceneDescription": "Goodfellas - Part 1 (0:00 - 2:51)",
+          "startTime": 0,
+          "endTime": 171
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Goodfellas - Enhanced scene detection (Score: 73.11582598632842/100)",
+        "genre": "Classic Film",
+        "crawlerScore": 73.11582598632842,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 0,
+          "resolutionQuality": 20,
+          "popularityFactor": 8.1,
+          "penalties": 0
+        },
+        "frameAnalysis": {
+          "confidence": 80,
+          "scenes_detected": 1,
+          "is_compilation": false,
+          "visual_quality": "good",
+          "contains_text_overlay": false
+        },
+        "source": "IMDB Top 10 Greatest Films (gibboanx)",
+        "qualityChecked": true,
+        "sceneDetection": true,
+        "thresholdLowered": true
+      }
+    },
+    {
+      "id": "imdb-top10-3",
+      "label": "Pulp Fiction (1994)",
+      "date": 1994,
+      "youtube": "https://www.youtube.com/watch?v=G40QeJGSm9U&t=0s&end=120s",
+      "duration": 585,
+      "variants": [
+        {
+          "id": "G40QeJGSm9U-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=G40QeJGSm9U&t=0s&end=120s",
+          "sceneDescription": "Pulp Fiction - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "G40QeJGSm9U-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=G40QeJGSm9U&t=120s&end=240s",
+          "sceneDescription": "Pulp Fiction - Part 2 (2:00 - 4:00)",
+          "startTime": 120,
+          "endTime": 240
+        },
+        {
+          "id": "G40QeJGSm9U-variant-2",
+          "youtube": "https://www.youtube.com/watch?v=G40QeJGSm9U&t=240s&end=360s",
+          "sceneDescription": "Pulp Fiction - Part 3 (4:00 - 6:00)",
+          "startTime": 240,
+          "endTime": 360
+        },
+        {
+          "id": "G40QeJGSm9U-variant-3",
+          "youtube": "https://www.youtube.com/watch?v=G40QeJGSm9U&t=360s&end=480s",
+          "sceneDescription": "Pulp Fiction - Part 4 (6:00 - 8:00)",
+          "startTime": 360,
+          "endTime": 480
+        },
+        {
+          "id": "G40QeJGSm9U-variant-4",
+          "youtube": "https://www.youtube.com/watch?v=G40QeJGSm9U&t=480s&end=585s",
+          "sceneDescription": "Pulp Fiction - Part 5 (8:00 - 9:45)",
+          "startTime": 480,
+          "endTime": 585
+        }
+      ],
+      "variantCount": 5,
+      "tooltip": {
+        "description": "Pulp Fiction - Enhanced scene detection (Score: 74.50663524661852/100)",
+        "genre": "Classic Film",
+        "crawlerScore": 74.50663524661852,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 12,
+          "popularityFactor": 7.5,
+          "penalties": 0
+        },
+        "frameAnalysis": {
+          "confidence": 80,
+          "scenes_detected": 1,
+          "is_compilation": false,
+          "visual_quality": "good",
+          "contains_text_overlay": false
+        },
+        "source": "IMDB Top 10 Greatest Films (gibboanx)",
+        "qualityChecked": true,
+        "sceneDetection": true,
+        "thresholdLowered": true
+      }
+    },
+    {
+      "id": "imdb-top10-4",
+      "label": "The Usual Suspects (1995)",
+      "date": 1995,
+      "youtube": "https://www.youtube.com/watch?v=XYXXhn9fMYs&t=0s&end=120s",
+      "duration": 294,
+      "variants": [
+        {
+          "id": "XYXXhn9fMYs-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=XYXXhn9fMYs&t=0s&end=120s",
+          "sceneDescription": "The Usual Suspects - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "XYXXhn9fMYs-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=XYXXhn9fMYs&t=120s&end=294s",
+          "sceneDescription": "The Usual Suspects - Part 2 (2:00 - 4:54)",
+          "startTime": 120,
+          "endTime": 294
+        }
+      ],
+      "variantCount": 2,
+      "tooltip": {
+        "description": "The Usual Suspects - Enhanced scene detection (Score: 93.52268709978405/100)",
+        "genre": "Classic Film",
+        "crawlerScore": 93.52268709978405,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 30,
+          "resolutionQuality": 10,
+          "popularityFactor": 8.5,
+          "penalties": 0
+        },
+        "frameAnalysis": {
+          "confidence": 80,
+          "scenes_detected": 1,
+          "is_compilation": false,
+          "visual_quality": "good",
+          "contains_text_overlay": false
+        },
+        "source": "IMDB Top 10 Greatest Films (gibboanx)",
+        "qualityChecked": true,
+        "sceneDetection": true,
+        "thresholdLowered": true
+      }
+    },
+    {
+      "id": "imdb-top10-5",
+      "label": "Apocalypse Now (1979)",
+      "date": 1979,
+      "youtube": "https://www.youtube.com/watch?v=M9yNRrC9SHo",
+      "duration": 52,
+      "variants": [
+        {
+          "id": "M9yNRrC9SHo",
+          "youtube": "https://www.youtube.com/watch?v=M9yNRrC9SHo",
+          "sceneDescription": "Apocalypse Now - Full Scene",
+          "startTime": 0,
+          "endTime": 52
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Apocalypse Now - Enhanced scene detection (Score: 90.92806691624294/100)",
+        "genre": "Classic Film",
+        "crawlerScore": 90.92806691624294,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 20,
+          "resolutionQuality": 20,
+          "popularityFactor": 5.9,
+          "penalties": 0
+        },
+        "frameAnalysis": {
+          "confidence": 80,
+          "scenes_detected": 1,
+          "is_compilation": false,
+          "visual_quality": "good",
+          "contains_text_overlay": false
+        },
+        "source": "IMDB Top 10 Greatest Films (gibboanx)",
+        "qualityChecked": true,
+        "sceneDetection": true,
+        "thresholdLowered": true
+      }
+    },
+    {
+      "id": "imdb-top10-6",
+      "label": "Trainspotting (1996)",
+      "date": 1996,
+      "youtube": "https://www.youtube.com/watch?v=NELO1PGRjJ4&t=0s&end=120s",
+      "duration": 199,
+      "variants": [
+        {
+          "id": "NELO1PGRjJ4-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=NELO1PGRjJ4&t=0s&end=120s",
+          "sceneDescription": "Trainspotting - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "NELO1PGRjJ4-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=NELO1PGRjJ4&t=120s&end=199s",
+          "sceneDescription": "Trainspotting - Part 2 (2:00 - 3:19)",
+          "startTime": 120,
+          "endTime": 199
+        }
+      ],
+      "variantCount": 2,
+      "tooltip": {
+        "description": "Trainspotting - Enhanced scene detection (Score: 72.20967858824812/100)",
+        "genre": "Classic Film",
+        "crawlerScore": 72.20967858824812,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 10,
+          "popularityFactor": 7.2,
+          "penalties": 0
+        },
+        "frameAnalysis": {
+          "confidence": 80,
+          "scenes_detected": 1,
+          "is_compilation": false,
+          "visual_quality": "good",
+          "contains_text_overlay": false
+        },
+        "source": "IMDB Top 10 Greatest Films (gibboanx)",
+        "qualityChecked": true,
+        "sceneDetection": true,
+        "thresholdLowered": true
+      }
+    },
+    {
+      "id": "imdb-top10-7",
+      "label": "Fight Club (1999)",
+      "date": 1999,
+      "youtube": "https://www.youtube.com/watch?v=NHXXqlcCxPs",
+      "duration": 119,
+      "variants": [
+        {
+          "id": "NHXXqlcCxPs",
+          "youtube": "https://www.youtube.com/watch?v=NHXXqlcCxPs",
+          "sceneDescription": "Fight Club - Full Scene",
+          "startTime": 0,
+          "endTime": 119
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Fight Club - Enhanced scene detection (Score: 75.23972007356939/100)",
+        "genre": "Classic Film",
+        "crawlerScore": 75.23972007356939,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 12,
+          "popularityFactor": 8.2,
+          "penalties": 0
+        },
+        "frameAnalysis": {
+          "confidence": 80,
+          "scenes_detected": 1,
+          "is_compilation": false,
+          "visual_quality": "good",
+          "contains_text_overlay": false
+        },
+        "source": "IMDB Top 10 Greatest Films (gibboanx)",
+        "qualityChecked": true,
+        "sceneDetection": true,
+        "thresholdLowered": true
+      }
+    },
+    {
+      "id": "imdb-top10-8",
+      "label": "Schindler's List (1993)",
+      "date": 1993,
+      "youtube": "https://www.youtube.com/watch?v=UpvCv132ztw",
+      "duration": 57,
+      "variants": [
+        {
+          "id": "UpvCv132ztw",
+          "youtube": "https://www.youtube.com/watch?v=UpvCv132ztw",
+          "sceneDescription": "Schindler's List - Full Scene",
+          "startTime": 0,
+          "endTime": 57
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Schindler's List - Enhanced scene detection (Score: 65/100)",
+        "genre": "Classic Film",
+        "crawlerScore": 65,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 0,
+          "resolutionQuality": 10,
+          "popularityFactor": 10,
+          "penalties": 0
+        },
+        "frameAnalysis": {
+          "confidence": 80,
+          "scenes_detected": 1,
+          "is_compilation": false,
+          "visual_quality": "good",
+          "contains_text_overlay": false
+        },
+        "source": "IMDB Top 10 Greatest Films (gibboanx)",
+        "qualityChecked": true,
+        "sceneDetection": true,
+        "thresholdLowered": true
+      }
+    },
+    {
+      "id": "imdb-top10-9",
+      "label": "Magnolia (1999)",
+      "date": 1999,
+      "youtube": "https://www.youtube.com/watch?v=aNmKghTvj0E&t=0s&end=120s",
+      "duration": 278,
+      "variants": [
+        {
+          "id": "aNmKghTvj0E-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=aNmKghTvj0E&t=0s&end=120s",
+          "sceneDescription": "Magnolia - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "aNmKghTvj0E-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=aNmKghTvj0E&t=120s&end=278s",
+          "sceneDescription": "Magnolia - Part 2 (2:00 - 4:38)",
+          "startTime": 120,
+          "endTime": 278
+        }
+      ],
+      "variantCount": 2,
+      "tooltip": {
+        "description": "Magnolia - Enhanced scene detection (Score: 63.30061608107422/100)",
+        "genre": "Classic Film",
+        "crawlerScore": 63.30061608107422,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 0,
+          "resolutionQuality": 10,
+          "popularityFactor": 8.3,
+          "penalties": 0
+        },
+        "frameAnalysis": {
+          "confidence": 80,
+          "scenes_detected": 1,
+          "is_compilation": false,
+          "visual_quality": "good",
+          "contains_text_overlay": false
+        },
+        "source": "IMDB Top 10 Greatest Films (gibboanx)",
+        "qualityChecked": true,
+        "sceneDetection": true,
+        "thresholdLowered": true
+      }
+    },
+    {
+      "id": "imdb-top10-10",
+      "label": "Scarface (1983)",
+      "date": 1983,
+      "youtube": "https://www.youtube.com/watch?v=QBG8SDB1lF8&t=0s&end=120s",
+      "duration": 231,
+      "variants": [
+        {
+          "id": "QBG8SDB1lF8-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=QBG8SDB1lF8&t=0s&end=120s",
+          "sceneDescription": "Scarface - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "QBG8SDB1lF8-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=QBG8SDB1lF8&t=120s&end=231s",
+          "sceneDescription": "Scarface - Part 2 (2:00 - 3:51)",
+          "startTime": 120,
+          "endTime": 231
+        }
+      ],
+      "variantCount": 2,
+      "tooltip": {
+        "description": "Scarface - Enhanced scene detection (Score: 94.44334245391929/100)",
+        "genre": "Classic Film",
+        "crawlerScore": 94.44334245391929,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 20,
+          "resolutionQuality": 20,
+          "popularityFactor": 9.4,
+          "penalties": 0
+        },
+        "frameAnalysis": {
+          "confidence": 80,
+          "scenes_detected": 1,
+          "is_compilation": false,
+          "visual_quality": "good",
+          "contains_text_overlay": false
+        },
+        "source": "IMDB Top 10 Greatest Films (gibboanx)",
+        "qualityChecked": true,
+        "sceneDetection": true,
+        "thresholdLowered": true
+      }
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "slug": "spectacular-knockouts",
+  "topic": "Spectacular Knockouts",
+  "category": "Sports",
+  "subcategory": "MMA",
+  "hideDates": false,
+  "cards": [
+    {
+      "label": "Mazvidal KO's Askren",
+      "date": 2019,
+      "youtube": "https://www.youtube.com/watch?v=IChOmvBlL1Y&t=0&end=24"
+    },
+    {
+      "label": "McGregor KO's Aldo",
+      "date": 2015,
+      "youtube": "https://www.youtube.com/watch?v=IChOmvBlL1Y&t=41&end=72"
+    },
+    {
+      "label": "Ngannou KO's Rozenstruik",
+      "date": 2020,
+      "youtube": "https://www.youtube.com/watch?v=IChOmvBlL1Y&t=78&end=124"
+    },
+    {
+      "label": "Chimaev KO's Meerchaert",
+      "date": 2020,
+      "youtube": "https://www.youtube.com/watch?v=IChOmvBlL1Y&t=135&end=173"
+    },
+    {
+      "label": "Frevola KO's McKinney",
+      "date": 2021,
+      "youtube": "https://www.youtube.com/watch?v=IChOmvBlL1Y&t=188&end=206"
+    },
+    {
+      "label": "Walker KO's Ledet",
+      "date": 2019,
+      "youtube": "https://www.youtube.com/watch?v=IChOmvBlL1Y&t=217&end=262"
+    },
+    {
+      "label": "Jung KO's Hominick",
+      "date": 2011,
+      "youtube": "https://www.youtube.com/watch?v=IChOmvBlL1Y&t=283&end=311"
+    },
+    {
+      "label": "Jimmo KO's Perosh",
+      "date": 2012,
+      "youtube": "https://www.youtube.com/watch?v=IChOmvBlL1Y&t=327&end=357"
+    },
+    {
+      "label": "Johnson KO's Teixeria",
+      "date": 2016,
+      "youtube": "https://www.youtube.com/watch?v=IChOmvBlL1Y&t=365&end=407"
+    },
+    {
+      "label": "Frye KO's Ramirez",
+      "date": 1996,
+      "youtube": "https://www.youtube.com/watch?v=gGsAe3Qs8Kk&t=329&end=420"
+    },
+    {
+      "label": "Penn KO's Uno",
+      "date": 2002,
+      "youtube": "https://www.youtube.com/watch?v=S-GlmwJsKG4&t=11&end=83"
+    },
+    {
+      "label": "Gomi KO's Ralph Gracie",
+      "date": 2005,
+      "youtube": "https://www.youtube.com/watch?v=e8CoMpxj2I4&t=15&end=116"
+    },
+    {
+      "label": "Rampage KO's Randleman",
+      "date": 2003,
+      "youtube": "https://www.youtube.com/watch?v=CvXiKKCzRXg&t=57&end=81"
+    },
+    {
+      "label": "Belfort KO's Silva",
+      "date": 1998,
+      "youtube": "https://www.youtube.com/watch?v=LWE79K2Ii-s&t=8&end=22"
+    },
+    {
+      "label": "Hughes & Newton KO each other lol",
+      "date": 2001,
+      "youtube": "https://www.youtube.com/watch?v=LWE79K2Ii-s&t=297&end=320"
+    },
+    {
+      "label": "Henderson KO's Bisping",
+      "date": 2009,
+      "youtube": "https://www.youtube.com/watch?v=LWE79K2Ii-s&t=351&end=361"
+    },
+    {
+      "label": "Weidman KO's Silva",
+      "date": 2013,
+      "youtube": "https://www.youtube.com/watch?v=LWE79K2Ii-s&t=410&end=423"
+    },
+    {
+      "label": "Silva KO's Belfort",
+      "date": 2011,
+      "youtube": "https://www.youtube.com/watch?v=LWE79K2Ii-s&t=432&end=442"
+    }
+  ]
+}

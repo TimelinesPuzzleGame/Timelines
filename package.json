@@ -6,9 +6,14 @@
     "start": "next start"
   },
   "dependencies": {
+    "axios": "^1.9.0",
+    "clsx": "^2.1.1",
+    "dotenv": "^16.5.0",
     "framer-motion": "^12.9.7",
+    "googleapis": "^150.0.1",
+    "mammoth": "^1.9.1",
     "next": "latest",
-    "node-fetch": "^3.3.2",
+    "node-fetch": "^2.7.0",
     "openai": "^4.98.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
@@ -30,5 +35,20 @@
     "tailwindcss"
   ],
   "name": "nextjs-tailwind-css-example",
-  "description": "This example shows how to use Tailwind CSS (v3.0) with Next.js."
+  "description": "This example shows how to use Tailwind CSS (v3.0) with Next.js.",
+  "version": "1.0.0",
+  "main": "deezer-enrich.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TimelinesPuzzleGame/Timelines.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TimelinesPuzzleGame/Timelines/issues"
+  },
+  "homepage": "https://github.com/TimelinesPuzzleGame/Timelines#readme"
 }

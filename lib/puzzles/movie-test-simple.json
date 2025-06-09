@@ -1,0 +1,62 @@
+{
+  "id": "movie-test-simple",
+  "name": "Movie Test (Simple Variants)",
+  "description": "Testing simple variant design",
+  "cards": [
+    {
+      "id": "movie-1",
+      "label": "The Shawshank Redemption",
+      "year": 1994,
+      "date": 1994,
+      "youtube": "https://www.youtube.com/watch?v=BD0bC2inuAc",
+      "startTimes": [
+        0,
+        45,
+        90,
+        135,
+        180,
+        225
+      ],
+      "tooltip": {
+        "description": "Movie scene",
+        "source": "Simple variant test"
+      }
+    },
+    {
+      "id": "movie-2",
+      "label": "The Goonies",
+      "year": 1985,
+      "date": 1985,
+      "youtube": "https://www.youtube.com/watch?v=Ezwaxc4f6Sg",
+      "startTimes": [
+        0,
+        60,
+        120,
+        180,
+        240,
+        300,
+        360
+      ],
+      "tooltip": {
+        "description": "Movie scene",
+        "source": "Simple variant test"
+      }
+    },
+    {
+      "id": "movie-3",
+      "label": "Cahill: United States Marshal",
+      "year": 1973,
+      "date": 1973,
+      "youtube": "https://www.youtube.com/watch?v=bc1Zyr02lwc",
+      "startTimes": [],
+      "tooltip": {
+        "description": "Movie scene",
+        "source": "Simple variant test"
+      }
+    }
+  ],
+  "variantSystem": {
+    "type": "simple",
+    "description": "Uses startTimes array instead of complex variants"
+  }
+}

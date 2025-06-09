@@ -1,0 +1,1489 @@
+{
+  "slug": "love-songs",
+  "topic": "Love Songs - Top 100",
+  "category": "Entertainment",
+  "subcategory": "Music",
+  "showTooltips": false,
+  "cards": [
+    {
+      "id": "1968-i-say-a-little-prayer-aretha-franklin",
+      "label": "I Say a Little Prayer - Aretha Franklin",
+      "date": 1968,
+      "deezer": {
+        "trackId": 2133626,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/6/1/0/661c6f34db98c426e812659347bf4e9c.mp3?hdnea=exp=1748033202~acl=/api/1/1/6/6/1/0/661c6f34db98c426e812659347bf4e9c.mp3*~data=user_id=0,application_id=42~hmac=f578032473050010eafd06945061e7021438e04d1ae05ad22b395a4682175960",
+        "url": "https://www.deezer.com/track/2133626"
+      }
+    },
+    {
+      "id": "1986-in-your-eyes-peter-gabriel",
+      "label": "In Your Eyes - Peter Gabriel",
+      "date": 1986,
+      "deezer": {
+        "trackId": 538707912,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/d/3/0/bd3142bced33df0094ea96c26c0e8a89.mp3?hdnea=exp=1748033202~acl=/api/1/1/b/d/3/0/bd3142bced33df0094ea96c26c0e8a89.mp3*~data=user_id=0,application_id=42~hmac=ad7b37b81c18d786e334676708f6ed227afaa14916427b3fefd23185c9a90eb9",
+        "url": "https://www.deezer.com/track/538707912"
+      }
+    },
+    {
+      "id": "1965-unchained-melody-the-righteous-brothers",
+      "label": "Unchained Melody - The Righteous Brothers",
+      "date": 1965,
+      "deezer": {
+        "trackId": 468253402,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/c/e/0/9ce38d421e94c9a12bb54ce15dcc7e09.mp3?hdnea=exp=1748033203~acl=/api/1/1/9/c/e/0/9ce38d421e94c9a12bb54ce15dcc7e09.mp3*~data=user_id=0,application_id=42~hmac=4b6a5dced1533ecedfffbb34393ed478ec2c9f6339359ecc6483f0db6a5190db",
+        "url": "https://www.deezer.com/track/468253402"
+      }
+    },
+    {
+      "id": "1969-the-first-time-ever-i-saw-your-face-roberta-flack",
+      "label": "The First Time Ever I Saw Your Face - Roberta Flack",
+      "date": 1969,
+      "deezer": {
+        "trackId": 1242840702,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/f/6/0/5f6109d20a954b81789e4669de288355.mp3?hdnea=exp=1748033203~acl=/api/1/1/5/f/6/0/5f6109d20a954b81789e4669de288355.mp3*~data=user_id=0,application_id=42~hmac=9d9cd499501aa8b710b48af0b83d2aa36d4eccb90a317a1baecf2e820029e605",
+        "url": "https://www.deezer.com/track/1242840702"
+      }
+    },
+    {
+      "id": "1984-time-after-time-cyndi-lauper",
+      "label": "Time After Time - Cyndi Lauper",
+      "date": 1984,
+      "deezer": {
+        "trackId": 72194073,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/2/4/0/32416e030b1198788ebe615bb0bc1c31.mp3?hdnea=exp=1748033203~acl=/api/1/1/3/2/4/0/32416e030b1198788ebe615bb0bc1c31.mp3*~data=user_id=0,application_id=42~hmac=0b6e09c88eb63d3f98be8555f6b6308250bd3b084b800a10e636d7d50692e905",
+        "url": "https://www.deezer.com/track/72194073"
+      }
+    },
+    {
+      "id": "1966-when-a-man-loves-a-woman-percy-sledge",
+      "label": "When a Man Loves a Woman - Percy Sledge",
+      "date": 1966,
+      "deezer": {
+        "trackId": 4209649,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/5/0/0/d500df4ab629fa0cbe08a39045cf5ded.mp3?hdnea=exp=1748033204~acl=/api/1/1/d/5/0/0/d500df4ab629fa0cbe08a39045cf5ded.mp3*~data=user_id=0,application_id=42~hmac=4d844968087165a445b44ff011ac09968d286f42d9e6fe6c9cce64614695d752",
+        "url": "https://www.deezer.com/track/4209649"
+      }
+    },
+    {
+      "id": "1970-your-song-elton-john",
+      "label": "Your Song - Elton John",
+      "date": 1970,
+      "deezer": {
+        "trackId": 880181,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/f/5/0/7f542ea6651ba0e1355009583f3cc1d7.mp3?hdnea=exp=1748033204~acl=/api/1/1/7/f/5/0/7f542ea6651ba0e1355009583f3cc1d7.mp3*~data=user_id=0,application_id=42~hmac=e03d0a3e767befd2c7d3a3bb70486611211516e29061cb6d6bb4b80fc9c6e83e",
+        "url": "https://www.deezer.com/track/880181"
+      }
+    },
+    {
+      "id": "1970--they-long-to-be-close-to-you-the-carpenters",
+      "label": "(They Long to Be) Close to You - The Carpenters",
+      "date": 1970,
+      "deezer": {
+        "trackId": 539193232,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/2/7/0/327c0a7fce0358896286bee537b05433.mp3?hdnea=exp=1748033204~acl=/api/1/1/3/2/7/0/327c0a7fce0358896286bee537b05433.mp3*~data=user_id=0,application_id=42~hmac=cf1ad3f97de11a50f421c9871c1696dbc2342c203376a2234c0723ab93ac2acb",
+        "url": "https://www.deezer.com/track/539193232"
+      }
+    },
+    {
+      "id": "1973-my-love-paul-mccartney-and-wings",
+      "label": "My Love - Paul McCartney and Wings",
+      "date": 1973,
+      "deezer": {
+        "trackId": 7340167,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/7/8/0/578b5f0d6ab026149d3091b58bf49fce.mp3?hdnea=exp=1748033205~acl=/api/1/1/5/7/8/0/578b5f0d6ab026149d3091b58bf49fce.mp3*~data=user_id=0,application_id=42~hmac=74d6658e928b286e7e6a61e5d77f08c9b51edc40b0849a5acd9229f37aedee80",
+        "url": "https://www.deezer.com/track/7340167"
+      }
+    },
+    {
+      "id": "1977-best-of-my-love-the-emotions",
+      "label": "Best of My Love - The Emotions",
+      "date": 1977,
+      "deezer": {
+        "trackId": 1026366,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/d/9/0/1d95990d7a000e53fcc7bab96171ccaf.mp3?hdnea=exp=1748033205~acl=/api/1/1/1/d/9/0/1d95990d7a000e53fcc7bab96171ccaf.mp3*~data=user_id=0,application_id=42~hmac=9e3e5636cf9c051ceace2209f2ebc7ece40cd893e1ce7e8db6f9fc21c796cee0",
+        "url": "https://www.deezer.com/track/1026366"
+      }
+    },
+    {
+      "id": "1981-endless-love-diana-ross-and-lionel-richie",
+      "label": "Endless Love - Diana Ross and Lionel Richie",
+      "date": 1981,
+      "deezer": {
+        "trackId": 906584,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/d/2/0/bd21fdf1495c3d81fe2ef4c75ee36113.mp3?hdnea=exp=1748033205~acl=/api/1/1/b/d/2/0/bd21fdf1495c3d81fe2ef4c75ee36113.mp3*~data=user_id=0,application_id=42~hmac=b7183341dfe143b0db1ff90dc04bf3ca515df863b14ce1c9d58df8c391a8949d",
+        "url": "https://www.deezer.com/track/906584"
+      }
+    },
+    {
+      "id": "1974-annie-s-song-john-denver",
+      "label": "Annie's Song - John Denver",
+      "date": 1974,
+      "deezer": {
+        "trackId": 659836372,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/9/d/0/69d11733ade43e2ffa4e9303f854c554.mp3?hdnea=exp=1748033206~acl=/api/1/1/6/9/d/0/69d11733ade43e2ffa4e9303f854c554.mp3*~data=user_id=0,application_id=42~hmac=13ac4d9c0ebd335c18408ab0b768f3bfb62a5889162de0497700627e1b8aebb1",
+        "url": "https://www.deezer.com/track/659836372"
+      }
+    },
+    {
+      "id": "1984-i-want-to-know-what-love-is-foreigner",
+      "label": "I Want to Know What Love Is - Foreigner",
+      "date": 1984,
+      "deezer": {
+        "trackId": 977948,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/f/3/0/ff3f904e4747ea3edb2288785082c1ec.mp3?hdnea=exp=1748033206~acl=/api/1/1/f/f/3/0/ff3f904e4747ea3edb2288785082c1ec.mp3*~data=user_id=0,application_id=42~hmac=3e32609ef38d1f2b64be5d77b193722a22e6212ac9429193ae08af01d69a424b",
+        "url": "https://www.deezer.com/track/977948"
+      }
+    },
+    {
+      "id": "1999-i-knew-i-loved-you-savage-garden",
+      "label": "I Knew I Loved You - Savage Garden",
+      "date": 1999,
+      "deezer": {
+        "trackId": 117262966,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/5/8/0/3584e8fe8ec9464dbd8b53f6cc9d58a8.mp3?hdnea=exp=1748033206~acl=/api/1/1/3/5/8/0/3584e8fe8ec9464dbd8b53f6cc9d58a8.mp3*~data=user_id=0,application_id=42~hmac=9f0b1c4db7fb7efca3a11346a9d8ac9547fa9ee15b26c0bd930cb9f12e1dc907",
+        "url": "https://www.deezer.com/track/117262966"
+      }
+    },
+    {
+      "id": "1996-i-love-you-always-forever-donna-lewis",
+      "label": "I Love You Always Forever - Donna Lewis",
+      "date": 1996,
+      "deezer": {
+        "trackId": 846048,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/d/f/0/ddfae766c7917b13f224b442cbe35fd7.mp3?hdnea=exp=1748033207~acl=/api/1/1/d/d/f/0/ddfae766c7917b13f224b442cbe35fd7.mp3*~data=user_id=0,application_id=42~hmac=0d12040f6689bd5e0e6268d270014e8b5a77692f6ef6e8093f3aa34416e81a4b",
+        "url": "https://www.deezer.com/track/846048"
+      }
+    },
+    {
+      "id": "1997-my-heart-will-go-on-celine-dion",
+      "label": "My Heart Will Go On - Celine Dion",
+      "date": 1997,
+      "deezer": {
+        "trackId": 14552280,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/b/d/0/fbd59f9121892eed1ed1671730f012bd.mp3?hdnea=exp=1748033207~acl=/api/1/1/f/b/d/0/fbd59f9121892eed1ed1671730f012bd.mp3*~data=user_id=0,application_id=42~hmac=baaf875bc374cb1d6e512e8e04d2fb3aee8d75a0da70672bdb9799fabdb895f1",
+        "url": "https://www.deezer.com/track/14552280"
+      }
+    },
+    {
+      "id": "1982-up-where-we-belong-joe-cocker-and-jennifer-warnes",
+      "label": "Up Where We Belong - Joe Cocker and Jennifer Warnes",
+      "date": 1982,
+      "deezer": {
+        "trackId": 906585,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/3/9/0/f394c4ec3257d8e1a6541bf91a56691a.mp3?hdnea=exp=1748033207~acl=/api/1/1/f/3/9/0/f394c4ec3257d8e1a6541bf91a56691a.mp3*~data=user_id=0,application_id=42~hmac=c24788f6d100230831504887e7cce921e11cb67457563163a5fd89ddf62322bf",
+        "url": "https://www.deezer.com/track/906585"
+      }
+    },
+    {
+      "id": "2009-halo-beyonc-",
+      "label": "Halo - Beyoncé",
+      "date": 2009,
+      "deezer": {
+        "trackId": 2485108,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/1/5/0/415673f572d368bcea0b4e6b8100f101.mp3?hdnea=exp=1748033208~acl=/api/1/1/4/1/5/0/415673f572d368bcea0b4e6b8100f101.mp3*~data=user_id=0,application_id=42~hmac=692c43298065697b5d7feb793a52e03f0925458bdb253347c0e56d8ce38b1e88",
+        "url": "https://www.deezer.com/track/2485108"
+      }
+    },
+    {
+      "id": "2000-sea-of-love-cat-power",
+      "label": "Sea of Love - Cat Power",
+      "date": 2000,
+      "deezer": {
+        "trackId": 105281106,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/4/9/0/e49e0bd3f25dfc8bb8477d1a0498c597.mp3?hdnea=exp=1748033208~acl=/api/1/1/e/4/9/0/e49e0bd3f25dfc8bb8477d1a0498c597.mp3*~data=user_id=0,application_id=42~hmac=082421c16fb9733fb5b18469f25ffc41ad181b00141d3f7521771cfb2bc46bbd",
+        "url": "https://www.deezer.com/track/105281106"
+      }
+    },
+    {
+      "id": "1980-you-make-my-dreams-come-true-hall-oates",
+      "label": "You Make My Dreams (Come True) - Hall & Oates",
+      "date": 1980,
+      "deezer": {
+        "trackId": 546004,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/a/b/0/5ab6be12931c10e91df8515094790923.mp3?hdnea=exp=1748033208~acl=/api/1/1/5/a/b/0/5ab6be12931c10e91df8515094790923.mp3*~data=user_id=0,application_id=42~hmac=605fa005ab499c475636781afbed3693b15b01d95ae166f54e3a14cf46e9b9ba",
+        "url": "https://www.deezer.com/track/546004"
+      }
+    },
+    {
+      "id": "1983-ain-t-nobody-chaka-khan",
+      "label": "Ain't Nobody - Chaka Khan",
+      "date": 1983,
+      "deezer": {
+        "trackId": 776220,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/6/d/0/16d4d568e35fb4f24d057a876f6cb32d.mp3?hdnea=exp=1748033209~acl=/api/1/1/1/6/d/0/16d4d568e35fb4f24d057a876f6cb32d.mp3*~data=user_id=0,application_id=42~hmac=2a319eaa01b400af79671dfbba2999dfc395f9b70c8675beb2f994e698bfa2a1",
+        "url": "https://www.deezer.com/track/776220"
+      }
+    },
+    {
+      "id": "1997-all-my-life-k-ci-jojo",
+      "label": "All My Life - K-Ci & JoJo",
+      "date": 1997,
+      "deezer": {
+        "trackId": 2428523,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/3/a/0/83af0999dfc9f3083c0147f67148fe08.mp3?hdnea=exp=1748033209~acl=/api/1/1/8/3/a/0/83af0999dfc9f3083c0147f67148fe08.mp3*~data=user_id=0,application_id=42~hmac=d2581e412df734554067d588773f736b67a022561c731948c81741e41a58f3d0",
+        "url": "https://www.deezer.com/track/2428523"
+      }
+    },
+    {
+      "id": "1967--your-love-keeps-lifting-me-higher-and-higher-jackie-wilson",
+      "label": "(Your Love Keeps Lifting Me) Higher And Higher - Jackie Wilson",
+      "date": 1967,
+      "deezer": {
+        "trackId": 116860346,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/4/2/0/942dd7dd6353a529d9eb4d5d03aa75bf.mp3?hdnea=exp=1748033209~acl=/api/1/1/9/4/2/0/942dd7dd6353a529d9eb4d5d03aa75bf.mp3*~data=user_id=0,application_id=42~hmac=ee737459b1853621cc29a6d61c8c17b5f0569072125be27bcad82594af919ac6",
+        "url": "https://www.deezer.com/track/116860346"
+      }
+    },
+    {
+      "id": "1993-the-power-of-love-celine-dion",
+      "label": "The Power of Love - Celine Dion",
+      "date": 1993,
+      "deezer": {
+        "trackId": 70627953,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/7/a/0/e7a2b53589f8a632f65556ff500c4601.mp3?hdnea=exp=1748033210~acl=/api/1/1/e/7/a/0/e7a2b53589f8a632f65556ff500c4601.mp3*~data=user_id=0,application_id=42~hmac=c52a2513468d61b08f703c4ec6e698f7c4410d1aab9ec48699545410b93de059",
+        "url": "https://www.deezer.com/track/70627953"
+      }
+    },
+    {
+      "id": "2003-remember-when-alan-jackson",
+      "label": "Remember When - Alan Jackson",
+      "date": 2003,
+      "deezer": {
+        "trackId": 533981,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/6/6/0/e6680463063d4cb604951c14b631a5f8.mp3?hdnea=exp=1748033210~acl=/api/1/1/e/6/6/0/e6680463063d4cb604951c14b631a5f8.mp3*~data=user_id=0,application_id=42~hmac=d388e0db22a242f05732551800fa67cfea8cfd8b92ace4de13e5541a465f3091",
+        "url": "https://www.deezer.com/track/533981"
+      }
+    },
+    {
+      "id": "1974-i-will-always-love-you-dolly-parton",
+      "label": "I Will Always Love You - Dolly Parton",
+      "date": 1974,
+      "deezer": {
+        "trackId": 567771,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/7/a/0/e7a5c1cdd04358c3c985965f68ad3a96.mp3?hdnea=exp=1748033210~acl=/api/1/1/e/7/a/0/e7a5c1cdd04358c3c985965f68ad3a96.mp3*~data=user_id=0,application_id=42~hmac=f798b01ef6e5757267d16437c124f03f4c9665e9356d231c44bcb94a094980b1",
+        "url": "https://www.deezer.com/track/567771"
+      }
+    },
+    {
+      "id": "2004-making-memories-of-us-keith-urban",
+      "label": "Making Memories of Us - Keith Urban",
+      "date": 2004,
+      "deezer": {
+        "trackId": 3359777,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/8/a/0/e8a2de15255d61af7b21515b7178f722.mp3?hdnea=exp=1748033211~acl=/api/1/1/e/8/a/0/e8a2de15255d61af7b21515b7178f722.mp3*~data=user_id=0,application_id=42~hmac=3a12805fd9c262a237c775390b316edac26143f0ddfe8bf9bc90a3b4f5e828c7",
+        "url": "https://www.deezer.com/track/3359777"
+      }
+    },
+    {
+      "id": "2011-honey-bee-blake-shelton",
+      "label": "Honey Bee - Blake Shelton",
+      "date": 2011,
+      "deezer": {
+        "trackId": 109464610,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/d/6/0/4d61b1ce92b7a44dfe52b7e4bfe3fdfe.mp3?hdnea=exp=1748033211~acl=/api/1/1/4/d/6/0/4d61b1ce92b7a44dfe52b7e4bfe3fdfe.mp3*~data=user_id=0,application_id=42~hmac=ab0582c5c7f766cfee9c8f939afcc00833e46e968243d524f9c7ed4655d234ce",
+        "url": "https://www.deezer.com/track/109464610"
+      }
+    },
+    {
+      "id": "1987-forever-and-ever-amen-randy-travis",
+      "label": "Forever and Ever, Amen - Randy Travis",
+      "date": 1987,
+      "deezer": {
+        "trackId": 7172209,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/2/f/0/e2f38d4d2e0b8409083ab9bfcb36aab3.mp3?hdnea=exp=1748033211~acl=/api/1/1/e/2/f/0/e2f38d4d2e0b8409083ab9bfcb36aab3.mp3*~data=user_id=0,application_id=42~hmac=8e54b59a3000e591f95ef452f76169b926f4dd94104a421dd006117da526bf02",
+        "url": "https://www.deezer.com/track/7172209"
+      }
+    },
+    {
+      "id": "1997-you-re-still-the-one-shania-twain",
+      "label": "You're Still the One - Shania Twain",
+      "date": 1997,
+      "deezer": {
+        "trackId": 731732292,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/0/f/0/40f6583c31e123909382b1d6761096aa.mp3?hdnea=exp=1748033211~acl=/api/1/1/4/0/f/0/40f6583c31e123909382b1d6761096aa.mp3*~data=user_id=0,application_id=42~hmac=0cd8c07923bb3a11495ec336c2a83479897953e493efe955289507d1f9f1f7bf",
+        "url": "https://www.deezer.com/track/731732292"
+      }
+    },
+    {
+      "id": "1999-amazed-lonestar",
+      "label": "Amazed - Lonestar",
+      "date": 1999,
+      "deezer": {
+        "trackId": 580441,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/0/8/0/d0848775cb0282fc021974d80ccd7589.mp3?hdnea=exp=1748033212~acl=/api/1/1/d/0/8/0/d0848775cb0282fc021974d80ccd7589.mp3*~data=user_id=0,application_id=42~hmac=da608cfdaa7afab6ec9f8462530f97ab18e6d37a5b03b5241bb5b3cf4062b394",
+        "url": "https://www.deezer.com/track/580441"
+      }
+    },
+    {
+      "id": "1979-you-decorated-my-life-kenny-rogers",
+      "label": "You Decorated My Life - Kenny Rogers",
+      "date": 1979,
+      "deezer": {
+        "trackId": 555636532,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/3/0/0/630f652469f404bd8554c6705df3f35d.mp3?hdnea=exp=1748033212~acl=/api/1/1/6/3/0/0/630f652469f404bd8554c6705df3f35d.mp3*~data=user_id=0,application_id=42~hmac=63e49941404e56a5e6ccd7bcde738c10a8e62a05e06122827d5bbbe873cb90d5",
+        "url": "https://www.deezer.com/track/555636532"
+      }
+    },
+    {
+      "id": "2010-i-keep-on-lovin-you-reba-mcentire",
+      "label": "I Keep on Lovin' You - Reba McEntire",
+      "date": 2010,
+      "deezer": {
+        "trackId": 1659898482,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/5/3/0/253232ded4823cc242176ba86936431a.mp3?hdnea=exp=1748033212~acl=/api/1/1/2/5/3/0/253232ded4823cc242176ba86936431a.mp3*~data=user_id=0,application_id=42~hmac=757b44d9dc63b62024d9b139462ad6a97b8219c649c4df117e7e069ba6b52b4c",
+        "url": "https://www.deezer.com/track/1659898482"
+      }
+    },
+    {
+      "id": "1983-wind-beneath-my-wings-gary-morris",
+      "label": "Wind Beneath My Wings - Gary Morris",
+      "date": 1983,
+      "deezer": {
+        "trackId": 798170642,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/3/9/0/d393c2a4dd1c70745a7b3307a4a1b324.mp3?hdnea=exp=1748033213~acl=/api/1/1/d/3/9/0/d393c2a4dd1c70745a7b3307a4a1b324.mp3*~data=user_id=0,application_id=42~hmac=468b59b23fb1cc0f4ab370e5c52877807a08b81ef903996329ceea91366ca4fc",
+        "url": "https://www.deezer.com/track/798170642"
+      }
+    },
+    {
+      "id": "2018-speechless-dan-shay",
+      "label": "Speechless - Dan + Shay",
+      "date": 2018,
+      "deezer": {
+        "trackId": 499632732,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/4/d/0/44d5831d450f7f18751febc5c75cf8e3.mp3?hdnea=exp=1748033213~acl=/api/1/1/4/4/d/0/44d5831d450f7f18751febc5c75cf8e3.mp3*~data=user_id=0,application_id=42~hmac=b08de10b7cc1bf7151bb6dbc5ca8158053df34dc5d8777394487fede44304b49",
+        "url": "https://www.deezer.com/track/499632732"
+      }
+    },
+    {
+      "id": "1992-i-cross-my-heart-george-strait",
+      "label": "I Cross My Heart - George Strait",
+      "date": 1992,
+      "deezer": {
+        "trackId": 890375,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/c/f/0/ccf1b5b264f816d14d8ab7bb5d20473c.mp3?hdnea=exp=1748033213~acl=/api/1/1/c/c/f/0/ccf1b5b264f816d14d8ab7bb5d20473c.mp3*~data=user_id=0,application_id=42~hmac=32d9156e0ebbf720c30306b8906111a0197f22079aae1a9f9baef9d75bed4c3e",
+        "url": "https://www.deezer.com/track/890375"
+      }
+    },
+    {
+      "id": "2008-i-run-to-you-lady-a",
+      "label": "I Run to You - Lady A",
+      "date": 2008,
+      "deezer": {
+        "trackId": 3145572,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/f/7/0/df72d8f46ee54aede6d7f64b38568d75.mp3?hdnea=exp=1748033214~acl=/api/1/1/d/f/7/0/df72d8f46ee54aede6d7f64b38568d75.mp3*~data=user_id=0,application_id=42~hmac=785f4821ca8e644298eb789addc9047fbf4be0bd006bc55a20655e27f87f72e1",
+        "url": "https://www.deezer.com/track/3145572"
+      }
+    },
+    {
+      "id": "1979-crazy-little-thing-called-love-queen",
+      "label": "Crazy Little Thing Called Love - Queen",
+      "date": 1979,
+      "deezer": {
+        "trackId": 568115912,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/8/4/0/e84ca26dc530e3f1170d17a5bdd5afef.mp3?hdnea=exp=1748033214~acl=/api/1/1/e/8/4/0/e84ca26dc530e3f1170d17a5bdd5afef.mp3*~data=user_id=0,application_id=42~hmac=b26af24d34e78540f9d4dd87d0d2552cf82826631bc82603b2635c7038e18f8c",
+        "url": "https://www.deezer.com/track/568115912"
+      }
+    },
+    {
+      "id": "1994-i-ll-stand-by-you-the-pretenders",
+      "label": "I'll Stand By You - The Pretenders",
+      "date": 1994,
+      "deezer": {
+        "trackId": 3590282,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/7/c/0/27ceaa0b455c514ca6b808bf1d9012a3.mp3?hdnea=exp=1748033214~acl=/api/1/1/2/7/c/0/27ceaa0b455c514ca6b808bf1d9012a3.mp3*~data=user_id=0,application_id=42~hmac=a17d8b9a631dc6c351fa5216412270ff27223294abc16cad6034e9d1d1ccf513",
+        "url": "https://www.deezer.com/track/3590282"
+      }
+    },
+    {
+      "id": "2001-true-love-waits-radiohead",
+      "label": "True Love Waits - Radiohead",
+      "date": 2001,
+      "deezer": {
+        "trackId": 138540811,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/4/8/0/948c5ac2a9a1948a05fcf3a6e3e57148.mp3?hdnea=exp=1748033215~acl=/api/1/1/9/4/8/0/948c5ac2a9a1948a05fcf3a6e3e57148.mp3*~data=user_id=0,application_id=42~hmac=1a870cbd31c0fcf99488bae3df966904cc6541da76f972139391ce6c4a2c95b1",
+        "url": "https://www.deezer.com/track/138540811"
+      }
+    },
+    {
+      "id": "1971-wild-horses-the-rolling-stones",
+      "label": "Wild Horses - The Rolling Stones",
+      "date": 1971,
+      "deezer": {
+        "trackId": 100914862,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/0/f/0/d0fb68bd86c069e697ecc1a6952ceb3d.mp3?hdnea=exp=1748033215~acl=/api/1/1/d/0/f/0/d0fb68bd86c069e697ecc1a6952ceb3d.mp3*~data=user_id=0,application_id=42~hmac=200ffb91ee20cd160aa78a653cb36860e2a05a32ef1a75fd011a72f082c62fa0",
+        "url": "https://www.deezer.com/track/100914862"
+      }
+    },
+    {
+      "id": "1986--i-just-died-in-your-arms-cutting-crew",
+      "label": "(I Just) Died in Your Arms - Cutting Crew",
+      "date": 1986,
+      "deezer": {
+        "trackId": 3152709,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/c/a/0/dca875c0aff4520e0d12719504174be9.mp3?hdnea=exp=1748033215~acl=/api/1/1/d/c/a/0/dca875c0aff4520e0d12719504174be9.mp3*~data=user_id=0,application_id=42~hmac=a8ad2adba0ba27a80292637c83e8fb8eaaaef478ddcecc9e8881389df2cf50be",
+        "url": "https://www.deezer.com/track/3152709"
+      }
+    },
+    {
+      "id": "1969-something-the-beatles",
+      "label": "Something - The Beatles",
+      "date": 1969,
+      "deezer": {
+        "trackId": 116348454,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/f/d/0/8fdd63845967dc8758b23b224842824f.mp3?hdnea=exp=1748033216~acl=/api/1/1/8/f/d/0/8fdd63845967dc8758b23b224842824f.mp3*~data=user_id=0,application_id=42~hmac=1e5a6032c2a98667fff3342f47148a65cf4bad78c6df3081f88025d348a6fe8e",
+        "url": "https://www.deezer.com/track/116348454"
+      }
+    },
+    {
+      "id": "1977-you-make-loving-fun-fleetwood-mac",
+      "label": "You Make Loving Fun - Fleetwood Mac",
+      "date": 1977,
+      "deezer": {
+        "trackId": 63480993,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/2/a/0/e2a6602849cd2972dbcdb8a3f7ee618f.mp3?hdnea=exp=1748033216~acl=/api/1/1/e/2/a/0/e2a6602849cd2972dbcdb8a3f7ee618f.mp3*~data=user_id=0,application_id=42~hmac=c5667bdd50f7be53d04b3b57d079bdc022f9f38ae759b8df35eeb59748579ee9",
+        "url": "https://www.deezer.com/track/63480993"
+      }
+    },
+    {
+      "id": "1997-everlong-foo-fighters",
+      "label": "Everlong - Foo Fighters",
+      "date": 1997,
+      "deezer": {
+        "trackId": 4762041,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/1/b/0/91b781968e297de2467fe9890893e586.mp3?hdnea=exp=1748033216~acl=/api/1/1/9/1/b/0/91b781968e297de2467fe9890893e586.mp3*~data=user_id=0,application_id=42~hmac=cab50663a673c9d8c35d88cbd56c17adb721a551ac2f06117db3a132e05c96d1",
+        "url": "https://www.deezer.com/track/4762041"
+      }
+    },
+    {
+      "id": "1989-the-best-tina-turner",
+      "label": "The Best - Tina Turner",
+      "date": 1989,
+      "deezer": {
+        "trackId": 3167295,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/1/5/0/9151952d21aa50f3bcd24f5c3080103d.mp3?hdnea=exp=1748033217~acl=/api/1/1/9/1/5/0/9151952d21aa50f3bcd24f5c3080103d.mp3*~data=user_id=0,application_id=42~hmac=da001eb5d3d05b48b753d82ab07111e81efcfda4c65bec8dd27aea18796e5dbe",
+        "url": "https://www.deezer.com/track/3167295"
+      }
+    },
+    {
+      "id": "1965-my-girl-the-temptations",
+      "label": "My Girl - The Temptations",
+      "date": 1965,
+      "deezer": {
+        "trackId": 538643262,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/c/4/0/ac4bea218b498c59ee629d2811235271.mp3?hdnea=exp=1748033217~acl=/api/1/1/a/c/4/0/ac4bea218b498c59ee629d2811235271.mp3*~data=user_id=0,application_id=42~hmac=1f81d4cb62f68345c9fc34ade3b32811adcbd8ab0df8cc0611597422b5f84c78",
+        "url": "https://www.deezer.com/track/538643262"
+      }
+    },
+    {
+      "id": "2004-my-boo-usher-and-alicia-keys",
+      "label": "My Boo - Usher and Alicia Keys",
+      "date": 2004,
+      "deezer": {
+        "trackId": 601626,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/3/d/0/53dc462a7b8f1d4a80d13ad2c328464e.mp3?hdnea=exp=1748033217~acl=/api/1/1/5/3/d/0/53dc462a7b8f1d4a80d13ad2c328464e.mp3*~data=user_id=0,application_id=42~hmac=49ff9f3bb879b10387928327ee6c6232c618d224be45ac59f705494a6022848a",
+        "url": "https://www.deezer.com/track/601626"
+      }
+    },
+    {
+      "id": "2021-leave-the-door-open-silk-sonic",
+      "label": "Leave the Door Open - Silk Sonic",
+      "date": 2021,
+      "deezer": {
+        "trackId": 1666877272,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/8/b/0/48bfe14c9c46bec805cc4416504c8d10.mp3?hdnea=exp=1748033217~acl=/api/1/1/4/8/b/0/48bfe14c9c46bec805cc4416504c8d10.mp3*~data=user_id=0,application_id=42~hmac=b34589753372c28617ff948b228629bb0c4d64a3a0dadbd2bd54f8012234e52a",
+        "url": "https://www.deezer.com/track/1666877272"
+      }
+    },
+    {
+      "id": "2006-breathless-corinne-bailey-rae",
+      "label": "Breathless - Corinne Bailey Rae",
+      "date": 2006,
+      "deezer": {
+        "trackId": 3119489,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/6/c/0/d6c5c9fb4ba532364a1e07297896c33e.mp3?hdnea=exp=1748033218~acl=/api/1/1/d/6/c/0/d6c5c9fb4ba532364a1e07297896c33e.mp3*~data=user_id=0,application_id=42~hmac=fb52ae97f38ce87b54bf8150bf101af86da824f4c5d26eb41ead9af9025b6237",
+        "url": "https://www.deezer.com/track/3119489"
+      }
+    },
+    {
+      "id": "1972-let-s-stay-together-al-green",
+      "label": "Let's Stay Together - Al Green",
+      "date": 1972,
+      "deezer": {
+        "trackId": 97095572,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/4/7/0/d4749bda41514ef33b4dc29d226f5a63.mp3?hdnea=exp=1748033218~acl=/api/1/1/d/4/7/0/d4749bda41514ef33b4dc29d226f5a63.mp3*~data=user_id=0,application_id=42~hmac=15c08e9fcfd8d4155108bbfd47b88ae1031f20ceda519c76670d6fa0c4b569cb",
+        "url": "https://www.deezer.com/track/97095572"
+      }
+    },
+    {
+      "id": "1982-ribbon-in-the-sky-stevie-wonder",
+      "label": "Ribbon in the Sky - Stevie Wonder",
+      "date": 1982,
+      "deezer": {
+        "trackId": 538693822,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/5/d/0/65d5c277289afa29b804e17f49a9bd6a.mp3?hdnea=exp=1748033218~acl=/api/1/1/6/5/d/0/65d5c277289afa29b804e17f49a9bd6a.mp3*~data=user_id=0,application_id=42~hmac=2045a0a9919f638111305ec01459cbab1e1d487daeb2db02a1302702d5cee245",
+        "url": "https://www.deezer.com/track/538693822"
+      }
+    },
+    {
+      "id": "1960-at-last-etta-james",
+      "label": "At Last - Etta James",
+      "date": 1960,
+      "deezer": {
+        "trackId": 2171224,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/1/d/0/a1d0a9c9c56a2aa462c54e9ff4d6ea12.mp3?hdnea=exp=1748033219~acl=/api/1/1/a/1/d/0/a1d0a9c9c56a2aa462c54e9ff4d6ea12.mp3*~data=user_id=0,application_id=42~hmac=b7ce92ede74364218bba5d3585f20c6f717cc8e79a628f94f077d629f27d7f7f",
+        "url": "https://www.deezer.com/track/2171224"
+      }
+    },
+    {
+      "id": "2019-find-someone-like-you-snoh-aalegra",
+      "label": "Find Someone Like You - Snoh Aalegra",
+      "date": 2019,
+      "deezer": {
+        "trackId": 1898962267,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/d/e/0/3deddc13d6bac9e10a0426b5538295d7.mp3?hdnea=exp=1748033219~acl=/api/1/1/3/d/e/0/3deddc13d6bac9e10a0426b5538295d7.mp3*~data=user_id=0,application_id=42~hmac=d36318524fef172d14151f8d4d7a34de89a5efdedf466c3f6d46c2f70198dab4",
+        "url": "https://www.deezer.com/track/1898962267"
+      }
+    },
+    {
+      "id": "1989-here-and-now-luther-vandross",
+      "label": "Here and Now - Luther Vandross",
+      "date": 1989,
+      "deezer": {
+        "trackId": 7675036,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/b/b/0/5bb44561bef0fe1d14ddd2dcd95e9959.mp3?hdnea=exp=1748033220~acl=/api/1/1/5/b/b/0/5bb44561bef0fe1d14ddd2dcd95e9959.mp3*~data=user_id=0,application_id=42~hmac=1d3c79e76b06690e03f409f577ca3fbc31f1cb5f7a23bd572de6d1995b7fea56",
+        "url": "https://www.deezer.com/track/7675036"
+      }
+    },
+    {
+      "id": "2009-un-thinkable-i-m-ready-alicia-keys",
+      "label": "Un-Thinkable (I'm Ready) - Alicia Keys",
+      "date": 2009,
+      "deezer": {
+        "trackId": 4761586,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/f/9/0/ff919802aee74ba23643edc9d634e3b0.mp3?hdnea=exp=1748033220~acl=/api/1/1/f/f/9/0/ff919802aee74ba23643edc9d634e3b0.mp3*~data=user_id=0,application_id=42~hmac=e5675547043fa49ad340c7a3d0bbfda4bf470f947bee9943cafd6b76487185ea",
+        "url": "https://www.deezer.com/track/4761586"
+      }
+    },
+    {
+      "id": "1991-emotions-mariah-carey",
+      "label": "Emotions - Mariah Carey",
+      "date": 1991,
+      "deezer": {
+        "trackId": 1054624,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/b/3/0/2b3272f6b399ea47f57e8dc40d03fdae.mp3?hdnea=exp=1748033220~acl=/api/1/1/2/b/3/0/2b3272f6b399ea47f57e8dc40d03fdae.mp3*~data=user_id=0,application_id=42~hmac=f23b5c9ab80cb2b71a526f8f1cf674dbd90aeb4407166f367078e86290014de4",
+        "url": "https://www.deezer.com/track/1054624"
+      }
+    },
+    {
+      "id": "1992-kiss-of-life-sade",
+      "label": "Kiss of Life - Sade",
+      "date": 1992,
+      "deezer": {
+        "trackId": 1030652052,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/5/a/0/f5ae32f6e116f6b7c1922b8ad0d785ce.mp3?hdnea=exp=1748033220~acl=/api/1/1/f/5/a/0/f5ae32f6e116f6b7c1922b8ad0d785ce.mp3*~data=user_id=0,application_id=42~hmac=328d2c95d033c97589ee60997f0e5da556b6883b6b0abdb56760e11a9352e358",
+        "url": "https://www.deezer.com/track/1030652052"
+      }
+    },
+    {
+      "id": "2019-say-so-pj-morton-featuring-jojo",
+      "label": "Say So - PJ Morton featuring JoJo",
+      "date": 2019,
+      "deezer": {
+        "trackId": 626445102,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/0/3/0/703228e6403ee1955fb69bf2b944ad33.mp3?hdnea=exp=1748033221~acl=/api/1/1/7/0/3/0/703228e6403ee1955fb69bf2b944ad33.mp3*~data=user_id=0,application_id=42~hmac=6699337c373b8095c5cb503453c0be62c7e5e856cb018005bc425ef3b4d7ba35",
+        "url": "https://www.deezer.com/track/626445102"
+      }
+    },
+    {
+      "id": "2017-perfect-ed-sheeran",
+      "label": "Perfect - Ed Sheeran",
+      "date": 2017,
+      "deezer": {
+        "trackId": 142986206,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/0/8/0/e08c1728964ec7adccadb383d4db2fcc.mp3?hdnea=exp=1748033221~acl=/api/1/1/e/0/8/0/e08c1728964ec7adccadb383d4db2fcc.mp3*~data=user_id=0,application_id=42~hmac=30dd8a3e25cf7ab9ac3edb9f8f725d994a1af91b94a46751be3de43a2806dbfc",
+        "url": "https://www.deezer.com/track/142986206"
+      }
+    },
+    {
+      "id": "2024-hot-to-go-chappell-roan",
+      "label": "HOT TO GO! - Chappell Roan",
+      "date": 2024,
+      "deezer": {
+        "trackId": 2454854795,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/e/4/0/de40fb0f2cea32bf5ec3efee0d2ca59c.mp3?hdnea=exp=1748033221~acl=/api/1/1/d/e/4/0/de40fb0f2cea32bf5ec3efee0d2ca59c.mp3*~data=user_id=0,application_id=42~hmac=25e208677a08c21a19eaa4a09c1eafeb4fa6b30bb717162a160e9769bcb2fcc5",
+        "url": "https://www.deezer.com/track/2454854795"
+      }
+    },
+    {
+      "id": "2008-make-you-feel-my-love-adele",
+      "label": "Make You Feel My Love - Adele",
+      "date": 2008,
+      "deezer": {
+        "trackId": 512575682,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/2/1/0/421928d2b225d3832b2677ce1da73bf9.mp3?hdnea=exp=1748033221~acl=/api/1/1/4/2/1/0/421928d2b225d3832b2677ce1da73bf9.mp3*~data=user_id=0,application_id=42~hmac=ba7851a9100cb25c2b3edcf55a7e5c0d37632a8e2e61498cd326b65710ce7632",
+        "url": "https://www.deezer.com/track/512575682"
+      }
+    },
+    {
+      "id": "2021-holy-justin-bieber-featuring-chance-the-rapper-",
+      "label": "Holy - Justin Bieber (featuring Chance the Rapper)",
+      "date": 2021,
+      "deezer": {
+        "trackId": 1084400712,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/1/9/0/e19395eec0aa5f6111c196e29bfa7ad0.mp3?hdnea=exp=1748033222~acl=/api/1/1/e/1/9/0/e19395eec0aa5f6111c196e29bfa7ad0.mp3*~data=user_id=0,application_id=42~hmac=55f22551614f2b5128d36d60714343182a8d621b1857483c64b7e5e5e7d96a07",
+        "url": "https://www.deezer.com/track/1084400712"
+      }
+    },
+    {
+      "id": "2018-shallow-lady-gaga-and-bradley-cooper",
+      "label": "Shallow - Lady Gaga and Bradley Cooper",
+      "date": 2018,
+      "deezer": {
+        "trackId": 682733942,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/c/f/0/ecf80f11cd96da96c07ec00a44d47523.mp3?hdnea=exp=1748033222~acl=/api/1/1/e/c/f/0/ecf80f11cd96da96c07ec00a44d47523.mp3*~data=user_id=0,application_id=42~hmac=61ca051988443fcdf9c9c0801bc2c89adf94d0b0e914a6fb278b2dbba511557c",
+        "url": "https://www.deezer.com/track/682733942"
+      }
+    },
+    {
+      "id": "2024-bed-chem-sabrina-carpenter",
+      "label": "Bed Chem - Sabrina Carpenter",
+      "date": 2024,
+      "deezer": {
+        "trackId": 2954912561,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/3/c/0/83c3cb8c96f2be2484ab5f548e724706.mp3?hdnea=exp=1748033222~acl=/api/1/1/8/3/c/0/83c3cb8c96f2be2484ab5f548e724706.mp3*~data=user_id=0,application_id=42~hmac=2153600a2d2eac96024f3442abefbee9f01aa04e875bfeaf272495fd1383f9a7",
+        "url": "https://www.deezer.com/track/2954912561"
+      }
+    },
+    {
+      "id": "2011-we-found-love-rihanna-featuring-calvin-harris-",
+      "label": "We Found Love - Rihanna (featuring Calvin Harris)",
+      "date": 2011,
+      "deezer": {
+        "trackId": 14525574,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/5/7/0/f572de0695aa9bcbfd2f04b771cdcf9c.mp3?hdnea=exp=1748033222~acl=/api/1/1/f/5/7/0/f572de0695aa9bcbfd2f04b771cdcf9c.mp3*~data=user_id=0,application_id=42~hmac=57b4d7a097431834607e1d2bf14bf25b5c61e1e18263c4397ed62580097071da",
+        "url": "https://www.deezer.com/track/14525574"
+      }
+    },
+    {
+      "id": "2007-love-song-sara-bareilles",
+      "label": "Love Song - Sara Bareilles",
+      "date": 2007,
+      "deezer": {
+        "trackId": 13132590,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/5/2/0/052555d3793330b2c92c1718947c39b9.mp3?hdnea=exp=1748033223~acl=/api/1/1/0/5/2/0/052555d3793330b2c92c1718947c39b9.mp3*~data=user_id=0,application_id=42~hmac=61da74ed955384d9b82d3dc08e1aa3e3985cd5b56ba91fd9d6463a64eee1c65d",
+        "url": "https://www.deezer.com/track/13132590"
+      }
+    },
+    {
+      "id": "2013-adore-you-miley-cyrus",
+      "label": "Adore You - Miley Cyrus",
+      "date": 2013,
+      "deezer": {
+        "trackId": 71137159,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/1/8/0/f187f64aa7495fdf5013631e722c4c1d.mp3?hdnea=exp=1748033223~acl=/api/1/1/f/1/8/0/f187f64aa7495fdf5013631e722c4c1d.mp3*~data=user_id=0,application_id=42~hmac=24a1813e062de6b070a385ec16ef349a4c5fcaa5eaf9360bc03ef1adc49664fb",
+        "url": "https://www.deezer.com/track/71137159"
+      }
+    },
+    {
+      "id": "2010-teenage-dream-katy-perry",
+      "label": "Teenage Dream - Katy Perry",
+      "date": 2010,
+      "deezer": {
+        "trackId": 17135108,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/9/1/0/091c8f7f31edbc1b2546d55bbec54fcc.mp3?hdnea=exp=1748033223~acl=/api/1/1/0/9/1/0/091c8f7f31edbc1b2546d55bbec54fcc.mp3*~data=user_id=0,application_id=42~hmac=6b58b3fcf4fd7b9889015fb57e0f996dabdf10ffd7cb95185e5feb7f611802bd",
+        "url": "https://www.deezer.com/track/17135108"
+      }
+    },
+    {
+      "id": "2016-die-for-you-the-weeknd",
+      "label": "Die for You - The Weeknd",
+      "date": 2016,
+      "deezer": {
+        "trackId": 136889432,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/2/1/0/a21b95575bfee1b46a48db77b7d9e752.mp3?hdnea=exp=1748033224~acl=/api/1/1/a/2/1/0/a21b95575bfee1b46a48db77b7d9e752.mp3*~data=user_id=0,application_id=42~hmac=d56b0b895dcfc6aab060678ff129a4b096acff0c53aefb445b44a95452a8f67f",
+        "url": "https://www.deezer.com/track/136889432"
+      }
+    },
+    {
+      "id": "1995-dreaming-of-you-selena",
+      "label": "Dreaming of You - Selena",
+      "date": 1995,
+      "deezer": {
+        "trackId": 97714546,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/1/3/0/5138ade0e291599a4a21f6f3a25f5706.mp3?hdnea=exp=1748033224~acl=/api/1/1/5/1/3/0/5138ade0e291599a4a21f6f3a25f5706.mp3*~data=user_id=0,application_id=42~hmac=2acc8d004b5076199ec8a5f078a21c3adeb28e5bfb6347e0e761baca86243957",
+        "url": "https://www.deezer.com/track/97714546"
+      }
+    },
+    {
+      "id": "2024-water-tyla",
+      "label": "Water - Tyla",
+      "date": 2024,
+      "deezer": {
+        "trackId": 2381294455,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/2/d/0/92d040051d727697621445212b6f69c8.mp3?hdnea=exp=1748033224~acl=/api/1/1/9/2/d/0/92d040051d727697621445212b6f69c8.mp3*~data=user_id=0,application_id=42~hmac=90f51ab6d2b1fdedd22574c223af02e3f021f83aa700766f7602491aa2f47365",
+        "url": "https://www.deezer.com/track/2381294455"
+      }
+    },
+    {
+      "id": "2019-adore-you-harry-styles",
+      "label": "Adore You - Harry Styles",
+      "date": 2019,
+      "deezer": {
+        "trackId": 830336932,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/9/0/0/390b7601c8e7ca401635ee680d222c72.mp3?hdnea=exp=1748033225~acl=/api/1/1/3/9/0/0/390b7601c8e7ca401635ee680d222c72.mp3*~data=user_id=0,application_id=42~hmac=fb27b7c75fea58525978b8f0d5fd34c51125b246506c53e8a458a4e0a06697e9",
+        "url": "https://www.deezer.com/track/830336932"
+      }
+    },
+    {
+      "id": "2003-crazy-in-love-beyonce-featuring-jay-z",
+      "label": "Crazy In Love - Beyonce featuring Jay-Z",
+      "date": 2003,
+      "deezer": {
+        "trackId": 609244,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/d/a/0/9da6dc6e093d7afe9aba7868644fda2a.mp3?hdnea=exp=1748033225~acl=/api/1/1/9/d/a/0/9da6dc6e093d7afe9aba7868644fda2a.mp3*~data=user_id=0,application_id=42~hmac=b0c800b11cda298c1ea871614a8ced6d2cfde03efb5eaa916fae34aebc25294d",
+        "url": "https://www.deezer.com/track/609244"
+      }
+    },
+    {
+      "id": "2008-i-m-yours-jason-mraz",
+      "label": "I'm Yours - Jason Mraz",
+      "date": 2008,
+      "deezer": {
+        "trackId": 2686140,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/7/d/0/27de9a005e318f52c1630426e33d04a6.mp3?hdnea=exp=1748033225~acl=/api/1/1/2/7/d/0/27de9a005e318f52c1630426e33d04a6.mp3*~data=user_id=0,application_id=42~hmac=0d6cbc02bea4a3f4451827ceba5fa55fe86eeb03a8a3915a4ca733a061b97d5b",
+        "url": "https://www.deezer.com/track/2686140"
+      }
+    },
+    {
+      "id": "2019-lover-taylor-swift",
+      "label": "Lover - Taylor Swift",
+      "date": 2019,
+      "deezer": {
+        "trackId": 737967302,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/8/6/0/686483dedc83fe46be5c1f4d02739e03.mp3?hdnea=exp=1748033226~acl=/api/1/1/6/8/6/0/686483dedc83fe46be5c1f4d02739e03.mp3*~data=user_id=0,application_id=42~hmac=3a38db1aa7bb317e40e17db9c95900ac38c5a0fac4aa77b79b6977017f653e26",
+        "url": "https://www.deezer.com/track/737967302"
+      }
+    },
+    {
+      "id": "2013-mirrors-justin-timberlake",
+      "label": "Mirrors - Justin Timberlake",
+      "date": 2013,
+      "deezer": {
+        "trackId": 65356224,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/f/6/0/7f6607abbebf963e551f941d3bd0afd7.mp3?hdnea=exp=1748033226~acl=/api/1/1/7/f/6/0/7f6607abbebf963e551f941d3bd0afd7.mp3*~data=user_id=0,application_id=42~hmac=c228a1db44f68c54d0c2e1ace201f59757a0252919a611125e397d79fe666ae6",
+        "url": "https://www.deezer.com/track/65356224"
+      }
+    },
+    {
+      "id": "2011-it-will-rain-bruno-mars",
+      "label": "It Will Rain - Bruno Mars",
+      "date": 2011,
+      "deezer": {
+        "trackId": 14499481,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/9/2/0/e92e67c56a54e16a90fcc4d64b28eaaf.mp3?hdnea=exp=1748033226~acl=/api/1/1/e/9/2/0/e92e67c56a54e16a90fcc4d64b28eaaf.mp3*~data=user_id=0,application_id=42~hmac=a12a4436003449488b75a954785ecc154615197f387c668d98dd779e4db7fafe",
+        "url": "https://www.deezer.com/track/14499481"
+      }
+    },
+    {
+      "id": "2008-use-somebody-kings-of-leon",
+      "label": "Use Somebody - Kings of Leon",
+      "date": 2008,
+      "deezer": {
+        "trackId": 2924841,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/4/b/0/84bfbc6c14bb869f92ab2a84f9d5bac8.mp3?hdnea=exp=1748033226~acl=/api/1/1/8/4/b/0/84bfbc6c14bb869f92ab2a84f9d5bac8.mp3*~data=user_id=0,application_id=42~hmac=54bb3afee22c526a7b115a0103b619ff532e12374ea36f25adec5b3e830f5b45",
+        "url": "https://www.deezer.com/track/2924841"
+      }
+    },
+    {
+      "id": "2012-still-together-mac-demarco",
+      "label": "Still Together - Mac DeMarco",
+      "date": 2012,
+      "deezer": {
+        "trackId": 62744406,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/b/d/0/abdaca36e4b6ebc5b4c473e9093c04e7.mp3?hdnea=exp=1748033227~acl=/api/1/1/a/b/d/0/abdaca36e4b6ebc5b4c473e9093c04e7.mp3*~data=user_id=0,application_id=42~hmac=7e35a401828876247e835a7024ab66501596825a9b85cf91a326b7bb047b5dc6",
+        "url": "https://www.deezer.com/track/62744406"
+      }
+    },
+    {
+      "id": "1986-there-is-a-light-that-never-goes-out-the-smiths",
+      "label": "There Is a Light That Never Goes Out - The Smiths",
+      "date": 1986,
+      "deezer": {
+        "trackId": 5093617,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/1/7/0/817b32b6d4fd896d27dcb757778ef23f.mp3?hdnea=exp=1748033227~acl=/api/1/1/8/1/7/0/817b32b6d4fd896d27dcb757778ef23f.mp3*~data=user_id=0,application_id=42~hmac=10d4697fed1d8da6cf29097bb94f1d3a665b50e6c555500b57c2cb594437e7c4",
+        "url": "https://www.deezer.com/track/5093617"
+      }
+    },
+    {
+      "id": "2005-first-day-of-my-life-bright-eyes",
+      "label": "First Day of My Life - Bright Eyes",
+      "date": 2005,
+      "deezer": {
+        "trackId": 1357792772,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/6/0/0/5608189c8fa8e389ee1cd325249fcc76.mp3?hdnea=exp=1748033227~acl=/api/1/1/5/6/0/0/5608189c8fa8e389ee1cd325249fcc76.mp3*~data=user_id=0,application_id=42~hmac=379a826b745763bd06205e8f08aa1c3127a3f5abb9e72881caf2144bc7036688",
+        "url": "https://www.deezer.com/track/1357792772"
+      }
+    },
+    {
+      "id": "2006-falling-slowly-glen-hansard-and-marketa-irglova",
+      "label": "Falling Slowly - Glen Hansard and Marketa Irglova",
+      "date": 2006,
+      "deezer": {
+        "trackId": 15439785,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/2/7/0/1279c0fe5a879143c860cda34941f975.mp3?hdnea=exp=1748033228~acl=/api/1/1/1/2/7/0/1279c0fe5a879143c860cda34941f975.mp3*~data=user_id=0,application_id=42~hmac=9076fa512e5ae4730acf082d47ffcff40765e56b4536a3fff040100d61f7692e",
+        "url": "https://www.deezer.com/track/15439785"
+      }
+    },
+    {
+      "id": "2009-cosmic-love-florence-the-machine",
+      "label": "Cosmic Love - Florence + the Machine",
+      "date": 2009,
+      "deezer": {
+        "trackId": 7561780,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/0/0/0/e009160aae50bab24a560268f3415d48.mp3?hdnea=exp=1748033228~acl=/api/1/1/e/0/0/0/e009160aae50bab24a560268f3415d48.mp3*~data=user_id=0,application_id=42~hmac=6f60634ab0e86130e776dcead243465bb7df9648bc4b5446dcbf0781d9adec9a",
+        "url": "https://www.deezer.com/track/7561780"
+      }
+    },
+    {
+      "id": "2009-the-only-exception-paramore",
+      "label": "The Only Exception - Paramore",
+      "date": 2009,
+      "deezer": {
+        "trackId": 4288426,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/7/e/0/17e6a3c882bfb7a0ce91fa00c77215da.mp3?hdnea=exp=1748033228~acl=/api/1/1/1/7/e/0/17e6a3c882bfb7a0ce91fa00c77215da.mp3*~data=user_id=0,application_id=42~hmac=603bab4fe5bc473a893ca05bb26c891af5531f26062a6fe46d084829d36322e6",
+        "url": "https://www.deezer.com/track/4288426"
+      }
+    },
+    {
+      "id": "2020-me-you-together-song-the-1975",
+      "label": "Me & You Together Song - The 1975",
+      "date": 2020,
+      "deezer": {
+        "trackId": 964226942,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/3/4/0/1343063fab15f7b2d54c8350800f391d.mp3?hdnea=exp=1748033229~acl=/api/1/1/1/3/4/0/1343063fab15f7b2d54c8350800f391d.mp3*~data=user_id=0,application_id=42~hmac=bb6b53de03bf54127691b3ccc1208e547d4ae5ef9f1636e3d3c5e6cec9e259a1",
+        "url": "https://www.deezer.com/track/964226942"
+      }
+    },
+    {
+      "id": "1987-just-like-heaven-the-cure",
+      "label": "Just Like Heaven - The Cure",
+      "date": 1987,
+      "deezer": {
+        "trackId": 409670332,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/5/2/0/65232d8e6cab205f0805003a3f918f8f.mp3?hdnea=exp=1748033229~acl=/api/1/1/6/5/2/0/65232d8e6cab205f0805003a3f918f8f.mp3*~data=user_id=0,application_id=42~hmac=a7340bd7ef6439e090f07538263a7bf4079ea766f88fda6a5ba4eb897bddd5e0",
+        "url": "https://www.deezer.com/track/409670332"
+      }
+    },
+    {
+      "id": "2012-only-love-ben-howard",
+      "label": "Only Love - Ben Howard",
+      "date": 2012,
+      "deezer": {
+        "trackId": 13787881,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/8/9/0/e89d024cce3502763207dda64041d52e.mp3?hdnea=exp=1748033229~acl=/api/1/1/e/8/9/0/e89d024cce3502763207dda64041d52e.mp3*~data=user_id=0,application_id=42~hmac=c4b4ab00003553845e8c4b6b01588edf2e83619725df32c8d9ef00594a0283a8",
+        "url": "https://www.deezer.com/track/13787881"
+      }
+    },
+    {
+      "id": "2013-riptide-vance-joy",
+      "label": "Riptide - Vance Joy",
+      "date": 2013,
+      "deezer": {
+        "trackId": 83841464,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/3/8/0/a388db03a6a1c1f725118af334a96b9c.mp3?hdnea=exp=1748033230~acl=/api/1/1/a/3/8/0/a388db03a6a1c1f725118af334a96b9c.mp3*~data=user_id=0,application_id=42~hmac=bfabc8e5bceb03e848d6cba80753c1e57f5267753803fca73e6f338f18c1a403",
+        "url": "https://www.deezer.com/track/83841464"
+      }
+    },
+    {
+      "id": "1976-crazy-on-you-heart",
+      "label": "Crazy on You - Heart",
+      "date": 1976,
+      "deezer": {
+        "trackId": 3127720,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/1/7/0/8174c9c8fc7edf0d374a08f082eaf002.mp3?hdnea=exp=1748033230~acl=/api/1/1/8/1/7/0/8174c9c8fc7edf0d374a08f082eaf002.mp3*~data=user_id=0,application_id=42~hmac=5547f2e366809afb9190640e539533c6eb4a1a3d55a48114554b0c66513fc5f7",
+        "url": "https://www.deezer.com/track/3127720"
+      }
+    },
+    {
+      "id": "1978-the-man-with-the-child-in-his-eyes-kate-bush",
+      "label": "The Man with the Child in His Eyes - Kate Bush",
+      "date": 1978,
+      "deezer": {
+        "trackId": 2173947537,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/7/7/0/67740f1be8c162e6081a24449963d50d.mp3?hdnea=exp=1748033230~acl=/api/1/1/6/7/7/0/67740f1be8c162e6081a24449963d50d.mp3*~data=user_id=0,application_id=42~hmac=207955157b2b8ec842b659e291ff21aabcc58be8bfca0a4a9aab314496218973",
+        "url": "https://www.deezer.com/track/2173947537"
+      }
+    },
+    {
+      "id": "1974-you-are-so-beautiful-joe-cocker",
+      "label": "You Are So Beautiful - Joe Cocker",
+      "date": 1974,
+      "deezer": {
+        "trackId": 548862532,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/5/0/0/b50264ff7d36cc5d0ae23da3f6f9377c.mp3?hdnea=exp=1748033231~acl=/api/1/1/b/5/0/0/b50264ff7d36cc5d0ae23da3f6f9377c.mp3*~data=user_id=0,application_id=42~hmac=42da13bb79e5f0ef6d8beabb9a53d3a7088ed00f2bf2bcebb98835bed1c705e8",
+        "url": "https://www.deezer.com/track/548862532"
+      }
+    },
+    {
+      "id": "1978-september-earth-wind-fire",
+      "label": "September - Earth, Wind, & Fire",
+      "date": 1978,
+      "deezer": {
+        "trackId": 487484142,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/f/1/0/ff191ffcc88051796dd077e402aa14c5.mp3?hdnea=exp=1748033231~acl=/api/1/1/f/f/1/0/ff191ffcc88051796dd077e402aa14c5.mp3*~data=user_id=0,application_id=42~hmac=240980cc176201c4f26bddd758b8916e46698e01297424275a16e3c82ba1d1c6",
+        "url": "https://www.deezer.com/track/487484142"
+      }
+    },
+    {
+      "id": "1976-good-old-fashioned-lover-boy-queen",
+      "label": "Good Old-Fashioned Lover Boy - Queen",
+      "date": 1976,
+      "deezer": {
+        "trackId": 716513392,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/2/2/0/e2267467ca9ddcd3c3813436d014f3b2.mp3?hdnea=exp=1748033231~acl=/api/1/1/e/2/2/0/e2267467ca9ddcd3c3813436d014f3b2.mp3*~data=user_id=0,application_id=42~hmac=8f012bf15fa08fff46ab728ffee5a54e226b2eb9b6ae477ca5c6cbedb331c351",
+        "url": "https://www.deezer.com/track/716513392"
+      }
+    },
+    {
+      "id": "1977-how-deep-is-your-love-bee-gees",
+      "label": "How Deep Is Your Love - Bee Gees",
+      "date": 1977,
+      "deezer": {
+        "trackId": 350027751,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/0/c/0/a0cfc5e584ec8ab6ea8b858ee48daaa5.mp3?hdnea=exp=1748033232~acl=/api/1/1/a/0/c/0/a0cfc5e584ec8ab6ea8b858ee48daaa5.mp3*~data=user_id=0,application_id=42~hmac=f2ad2c128d344cc5b841e59db69dd4ab5e26805eb73eda06904cf211862bf602",
+        "url": "https://www.deezer.com/track/350027751"
+      }
+    },
+    {
+      "id": "1975-mamma-mia-abba",
+      "label": "Mamma Mia - ABBA",
+      "date": 1975,
+      "deezer": {
+        "trackId": 884030,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/f/4/0/2f43ec31dca14cb85d055161622fbe2c.mp3?hdnea=exp=1748033232~acl=/api/1/1/2/f/4/0/2f43ec31dca14cb85d055161622fbe2c.mp3*~data=user_id=0,application_id=42~hmac=8ccf1d27610559bb16e9a4a94e89a9fde3870b54ac5972285df6a92438b61132",
+        "url": "https://www.deezer.com/track/884030"
+      }
+    },
+    {
+      "id": "1979-don-t-stop-til-you-get-enough-michael-jackson",
+      "label": "Don't Stop 'til You Get Enough - Michael Jackson",
+      "date": 1979,
+      "deezer": {
+        "trackId": 15586296,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/3/8/0/13822e707198e6a10be1af77031aef3e.mp3?hdnea=exp=1748033232~acl=/api/1/1/1/3/8/0/13822e707198e6a10be1af77031aef3e.mp3*~data=user_id=0,application_id=42~hmac=d51a9dc9d5c8add5538d067601ce57269f65b8ae4c8930b31fd579e2b8a1c2f4",
+        "url": "https://www.deezer.com/track/15586296"
+      }
+    },
+    {
+      "id": "1977-wonderful-tonight-eric-clapton",
+      "label": "Wonderful Tonight - Eric Clapton",
+      "date": 1977,
+      "deezer": {
+        "trackId": 62497876,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/3/b/0/83b66215f8423efed5622a045a1ef0eb.mp3?hdnea=exp=1748033233~acl=/api/1/1/8/3/b/0/83b66215f8423efed5622a045a1ef0eb.mp3*~data=user_id=0,application_id=42~hmac=0710dc412b6cddc839f68a06fa9838299a0344e9cae453e166b1d6bb58d7b9e4",
+        "url": "https://www.deezer.com/track/62497876"
+      }
+    },
+    {
+      "id": "1977-just-the-way-you-are-billy-joel",
+      "label": "Just the Way You Are - Billy Joel",
+      "date": 1977,
+      "deezer": {
+        "trackId": 988630,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/3/c/0/33cf043eaaa7cfc2ecb8c8e4fb24742e.mp3?hdnea=exp=1748033233~acl=/api/1/1/3/3/c/0/33cf043eaaa7cfc2ecb8c8e4fb24742e.mp3*~data=user_id=0,application_id=42~hmac=bc35bac21fd22e6de7de3fa04b88158f5fd5cacffb939e7187b0796162945ec6",
+        "url": "https://www.deezer.com/track/988630"
+      }
+    },
+    {
+      "id": "1989-cherish-madonna",
+      "label": "Cherish - Madonna",
+      "date": 1989,
+      "deezer": {
+        "trackId": 723897,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/0/9/0/f09c316d14714a66784ce6ddd54a0b7b.mp3?hdnea=exp=1748033234~acl=/api/1/1/f/0/9/0/f09c316d14714a66784ce6ddd54a0b7b.mp3*~data=user_id=0,application_id=42~hmac=4874a485aa263cc742f74130ed4d425716e671a8f54b1eaa5cc32f2fd6a7cd87",
+        "url": "https://www.deezer.com/track/723897"
+      }
+    },
+    {
+      "id": "1987-i-just-can-t-stop-loving-you-michael-jackson-featuring-siedah-garrett-",
+      "label": "I Just Can't Stop Loving You - Michael Jackson (featuring Siedah Garrett)",
+      "date": 1987,
+      "deezer": {
+        "trackId": 59509491,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/d/1/0/ad1066f8199343ad914eeaf60f202b60.mp3?hdnea=exp=1748033234~acl=/api/1/1/a/d/1/0/ad1066f8199343ad914eeaf60f202b60.mp3*~data=user_id=0,application_id=42~hmac=ea02611c01290c4c035ab6623633b0bcab1eaa714b2d8f87e2ec3faa084bcbc3",
+        "url": "https://www.deezer.com/track/59509491"
+      }
+    },
+    {
+      "id": "1985-you-give-good-love-whitney-houston",
+      "label": "You Give Good Love - Whitney Houston",
+      "date": 1985,
+      "deezer": {
+        "trackId": 1131188,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/a/e/0/9ae3ef69ad48f67d93f3f65ca8bf12bb.mp3?hdnea=exp=1748033234~acl=/api/1/1/9/a/e/0/9ae3ef69ad48f67d93f3f65ca8bf12bb.mp3*~data=user_id=0,application_id=42~hmac=2e3cae1ec9b995b8a553c7380a607a540dba93eac2a54d9122091cf29619b8fe",
+        "url": "https://www.deezer.com/track/1131188"
+      }
+    },
+    {
+      "id": "1986-take-my-breath-away-berlin",
+      "label": "Take My Breath Away - Berlin",
+      "date": 1986,
+      "deezer": {
+        "trackId": 7675055,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/c/9/0/3c960fe30ef964a95f5d64a5e0bd4626.mp3?hdnea=exp=1748033235~acl=/api/1/1/3/c/9/0/3c960fe30ef964a95f5d64a5e0bd4626.mp3*~data=user_id=0,application_id=42~hmac=1d7814ed6271286a36863dfafad745e58dc5b47a1e396cfd2118258703132bb8",
+        "url": "https://www.deezer.com/track/7675055"
+      }
+    },
+    {
+      "id": "1982-africa-toto",
+      "label": "Africa - Toto",
+      "date": 1982,
+      "deezer": {
+        "trackId": 1079668,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/4/6/0/d46762f2025f13175f2fd2c062b46182.mp3?hdnea=exp=1748033235~acl=/api/1/1/d/4/6/0/d46762f2025f13175f2fd2c062b46182.mp3*~data=user_id=0,application_id=42~hmac=9bc8a198ca7fcd2d8ab3c3b698a7b9ff15a0c6371863513e02e4b95abccc1ab2",
+        "url": "https://www.deezer.com/track/1079668"
+      }
+    },
+    {
+      "id": "1981-every-little-thing-she-does-is-magic-the-police",
+      "label": "Every Little Thing She Does Is Magic - The Police",
+      "date": 1981,
+      "deezer": {
+        "trackId": 2525869,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/0/5/0/b05adbda12068558b3865524d4e307f0.mp3?hdnea=exp=1748033235~acl=/api/1/1/b/0/5/0/b05adbda12068558b3865524d4e307f0.mp3*~data=user_id=0,application_id=42~hmac=7a926d6d179282f639745c9d3de3634f6b285f580c1a33fff1618a78c1df6c39",
+        "url": "https://www.deezer.com/track/2525869"
+      }
+    },
+    {
+      "id": "1984-i-want-to-know-what-love-is-foreigner",
+      "label": "I Want to Know What Love Is - Foreigner",
+      "date": 1984,
+      "deezer": {
+        "trackId": 977948,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/f/3/0/ff3f904e4747ea3edb2288785082c1ec.mp3?hdnea=exp=1748033235~acl=/api/1/1/f/f/3/0/ff3f904e4747ea3edb2288785082c1ec.mp3*~data=user_id=0,application_id=42~hmac=1fe27e6a4a8d156ca04acf9031857a6c6355bde0562d65e9994b51ba19a56fbd",
+        "url": "https://www.deezer.com/track/977948"
+      }
+    },
+    {
+      "id": "1983-faithfully-journey",
+      "label": "Faithfully - Journey",
+      "date": 1983,
+      "deezer": {
+        "trackId": 534464,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/7/d/0/c7dd70f4531dea58fdd285cb9f7c393d.mp3?hdnea=exp=1748033236~acl=/api/1/1/c/7/d/0/c7dd70f4531dea58fdd285cb9f7c393d.mp3*~data=user_id=0,application_id=42~hmac=d9d35c89aec93c9878b148e662e26e79f732a0af01d6c442b3b2a627c0893729",
+        "url": "https://www.deezer.com/track/534464"
+      }
+    },
+    {
+      "id": "1989-right-here-waiting-richard-marx",
+      "label": "Right Here Waiting - Richard Marx",
+      "date": 1989,
+      "deezer": {
+        "trackId": 3168937,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/d/a/0/fda227cd349bc1bd99e5635c9fd0c8a0.mp3?hdnea=exp=1748033236~acl=/api/1/1/f/d/a/0/fda227cd349bc1bd99e5635c9fd0c8a0.mp3*~data=user_id=0,application_id=42~hmac=4dd4ef4b937d8026df40fa0e623385f710d1f9794111ae2452f6542e32f402db",
+        "url": "https://www.deezer.com/track/3168937"
+      }
+    },
+    {
+      "id": "1987-i-wanna-dance-with-somebody-whitney-houston",
+      "label": "I Wanna Dance With Somebody - Whitney Houston",
+      "date": 1987,
+      "deezer": {
+        "trackId": 75981528,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/f/b/0/ffbaa0dbc8eb4b09e015a5b92d497425.mp3?hdnea=exp=1748033236~acl=/api/1/1/f/f/b/0/ffbaa0dbc8eb4b09e015a5b92d497425.mp3*~data=user_id=0,application_id=42~hmac=763fa13fd7be9fca5d544eb753008a7f8676b0ddbadd7b6c6da37c63958de7f2",
+        "url": "https://www.deezer.com/track/75981528"
+      }
+    },
+    {
+      "id": "1997-kiss-me-sixpence-none-the-richer",
+      "label": "Kiss Me - Sixpence None the Richer",
+      "date": 1997,
+      "deezer": {
+        "trackId": 134116940,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/3/4/0/e34e7cc5b8cbd7d9e60aa18292d53e80.mp3?hdnea=exp=1748033237~acl=/api/1/1/e/3/4/0/e34e7cc5b8cbd7d9e60aa18292d53e80.mp3*~data=user_id=0,application_id=42~hmac=df6044c02a20cd81b19da06ed165481c80f1fc86ff25641e5eef821b87dd5b60",
+        "url": "https://www.deezer.com/track/134116940"
+      }
+    },
+    {
+      "id": "1991--everything-i-do-i-do-it-for-you-bryan-adams",
+      "label": "(Everything I Do) I Do It For You - Bryan Adams",
+      "date": 1991,
+      "deezer": {
+        "trackId": 457273802,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/3/9/0/63993e319fd1eba893d2d9712718d516.mp3?hdnea=exp=1748033237~acl=/api/1/1/6/3/9/0/63993e319fd1eba893d2d9712718d516.mp3*~data=user_id=0,application_id=42~hmac=e36d89c71a44d4563ee735ab17eaaa7745f10728d3ee76bddd25eb7d8d90285a",
+        "url": "https://www.deezer.com/track/457273802"
+      }
+    },
+    {
+      "id": "1997-truly-madly-deeply-savage-garden",
+      "label": "Truly Madly Deeply - Savage Garden",
+      "date": 1997,
+      "deezer": {
+        "trackId": 15177682,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/8/f/0/68f9b1414b3928bd15d4856fcc24a376.mp3?hdnea=exp=1748033237~acl=/api/1/1/6/8/f/0/68f9b1414b3928bd15d4856fcc24a376.mp3*~data=user_id=0,application_id=42~hmac=30574964aa30734e83aa7b6fcd006bfef5af39a3783943d8839c727eb1457cab",
+        "url": "https://www.deezer.com/track/15177682"
+      }
+    },
+    {
+      "id": "1996-because-you-loved-me-celine-dion",
+      "label": "Because You Loved Me - Celine Dion",
+      "date": 1996,
+      "deezer": {
+        "trackId": 14552288,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/9/e/0/19eb8f5c639fee10ce3481069540a0ad.mp3?hdnea=exp=1748033237~acl=/api/1/1/1/9/e/0/19eb8f5c639fee10ce3481069540a0ad.mp3*~data=user_id=0,application_id=42~hmac=1f575ac2a46ca0b6ee0cbbd29a389abeae531a021816bd6cf265a4e08630e601",
+        "url": "https://www.deezer.com/track/14552288"
+      }
+    },
+    {
+      "id": "1997-from-this-moment-on-shania-twain",
+      "label": "From This Moment On - Shania Twain",
+      "date": 1997,
+      "deezer": {
+        "trackId": 2536757321,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/8/e/0/88ebf72d12cbbc95f06d51660508a4e2.mp3?hdnea=exp=1748033238~acl=/api/1/1/8/8/e/0/88ebf72d12cbbc95f06d51660508a4e2.mp3*~data=user_id=0,application_id=42~hmac=e2e6799c43a6ceebadd14738ef580ac7d8a9072de3e65b8bae8c70432fa19f27",
+        "url": "https://www.deezer.com/track/2536757321"
+      }
+    },
+    {
+      "id": "1998-this-kiss-faith-hill",
+      "label": "This Kiss - Faith Hill",
+      "date": 1998,
+      "deezer": {
+        "trackId": 2680838,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/c/3/0/8c3cdf0a71244bb96e343e357900ac14.mp3?hdnea=exp=1748033238~acl=/api/1/1/8/c/3/0/8c3cdf0a71244bb96e343e357900ac14.mp3*~data=user_id=0,application_id=42~hmac=27fd24d20d90f944bc4d5df2f84f8b3f92c00f5f4d1f55a326c043304f0726ff",
+        "url": "https://www.deezer.com/track/2680838"
+      }
+    },
+    {
+      "id": "1995-always-be-my-baby-mariah-carey",
+      "label": "Always Be My Baby - Mariah Carey",
+      "date": 1995,
+      "deezer": {
+        "trackId": 1012940,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/c/3/0/3c39224afaf9921a6ef0d5373a7191b0.mp3?hdnea=exp=1748033238~acl=/api/1/1/3/c/3/0/3c39224afaf9921a6ef0d5373a7191b0.mp3*~data=user_id=0,application_id=42~hmac=bdc7dd14dfddc1b422390a55ac38315787d19c635ba1948cf816b63b2e989a25",
+        "url": "https://www.deezer.com/track/1012940"
+      }
+    },
+    {
+      "id": "1997-as-long-as-you-love-me-backstreet-boys",
+      "label": "As Long As You Love Me - Backstreet Boys",
+      "date": 1997,
+      "deezer": {
+        "trackId": 15396986,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/b/0/0/cb04a3d05e9e66997c2605eaa7dcc3f5.mp3?hdnea=exp=1748033239~acl=/api/1/1/c/b/0/0/cb04a3d05e9e66997c2605eaa7dcc3f5.mp3*~data=user_id=0,application_id=42~hmac=d97637943d073ac03715ab45b746bf8b6b1b6c40c4587cd9b5f7b06f959bcfbe",
+        "url": "https://www.deezer.com/track/15396986"
+      }
+    },
+    {
+      "id": "1990-more-than-words-extreme",
+      "label": "More Than Words - Extreme",
+      "date": 1990,
+      "deezer": {
+        "trackId": 1579730,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/8/2/0/18277aa94fc461af9aa4ab221ddebc45.mp3?hdnea=exp=1748033239~acl=/api/1/1/1/8/2/0/18277aa94fc461af9aa4ab221ddebc45.mp3*~data=user_id=0,application_id=42~hmac=ef89b95c94ab3bb252cd1fedab19f64630fb2644d5ccbf1827bf9ef132dff673",
+        "url": "https://www.deezer.com/track/1579730"
+      }
+    },
+    {
+      "id": "1998-i-don-t-want-to-miss-a-thing-aerosmith",
+      "label": "I Don't Want to Miss a Thing - Aerosmith",
+      "date": 1998,
+      "deezer": {
+        "trackId": 70631608,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/0/2/0/d02c9f8c9c06ee639a04d21e16521dd5.mp3?hdnea=exp=1748033239~acl=/api/1/1/d/0/2/0/d02c9f8c9c06ee639a04d21e16521dd5.mp3*~data=user_id=0,application_id=42~hmac=02c4db69ccc3e52989ee0712cce429459d3ee6a36410c6331b23eabad1b5e426",
+        "url": "https://www.deezer.com/track/70631608"
+      }
+    },
+    {
+      "id": "2006-ain-t-no-other-man-christina-aguilera",
+      "label": "Ain't No Other Man - Christina Aguilera",
+      "date": 2006,
+      "deezer": {
+        "trackId": 62417658,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/a/9/0/da9f9098cf13ded444d345ad4c31b3b8.mp3?hdnea=exp=1748033239~acl=/api/1/1/d/a/9/0/da9f9098cf13ded444d345ad4c31b3b8.mp3*~data=user_id=0,application_id=42~hmac=6922da3fdb8fdceeaf8a061b6129123e82b9d2dd890bc5879a2d94372851414d",
+        "url": "https://www.deezer.com/track/62417658"
+      }
+    },
+    {
+      "id": "2001-hero-enrique-iglesias",
+      "label": "Hero - Enrique Iglesias",
+      "date": 2001,
+      "deezer": {
+        "trackId": 2279378,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/c/e/0/bce2140edb1f3063a3b22e0aad19009d.mp3?hdnea=exp=1748033240~acl=/api/1/1/b/c/e/0/bce2140edb1f3063a3b22e0aad19009d.mp3*~data=user_id=0,application_id=42~hmac=93437028cd0da70101befc0f12ed003d8914be8d4f58bdfe67f972053f262e29",
+        "url": "https://www.deezer.com/track/2279378"
+      }
+    },
+    {
+      "id": "2000-i-need-you-leann-rimes",
+      "label": "I Need You - LeAnn Rimes",
+      "date": 2000,
+      "deezer": {
+        "trackId": 75779405,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/c/5/0/6c545db364592c3b8bcb62aca9a5d086.mp3?hdnea=exp=1748033240~acl=/api/1/1/6/c/5/0/6c545db364592c3b8bcb62aca9a5d086.mp3*~data=user_id=0,application_id=42~hmac=c12f4240d04784aa75fd9475435d1312fc38e7fe597c0b67f387583b63d301ec",
+        "url": "https://www.deezer.com/track/75779405"
+      }
+    },
+    {
+      "id": "2010-when-i-look-at-you-miley-cyrus",
+      "label": "When I Look At You - Miley Cyrus",
+      "date": 2010,
+      "deezer": {
+        "trackId": 5422757,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/3/9/0/6391059637bc84e5c302b1d5b8164d2f.mp3?hdnea=exp=1748033240~acl=/api/1/1/6/3/9/0/6391059637bc84e5c302b1d5b8164d2f.mp3*~data=user_id=0,application_id=42~hmac=87a27d27519ffd7cb6454c716310210ad2181fde65e868663b91f31db8f93bc7",
+        "url": "https://www.deezer.com/track/5422757"
+      }
+    },
+    {
+      "id": "2005-you-and-me-lifehouse",
+      "label": "You and Me - Lifehouse",
+      "date": 2005,
+      "deezer": {
+        "trackId": 366451791,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/2/3/0/023b431fb3179cf3cdfe46833a9aa2e6.mp3?hdnea=exp=1748033241~acl=/api/1/1/0/2/3/0/023b431fb3179cf3cdfe46833a9aa2e6.mp3*~data=user_id=0,application_id=42~hmac=c84054e73ff04e186162c0dc2bf015ed3acbf4e76e030eeefceec3a11537b889",
+        "url": "https://www.deezer.com/track/366451791"
+      }
+    },
+    {
+      "id": "2000-yellow-coldplay",
+      "label": "Yellow - Coldplay",
+      "date": 2000,
+      "deezer": {
+        "trackId": 3128096,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/4/5/0/e4565bf1d1d79ab75414dd882a7b58d3.mp3?hdnea=exp=1748033241~acl=/api/1/1/e/4/5/0/e4565bf1d1d79ab75414dd882a7b58d3.mp3*~data=user_id=0,application_id=42~hmac=58f29216f335f35ac5b13ce87df16c5858d71093fb8b490c2c6c51e74f7171dd",
+        "url": "https://www.deezer.com/track/3128096"
+      }
+    },
+    {
+      "id": "2008-love-story-taylor-swift",
+      "label": "Love Story - Taylor Swift",
+      "date": 2008,
+      "deezer": {
+        "trackId": 1332676982,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/3/3/0/a330e965175130b3e21aca430ea5962a.mp3?hdnea=exp=1748033241~acl=/api/1/1/a/3/3/0/a330e965175130b3e21aca430ea5962a.mp3*~data=user_id=0,application_id=42~hmac=173a025727f9998915070f5027f7c28bcae272c1bf12c393f405439bc618f5ff",
+        "url": "https://www.deezer.com/track/1332676982"
+      }
+    },
+    {
+      "id": "2002-she-will-be-loved-maroon-5",
+      "label": "She Will Be Loved - Maroon 5",
+      "date": 2002,
+      "deezer": {
+        "trackId": 1165303,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/1/e/0/a1e341141b3c1ce852ea5a0474f16cb2.mp3?hdnea=exp=1748033241~acl=/api/1/1/a/1/e/0/a1e341141b3c1ce852ea5a0474f16cb2.mp3*~data=user_id=0,application_id=42~hmac=fad35ea6833c9475f0f6ca8b2d91c5143137fd47bf26f95a23d7a8ed7de7047a",
+        "url": "https://www.deezer.com/track/1165303"
+      }
+    },
+    {
+      "id": "2010-just-the-way-you-are-bruno-mars",
+      "label": "Just the Way You Are - Bruno Mars",
+      "date": 2010,
+      "deezer": {
+        "trackId": 7216935,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/9/f/0/f9fe7ab157c5496285f09fbefd7bc647.mp3?hdnea=exp=1748033242~acl=/api/1/1/f/9/f/0/f9fe7ab157c5496285f09fbefd7bc647.mp3*~data=user_id=0,application_id=42~hmac=1da2a449108f5faadfad30d5a7df9a86b12f51768a364f3d58307f918bd2f786",
+        "url": "https://www.deezer.com/track/7216935"
+      }
+    },
+    {
+      "id": "2001-wherever-you-will-go-the-calling",
+      "label": "Wherever You Will Go - The Calling",
+      "date": 2001,
+      "deezer": {
+        "trackId": 573437,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/0/9/0/c09bea9744d00cb28a392e936e3a89da.mp3?hdnea=exp=1748033242~acl=/api/1/1/c/0/9/0/c09bea9744d00cb28a392e936e3a89da.mp3*~data=user_id=0,application_id=42~hmac=37c6380d082277b655bcdc5bd640f0fe0b68cec24de1cd2823c629e3b0024ae8",
+        "url": "https://www.deezer.com/track/573437"
+      }
+    },
+    {
+      "id": "2003-if-i-ain-t-got-you-alicia-keys",
+      "label": "If I Ain't Got You - Alicia Keys",
+      "date": 2003,
+      "deezer": {
+        "trackId": 629466,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/1/0/0/710b6e1d578419376acaa766454d5686.mp3?hdnea=exp=1748033242~acl=/api/1/1/7/1/0/0/710b6e1d578419376acaa766454d5686.mp3*~data=user_id=0,application_id=42~hmac=acc7c087a66c77c86e4098e5ec947fb709fe0e8ccf82fd4657ec9e0458f8790b",
+        "url": "https://www.deezer.com/track/629466"
+      }
+    },
+    {
+      "id": "2008-halo-beyonce",
+      "label": "Halo - Beyonce",
+      "date": 2008,
+      "deezer": {
+        "trackId": 2485108,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/1/5/0/415673f572d368bcea0b4e6b8100f101.mp3?hdnea=exp=1748033243~acl=/api/1/1/4/1/5/0/415673f572d368bcea0b4e6b8100f101.mp3*~data=user_id=0,application_id=42~hmac=b5837a9213ae115b4e5dac8624445bc1a3f2a537d5879fa699f05355e4318483",
+        "url": "https://www.deezer.com/track/2485108"
+      }
+    },
+    {
+      "id": "2007-bleeding-love-leona-lewis",
+      "label": "Bleeding Love - Leona Lewis",
+      "date": 2007,
+      "deezer": {
+        "trackId": 365067,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/5/f/0/65f8cdd2b5a3e63726c95e9f633bc1b3.mp3?hdnea=exp=1748033243~acl=/api/1/1/6/5/f/0/65f8cdd2b5a3e63726c95e9f633bc1b3.mp3*~data=user_id=0,application_id=42~hmac=9e8b2202eb4797eb64368e020f7f5d5d4e5e91e2a0fd65d61099221101c6641b",
+        "url": "https://www.deezer.com/track/365067"
+      }
+    },
+    {
+      "id": "1998-i-don-t-want-to-miss-a-thing-aerosmith",
+      "label": "I Don't Want to Miss a Thing - Aerosmith",
+      "date": 1998,
+      "deezer": {
+        "trackId": 70631608,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/0/2/0/d02c9f8c9c06ee639a04d21e16521dd5.mp3?hdnea=exp=1748033243~acl=/api/1/1/d/0/2/0/d02c9f8c9c06ee639a04d21e16521dd5.mp3*~data=user_id=0,application_id=42~hmac=6b1d3a0449a3e63e0aa481a22e3d61aa57f0dd748586ed083080dde35aedef45",
+        "url": "https://www.deezer.com/track/70631608"
+      }
+    },
+    {
+      "id": "2005-you-re-beautiful-james-blunt",
+      "label": "You're Beautiful - James Blunt",
+      "date": 2005,
+      "deezer": {
+        "trackId": 2659940,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/7/6/0/87685586d238a1fde4284e473c86e7a9.mp3?hdnea=exp=1748033244~acl=/api/1/1/8/7/6/0/87685586d238a1fde4284e473c86e7a9.mp3*~data=user_id=0,application_id=42~hmac=5ca317d8a21a88cd4bb015aef9cda6fcee7d7f3b79f26f0371f5671332771fff",
+        "url": "https://www.deezer.com/track/2659940"
+      }
+    },
+    {
+      "id": "1995-back-for-good-take-that",
+      "label": "Back for Good - Take That",
+      "date": 1995,
+      "deezer": {
+        "trackId": 848836952,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/d/3/0/1d3dd44d7ab74cabda1bb96d7138f763.mp3?hdnea=exp=1748033244~acl=/api/1/1/1/d/3/0/1d3dd44d7ab74cabda1bb96d7138f763.mp3*~data=user_id=0,application_id=42~hmac=4b1801dcfd51ee4e4c3a6411fc6463af2ece6b2f3c9aaacdb5ab679d0b3f757d",
+        "url": "https://www.deezer.com/track/848836952"
+      }
+    },
+    {
+      "id": "1992-i-will-always-love-you-whitney-houston",
+      "label": "I Will Always Love You - Whitney Houston",
+      "date": 1992,
+      "deezer": {
+        "trackId": 7675403,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/9/8/0/8986cdb54dad14b36f42fbc2c966d83b.mp3?hdnea=exp=1748033244~acl=/api/1/1/8/9/8/0/8986cdb54dad14b36f42fbc2c966d83b.mp3*~data=user_id=0,application_id=42~hmac=362af5e0f9fc91379bf549a2ec3e5738dfdd49c0c506d82fd9670db0861c870c",
+        "url": "https://www.deezer.com/track/7675403"
+      }
+    },
+    {
+      "id": "1990-nothing-compares-2-u-sin-ad-o-connor",
+      "label": "Nothing Compares 2 U - Sinéad O'Connor",
+      "date": 1990,
+      "deezer": {
+        "trackId": 1787569267,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/b/a/0/cba38c67b7aa5bb88d87df8d28af07d0.mp3?hdnea=exp=1748033245~acl=/api/1/1/c/b/a/0/cba38c67b7aa5bb88d87df8d28af07d0.mp3*~data=user_id=0,application_id=42~hmac=c463fb1e5c7c4b228a4286a3e0da068a33932f41afde00d7aca9eef495d8535c",
+        "url": "https://www.deezer.com/track/1787569267"
+      }
+    },
+    {
+      "id": "2006-tears-dry-on-their-own-amy-winehouse",
+      "label": "Tears Dry on Their Own - Amy Winehouse",
+      "date": 2006,
+      "deezer": {
+        "trackId": 2176858,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/8/9/0/289b5e55edbbc89bf5a3a8501a7f4bc1.mp3?hdnea=exp=1748033245~acl=/api/1/1/2/8/9/0/289b5e55edbbc89bf5a3a8501a7f4bc1.mp3*~data=user_id=0,application_id=42~hmac=6a0cb7f1f1db5b5d06f432b508a37e7c63c9f5525455978ebf82b38deb5a7b57",
+        "url": "https://www.deezer.com/track/2176858"
+      }
+    },
+    {
+      "id": "2011-someone-like-you-adele",
+      "label": "Someone Like You - Adele",
+      "date": 2011,
+      "deezer": {
+        "trackId": 1174603092,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/f/6/0/cf61cfa01f653ad6b8696a81c6e4d747.mp3?hdnea=exp=1748033245~acl=/api/1/1/c/f/6/0/cf61cfa01f653ad6b8696a81c6e4d747.mp3*~data=user_id=0,application_id=42~hmac=3b776c70411393d15e54ebae654e047365c6787ae349bf928099237db3a5f92e",
+        "url": "https://www.deezer.com/track/1174603092"
+      }
+    },
+    {
+      "id": "2010-rolling-in-the-deep-adele",
+      "label": "Rolling in the Deep - Adele",
+      "date": 2010,
+      "deezer": {
+        "trackId": 1174602992,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/4/1/0/a4112b02938d990d85783462aa6fa13e.mp3?hdnea=exp=1748033246~acl=/api/1/1/a/4/1/0/a4112b02938d990d85783462aa6fa13e.mp3*~data=user_id=0,application_id=42~hmac=0194b7ed0aef6d8b46afcb9e0e61ef421087ef92bd699060c7ed34748ef84bc2",
+        "url": "https://www.deezer.com/track/1174602992"
+      }
+    },
+    {
+      "id": "2018-someone-you-loved-lewis-capaldi",
+      "label": "Someone You Loved - Lewis Capaldi",
+      "date": 2018,
+      "deezer": {
+        "trackId": 582143242,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/e/9/0/5e9d413644939d60388868b3befb242d.mp3?hdnea=exp=1748033246~acl=/api/1/1/5/e/9/0/5e9d413644939d60388868b3befb242d.mp3*~data=user_id=0,application_id=42~hmac=ad9a09024511c140cc3fbc420b5167bcb6e0da116d058c3a6771e4ef1f0274ba",
+        "url": "https://www.deezer.com/track/582143242"
+      }
+    },
+    {
+      "id": "2017-perfect-ed-sheeran",
+      "label": "Perfect - Ed Sheeran",
+      "date": 2017,
+      "deezer": {
+        "trackId": 142986206,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/0/8/0/e08c1728964ec7adccadb383d4db2fcc.mp3?hdnea=exp=1748033246~acl=/api/1/1/e/0/8/0/e08c1728964ec7adccadb383d4db2fcc.mp3*~data=user_id=0,application_id=42~hmac=c80a7f36493aebbfe4fe568947d2f83ac8b2b6b11929647e042a68e23287ddd0",
+        "url": "https://www.deezer.com/track/142986206"
+      }
+    },
+    {
+      "id": "2013-all-of-me-john-legend",
+      "label": "All of Me - John Legend",
+      "date": 2013,
+      "deezer": {
+        "trackId": 70079770,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/3/6/0/936b5a2ef3600442446277b9b9969df9.mp3?hdnea=exp=1748033247~acl=/api/1/1/9/3/6/0/936b5a2ef3600442446277b9b9969df9.mp3*~data=user_id=0,application_id=42~hmac=c8aa7c60c03786f4442001f289327a646110d2b6553374da609b950468efea7a",
+        "url": "https://www.deezer.com/track/70079770"
+      }
+    },
+    {
+      "id": "2016-say-you-won-t-let-go-james-arthur",
+      "label": "Say You Won't Let Go - James Arthur",
+      "date": 2016,
+      "deezer": {
+        "trackId": 131742260,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/8/5/0/68566b3bcd99133cd4a54ae8a1378429.mp3?hdnea=exp=1748033247~acl=/api/1/1/6/8/5/0/68566b3bcd99133cd4a54ae8a1378429.mp3*~data=user_id=0,application_id=42~hmac=a2dd8182ba78a074e66fe763661c97fb16bbb58f8dfe804ab2cccddbf3077fc8",
+        "url": "https://www.deezer.com/track/131742260"
+      }
+    },
+    {
+      "id": "2017-shape-of-you-ed-sheeran",
+      "label": "Shape of You - Ed Sheeran",
+      "date": 2017,
+      "deezer": {
+        "trackId": 139470659,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/1/b/0/f1becf66c6264a6a0306fc47d47690b0.mp3?hdnea=exp=1748033247~acl=/api/1/1/f/1/b/0/f1becf66c6264a6a0306fc47d47690b0.mp3*~data=user_id=0,application_id=42~hmac=7bacf92e292f9d59186eef52bca64763ef2ce2acb19c7608d87339f53bb27a77",
+        "url": "https://www.deezer.com/track/139470659"
+      }
+    },
+    {
+      "id": "2015-love-me-like-you-do-ellie-goulding",
+      "label": "Love Me Like You Do - Ellie Goulding",
+      "date": 2015,
+      "deezer": {
+        "trackId": 457299922,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/5/f/0/85f0dfb6822dc9ac68568e7fd0985425.mp3?hdnea=exp=1748033248~acl=/api/1/1/8/5/f/0/85f0dfb6822dc9ac68568e7fd0985425.mp3*~data=user_id=0,application_id=42~hmac=9f00708988a769a3c25fbcc07142071f0f5faee8ed1977a694dad415d490a358",
+        "url": "https://www.deezer.com/track/457299922"
+      }
+    },
+    {
+      "id": "2014-stay-with-me-sam-smith",
+      "label": "Stay With Me - Sam Smith",
+      "date": 2014,
+      "deezer": {
+        "trackId": 111780376,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/0/f/0/f0f514a1570e12288bc06fc42dd3e567.mp3?hdnea=exp=1748033248~acl=/api/1/1/f/0/f/0/f0f514a1570e12288bc06fc42dd3e567.mp3*~data=user_id=0,application_id=42~hmac=beb156e43e5cdba54f3c3fce202175da88caefa9fb5238692bd01f887c0af96b",
+        "url": "https://www.deezer.com/track/111780376"
+      }
+    },
+    {
+      "id": "2014-thinking-out-loud-ed-sheeran",
+      "label": "Thinking Out Loud - Ed Sheeran",
+      "date": 2014,
+      "deezer": {
+        "trackId": 79875064,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/9/4/0/494ddfc070ac9ad7615d5a1655804710.mp3?hdnea=exp=1748033248~acl=/api/1/1/4/9/4/0/494ddfc070ac9ad7615d5a1655804710.mp3*~data=user_id=0,application_id=42~hmac=bf4baff3f2d827f3bceb289934d5e24415ba2c28f2ed956a132aab810b4b9ad6",
+        "url": "https://www.deezer.com/track/79875064"
+      }
+    }
+  ]
+}

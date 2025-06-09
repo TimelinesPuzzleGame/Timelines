@@ -1,0 +1,561 @@
+{
+  "slug": "-80s-classics",
+  "topic": "🕺 80s Classics",
+  "category": "Entertainment",
+  "subcategory": "Music",
+  "showTooltips": true,
+  "cards": [
+    {
+      "id": "2025-tainted-love-soft-cell",
+      "label": "TAINTED LOVE - Soft Cell",
+      "date": 1981,
+      "popularity": 891209,
+      "deezer": {
+        "trackId": 1173622,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/4/c/0/64c7f0ad48610384343c8a57e0209491.mp3?hdnea=exp=1748678790~acl=/api/1/1/6/4/c/0/64c7f0ad48610384343c8a57e0209491.mp3*~data=user_id=0,application_id=42~hmac=4010ac02ee04a4426e2e3616ca030d317873c0ada031807a429514da8c78a9da",
+        "url": "https://www.deezer.com/track/1173622",
+        "rank": 891209
+      }
+    },
+    {
+      "id": "2025-lay-all-your-love-on-me-abba",
+      "label": "LAY ALL YOUR LOVE ON ME - ABBA",
+      "date": 1981,
+      "popularity": 881960,
+      "deezer": {
+        "trackId": 76376863,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/d/e/0/7de0d4f9694c547d63f17495d4f24fb9.mp3?hdnea=exp=1748678790~acl=/api/1/1/7/d/e/0/7de0d4f9694c547d63f17495d4f24fb9.mp3*~data=user_id=0,application_id=42~hmac=bdfd8fb5830099cbab0970a5d1c92e0767e5270ad8722d410c56a810f1783bb3",
+        "url": "https://www.deezer.com/track/76376863",
+        "rank": 881960
+      }
+    },
+    {
+      "id": "2025-call-me-blondie",
+      "label": "CALL ME - Blondie",
+      "date": 1981,
+      "popularity": 847785,
+      "deezer": {
+        "trackId": 3104486,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/1/e/0/01e2c63b1987196fc7ca4cf928a53980.mp3?hdnea=exp=1748678789~acl=/api/1/1/0/1/e/0/01e2c63b1987196fc7ca4cf928a53980.mp3*~data=user_id=0,application_id=42~hmac=4d7f565782be4d05571f9f64e77de05e79be7395c58948a7e475e4479f4dc675",
+        "url": "https://www.deezer.com/track/3104486",
+        "rank": 847785
+      }
+    },
+    {
+      "id": "2025-one-way-or-another-blondie",
+      "label": "ONE WAY OR ANOTHER - Blondie",
+      "date": 1981,
+      "popularity": 783347,
+      "deezer": {
+        "trackId": 3104498,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/d/f/0/edf1adbb6c71439d5637579a1002378f.mp3?hdnea=exp=1748678789~acl=/api/1/1/e/d/f/0/edf1adbb6c71439d5637579a1002378f.mp3*~data=user_id=0,application_id=42~hmac=7ceb1b8b2a8a1285c4a56a439745a0c621199ab9844dc097edd91d1d8fc0358e",
+        "url": "https://www.deezer.com/track/3104498",
+        "rank": 783347
+      }
+    },
+    {
+      "id": "2025-atomic-blondie",
+      "label": "ATOMIC - Blondie",
+      "date": 1981,
+      "popularity": 726246,
+      "deezer": {
+        "trackId": 3104483,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/4/2/0/a42f6fd7dda8991142455049cf099149.mp3?hdnea=exp=1748678789~acl=/api/1/1/a/4/2/0/a42f6fd7dda8991142455049cf099149.mp3*~data=user_id=0,application_id=42~hmac=ad921bcb4ea5915ad1fdedd44a9fe2f34f5a655c0a67412b7276a3344c575ece",
+        "url": "https://www.deezer.com/track/3104483",
+        "rank": 726246
+      }
+    },
+    {
+      "id": "2025-heart-of-glass-remix-blondie",
+      "label": "HEART OF GLASS (REMIX) - Blondie",
+      "date": 1981,
+      "popularity": 685402,
+      "deezer": {
+        "trackId": 3104484,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/c/6/0/2c6194d4c1eef0f40bc9d397601e60c4.mp3?hdnea=exp=1748678789~acl=/api/1/1/2/c/6/0/2c6194d4c1eef0f40bc9d397601e60c4.mp3*~data=user_id=0,application_id=42~hmac=bf0ce4f7ce73c653c1352003c6b32f1a6a64b45e7602cff81178a183b59de87d",
+        "url": "https://www.deezer.com/track/3104484",
+        "rank": 685402
+      }
+    },
+    {
+      "id": "2025-rapture-blondie",
+      "label": "RAPTURE - Blondie",
+      "date": 1981,
+      "popularity": 508887,
+      "deezer": {
+        "trackId": 3104490,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/2/3/0/8230f9e12397331a9dafc03416c20e7e.mp3?hdnea=exp=1748678789~acl=/api/1/1/8/2/3/0/8230f9e12397331a9dafc03416c20e7e.mp3*~data=user_id=0,application_id=42~hmac=2a6a5cc588972abfca5e071d6a694ab48fdf2ca336d8950a7ae4d81adaa3710a",
+        "url": "https://www.deezer.com/track/3104490",
+        "rank": 508887
+      }
+    },
+    {
+      "id": "2025-happy-birthday-altered-images",
+      "label": "HAPPY BIRTHDAY - Altered Images",
+      "date": 1981,
+      "popularity": 255568,
+      "deezer": {
+        "trackId": 5404597,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/3/6/0/03635aa50e43eac07708bd70df3d416a.mp3?hdnea=exp=1748678789~acl=/api/1/1/0/3/6/0/03635aa50e43eac07708bd70df3d416a.mp3*~data=user_id=0,application_id=42~hmac=fba9c427d206581d3524c3c04af0e93b6da12a4b26edf5d911ff92f1664776ed",
+        "url": "https://www.deezer.com/track/5404597",
+        "rank": 255568
+      }
+    },
+    {
+      "id": "2025-beat-it-michael-jackson",
+      "label": "BEAT IT - Michael Jackson",
+      "date": 1982,
+      "popularity": 779815,
+      "deezer": {
+        "trackId": 555640,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/7/b/0/a7b72478be04fb6d75ed6fd296efd096.mp3?hdnea=exp=1748678787~acl=/api/1/1/a/7/b/0/a7b72478be04fb6d75ed6fd296efd096.mp3*~data=user_id=0,application_id=42~hmac=bf3f8c18d5a123448173ed4dcbbb61821b0a7c22650690e6488b85c75584a393",
+        "url": "https://www.deezer.com/track/555640",
+        "rank": 779815
+      }
+    },
+    {
+      "id": "2025-billie-jean-michael-jackson",
+      "label": "BILLIE JEAN - Michael Jackson",
+      "date": 1982,
+      "popularity": 687666,
+      "deezer": {
+        "trackId": 555641,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/6/3/0/36376dc926fbd8039ff4d7c71fe29368.mp3?hdnea=exp=1748678787~acl=/api/1/1/3/6/3/0/36376dc926fbd8039ff4d7c71fe29368.mp3*~data=user_id=0,application_id=42~hmac=97e2115a105046d1588f3d94eda8767fa89336782d7c4eb725959ac5f87d590b",
+        "url": "https://www.deezer.com/track/555641",
+        "rank": 687666
+      }
+    },
+    {
+      "id": "1999-1999-prince",
+      "label": "1999 - Prince",
+      "date": 1982,
+      "popularity": 578382,
+      "deezer": {
+        "trackId": 690101,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/0/3/0/f037d61df3c619a95bbe481c6a01ec77.mp3?hdnea=exp=1748678789~acl=/api/1/1/f/0/3/0/f037d61df3c619a95bbe481c6a01ec77.mp3*~data=user_id=0,application_id=42~hmac=b038664a3287bad880adebe0af827228c2cafd4ed85012d606f0f88696432598",
+        "url": "https://www.deezer.com/track/690101",
+        "rank": 578382
+      }
+    },
+    {
+      "id": "2025-little-red-corvette-prince",
+      "label": "LITTLE RED CORVETTE - Prince",
+      "date": 1982,
+      "popularity": 498411,
+      "deezer": {
+        "trackId": 690106,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/c/c/0/2cc61c262b2750b74489e19c169d8c8e.mp3?hdnea=exp=1748678789~acl=/api/1/1/2/c/c/0/2cc61c262b2750b74489e19c169d8c8e.mp3*~data=user_id=0,application_id=42~hmac=f52133896b6e994a6d9a825dc316daf25b7d6963aeef8ac3e51c3ea17313a294",
+        "url": "https://www.deezer.com/track/690106",
+        "rank": 498411
+      }
+    },
+    {
+      "id": "2025-mickey-toni-basil",
+      "label": "MICKEY - Toni Basil",
+      "date": 1982,
+      "popularity": 72699,
+      "deezer": {
+        "trackId": 127895053,
+        "preview": null,
+        "url": "https://www.deezer.com/track/127895053",
+        "rank": 72699
+      }
+    },
+    {
+      "id": "2025-girls-just-want-to-have-fun-cyndi-lauper-A",
+      "label": "GIRLS JUST WANT TO HAVE FUN - Cyndi Lauper",
+      "date": 1983,
+      "popularity": 693340,
+      "deezer": {
+        "trackId": 76057844,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/0/2/0/8029ee36f2638c65b196f42a2b884dc1.mp3?hdnea=exp=1748678790~acl=/api/1/1/8/0/2/0/8029ee36f2638c65b196f42a2b884dc1.mp3*~data=user_id=0,application_id=42~hmac=e442c54eee332dbb5ef17e3c2e48838a0942923771fddea68d5c700112403f24",
+        "url": "https://www.deezer.com/track/76057844",
+        "rank": 693340
+      }
+    },
+    {
+      "id": "2025-girls-just-want-to-have-fun-cyndi-lauper",
+      "label": "GIRLS JUST WANT TO HAVE FUN - Cyndi Lauper",
+      "date": 1983,
+      "popularity": 619691,
+      "deezer": {
+        "trackId": 608758,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/1/7/0/61724323a743bc21429b34dc4d079f24.mp3?hdnea=exp=1748678787~acl=/api/1/1/6/1/7/0/61724323a743bc21429b34dc4d079f24.mp3*~data=user_id=0,application_id=42~hmac=51193778775298ab9aa1e878539dc2736cfb7151134cb7ce8e2847497d8d8f4c",
+        "url": "https://www.deezer.com/track/608758",
+        "rank": 619691
+      }
+    },
+    {
+      "id": "2025-time-after-time-cyndi-lauper-A",
+      "label": "TIME AFTER TIME - Cyndi Lauper",
+      "date": 1983,
+      "popularity": 536895,
+      "deezer": {
+        "trackId": 608756,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/0/1/0/501738db12c254b8c461d3c7c6fb38bf.mp3?hdnea=exp=1748678788~acl=/api/1/1/5/0/1/0/501738db12c254b8c461d3c7c6fb38bf.mp3*~data=user_id=0,application_id=42~hmac=b966fb080864e10707d62f6caddf324e529c57557f321165f53278da9a05d161",
+        "url": "https://www.deezer.com/track/608756",
+        "rank": 536895
+      }
+    },
+    {
+      "id": "2025-sweet-dreams-are-made-of-this-eurythmics",
+      "label": "SWEET DREAMS (ARE MADE OF THIS) - Eurythmics",
+      "date": 1983,
+      "popularity": 499622,
+      "deezer": {
+        "trackId": 15645257,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/d/f/0/3df942001cf5bd43406ed7cffcefd4f5.mp3?hdnea=exp=1748678789~acl=/api/1/1/3/d/f/0/3df942001cf5bd43406ed7cffcefd4f5.mp3*~data=user_id=0,application_id=42~hmac=52b951d11f93785a8be4bf0fefdd402a206085ccaa02db9f57d0aa5e27e4fedf",
+        "url": "https://www.deezer.com/track/15645257",
+        "rank": 499622
+      }
+    },
+    {
+      "id": "2025-love-is-a-stranger-eurythmics",
+      "label": "LOVE IS A STRANGER - Eurythmics",
+      "date": 1983,
+      "popularity": 449297,
+      "deezer": {
+        "trackId": 15645537,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/f/a/0/bfaebfd5b281d1239e7808566d5aa23e.mp3?hdnea=exp=1748678789~acl=/api/1/1/b/f/a/0/bfaebfd5b281d1239e7808566d5aa23e.mp3*~data=user_id=0,application_id=42~hmac=119822e92fd18f10f2e45eff8f883c8172422c7ecd0931cec9e15c0a606d67da",
+        "url": "https://www.deezer.com/track/15645537",
+        "rank": 449297
+      }
+    },
+    {
+      "id": "2025-temptation-heaven-17",
+      "label": "TEMPTATION - Heaven 17",
+      "date": 1983,
+      "popularity": 431587,
+      "deezer": {
+        "trackId": 79333905,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/8/f/0/b8fac68e2d9c3ef87ad9f07df8133599.mp3?hdnea=exp=1748678789~acl=/api/1/1/b/8/f/0/b8fac68e2d9c3ef87ad9f07df8133599.mp3*~data=user_id=0,application_id=42~hmac=9efe771001a3a6d2d434eacce85ef7022f2c59d9d2a44b1507d08a10c78ee99a",
+        "url": "https://www.deezer.com/track/79333905",
+        "rank": 431587
+      }
+    },
+    {
+      "id": "2025-there-must-be-an-angel-playing-with-my-heart-eurythmics",
+      "label": "THERE MUST BE AN ANGEL (PLAYING WITH MY HEART) - Eurythmics",
+      "date": 1983,
+      "popularity": 397762,
+      "deezer": {
+        "trackId": 576104,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/0/a/0/a0a2e9d6b55a35871a14cbd0f86155a1.mp3?hdnea=exp=1748678788~acl=/api/1/1/a/0/a/0/a0a2e9d6b55a35871a14cbd0f86155a1.mp3*~data=user_id=0,application_id=42~hmac=f721ecb25d82025647356a99900c8d37861872c785c7d074fdb02f6fb057ede5",
+        "url": "https://www.deezer.com/track/576104",
+        "rank": 397762
+      }
+    },
+    {
+      "id": "2025-missionary-man-eurythmics",
+      "label": "MISSIONARY MAN - Eurythmics",
+      "date": 1983,
+      "popularity": 382065,
+      "deezer": {
+        "trackId": 15645264,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/6/6/0/8660e1500cda1ac15ed9a2dd440606ca.mp3?hdnea=exp=1748678789~acl=/api/1/1/8/6/6/0/8660e1500cda1ac15ed9a2dd440606ca.mp3*~data=user_id=0,application_id=42~hmac=123d1d2561d18dc289827e1c6f8e87f5fffec147a25597f833c761f286103b12",
+        "url": "https://www.deezer.com/track/15645264",
+        "rank": 382065
+      }
+    },
+    {
+      "id": "2025-time-after-time-cyndi-lauper",
+      "label": "TIME AFTER TIME - Cyndi Lauper",
+      "date": 1983,
+      "popularity": 178740,
+      "deezer": {
+        "trackId": 4097332,
+        "preview": null,
+        "url": "https://www.deezer.com/track/4097332",
+        "rank": 178740
+      }
+    },
+    {
+      "id": "2025-kiss-prince",
+      "label": "KISS - Prince",
+      "date": 1984,
+      "popularity": 856971,
+      "deezer": {
+        "trackId": 664178,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/c/3/0/8c392a4f7618e60d22cac844b0315e36.mp3?hdnea=exp=1748678789~acl=/api/1/1/8/c/3/0/8c392a4f7618e60d22cac844b0315e36.mp3*~data=user_id=0,application_id=42~hmac=8b67c3e819e260e53c33de01d25f5e5d3e993953a49890aa8ca77871e6228768",
+        "url": "https://www.deezer.com/track/664178",
+        "rank": 856971
+      }
+    },
+    {
+      "id": "2025-raspberry-beret-prince",
+      "label": "RASPBERRY BERET - Prince",
+      "date": 1984,
+      "popularity": 567033,
+      "deezer": {
+        "trackId": 775712,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/0/3/0/d0325b069a454e90f74cb07b6f8c6a92.mp3?hdnea=exp=1748678789~acl=/api/1/1/d/0/3/0/d0325b069a454e90f74cb07b6f8c6a92.mp3*~data=user_id=0,application_id=42~hmac=b8071e8f68bcdd63e6dd1b84cc58e069328d550959aae5a5299004d5a750df9b",
+        "url": "https://www.deezer.com/track/775712",
+        "rank": 567033
+      }
+    },
+    {
+      "id": "2025-take-on-me-a-ha",
+      "label": "TAKE ON ME - a-ha",
+      "date": 1985,
+      "popularity": 988080,
+      "deezer": {
+        "trackId": 664107,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/b/a/0/2baf2724d658f73af8ac7a1c81479f2e.mp3?hdnea=exp=1748678787~acl=/api/1/1/2/b/a/0/2baf2724d658f73af8ac7a1c81479f2e.mp3*~data=user_id=0,application_id=42~hmac=57f486e5796423ba52a28e6c92021fe1949cd1a850027316091b70f12f3b801a",
+        "url": "https://www.deezer.com/track/664107",
+        "rank": 988080
+      }
+    },
+    {
+      "id": "2025-take-on-me-a-ha-A",
+      "label": "TAKE ON ME - a-ha",
+      "date": 1985,
+      "popularity": 988080,
+      "deezer": {
+        "trackId": 664107,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/b/a/0/2baf2724d658f73af8ac7a1c81479f2e.mp3?hdnea=exp=1748678787~acl=/api/1/1/2/b/a/0/2baf2724d658f73af8ac7a1c81479f2e.mp3*~data=user_id=0,application_id=42~hmac=57f486e5796423ba52a28e6c92021fe1949cd1a850027316091b70f12f3b801a",
+        "url": "https://www.deezer.com/track/664107",
+        "rank": 988080
+      }
+    },
+    {
+      "id": "2025-take-on-me-a-ha-B",
+      "label": "TAKE ON ME - a-ha",
+      "date": 1985,
+      "popularity": 988080,
+      "deezer": {
+        "trackId": 664107,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/b/a/0/2baf2724d658f73af8ac7a1c81479f2e.mp3?hdnea=exp=1748678790~acl=/api/1/1/2/b/a/0/2baf2724d658f73af8ac7a1c81479f2e.mp3*~data=user_id=0,application_id=42~hmac=3950056aab6b1d7d9074a8350f5c5eb52c669ad124a575ebfe565ed53c0d1d3a",
+        "url": "https://www.deezer.com/track/664107",
+        "rank": 988080
+      }
+    },
+    {
+      "id": "2025-everybody-wants-to-rule-the-world-tears-for-fears-A",
+      "label": "EVERYBODY WANTS TO RULE THE WORLD - Tears For Fears",
+      "date": 1985,
+      "popularity": 913976,
+      "deezer": {
+        "trackId": 2234314,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/e/d/0/8ede4b894ed41bee42748704ffa2fe66.mp3?hdnea=exp=1748678787~acl=/api/1/1/8/e/d/0/8ede4b894ed41bee42748704ffa2fe66.mp3*~data=user_id=0,application_id=42~hmac=973119ed5bbd47640dfbc06afa14137bbc3a84aa29a823235eda66ce8d1ab3e1",
+        "url": "https://www.deezer.com/track/2234314",
+        "rank": 913976
+      }
+    },
+    {
+      "id": "2025-papa-dont-preach-madonna",
+      "label": "PAPA DON'T PREACH - Madonna",
+      "date": 1985,
+      "popularity": 649994,
+      "deezer": {
+        "trackId": 678363,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/1/0/0/610822f9e6c2546c6c392990684e13d1.mp3?hdnea=exp=1748678787~acl=/api/1/1/6/1/0/0/610822f9e6c2546c6c392990684e13d1.mp3*~data=user_id=0,application_id=42~hmac=db319319423bdeedca635fd3dc0c389a00ef5f0e3e99b375eea8f5fda0a44061",
+        "url": "https://www.deezer.com/track/678363",
+        "rank": 649994
+      }
+    },
+    {
+      "id": "2025-papa-dont-preach-madonna-A",
+      "label": "PAPA DON'T PREACH - Madonna",
+      "date": 1985,
+      "popularity": 649994,
+      "deezer": {
+        "trackId": 678363,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/1/0/0/610822f9e6c2546c6c392990684e13d1.mp3?hdnea=exp=1748678788~acl=/api/1/1/6/1/0/0/610822f9e6c2546c6c392990684e13d1.mp3*~data=user_id=0,application_id=42~hmac=c4ac577b53b8c6371997b9f31fe8b2483cb7dedfd11f8867c83579ea3b717887",
+        "url": "https://www.deezer.com/track/678363",
+        "rank": 649994
+      }
+    },
+    {
+      "id": "2025-the-lovecats-the-cure",
+      "label": "THE LOVECATS - The Cure",
+      "date": 1985,
+      "popularity": 619521,
+      "deezer": {
+        "trackId": 1143631,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/3/8/0/e38ad712c2c7cd8d7378870582f5619a.mp3?hdnea=exp=1748678788~acl=/api/1/1/e/3/8/0/e38ad712c2c7cd8d7378870582f5619a.mp3*~data=user_id=0,application_id=42~hmac=464db0f7678959d10678273445c85ae7a43e2fa008c8ec80a32a4548aa0eca60",
+        "url": "https://www.deezer.com/track/1143631",
+        "rank": 619521
+      }
+    },
+    {
+      "id": "2025-true-blue-madonna",
+      "label": "TRUE BLUE - Madonna",
+      "date": 1985,
+      "popularity": 611696,
+      "deezer": {
+        "trackId": 678371,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/f/8/0/9f838ca6bb36eb065f026a669136d45c.mp3?hdnea=exp=1748678790~acl=/api/1/1/9/f/8/0/9f838ca6bb36eb065f026a669136d45c.mp3*~data=user_id=0,application_id=42~hmac=df9ca9c130568aff968f028e08a0bb0dcef36d56c0334d5e7133b9a798f97447",
+        "url": "https://www.deezer.com/track/678371",
+        "rank": 611696
+      }
+    },
+    {
+      "id": "2025-material-girl-madonna",
+      "label": "MATERIAL GIRL - Madonna",
+      "date": 1985,
+      "popularity": 390080,
+      "deezer": {
+        "trackId": 706690042,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/7/1/0/37155a8d224ca0529bfb0b7b7bda38b6.mp3?hdnea=exp=1748678790~acl=/api/1/1/3/7/1/0/37155a8d224ca0529bfb0b7b7bda38b6.mp3*~data=user_id=0,application_id=42~hmac=1acd409563d35225fcfc3e478c5031545a548f7a6977f8eb49ca94a85b63e7dc",
+        "url": "https://www.deezer.com/track/706690042",
+        "rank": 390080
+      }
+    },
+    {
+      "id": "2025-brothers-in-arms-dire-straits",
+      "label": "BROTHERS IN ARMS - Dire Straits",
+      "date": 1985,
+      "popularity": 139474,
+      "deezer": {
+        "trackId": 880961,
+        "preview": null,
+        "url": "https://www.deezer.com/track/880961",
+        "rank": 139474
+      }
+    },
+    {
+      "id": "2025-everybody-wants-to-rule-the-world-tears-for-fears",
+      "label": "EVERYBODY WANTS TO RULE THE WORLD - Tears For Fears",
+      "date": 1985,
+      "popularity": 64626,
+      "deezer": {
+        "trackId": 20495481,
+        "preview": null,
+        "url": "https://www.deezer.com/track/20495481",
+        "rank": 64626
+      }
+    },
+    {
+      "id": "2025-just-cant-get-enough-depeche-mode",
+      "label": "JUST CAN'T GET ENOUGH - Depeche Mode",
+      "date": 1986,
+      "popularity": 667268,
+      "deezer": {
+        "trackId": 68511564,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/7/6/0/576cf92c69bb03af371009790433dab8.mp3?hdnea=exp=1748678790~acl=/api/1/1/5/7/6/0/576cf92c69bb03af371009790433dab8.mp3*~data=user_id=0,application_id=42~hmac=ed00d295bed39080f76ab53a758cdf94ba5c72cd8dd49a1300c42ba5ad6be67a",
+        "url": "https://www.deezer.com/track/68511564",
+        "rank": 667268
+      }
+    },
+    {
+      "id": "2025-always-on-my-mind-pet-shop-boys",
+      "label": "ALWAYS ON MY MIND - Pet Shop Boys",
+      "date": 1987,
+      "popularity": 701346,
+      "deezer": {
+        "trackId": 3122976,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/e/6/0/1e606080a0f91a10c9f4fd4e629ca9a8.mp3?hdnea=exp=1748678788~acl=/api/1/1/1/e/6/0/1e606080a0f91a10c9f4fd4e629ca9a8.mp3*~data=user_id=0,application_id=42~hmac=f84e402af30f63b4b6fb3bb6266122080a35a90c93babd1ce67a7ba0469cc6e6",
+        "url": "https://www.deezer.com/track/3122976",
+        "rank": 701346
+      }
+    },
+    {
+      "id": "2025-right-here-waiting-richard-marx",
+      "label": "RIGHT HERE WAITING - Richard Marx",
+      "date": 1989,
+      "popularity": 637179,
+      "deezer": {
+        "trackId": 3087499,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/8/4/0/4849b2c0a7baad40cabb591f8c71a0f2.mp3?hdnea=exp=1748678787~acl=/api/1/1/4/8/4/0/4849b2c0a7baad40cabb591f8c71a0f2.mp3*~data=user_id=0,application_id=42~hmac=074fa8fa2e66ab43150e239e9b9274b34361b17284e346db863e40f4bf40b3e7",
+        "url": "https://www.deezer.com/track/3087499",
+        "rank": 637179
+      }
+    },
+    {
+      "id": "2025-right-here-waiting-richard-marx-A",
+      "label": "RIGHT HERE WAITING - Richard Marx",
+      "date": 1989,
+      "popularity": 637179,
+      "deezer": {
+        "trackId": 3087499,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/8/4/0/4849b2c0a7baad40cabb591f8c71a0f2.mp3?hdnea=exp=1748678787~acl=/api/1/1/4/8/4/0/4849b2c0a7baad40cabb591f8c71a0f2.mp3*~data=user_id=0,application_id=42~hmac=074fa8fa2e66ab43150e239e9b9274b34361b17284e346db863e40f4bf40b3e7",
+        "url": "https://www.deezer.com/track/3087499",
+        "rank": 637179
+      }
+    },
+    {
+      "id": "2025-right-here-waiting-richard-marx-B",
+      "label": "RIGHT HERE WAITING - Richard Marx",
+      "date": 1989,
+      "popularity": 637179,
+      "deezer": {
+        "trackId": 3087499,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/8/4/0/4849b2c0a7baad40cabb591f8c71a0f2.mp3?hdnea=exp=1748678788~acl=/api/1/1/4/8/4/0/4849b2c0a7baad40cabb591f8c71a0f2.mp3*~data=user_id=0,application_id=42~hmac=b7e067ac23746e5a0fce91f18b52af615cf5b6b4f9369c4bb88f38c7ed8418b6",
+        "url": "https://www.deezer.com/track/3087499",
+        "rank": 637179
+      }
+    },
+    {
+      "id": "2025-right-here-waiting-richard-marx-C",
+      "label": "RIGHT HERE WAITING - Richard Marx",
+      "date": 1989,
+      "popularity": 637179,
+      "deezer": {
+        "trackId": 3087499,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/8/4/0/4849b2c0a7baad40cabb591f8c71a0f2.mp3?hdnea=exp=1748678789~acl=/api/1/1/4/8/4/0/4849b2c0a7baad40cabb591f8c71a0f2.mp3*~data=user_id=0,application_id=42~hmac=4f42a3ad2324de28d04f04375efb86d08fa5c74a3f50250c947f8543d9fa4551",
+        "url": "https://www.deezer.com/track/3087499",
+        "rank": 637179
+      }
+    },
+    {
+      "id": "2025-dangerous-roxette",
+      "label": "DANGEROUS - Roxette",
+      "date": 1989,
+      "popularity": 318543,
+      "deezer": {
+        "trackId": 126423993,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/2/8/0/928a08bbc8395ec54eea6e78463d4bc2.mp3?hdnea=exp=1748678790~acl=/api/1/1/9/2/8/0/928a08bbc8395ec54eea6e78463d4bc2.mp3*~data=user_id=0,application_id=42~hmac=c504908a837d9138e5bed3612b11a3cdb9c48825e8741b628a34650dd8f6ee45",
+        "url": "https://www.deezer.com/track/126423993",
+        "rank": 318543
+      }
+    },
+    {
+      "id": "2025-thunderstruck-acdc",
+      "label": "THUNDERSTRUCK - AC/DC",
+      "date": 1990,
+      "popularity": 950981,
+      "deezer": {
+        "trackId": 92720102,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/1/1/0/1117489d36f3a1a80c8815c1137747a9.mp3?hdnea=exp=1748678786~acl=/api/1/1/1/1/1/0/1117489d36f3a1a80c8815c1137747a9.mp3*~data=user_id=0,application_id=42~hmac=3bfde20ecf152adca121a9707901f2ce91a2d3d38cd6755890fb5828329ddcc0",
+        "url": "https://www.deezer.com/track/92720102",
+        "rank": 950981
+      }
+    },
+    {
+      "id": "2025-ice-ice-baby-vanilla-ice",
+      "label": "ICE ICE BABY - Vanilla Ice",
+      "date": 1990,
+      "popularity": 715186,
+      "deezer": {
+        "trackId": 2397026,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/f/c/0/7fc6770245cef5670004343eaccb2452.mp3?hdnea=exp=1748678789~acl=/api/1/1/7/f/c/0/7fc6770245cef5670004343eaccb2452.mp3*~data=user_id=0,application_id=42~hmac=451412a3e1efe9d48752a39fb76b968dbe883468dadff38ba9469080568ca535",
+        "url": "https://www.deezer.com/track/2397026",
+        "rank": 715186
+      }
+    },
+    {
+      "id": "1992-everlasting-love-remastered-1992-sandra",
+      "label": "EVERLASTING LOVE (REMASTERED 1992) - Sandra",
+      "date": 1992,
+      "popularity": 535458,
+      "deezer": {
+        "trackId": 3092555,
+        "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/0/9/0/709de0645c9a93490c48cb9c61716d0b.mp3?hdnea=exp=1748678790~acl=/api/1/1/7/0/9/0/709de0645c9a93490c48cb9c61716d0b.mp3*~data=user_id=0,application_id=42~hmac=839e2b67f4e848c2760d0cc0f69386659914dcd8857c97924e75fb7ac140f09d",
+        "url": "https://www.deezer.com/track/3092555",
+        "rank": 535458
+      }
+    },
+    {
+      "id": "2025-still-dre-dr-dre",
+      "label": "STILL D.R.E. - Dr. Dre",
+      "date": 1992,
+      "popularity": 203367,
+      "deezer": {
+        "trackId": 1579474,
+        "preview": null,
+        "url": "https://www.deezer.com/track/1579474",
+        "rank": 203367
+      }
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 import fs from 'fs';
 import path from 'path';
-import { Puzzle } from './gameData';
+import { Puzzle } from './types';
 
 
 export function savePuzzleToDisk(puzzle: Puzzle, slug: string): string {

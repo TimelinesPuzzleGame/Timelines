@@ -1,0 +1,391 @@
+{
+  "slug": "gibboanx-test-3",
+  "topic": "Gibboanx Test Puzzle 3",
+  "category": "Entertainment",
+  "subcategory": "Movies/TV",
+  "hideDates": false,
+  "showTooltips": true,
+  "variantSystem": {
+    "enabled": true,
+    "totalScenes": 9,
+    "selectionStrategy": "random_per_round"
+  },
+  "cards": [
+    {
+      "id": "gibboanx-test-3-1",
+      "label": "It's a Wonderful Life",
+      "date": 1946,
+      "year": 1946,
+      "youtube": "https://www.youtube.com/watch?v=uDQVRxRlGdQ&t=0s&end=120s",
+      "duration": 507,
+      "variants": [
+        {
+          "id": "uDQVRxRlGdQ-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=uDQVRxRlGdQ&t=0s&end=120s",
+          "sceneDescription": "It's a Wonderful Life - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "uDQVRxRlGdQ-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=uDQVRxRlGdQ&t=120s&end=240s",
+          "sceneDescription": "It's a Wonderful Life - Part 2 (2:00 - 4:00)",
+          "startTime": 120,
+          "endTime": 240
+        },
+        {
+          "id": "uDQVRxRlGdQ-variant-2",
+          "youtube": "https://www.youtube.com/watch?v=uDQVRxRlGdQ&t=240s&end=360s",
+          "sceneDescription": "It's a Wonderful Life - Part 3 (4:00 - 6:00)",
+          "startTime": 240,
+          "endTime": 360
+        },
+        {
+          "id": "uDQVRxRlGdQ-variant-3",
+          "youtube": "https://www.youtube.com/watch?v=uDQVRxRlGdQ&t=360s&end=507s",
+          "sceneDescription": "It's a Wonderful Life - Part 4 (6:00 - 8:27)",
+          "startTime": 360,
+          "endTime": 507
+        }
+      ],
+      "variantCount": 4,
+      "tooltip": {
+        "description": "It's a Wonderful Life (1946) - Quality Score: 45/100",
+        "genre": "Classic Film",
+        "crawlerScore": 45,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T20:32:58.027Z"
+      },
+      "movie": "It's a Wonderful Life"
+    },
+    {
+      "id": "gibboanx-test-3-2",
+      "label": "King Kong",
+      "date": 2005,
+      "year": 2005,
+      "youtube": "https://www.youtube.com/watch?v=tbQStaFqDlQ&t=0s&end=120s",
+      "duration": 479,
+      "variants": [
+        {
+          "id": "tbQStaFqDlQ-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=tbQStaFqDlQ&t=0s&end=120s",
+          "sceneDescription": "King Kong - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "tbQStaFqDlQ-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=tbQStaFqDlQ&t=120s&end=240s",
+          "sceneDescription": "King Kong - Part 2 (2:00 - 4:00)",
+          "startTime": 120,
+          "endTime": 240
+        },
+        {
+          "id": "tbQStaFqDlQ-variant-2",
+          "youtube": "https://www.youtube.com/watch?v=tbQStaFqDlQ&t=240s&end=360s",
+          "sceneDescription": "King Kong - Part 3 (4:00 - 6:00)",
+          "startTime": 240,
+          "endTime": 360
+        },
+        {
+          "id": "tbQStaFqDlQ-variant-3",
+          "youtube": "https://www.youtube.com/watch?v=tbQStaFqDlQ&t=360s&end=479s",
+          "sceneDescription": "King Kong - Part 4 (6:00 - 7:59)",
+          "startTime": 360,
+          "endTime": 479
+        }
+      ],
+      "variantCount": 4,
+      "tooltip": {
+        "description": "King Kong (2005) - Quality Score: 60/100",
+        "genre": "Classic Film",
+        "crawlerScore": 60,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 10,
+          "popularityFactor": 10,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T20:32:58.027Z"
+      },
+      "movie": "King Kong"
+    },
+    {
+      "id": "gibboanx-test-3-4",
+      "label": "Little Miss Sunshine",
+      "date": 2006,
+      "year": 2006,
+      "youtube": "https://www.youtube.com/watch?v=VlWDxb0O__w&t=0s&end=30s",
+      "duration": 30,
+      "variants": [
+        {
+          "id": "VlWDxb0O__w-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=VlWDxb0O__w&t=0s&end=30s",
+          "sceneDescription": "Little Miss Sunshine - Full Scene (0:00 - 0:30)",
+          "startTime": 0,
+          "endTime": 30
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Little Miss Sunshine (2006) - Quality Score: 40/100",
+        "genre": "Classic Film",
+        "crawlerScore": 40,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 0,
+          "resolutionQuality": 0,
+          "popularityFactor": 10,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T20:32:58.027Z"
+      },
+      "movie": "Little Miss Sunshine"
+    },
+    {
+      "id": "gibboanx-test-3-5",
+      "label": "Local Hero",
+      "date": 1983,
+      "year": 1983,
+      "youtube": "https://www.youtube.com/watch?v=hm-ZHUfCTwk&t=0s&end=120s",
+      "duration": 417,
+      "variants": [
+        {
+          "id": "hm-ZHUfCTwk-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=hm-ZHUfCTwk&t=0s&end=120s",
+          "sceneDescription": "Local Hero - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "hm-ZHUfCTwk-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=hm-ZHUfCTwk&t=120s&end=240s",
+          "sceneDescription": "Local Hero - Part 2 (2:00 - 4:00)",
+          "startTime": 120,
+          "endTime": 240
+        },
+        {
+          "id": "hm-ZHUfCTwk-variant-2",
+          "youtube": "https://www.youtube.com/watch?v=hm-ZHUfCTwk&t=240s&end=417s",
+          "sceneDescription": "Local Hero - Part 3 (4:00 - 6:57)",
+          "startTime": 240,
+          "endTime": 417
+        }
+      ],
+      "variantCount": 3,
+      "tooltip": {
+        "description": "Local Hero (1983) - Quality Score: 55/100",
+        "genre": "Classic Film",
+        "crawlerScore": 55,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T20:32:58.027Z"
+      },
+      "movie": "Local Hero"
+    },
+    {
+      "id": "gibboanx-test-3-6",
+      "label": "Looper",
+      "date": 2012,
+      "year": 2012,
+      "youtube": "https://www.youtube.com/watch?v=NzCN96j7K60&t=0s&end=123s",
+      "duration": 123,
+      "variants": [
+        {
+          "id": "NzCN96j7K60-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=NzCN96j7K60&t=0s&end=123s",
+          "sceneDescription": "Looper - Part 1 (0:00 - 2:03)",
+          "startTime": 0,
+          "endTime": 123
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Looper (2012) - Quality Score: 45/100",
+        "genre": "Classic Film",
+        "crawlerScore": 45,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T20:32:58.027Z"
+      },
+      "movie": "Looper"
+    },
+    {
+      "id": "gibboanx-test-3-7",
+      "label": "Mary Poppins",
+      "date": 1964,
+      "year": 1964,
+      "youtube": "https://www.youtube.com/watch?v=5BHoDW9f7vY&t=0s&end=157s",
+      "duration": 157,
+      "variants": [
+        {
+          "id": "5BHoDW9f7vY-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=5BHoDW9f7vY&t=0s&end=157s",
+          "sceneDescription": "Mary Poppins - Part 1 (0:00 - 2:37)",
+          "startTime": 0,
+          "endTime": 157
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Mary Poppins (1964) - Quality Score: 50/100",
+        "genre": "Classic Film",
+        "crawlerScore": 50,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 10,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T20:32:58.027Z"
+      },
+      "movie": "Mary Poppins"
+    },
+    {
+      "id": "gibboanx-test-3-8",
+      "label": "Minority Report",
+      "date": 2002,
+      "year": 2002,
+      "youtube": "https://www.youtube.com/watch?v=arACDYMiNuI&t=0s&end=82s",
+      "duration": 82,
+      "variants": [
+        {
+          "id": "arACDYMiNuI-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=arACDYMiNuI&t=0s&end=82s",
+          "sceneDescription": "Minority Report - Full Scene (0:00 - 1:22)",
+          "startTime": 0,
+          "endTime": 82
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Minority Report (2002) - Quality Score: 35/100",
+        "genre": "Classic Film",
+        "crawlerScore": 35,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 0,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T20:32:58.027Z"
+      },
+      "movie": "Minority Report"
+    },
+    {
+      "id": "gibboanx-test-3-9",
+      "label": "Moon",
+      "date": 2009,
+      "year": 2009,
+      "youtube": "https://www.youtube.com/watch?v=Et3nO7QroZA&t=0s&end=120s",
+      "duration": 208,
+      "variants": [
+        {
+          "id": "Et3nO7QroZA-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=Et3nO7QroZA&t=0s&end=120s",
+          "sceneDescription": "Moon - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "Et3nO7QroZA-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=Et3nO7QroZA&t=120s&end=208s",
+          "sceneDescription": "Moon - Part 2 (2:00 - 3:28)",
+          "startTime": 120,
+          "endTime": 208
+        }
+      ],
+      "variantCount": 2,
+      "tooltip": {
+        "description": "Moon (2009) - Quality Score: 52/100",
+        "genre": "Classic Film",
+        "crawlerScore": 52,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 10,
+          "popularityFactor": 2,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T20:32:58.027Z"
+      },
+      "movie": "Moon"
+    },
+    {
+      "id": "gibboanx-test-3-10",
+      "label": "My Left Foot",
+      "date": 1989,
+      "year": 1989,
+      "youtube": "https://www.youtube.com/watch?v=kZdWQZtpjE0&t=0s&end=120s",
+      "duration": 260,
+      "variants": [
+        {
+          "id": "kZdWQZtpjE0-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=kZdWQZtpjE0&t=0s&end=120s",
+          "sceneDescription": "My Left Foot - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "kZdWQZtpjE0-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=kZdWQZtpjE0&t=120s&end=260s",
+          "sceneDescription": "My Left Foot - Part 2 (2:00 - 4:20)",
+          "startTime": 120,
+          "endTime": 260
+        }
+      ],
+      "variantCount": 2,
+      "tooltip": {
+        "description": "My Left Foot (1989) - Quality Score: 42/100",
+        "genre": "Classic Film",
+        "crawlerScore": 42,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 0,
+          "resolutionQuality": 10,
+          "popularityFactor": 2,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T20:32:58.027Z"
+      },
+      "movie": "My Left Foot"
+    }
+  ]
+}

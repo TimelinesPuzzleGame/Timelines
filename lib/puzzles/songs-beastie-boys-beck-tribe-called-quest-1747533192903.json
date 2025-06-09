@@ -1,0 +1,90 @@
+{
+  "slug": "user-1747532299254",
+  "topic": "Beastie Boys, Beck, Tribe Called Quest",
+  "category": "Entertainment",
+  "subcategory": "Music",
+  "showTooltips": false,
+  "hideDates": false,
+  "cards": [
+    {
+      "label": "Sabotage - Beastie Boys",
+      "date": 1994,
+      "id": "ugc-1747532299112-0",
+      "deezer": {
+        "trackId": 3119536
+      }
+    },
+    {
+      "label": "Loser - Beck",
+      "date": 1993,
+      "id": "ugc-1747532299196-1",
+      "deezer": {
+        "trackId": 422033092
+      }
+    },
+    {
+      "label": "Scenario - A Tribe Called Quest",
+      "date": 1991,
+      "id": "ugc-1747532299059-2",
+      "deezer": {
+        "trackId": 14878503
+      }
+    },
+    {
+      "label": "Intergalactic - Beastie Boys",
+      "date": 1998,
+      "id": "ugc-1747532299111-3",
+      "deezer": {
+        "trackId": 4013664
+      }
+    },
+    {
+      "label": "Where It's At - Beck",
+      "date": 1996,
+      "id": "ugc-1747532299172-4",
+      "deezer": {
+        "trackId": 634469292
+      }
+    },
+    {
+      "label": "Can I Kick It? - A Tribe Called Quest",
+      "date": 1990,
+      "id": "ugc-1747532299117-5",
+      "deezer": {
+        "trackId": 90630511
+      }
+    },
+    {
+      "label": "Sure Shot - Beastie Boys",
+      "date": 1994,
+      "id": "ugc-1747532299107-6",
+      "deezer": {
+        "trackId": 3129869
+      }
+    },
+    {
+      "label": "Devil's Haircut - Beck",
+      "date": 1996,
+      "id": "ugc-1747532299248-7",
+      "deezer": {
+        "trackId": 1757533467
+      }
+    },
+    {
+      "label": "Award Tour - A Tribe Called Quest",
+      "date": 1993,
+      "id": "ugc-1747532299133-8",
+      "deezer": {
+        "trackId": 13149179
+      }
+    },
+    {
+      "label": "So What'cha Want - Beastie Boys",
+      "date": 1992,
+      "id": "ugc-1747532299107-9",
+      "deezer": {
+        "trackId": 3119523
+      }
+    }
+  ]
+}

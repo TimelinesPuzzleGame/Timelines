@@ -1,3 +1,5 @@
+console.log("OPENAI_API_KEY loaded:", !!process.env.OPENAI_API_KEY);
+
 import type { NextApiRequest, NextApiResponse } from 'next';
 import { OpenAI } from 'openai';
 import { z } from 'zod';
@@ -81,7 +83,8 @@ const userPrompt = isSongsMode
         temperature: 0.7,
       });
 
-      raw = gptRes.choices?.[0]?.message?.content;
+      const content = gptRes.choices?.[0]?.message?.content;
+      raw = content !== null ? content : undefined;
       if (!raw) continue;
 
       try {
@@ -120,7 +123,8 @@ if (isSongsMode && Array.isArray(parsed)) {
 
     // Normalize known variants before validation
 if (parsed && typeof parsed === 'object' && 'category' in parsed) {
-  if (parsed.category === 'Music') parsed.category = 'Entertainment';
+  const parsedWithCategory = parsed as { category: string, [key: string]: any };
+  if (parsedWithCategory.category === 'Music') parsedWithCategory.category = 'Entertainment';
 }
 
 
@@ -129,8 +133,6 @@ if (parsed && typeof parsed === 'object' && 'category' in parsed) {
 let finalCards;
 
 if (isSongsMode) {
-  const base = PuzzleSchema.parse(parsed);
-
   const enriched = await Promise.all(
     base.cards.map(async (card, index) => {
       const match = await searchDeezerTrack(card.label, card.date);
@@ -144,13 +146,13 @@ if (isSongsMode) {
     })
   );
 
-  const finalCards = enriched.filter(Boolean).slice(0, 10);
+  finalCards = enriched.filter(Boolean).slice(0, 10);
   if (finalCards.length < 10) {
     throw new Error("Not enough songs with valid previews.");
   }
 
   return res.status(200).json({
-    topic: base.topic || cleanedTopic,
+    topic: cleanedTopic,
     category: "Entertainment",
     subcategory: "Music",
     cards: finalCards,

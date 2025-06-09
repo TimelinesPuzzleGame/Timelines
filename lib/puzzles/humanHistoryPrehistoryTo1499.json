@@ -1,0 +1,3409 @@
+{
+  "slug": "human-history-prehistory-to-1499",
+  "topic": "Human History: Prehistory to 1499",
+  "category": "History",
+  "subcategory": "Ancient & Medieval",
+  "hideDates": false,
+  "showTooltips": false,
+  "cards": [
+    {
+      "id": "possible-human-ancestor-orrorin-tugenensis-which-lives-in-trees-but-is-probably-bipedal-appears-in-africa-kenya-6000000",
+      "label": "Possible human ancestor\u00a0Orrorin tugenensis,\u00a0which lives in trees but is\u00a0probably\u00a0bipedal,\u00a0appears in Africa (Kenya).",
+      "date": -6000000,
+      "image": "public/images/human-history-prehistory-to-1499_complete/001-possible-human-ances.jpg"
+    },
+    {
+      "id": "hominid-ardipithecus-kadabba-which-lives-in-trees-but-may-be-bipedal-appears-in-africa-ethiopia-5600000",
+      "label": "Hominid\u00a0Ardipithecus kadabba, which lives in trees but may be bipedal, appears in Africa (Ethiopia).",
+      "date": -5600000
+    },
+    {
+      "id": "bipedal-tree-living-hominid-ardipithecus-ramidus-appears-in-africa-ethiopia-4400000",
+      "label": "Bipedal, tree-living hominid\u00a0Ardipithecus ramidus\u00a0appears in Africa (Ethiopia).",
+      "date": -4400000,
+      "image": "public/images/human-history-prehistory-to-1499_complete/003-bipedal-tree-living.jpg"
+    },
+    {
+      "id": "bipedal-hominid-australopithecus-anamensis-appears-in-africa-ethiopia-kenya-4000000",
+      "label": "Bipedal hominid\u00a0Australopithecus anamensis\u00a0appears in Africa (Ethiopia; Kenya).",
+      "date": -4000000
+    },
+    {
+      "id": "bipedal-hominid-australopithecus-afarensis-appears-in-africa-ethiopia-kenya-tanzania-3850000",
+      "label": "Bipedal hominid\u00a0Australopithecus afarensis\u00a0appears in Africa (Ethiopia; Kenya; Tanzania).",
+      "date": -3850000,
+      "image": "public/images/human-history-prehistory-to-1499_complete/005-bipedal-hominid-aust.jpg"
+    },
+    {
+      "id": "bipedal-hominid-kenyanthropus-platyops-possibly-an-australopithecine-appears-in-africa-kenya-ethiopia-3500000",
+      "label": "Bipedal hominid\u00a0Kenyanthropus platyops\u00a0(possibly an Australopithecine) appears in Africa (Kenya; Ethiopia).",
+      "date": -3500000
+    },
+    {
+      "id": "bipedal-hominid-australopithecus-africanus-appears-in-africa-south-africa-3300000",
+      "label": "Bipedal hominid\u00a0Australopithecus africanus\u00a0appears in Africa (South Africa).",
+      "date": -3300000,
+      "image": "public/images/human-history-prehistory-to-1499_complete/007-bipedal-hominid-aust.jpg"
+    },
+    {
+      "id": "australopithecus-afarensis-becomes-extinct-2950000",
+      "label": "Australopithecus afarensis\u00a0becomes extinct.",
+      "date": -2950000
+    },
+    {
+      "id": "bipedal-hominid-paranthropus-aethiopicus-appears-in-africa-kenya-ethiopia-2700000",
+      "label": "Bipedal hominid\u00a0Paranthropus aethiopicus\u00a0appears in Africa (Kenya; Ethiopia).",
+      "date": -2700000,
+      "image": "public/images/human-history-prehistory-to-1499_complete/009-bipedal-hominid-para.jpg"
+    },
+    {
+      "id": "the-quarternary-glaciation-period-begins-2600000",
+      "label": "The\u00a0Quarternary glaciation period\u00a0begins.",
+      "date": -2600000
+    },
+    {
+      "id": "bipedal-hominid-australopithecus-garhi-appears-in-africa-ethiopia-2500000",
+      "label": "Bipedal hominid\u00a0Australopithecus garhi\u00a0appears in Africa (Ethiopia).",
+      "date": -2500000
+    },
+    {
+      "id": "homo-habilis-the-first-member-of-the-genus-homo-appears-in-africa-kenya-tanzania-2300000",
+      "label": "Homo habilis, the\u00a0first member of the genus\u00a0Homo, appears in Africa (Kenya; Tanzania).",
+      "date": -2300000,
+      "image": "public/images/human-history-prehistory-to-1499_complete/012-homo-habilis-the-fir.jpg"
+    },
+    {
+      "id": "australopithecus-africanus-becomes-extinct-2100000",
+      "label": "Australopithecus africanus\u00a0becomes extinct.",
+      "date": -2100000
+    },
+    {
+      "id": "bipedal-hominid-paranthropus-robustus-appears-in-africa-south-africa-2000000",
+      "label": "Bipedal hominid\u00a0Paranthropus robustus\u00a0appears in Africa (South Africa).",
+      "date": -2000000
+    },
+    {
+      "id": "homo-ergaster-and-homo-erectus-appear-in-africa-kenya-1900000",
+      "label": "Homo ergaster\u00a0and\u00a0Homo erectus\u00a0appear in Africa (Kenya).",
+      "date": -1900000
+    },
+    {
+      "id": "earliest-fossil-evidence-of-hominids-homo-erectus-outside-africa-from-dmanisi-georgia-1800000",
+      "label": "Earliest fossil evidence of\u00a0hominids (Homo erectus) outside Africa, from Dmanisi, Georgia.",
+      "date": -1800000,
+      "image": "public/images/human-history-prehistory-to-1499_complete/016-earliest-fossil-evid.jpg"
+    },
+    {
+      "id": "earliest-evidence-of-hominids-homo-erectus-in-china-1700000",
+      "label": "Earliest evidence of\u00a0hominids (Homo erectus) in China.",
+      "date": -1700000,
+      "image": "public/images/human-history-prehistory-to-1499_complete/017-earliest-evidence-of.jpg"
+    },
+    {
+      "id": "possible-evidence-of-control-of-fire-by-homo-erectus-at-koobi-fora-kenya-1500000",
+      "label": "Possible\u00a0evidence of\u00a0control of fire, by\u00a0Homo erectus, at Koobi Fora (Kenya).",
+      "date": -1500000
+    },
+    {
+      "id": "homo-antecessor-which-may-practice-cannibalism-is-the-first-hominid-to-appear-in-europe-1200000",
+      "label": "Homo antecessor,\u00a0which may practice cannibalism, is the first hominid to appear in Europe.",
+      "date": -1200000,
+      "image": "public/images/human-history-prehistory-to-1499_complete/021-homo-antecessor-whic.gif"
+    },
+    {
+      "id": "founding-of-a-permanent-settlement-at-jericho-palestine-9600",
+      "label": "Founding of a\u00a0permanent settlement at Jericho\u00a0(Palestine).",
+      "date": -9600
+    },
+    {
+      "id": "humans-are-cultivating-emmer-and-einkorn-wheat-barley-peas-lentils-bitter-vetch-chick-peas-and-flax-at-various-locations-in-the-levant-syria-israel-palestine-lebanon-jordan-cyprus-and-turkey-9500",
+      "label": "Humans\u00a0are cultivating\u00a0emmer and einkorn wheat,\u00a0barley, peas, lentils, bitter vetch, chick peas and flax\u00a0at various locations in the Levant (Syria, Israel, Palestine, Lebanon, Jordan, Cyprus and\u00a0Turkey).",
+      "date": -9500
+    },
+    {
+      "id": "farmers-at-klimonas-build-a-permanent-agrarian-settlement-with-mud-brick-buildings-for-agricultural-storage-cyprus-9100",
+      "label": "Farmers\u00a0at\u00a0Klimonas\u00a0build a permanent agrarian settlement with mud-brick buildings for agricultural storage (Cyprus).",
+      "date": -9100
+    },
+    {
+      "id": "oldest-surviving-wooden-bows-denmark-9000",
+      "label": "Oldest surviving\u00a0wooden bows\u00a0(Denmark).",
+      "date": -9000,
+      "image": "public/images/human-history-prehistory-to-1499_complete/026-oldest-surviving-woo.jpg"
+    },
+    {
+      "id": "a-permanent-settlement-begins-at-amesbury-uk-england-8820",
+      "label": "A permanent settlement begins at\u00a0Amesbury\u00a0(UK: England).",
+      "date": -8820
+    },
+    {
+      "id": "a-copper-pendant-made-at-this-time-is-the-first-evidence-of-metalworking-iraq-8700",
+      "label": "A copper pendant made at this time is the first evidence of\u00a0metalworking\u00a0(Iraq).",
+      "date": -8700
+    },
+    {
+      "id": "agriculture-is-well-established-along-the-banks-of-the-nile-egypt-8000",
+      "label": "Agriculture\u00a0is well-established along the banks of\u00a0the Nile\u00a0(Egypt).",
+      "date": -8000
+    },
+    {
+      "id": "domestication-of-cats-cyprus-near-east-7500",
+      "label": "Domestication of cats\u00a0(Cyprus; Near East).",
+      "date": -7500
+    },
+    {
+      "id": "agriculture-is-well-established-in-mesopotamia-iraq-7000",
+      "label": "Agriculture\u00a0is well-established in\u00a0Mesopotamia\u00a0(Iraq).",
+      "date": -7000
+    },
+    {
+      "id": "agriculture-using-irrigation-begins-in-mesopotamia-and-egypt-6500",
+      "label": "Agriculture using irrigation\u00a0begins in Mesopotamia and Egypt.",
+      "date": -6500
+    },
+    {
+      "id": "a-fortified-settlement-is-established-at-erbil-in-mesopotamia-iraq-6000",
+      "label": "A fortified settlement is established at\u00a0Erbil\u00a0in Mesopotamia (Iraq).",
+      "date": -6000
+    },
+    {
+      "id": "first-evidence-of-sailing-boats-kuwait-5500",
+      "label": "First evidence of\u00a0sailing boats\u00a0(Kuwait).",
+      "date": -5500
+    },
+    {
+      "id": "a-permanent-settlement-is-founded-at-argos-greece-5000",
+      "label": "A permanent settlement is founded at\u00a0Argos\u00a0(Greece).",
+      "date": -5000
+    },
+    {
+      "id": "first-evidence-of-bronze-making-using-copper-and-tin-serbia-4500",
+      "label": "First evidence of\u00a0bronze making, using\u00a0copper and tin (Serbia).",
+      "date": -4500
+    },
+    {
+      "id": "invention-of-the-two-beamed-horizontal-loom-egypt-4400",
+      "label": "Invention of the\u00a0two-beamed horizontal loom\u00a0(Egypt).",
+      "date": -4400
+    },
+    {
+      "id": "the-first-wheeled-vehicles-appear-in-mesopotamia-the-indus-valley-and-the-northern-caucasus-4000",
+      "label": "The\u00a0first wheeled vehicles\u00a0appear in Mesopotamia, the Indus Valley and the Northern Caucasus.",
+      "date": -4000
+    },
+    {
+      "id": "the-sumerians-found-the-city-of-ur-iraq-3800",
+      "label": "The Sumerians found\u00a0the city of Ur\u00a0(Iraq).",
+      "date": -3800
+    },
+    {
+      "id": "the-earliest-date-in-the-jewish-calendar-representing-the-year-before-the-creation-of-the-world-anno-mundi-3761",
+      "label": "The\u00a0earliest date\u00a0in the Jewish calendar, representing the year before the creation of the world (Anno Mundi).",
+      "date": -3761
+    },
+    {
+      "id": "first-evidence-of-agricultural-field-systems-and-stone-walls-ireland-3700",
+      "label": "First evidence of\u00a0agricultural field systems\u00a0and stone walls (Ireland).",
+      "date": -3700
+    },
+    {
+      "id": "the-minoan-culture-begins-on-crete-3650",
+      "label": "The\u00a0Minoan culture\u00a0begins on Crete.",
+      "date": -3650
+    },
+    {
+      "id": "the-potter-s-wheel-is-invented-in-mesopotamia-and-the-indus-valley-iraq-pakistan-3500",
+      "label": "The\u00a0potter\u2019s wheel\u00a0is invented in Mesopotamia and the Indus Valley (Iraq; Pakistan).",
+      "date": -3500
+    },
+    {
+      "id": "the-first-forged-bronze-nails-egypt-3400",
+      "label": "The first\u00a0forged\u00a0bronze nails\u00a0(Egypt).",
+      "date": -3400
+    },
+    {
+      "id": "the-bronze-age-begins-in-the-near-east-3300",
+      "label": "The\u00a0Bronze Age\u00a0begins in the Near East.",
+      "date": -3300
+    },
+    {
+      "id": "neolithic-farmers-construct-the-newgrange-monument-with-stone-tools-ireland-3200",
+      "label": "Neolithic farmers construct the\u00a0Newgrange monument\u00a0with stone tools (Ireland).",
+      "date": -3200,
+      "image": "public/images/human-history-prehistory-to-1499_complete/046-neolithic-farmers-co.jpg"
+    },
+    {
+      "id": "menes-or-narmer-possibly-the-same-person-unites-upper-and-lower-egypt-3100",
+      "label": "Menes or Narmer (possibly the same person)\u00a0unites Upper and Lower Egypt.",
+      "date": -3100
+    },
+    {
+      "id": "first-evidence-of-ox-drawn-plows-egypt-3000",
+      "label": "First evidence of\u00a0ox-drawn plows\u00a0(Egypt).",
+      "date": -3000
+    },
+    {
+      "id": "the-old-kingdom-begins-in-egypt-2700",
+      "label": "The\u00a0Old Kingdom\u00a0begins in Egypt.",
+      "date": -2700
+    },
+    { 
+      "id": "egyptian-architect-engineer-and-physician-imhotep-is-born-2650",
+      "label": "Egyptian architect, engineer and physician\u00a0Imhotep\u00a0is born.",
+      "date": -2650
+    },
+    {
+      "id": "imhotep-begins-constructing-the-step-pyramid-of-djoser-at-saqquara-egypt-2630",
+      "label": "Imhotep begins constructing the\u00a0Step Pyramid of Djoser\u00a0at Saqquara (Egypt).",
+      "date": -2630,
+      "image": "public/images/human-history-prehistory-to-1499_complete/051-imhotep-begins-const.jpg"
+    },
+    {
+      "id": "khufu-is-born-in-egypt-2609",
+      "label": "Khufu is born\u00a0in Egypt.",
+      "date": -2609
+    },
+    {
+      "id": "dwellings-in-the-indus-valley-cities-of-mohenjo-daro-and-harappa-have-flush-toilets-connected-to-a-sophisticated-sewage-system-pakistan-2600",
+      "label": "Dwellings in the Indus Valley\u00a0cities of Mohenjo-daro and Harappa have\u00a0flush toilets\u00a0connected to a\u00a0sophisticated sewage system\u00a0(Pakistan).",
+      "date": -2600
+    },
+    {
+      "id": "the-life-sized-statue-of-khafre-khafre-enthroned-the-fourth-pharaoh-of-the-fourth-dynasty-in-the-old-kingdom-is-carved-egypt-2558",
+      "label": "The life-sized\u00a0Statue of Khafre (Khafre Enthroned), the fourth Pharaoh of the Fourth Dynasty in the Old Kingdom, is carved (Egypt).",
+      "date": -2558,
+      "image": "public/images/human-history-prehistory-to-1499_complete/056-the-life-sized-statu.jpg"
+    },
+    {
+      "id": "the-great-sphinx-of-giza-is-completed-egypt-2532",
+      "label": "The\u00a0Great Sphinx of Giza\u00a0is completed (Egypt).",
+      "date": -2532,
+      "image": "public/images/human-history-prehistory-to-1499_complete/057-the-great-sphinx-of.jpg"
+    },
+    {
+      "id": "earliest-surviving-parchment-documents-made-of-leather-egypt-2400",
+      "label": "Earliest surviving\u00a0parchment documents, made of leather (Egypt).",
+      "date": -2400
+    },
+    {
+      "id": "the-victory-stele-of-akkadian-emperor-naram-sin-is-carved-iraq-2350",
+      "label": "The\u00a0Victory Stele\u00a0of\u00a0Akkadian Emperor\u00a0Naram-Sin\u00a0is carved (Iraq).",
+      "date": -2350,
+      "image": "public/images/human-history-prehistory-to-1499_complete/059-the-victory-stele-of.jpg"
+    },
+    {
+      "id": "invention-of-the-iron-plow-china-2300",
+      "label": "Invention of the\u00a0iron plow\u00a0(China).",
+      "date": -2300
+    },
+    {
+      "id": "sumerian-king-ur-nammu-issues-the-earliest-known-law-code-the-code-of-ur-nammu-and-builds-the-ziggurat-of-ur-iraq-2100",
+      "label": "Sumerian King Ur-Nammu issues the earliest known law code (the\u00a0Code of Ur-Nammu) and builds the\u00a0Ziggurat of Ur\u00a0(Iraq).",
+      "date": -2100
+    },
+    {
+      "id": "oldest-known-steel-artifact-turkey-2000",
+      "label": "Oldest known\u00a0steel\u00a0artifact (Turkey).",
+      "date": -2000
+    },
+    {
+      "id": "the-myceneans-arrive-in-greece-from-the-north-1900",
+      "label": "The\u00a0Myceneans\u00a0arrive in Greece from the north.",
+      "date": -1900
+    },
+    {
+      "id": "hammurabi-becomes-king-of-the-babylonian-empire-iraq-1792",
+      "label": "Hammurabi becomes king of the\u00a0Babylonian Empire\u00a0(Iraq).",
+      "date": -1792
+    },
+    {
+      "id": "babylonian-king-hammurabi-issues-his-code-of-282-laws-iraq-1754",
+      "label": "Babylonian King Hammurabi issues his\u00a0code\u00a0of 282 laws\u00a0(Iraq).",
+      "date": -1754,
+      "image": "public/images/human-history-prehistory-to-1499_complete/065-babylonian-king-hamm.jpg"
+    },
+    {
+      "id": "death-of-hammurabi-king-of-babylon-iraq-1750",
+      "label": "Death of Hammurabi, king of Babylon (Iraq).",
+      "date": -1750
+    },
+    {
+      "id": "the-hyksos-invade-egypt-and-rule-for-150-years-1720",
+      "label": "The Hyksos\u00a0invade Egypt and rule for 150 years.",
+      "date": -1720
+    },
+    {
+      "id": "minoan-palaces-on-crete-are-destroyed-1700",
+      "label": "Minoan palaces\u00a0on Crete are\u00a0destroyed.",
+      "date": -1700
+    },
+    {
+      "id": "the-hittite-civilization-based-in-anatolia-is-the-dominant-force-in-the-eastern-mediterranean-region-turkey-1600",
+      "label": "The\u00a0Hittite civilization\u00a0based in Anatolia is the dominant force in the eastern Mediterranean region (Turkey).",
+      "date": -1600
+    },
+    {
+      "id": "the-hittites-and-kassites-attack-and-defeat-babylonia-iraq-1595",
+      "label": "The\u00a0Hittites\u00a0and\u00a0Kassites\u00a0attack and defeat\u00a0Babylonia\u00a0(Iraq).",
+      "date": -1595
+    },
+    {
+      "id": "pharaoh-ahmose-drives-the-hyksos-out-of-egypt-and-establishes-the-new-kingdom-1580",
+      "label": "Pharaoh Ahmose\u00a0drives the Hyksos out of Egypt and establishes the\u00a0New Kingdom.",
+      "date": -1580
+    },
+    {
+      "id": "egypt-under-ahmose-subjugates-the-nubians-sudan-1540",
+      "label": "Egypt under Ahmose subjugates\u00a0the Nubians\u00a0(Sudan).",
+      "date": -1540
+    },
+    {
+      "id": "the-aryans-of-central-asia-invade-and-overcome-the-weakened-indus-valley-civilization-pakistan-1500",
+      "label": "The\u00a0Aryans of Central Asia\u00a0invade and overcome the weakened Indus Valley civilization (Pakistan).",
+      "date": -1500,
+      "image": "public/images/human-history-prehistory-to-1499_complete/073-the-aryans-of-centra.jpg"
+    },
+    {
+      "id": "the-olmecs-dominate-mesoamerica-mexico-1400",
+      "label": "The\u00a0Olmecs\u00a0dominate Mesoamerica (Mexico).",
+      "date": -1400
+    },
+    {
+      "id": "akhenaten-iv-becomes-egyptian-pharaoh-and-imposes-monotheism-egypt-1375",
+      "label": "Akhenaten IV\u00a0becomes Egyptian pharaoh and imposes monotheism (Egypt).",
+      "date": -1375
+    },
+    {
+      "id": "relief-sculpture-of-ahkenaten-and-his-family-egypt-1353",
+      "label": "Relief sculpture of\u00a0Ahkenaten and his Family\u00a0(Egypt).",
+      "date": -1353,
+      "image": "public/images/human-history-prehistory-to-1499_complete/077-relief-sculpture-of.jpg"
+    },
+    {
+      "id": "the-tomb-of-the-scribe-nebamun-is-built-and-decorated-in-thebes-egypt-1350",
+      "label": "The\u00a0tomb of the scribe Nebamun\u00a0is built and decorated in Thebes (Egypt).",
+      "date": -1350,
+      "image": "public/images/human-history-prehistory-to-1499_complete/078-the-tomb-of-the-scri.jpg"
+    },
+    {
+      "id": "the-bust-of-queen-nefertiti-is-made-in-thutmose-s-amarna-workshop-egypt-1345",
+      "label": "The\u00a0Bust of Queen Nefertiti\u00a0is made in Thutmose\u2019s Amarna workshop (Egypt).",
+      "date": -1345,
+      "image": "public/images/human-history-prehistory-to-1499_complete/079-the-bust-of-queen-ne.jpg"
+    },
+    {
+      "id": "the-18-year-old-pharaoh-tutankhamun-wearing-his-funerary-mask-is-buried-inside-three-coffins-in-a-tomb-in-the-valley-of-the-kings-egypt-1323",
+      "label": "The 18-year-old\u00a0Pharaoh\u00a0Tutankhamun, wearing his funerary mask, is buried inside three coffins in a tomb in the Valley of the Kings (Egypt).",
+      "date": -1323,
+      "image": "public/images/human-history-prehistory-to-1499_complete/080-the-18-year-old-phar.jpg"
+    },
+    {
+      "id": "birth-of-ramesses-ii-in-egypt-1303",
+      "label": "Birth of\u00a0Ramesses II\u00a0in Egypt.",
+      "date": -1303
+    },
+    {
+      "id": "ramesses-ii-the-great-becomes-the-third-pharaoh-of-the-19th-dynasty-in-the-new-kingdom-egypt-1279",
+      "label": "Ramesses II the Great\u00a0becomes the third pharaoh of the 19th Dynasty in the New Kingdom (Egypt).",
+      "date": -1279
+    },
+    {
+      "id": "the-egyptians-under-ramesses-ii-defeat-the-hittites-under-muwatalli-ii-in-the-battle-of-kadesh-syria-1274",
+      "label": "The Egyptians under Ramesses II defeat the Hittites under Muwatalli II in the\u00a0Battle of Kadesh\u00a0(Syria).",
+      "date": -1274
+    },
+    {
+      "id": "death-of-ramesses-ii-egypt-1213",
+      "label": "Death of Ramesses II\u00a0(Egypt).",
+      "date": -1213,
+      "image": "public/images/human-history-prehistory-to-1499_complete/085-death-of-ramesses-ii.jpg"
+    },
+    {
+      "id": "the-hallstatt-culture-dominates-central-europe-austria-czech-republic-hungary-switzerland-1200",
+      "label": "The\u00a0Hallstatt culture\u00a0dominates central Europe (Austria, Czech Republic, Hungary, Switzerland).",
+      "date": -1200,
+      "image": "public/images/human-history-prehistory-to-1499_complete/086-the-hallstatt-cultur.jpg"
+    },
+    {
+      "id": "the-greeks-capture-troy-marking-the-end-of-the-trojan-war-turkey-1184",
+      "label": "The Greeks capture Troy, marking the\u00a0end of the Trojan War\u00a0(Turkey).",
+      "date": -1184
+    },
+    {
+      "id": "end-of-the-hittite-empire-turkey-1180",
+      "label": "End of the Hittite empire\u00a0(Turkey).",
+      "date": -1180
+    },
+    {
+      "id": "the-destruction-of-mycenae-signals-the-end-of-the-mycenaean-greek-civilization-greece-1130",
+      "label": "The\u00a0destruction of Mycenae\u00a0signals the end of the Mycenaean Greek civilization (Greece).",
+      "date": -1130
+    },
+    {
+      "id": "date-of-legendary-dorian-invasion-of-greece-greece-1100",
+      "label": "Date of legendary\u00a0Dorian invasion of Greece\u00a0(Greece).",
+      "date": -1100
+    },
+    {
+      "id": "the-nubian-kingdom-of-kush-achieves-independence-from-egypt-sudan-1090",
+      "label": "The Nubian Kingdom of\u00a0Kush\u00a0achieves independence\u00a0from Egypt (Sudan).",
+      "date": -1090
+    },
+    {
+      "id": "the-phoenician-alphabet-the-basis-for-most-later-alphabets-is-established-lebanon-syria-1050",
+      "label": "The\u00a0Phoenician alphabet\u00a0\u2013 the basis for most later alphabets \u2013 is established (Lebanon, Syria).",
+      "date": -1050,
+      "image": "public/images/human-history-prehistory-to-1499_complete/093-the-phoenician-alpha.jpg"
+    },
+    {
+      "id": "king-wu-defeats-the-shang-dynasty-and-establishes-the-zhou-dynasty-china-1046",
+      "label": "King Wu defeats the Shang Dynasty and establishes the\u00a0Zhou Dynasty\u00a0(China).",
+      "date": -1046
+    },
+    {
+      "id": "the-i-ching-is-written-in-early-old-chinese-china-1000",
+      "label": "The\u00a0I Ching\u00a0is written in Early Old Chinese\u00a0(China).",
+      "date": -1000
+    },
+    {
+      "id": "according-to-the-bible-king-solomon-builds-the-first-temple-in-jerusalem-israel-palestine-962",
+      "label": "According to the Bible, King\u00a0Solomon builds the First\u00a0Temple\u00a0in Jerusalem (Israel; Palestine).",
+      "date": -962
+    },
+    {
+      "id": "the-chav-n-civilization-is-established-in-the-northern-andean-highlands-of-peru-900",
+      "label": "The\u00a0Chav\u00edn civilization\u00a0is established in the northern Andean highlands of Peru.",
+      "date": -900
+    },
+    {
+      "id": "the-phoenicians-establish-a-settlement-at-carthage-tunisia-814",
+      "label": "The Phoenicians establish a\u00a0settlement at Carthage\u00a0(Tunisia).",
+      "date": -814
+    },
+    {
+      "id": "the-first-olympic-games-are-held-at-olympia-greece-776",
+      "label": "The first\u00a0Olympic Games\u00a0are held at Olympia (Greece).",
+      "date": -776
+    },
+    {
+      "id": "legendary-date-of-founding-of-rome-by-romulus-and-remus-italy-753",
+      "label": "Legendary date of\u00a0founding of Rome\u00a0by Romulus and Remus (Italy).",
+      "date": -753
+    },
+    {
+      "id": "tiglath-pileser-iii-establishes-the-assyrian-empire-iraq-745",
+      "label": "Tiglath-Pileser III establishes\u00a0the\u00a0Assyrian Empire\u00a0(Iraq).",
+      "date": -745
+    },
+     {
+      "id": "the-iliad-an-epic-poem-attributed-to-homer-is-written-down-in-ancient-greek-greece-725",
+      "label": "The Iliad, an epic poem attributed to Homer, is written down in Ancient Greek\u00a0(Greece).",
+      "date": -725
+    },
+    {
+      "id": "the-assyrians-conquer-israel-and-take-thousands-of-israelites-into-slavery-israel-722",
+      "label": "The\u00a0Assyrians\u00a0conquer\u00a0Israel\u00a0and take thousands of Israelites into slavery (Israel).",
+      "date": -722
+    },
+    {
+      "id": "assyrian-king-sargon-ii-begins-building-a-new-capital-at-dur-sharrukin-with-entrances-protected-by-winged-human-headed-bulls-or-lamassu-iraq-710",
+      "label": "Assyrian King Sargon II\u00a0begins building a new capital at Dur-Sharrukin, with entrances protected by\u00a0winged human-headed bulls or\u00a0lamassu\u00a0(Iraq).",
+      "date": -710
+    },
+    {
+      "id": "shintoism-develops-in-japan-700",
+      "label": "Shintoism\u00a0develops in Japan.",
+      "date": -700
+    },
+    {
+      "id": "the-assyrians-under-king-ashurbanipal-conquer-egypt-668",
+      "label": "The Assyrians\u00a0under King Ashurbanipal conquer\u00a0Egypt.",
+      "date": -668
+    },
+    {
+      "id": "accession-of-jimmu-legendary-first-japanese-emperor-japan-660",
+      "label": "Accession of\u00a0Jimmu, legendary first\u00a0Japanese Emperor\u00a0(Japan).",
+      "date": -660
+    },
+    {
+      "id": "a-babylonian-revolt-against-assyria-results-in-the-assyrian-destruction-of-babylon-iraq-650",
+      "label": "A\u00a0Babylonian revolt\u00a0against Assyria results in the Assyrian destruction of Babylon (Iraq).",
+      "date": -650
+    },
+    {
+      "id": "the-lion-hunt-frieze-of-assyrian-king-ashurbanipal-is-carved-on-the-walls-of-the-north-palace-in-nineveh-iraq-645",
+      "label": "The\u00a0Lion Hunt Frieze\u00a0of Assyrian King Ashurbanipal\u00a0is carved on the walls of the North Palace in Nineveh (Iraq).",
+      "date": -645
+    },
+    {
+      "id": "sparta-puts-down-the-20-year-revolt-of-the-messinians-led-by-aristomenes-greece-630",
+      "label": "Sparta puts down the 20-year\u00a0revolt of the Messinians, led by Aristomenes (Greece).",
+      "date": -630
+    },
+    {
+      "id": "lao-tzu-laozi-writes-the-tao-te-ching-the-founding-document-of-taoism-china-624",
+      "label": "Lao Tzu (Laozi)\u00a0writes the\u00a0Tao Te Ching,\u00a0the founding document of Taoism (China).",
+      "date": -624
+    },
+    {
+      "id": "draco-drafts-the-first-athenian-constitution-greece-621",
+      "label": "Draco drafts the first\u00a0Athenian constitution\u00a0(Greece).",
+      "date": -621
+    },
+    {
+      "id": "lyric-poet-sappho-is-born-on-the-island-of-lesbos-greece-621",
+      "label": "Lyric poet Sappho\u00a0is born on the island of Lesbos, Greece.",
+      "date": -621
+    },
+    {
+      "id": "the-conquest-of-nineveh-by-an-alliance-of-babylonians-medes-and-scythians-leads-to-the-fall-of-the-assyrian-empire-612",
+      "label": "The conquest of Nineveh by an alliance of Babylonians, Medes and Scythians leads to the fall of\u00a0the Assyrian Empire.",
+      "date": -612
+    },
+    {
+      "id": "the-kingdom-of-judah-under-josiah-defeats-the-egyptians-under-necho-ii-at-the-battle-of-megiddo-but-josiah-is-killed-in-battle-israel-palestine-609",
+      "label": "The Kingdom of Judah, under\u00a0Josiah, defeats the Egyptians, under Necho II, at the\u00a0Battle of Megiddo, but Josiah is killed in battle (Israel; Palestine).",
+      "date": -609
+    },
+    {
+      "id": "the-babylonians-under-nebuchadnezzar-ii-defeat-the-egyptians-under-necho-ii-at-the-battle-of-carchemish-turkey-syria-605",
+      "label": "The Babylonians, under\u00a0Nebuchadnezzar II,\u00a0defeat the Egyptians, under Necho II, at the\u00a0Battle of Carchemish\u00a0(Turkey; Syria).",
+      "date": -605
+    },
+    {
+      "id": "sappho-is-exiled-to-the-greek-colony-on-sicily-for-10-years-during-political-disturbances-on-lesbos-italy-604",
+      "label": "Sappho\u00a0is exiled to the Greek colony on Sicily for 10 years during political disturbances on Lesbos (Italy).",
+      "date": -604
+    },
+    {
+      "id": "the-16-maha-janapadas-great-kingdoms-arise-in-india-600",
+      "label": "The\u00a016 Maha Janapadas\u00a0(\u201cgreat kingdoms\u201d) arise in India.",
+      "date": -600
+    },
+    {
+      "id": "solon-begins-legal-reforms-in-athens-greece-594",
+      "label": "Solon begins\u00a0legal reforms in Athens\u00a0(Greece).",
+      "date": -594
+    },
+    {
+      "id": "the-babylonians-under-nebuchadnezzar-ii-take-jerusalem-destroy-solomon-s-temple-and-force-many-jews-into-exile-in-babylon-israel-iraq-586",
+      "label": "The Babylonians under\u00a0Nebuchadnezzar II\u00a0take\u00a0Jerusalem, destroy Solomon\u2019s Temple and force many Jews into exile in Babylon (Israel; Iraq).",
+      "date": -586
+    },
+    {
+      "id": "nebuchadnezzar-ii-builds-the-ishtar-gate-in-babylon-iraq-575",
+      "label": "Nebuchadnezzar II\u00a0builds the\u00a0Ishtar Gate\u00a0in Babylon (Iraq).",
+      "date": -575
+    },
+    {
+      "id": "death-of-sappho-greece-570",
+      "label": "Death of Sappho\u00a0(Greece).",
+      "date": -570
+    },
+    {
+      "id": "birth-of-siddhartha-gautama-the-buddha-in-nepal-563",
+      "label": "Birth of Siddhartha Gautama\u00a0(the Buddha) in Nepal.",
+      "date": -563
+    },
+    {
+      "id": "cyrus-the-great-becomes-achaemenid-king-of-anshan-a-persian-vassal-state-under-the-medes-iran-559",
+      "label": "Cyrus the Great\u00a0becomes Achaemenid King of Anshan, a Persian vassal state under the Medes (Iran).",
+      "date": -559
+    },
+    {
+      "id": "birth-of-darius-the-great-in-persia-now-iran-558",
+      "label": "Birth of Darius the Great\u00a0in Persia (now Iran).",
+      "date": -558
+    },
+    {
+      "id": "birth-of-confucius-in-china-551",
+      "label": "Birth of Confucius\u00a0in China.",
+      "date": -551
+    },
+    {
+      "id": "after-four-years-of-rebellion-cyrus-the-great-overthrows-the-medes-and-establishes-the-persian-empire-iran-550",
+      "label": "After four years of rebellion, Cyrus the Great overthrows the Medes and establishes the\u00a0Persian Empire\u00a0(Iran).",
+      "date": -550
+    },
+    {
+      "id": "cyrus-the-great-of-persia-conquers-the-babylonian-empire-and-frees-the-jews-who-return-to-jerusalem-iraq-539",
+      "label": "Cyrus the Great of Persia conquers the Babylonian Empire\u00a0and frees the Jews, who return to Jerusalem (Iraq).",
+      "date": -539
+    },
+    {
+      "id": "according-to-legend-lucius-tarquinius-superbus-becomes-the-seventh-and-final-king-of-rome-italy-535",
+      "label": "According to legend,\u00a0Lucius Tarquinius Superbus\u00a0becomes the seventh and final King of Rome (Italy).",
+      "date": -535
+    },
+    {
+      "id": "according-to-legend-siddhartha-gautama-the-buddha-abandons-his-life-as-a-prince-to-lead-the-life-of-a-mendicant-nepal-534",
+      "label": "According to legend,\u00a0Siddhartha Gautama\u00a0(the Buddha) abandons his life as a prince to lead the life of a mendicant (Nepal).",
+      "date": -534
+    },
+    {
+      "id": "earliest-reference-to-theater-in-athens-which-would-have-included-the-choros-a-circular-dance-and-frenzied-dionysian-dances-greece-532",
+      "label": "Earliest reference to\u00a0theater\u00a0in Athens, which would have included the choros, a circular dance, and frenzied Dionysian dances (Greece).",
+      "date": -532
+    },
+    {
+      "id": "pythagoras-establishes-a-religious-sect-in-the-greek-colony-at-croton-that-pursues-his-philosophical-mathematical-and-musical-theories-italy-530",
+      "label": "Pythagoras\u00a0establishes a religious sect in the Greek colony at Croton that pursues his philosophical, mathematical and musical theories (Italy).",
+      "date": -530
+    },
+    {
+      "id": "the-persians-under-cambyses-ii-conquer-egypt-525",
+      "label": "The Persians under\u00a0Cambyses II\u00a0conquer\u00a0Egypt.",
+      "date": -525
+    },
+    {
+      "id": "darius-i-becomes-leader-of-the-persian-empire-iran-521",
+      "label": "Darius I\u00a0becomes leader of the Persian Empire (Iran).",
+      "date": -521
+    },
+    {
+      "id": "the-euphronios-krater-a-terracotta-bowl-depicting-the-death-of-sarpedon-in-the-trojan-war-is-made-by-potter-euxitheos-and-painted-by-euphronios-greece-515",
+      "label": "The\u00a0Euphronios Krater, a terracotta bowl depicting the death of Sarpedon in the Trojan War, is made by potter Euxitheos and painted by Euphronios (Greece).",
+      "date": -515
+    },
+    {
+      "id": "the-persian-empire-reaches-its-greatest-extent-iran-512",
+      "label": "The\u00a0Persian Empire\u00a0reaches its greatest extent (Iran).",
+      "date": -512
+    },
+    {
+      "id": "according-to-legend-the-rape-of-noblewoman-lucretia-by-the-son-of-roman-king-lucius-tarquinius-superbus-and-her-subsequent-suicide-leads-to-a-popular-uprising-the-overthrow-of-the-monarchy-and-the-establishment-of-the-roman-republic-italy-509",
+      "label": "According to legend, the rape of noblewoman Lucretia by the son of Roman king Lucius Tarquinius Superbus and her subsequent suicide leads to a popular uprising, the overthrow of the monarchy and the establishment of\u00a0the Roman Republic\u00a0(Italy).",
+      "date": -509
+    },
+    {
+      "id": "athens-adopts-democratic-government-under-cleisthenes-greece-508",
+      "label": "Athens\u00a0adopts\u00a0democratic government\u00a0under Cleisthenes (Greece).",
+      "date": -508
+    },
+    {
+      "id": "the-nok-culture-thrives-nigeria-500",
+      "label": "The\u00a0Nok culture\u00a0thrives (Nigeria).",
+      "date": -500
+    },
+    {
+      "id": "the-greek-ionian-city-states-in-asia-minor-led-by-aristagoras-of-miletus-rebel-against-persian-rule-turkey-499",
+      "label": "The\u00a0Greek Ionian city-states\u00a0in Asia Minor, led by\u00a0Aristagoras of Miletus, rebel against Persian rule (Turkey).",
+      "date": -499
+    },
+    {
+      "id": "pindar-begins-writing-his-victory-odes-in-ancient-greek-greece-498",
+      "label": "Pindar\u00a0begins writing his\u00a0Victory Odes\u00a0in Ancient Greek (Greece).",
+      "date": -498
+    },
+    {
+      "id": "pythagoras-dies-495",
+      "label": "Pythagoras dies.",
+      "date": -495
+    },
+    {
+      "id": "the-greek-city-states-stop-the-persian-invasion-at-the-battle-of-marathon-greece-490",
+      "label": "The Greek city-states stop the Persian invasion at the\u00a0Battle of Marathon\u00a0(Greece).",
+      "date": -490
+    },
+    {
+      "id": "death-of-darius-the-great-iran-486",
+      "label": "Death of Darius the Great\u00a0(Iran).",
+      "date": -486
+    },
+    {
+      "id": "death-of-the-buddha-india-483",
+      "label": "Death of the Buddha\u00a0(India).",
+      "date": -483
+    },
+    {
+      "id": "after-losing-to-the-persians-under-xerxes-at-thermopylae-the-greek-navy-defeats-the-persian-fleet-at-the-battle-of-salamis-greece-480",
+      "label": "After losing to the Persians under Xerxes at Thermopylae, the Greek navy defeats the Persian fleet at the\u00a0Battle of Salamis\u00a0(Greece).",
+      "date": -480
+    },
+    {
+      "id": "the-greeks-defeat-the-persians-at-the-battle-of-plataea-greece-479",
+      "label": "The Greeks defeat the Persians at the\u00a0Battle of Plataea\u00a0(Greece).",
+      "date": -479
+    },
+    {
+      "id": "the-zhou-dynasty-wanes-and-the-warring-states-period-begins-china-475",
+      "label": "The Zhou Dynasty wanes and the\u00a0Warring States period\u00a0begins (China).",
+      "date": -475
+    },
+    {
+      "id": "birth-of-socrates-in-athens-greece-470",
+      "label": "Birth of Socrates\u00a0in Athens, Greece.",
+      "date": -470
+    },
+    {
+      "id": "an-earthquake-in-sparta-greece-kills-c-20-000-464",
+      "label": "An earthquake in\u00a0Sparta, Greece kills c. 20,000.",
+      "date": -464
+    },
+    {
+      "id": "after-the-expulsion-of-cimon-and-the-murder-of-ephialtes-by-the-oligarchs-pericles-becomes-the-unchallenged-leader-of-athens-greece-461",
+      "label": "After the expulsion of Cimon and the murder of Ephialtes by the oligarchs,\u00a0Pericles\u00a0becomes the unchallenged leader of Athens (Greece).",
+      "date": -461
+    },
+    {
+      "id": "a-bronze-statue-of-zeus-or-poseidon-the-artemision-bronze-is-created-greece-460",
+      "label": "A bronze statue of Zeus or Poseidon (the\u00a0Artemision Bronze) is created (Greece).",
+      "date": -460
+    },
+    {
+      "id": "the-oresteia-trilogy-plays-by-athenian-playwright-aeschylus-is-written-and-performed-in-ancient-greek-greece-458",
+      "label": "The Oresteia Trilogy, plays by Athenian playwright\u00a0Aeschylus,\u00a0is written and performed in Ancient Greek\u00a0(Greece).",
+      "date": -458
+    },
+    {
+      "id": "hallstatt-culture-evolves-into-la-t-ne-culture-which-then-spreads-through-much-of-europe-belgium-france-switzerland-austria-germany-czech-republic-poland-slovakia-slovenia-hungary-romania-450",
+      "label": "Hallstatt culture evolves into\u00a0La T\u00e8ne culture, which then\u00a0spreads through much of Europe\u00a0(Belgium,\u00a0France, Switzerland, Austria,\u00a0Germany,\u00a0Czech Republic, Poland, Slovakia, Slovenia, Hungary, Romania).",
+      "date": -450
+    },
+    {
+      "id": "phidias-creates-a-38-foot-tall-statue-of-athena-for-the-parthenon-in-athens-greece-447",
+      "label": "Phidias\u00a0creates a 38-foot-tall\u00a0statue of Athena\u00a0for the Parthenon in Athens (Greece).",
+      "date": -447
+    },
+    {
+      "id": "antigone-a-play-by-sophocles-is-written-and-performed-in-ancient-greek-greece-441",
+      "label": "Antigone,\u00a0a play by\u00a0Sophocles, is written and performed in Ancient Greek\u00a0(Greece).",
+      "date": -441
+    },
+    {
+      "id": "leucippus-and-democritus-develop-a-theory-of-atomism-greece-440",
+      "label": "Leucippus\u00a0and\u00a0Democritus\u00a0develop a theory of\u00a0atomism\u00a0(Greece).",
+      "date": -440
+    },
+    {
+      "id": "phidias-creates-a-42-foot-tall-statue-of-zeus-at-the-temple-of-zeus-in-olympia-a-sculpture-of-ivory-plates-and-gold-panels-over-a-wooden-framework-it-shows-the-god-sitting-on-a-cedar-wood-throne-decorated-with-ebony-ivory-gold-and-precious-stones-it-was-one-of-the-seven-wonders-of-the-ancient-world-greece-435",
+      "label": "Phidias\u00a0creates a 42-foot-tall\u00a0Statue of Zeus\u00a0at the Temple of Zeus in Olympia; a sculpture of ivory plates and gold panels over a\u00a0wooden framework, it shows the god sitting on a cedar\u00a0wood throne decorated with ebony, ivory, gold and precious stones.\u00a0 It was one of the Seven Wonders of the\u00a0Ancient World (Greece).",
+      "date": -435
+    },
+    {
+      "id": "the-parthenon-is-built-on-the-acropolis-in-athens-sculptor-phidias-oversees-the-artwork-including-the-parthenon-frieze-greece-432",
+      "label": "The\u00a0Parthenon\u00a0is built on the\u00a0Acropolis\u00a0in Athens. \u00a0Sculptor\u00a0Phidias\u00a0oversees the artwork, including the\u00a0Parthenon Frieze\u00a0(Greece).",
+      "date": -432
+    },
+    {
+      "id": "start-of-the-peloponnesian-war-between-sparta-and-athens-greece-431",
+      "label": "Start of the\u00a0Peloponnesian War\u00a0between Sparta and Athens (Greece).",
+      "date": -431
+    },
+    {
+      "id": "a-plague-hits-athens-during-the-peloponnesian-war-killing-up-to-25-of-the-population-over-the-next-three-years-greece-430",
+      "label": "A plague hits Athens\u00a0during the Peloponnesian War, killing up to 25% of the population over the next three years (Greece).",
+      "date": -430
+    },
+    {
+      "id": "death-of-athenian-leader-pericles-greece-429",
+      "label": "Death of\u00a0Athenian leader\u00a0Pericles\u00a0(Greece).",
+      "date": -429
+    },
+    {
+      "id": "birth-of-plato-in-athens-greece-427",
+      "label": "Birth of Plato\u00a0in Athens, Greece.",
+      "date": -427
+    },
+    {
+      "id": "invention-of-the-catapult-greece-425",
+      "label": "Invention of\u00a0the catapult\u00a0(Greece).",
+      "date": -425
+    },
+    {
+      "id": "sparta-emerges-victorious-from-the-two-year-long-sicilian-campaign-and-siege-of-syracuse-by-the-athenians-in-the-peloponnesian-war-italy-413",
+      "label": "Sparta emerges victorious from the two-year-long\u00a0Sicilian campaign\u00a0and siege of Syracuse by the Athenians in the Peloponnesian War (Italy).",
+      "date": -413
+    },
+    {
+      "id": "lysistrata-a-comic-play-by-athenian-playwright-aristophanes-is-written-and-performed-in-ancient-greek-greece-411",
+      "label": "Lysistrata, a comic play by Athenian playwright\u00a0Aristophanes,\u00a0is written and performed in\u00a0Ancient Greek\u00a0(Greece).",
+      "date": -411
+    },
+    {
+      "id": "several-of-the-medical-treatises-that-make-up-the-hippocratic-corpus-are-written-in-ancient-greek-possibly-by-hippocrates-of-kos-greece-410",
+      "label": "Several of the medical treatises that make up the\u00a0Hippocratic Corpus\u00a0are written (in Ancient Greek), possibly by\u00a0Hippocrates of Kos.\u00a0(Greece).",
+      "date": -410
+    },
+    {
+      "id": "death-of-euripides-greece-406",
+      "label": "Death of Euripides\u00a0(Greece).",
+      "date": -406
+    },
+    {
+      "id": "the-erechtheion-dedicated-to-athena-and-poseidon-is-built-on-the-acropolis-in-athens-greece-405",
+      "label": "The\u00a0Erechtheion, dedicated to Athena and Poseidon, is built on the Acropolis in Athens (Greece).",
+      "date": -405
+    },
+    {
+      "id": "sparta-captures-athens-ending-the-peloponnesian-war-greece-404",
+      "label": "Sparta captures Athens, ending the\u00a0Peloponnesian War\u00a0(Greece).",
+      "date": -404
+    },
+    {
+      "id": "the-birds-a-play-by-aristophanes-is-written-and-performed-in-ancient-greek-greece-400",
+      "label": "The Birds,\u00a0a play by\u00a0Aristophanes, is written and performed in Ancient Greek\u00a0(Greece).",
+      "date": -400
+    },
+    {
+      "id": "plato-writes-the-apology-and-the-crito-in-ancient-greek-greece-399",
+      "label": "Plato\u00a0writes the\u00a0Apology\u00a0and the\u00a0Crito\u00a0in Ancient Greek\u00a0(Greece).",
+      "date": -399
+    },
+    {
+      "id": "the-celts-sack-rome-italy-387",
+      "label": "The Celts sack Rome\u00a0(Italy).",
+      "date": -387
+    },
+    {
+      "id": "aristotle-is-born-in-chalkidiki-greece-384",
+      "label": "Aristotle is born\u00a0in Chalkidiki, Greece.",
+      "date": -384
+    },
+    {
+      "id": "plato-writes-his-philosophical-dialogues-the-republic-the-symposium-and-the-phaedo-in-ancient-greek-greece-380",
+      "label": "Plato\u00a0writes his philosophical dialogues\u00a0The Republic,\u00a0The Symposium\u00a0and the\u00a0Phaedo\u00a0in Ancient Greek\u00a0(Greece).",
+      "date": -380
+    },
+    {
+      "id": "thebes-led-by-epanimondas-defeats-sparta-at-the-battle-of-leuctra-greece-371",
+      "label": "Thebes, led by\u00a0Epanimondas, defeats Sparta at the\u00a0Battle of Leuctra\u00a0(Greece).",
+      "date": -371
+    },
+    {
+      "id": "lysippos-creates-a-bronze-statue-of-heracles-which-is-now-lost-a-marble-copy-by-glykon-is-called-the-farnese-hercules-greece-370",
+      "label": "Lysippos\u00a0creates a bronze statue of Heracles, which is now lost; a marble copy by Glykon is called the\u00a0Farnese Hercules\u00a0(Greece).",
+      "date": -370
+    },
+    {
+      "id": "birth-of-alexander-the-great-in-macedonia-now-greece-356",
+      "label": "Birth of Alexander the Great\u00a0in Macedonia (now Greece).",
+      "date": -356
+    },
+    {
+      "id": "the-mausoleum-of-helicarnassus-the-tomb-of-mausolus-a-satrap-in-the-persian-empire-and-artemisia-ii-of-caria-his-wife-sister-is-completed-turkey-350",
+      "label": "The\u00a0Mausoleum of Helicarnassus\u00a0\u2013 the tomb of\u00a0Mausolus, a satrap in the Persian Empire, and Artemisia II of Caria, his wife-sister \u2013 is completed.\u00a0(Turkey).",
+      "date": -350
+    },
+    {
+      "id": "aristotle-founds-the-lyceum-in-athens-greece-347",
+      "label": "Aristotle founds\u00a0the Lyceum\u00a0in Athens (Greece).",
+      "date": -347
+    },
+    {
+      "id": "mahapadma-nanda-founds-the-nanda-dynasty-and-begins-building-the-nanda-empire-india-345",
+      "label": "Mahapadma Nanda founds the\u00a0Nanda Dynasty\u00a0and begins building the Nanda Empire (India).",
+      "date": -345
+    },
+    {
+      "id": "aristotle-begins-a-three-year-position-tutoring-alexander-the-great-son-of-king-philip-of-macedonia-greece-343",
+      "label": "Aristotle\u00a0begins a three-year position tutoring\u00a0Alexander (the Great),\u00a0son of King Philip of Macedonia (Greece).",
+      "date": -343
+    },
+    {
+      "id": "the-bronze-marathon-boy-is-created-greece-340",
+      "label": "The bronze\u00a0Marathon Boy\u00a0is\u00a0created (Greece).",
+      "date": -340
+    },
+    {
+      "id": "philip-ii-of-macedon-defeats-an-alliance-of-greek-city-states-including-athens-and-thebes-at-the-battle-of-chaeronea-resulting-in-macedonian-hegemony-in-greece-338",
+      "label": "Philip II of Macedon\u00a0defeats an alliance of Greek city-states, including Athens and Thebes, at the\u00a0Battle of Chaeronea, resulting in Macedonian hegemony in Greece.",
+      "date": -338
+    },
+    {
+      "id": "alexander-the-great-becomes-king-of-macedonia-greece-336",
+      "label": "Alexander the Great\u00a0becomes King of Macedonia (Greece).",
+      "date": -336
+    },
+    {
+      "id": "between-335-and-322-bce-aristotle-writes-poetics-nicomachean-ethics-physics-politics-rhetoric-metaphysics-and-on-the-soul-in-ancient-greek-greece-335",
+      "label": "Between 335 and 322 BCE,\u00a0Aristotle\u00a0writes\u00a0Poetics,\u00a0Nicomachean Ethics, Physics, Politics, Rhetoric, Metaphysics\u00a0and\u00a0On\u00a0the Soul\u00a0in Ancient Greek\u00a0(Greece).",
+      "date": -335
+    },
+    {
+      "id": "alexander-the-great-defeats-the-persians-under-darius-iii-at-the-battle-of-issus-although-darius-escapes-turkey-333",
+      "label": "Alexander the Great\u00a0defeats the Persians under Darius III at the\u00a0Battle of Issus,\u00a0although Darius escapes\u00a0(Turkey).",
+      "date": -333
+    },
+    {
+      "id": "alexander-the-great-defeats-darius-iii-at-the-battle-of-gaugamela-and-occupies-persia-iraq-331",
+      "label": "Alexander the Great\u00a0defeats Darius III at the\u00a0Battle of Gaugamela\u00a0and occupies Persia (Iraq).",
+      "date": -331
+    },
+    {
+      "id": "alexander-the-great-defeats-king-porus-of-the-punjab-in-the-battle-of-the-hydaspes-india-326",
+      "label": "Alexander the Great\u00a0defeats King Porus of the Punjab in the\u00a0Battle of the Hydaspes\u00a0(India).",
+      "date": -326
+    },
+    {
+      "id": "the-nanda-empire-reaches-its-greatest-extent-under-dhana-nanda-india-325",
+      "label": "The\u00a0Nanda Empire\u00a0reaches\u00a0its greatest extent,\u00a0under Dhana Nanda (India).",
+      "date": -325
+    },
+    {
+      "id": "death-of-alexander-the-great-in-babylon-iraq-323",
+      "label": "Death of Alexander the Great\u00a0in Babylon (Iraq).",
+      "date": -323
+    },
+    {
+      "id": "chandragupta-maurya-overthrows-the-nanda-dynasty-and-founds-the-mauryan-empire-india-322",
+      "label": "Chandragupta Maurya\u00a0overthrows the Nanda Dynasty and founds the\u00a0Mauryan Empire\u00a0(India).",
+      "date": -322
+    },
+    {
+      "id": "birth-of-ashoka-maurya-in-pataliputra-patna-now-india-304",
+      "label": "Birth of Ashoka Maurya\u00a0in Pataliputra, Patna (now India).",
+      "date": -304
+    },
+    {
+      "id": "earliest-known-inscription-in-the-mayan-language-mexico-300",
+      "label": "Earliest known inscription in the\u00a0Mayan language\u00a0(Mexico).",
+      "date": -300
+    },
+    {
+      "id": "archimedes-is-born-in-syracuse-sicily-magna-graecia-now-italy-287",
+      "label": "Archimedes is born\u00a0in Syracuse, Sicily,\u00a0Magna Graecia (now Italy).",
+      "date": -287
+    },
+    {
+      "id": "the-first-true-lock-is-built-in-the-canal-of-the-pharoahs-between-the-nile-and-the-red-sea-egypt-285",
+      "label": "The\u00a0first true lock\u00a0is built in the\u00a0Canal of the Pharoahs\u00a0between the Nile and the Red Sea (Egypt).",
+      "date": -285
+    },
+    {
+      "id": "chares-of-lindos-creates-the-98-foot-tall-colossus-of-rhodes-a-statue-of-the-god-helios-and-one-of-the-seven-wonders-of-the-ancient-world-which-is-erected-on-the-island-of-rhodes-greece-280",
+      "label": "Chares of Lindos\u00a0creates the 98-foot-tall\u00a0Colossus of Rhodes, a statue of the god Helios and one of the Seven Wonders of the Ancient World, which is erected on the island of Rhodes (Greece).",
+      "date": -280
+    },
+    {
+      "id": "ashoka-the-great-becomes-leader-of-the-mauryan-empire-india-273",
+      "label": "Ashoka the Great\u00a0becomes leader of the Mauryan Empire (India).",
+      "date": -273
+    },
+    {
+      "id": "the-mauryan-empire-reaches-its-greatest-extent-india-pakistan-bangladesh-265",
+      "label": "The\u00a0Mauryan Empire\u00a0reaches its greatest extent (India; Pakistan; Bangladesh).",
+      "date": -265
+    },
+    {
+      "id": "birth-of-qin-shi-huang-in-handan-china-259",
+      "label": "Birth of Qin Shi Huang\u00a0in Handan, China.",
+      "date": -259
+    },
+    {
+      "id": "archimedes-publishes-on-the-equilibrium-of-planes-explaining-the-law-of-the-lever-on-the-measurement-of-a-circle-estimating-and-on-floating-bodies-explaining-the-principle-of-buoyancy-written-in-ancient-greek-italy-250",
+      "label": "Archimedes\u00a0publishes\u00a0On the Equilibrium of Planes\u00a0(explaining the law of the lever),\u00a0On the Measurement of a Circle\u00a0(estimating\u00a0\u03c0), and\u00a0On Floating Bodies\u00a0(explaining the principle of buoyancy), written in Ancient Greek\u00a0(Italy).",
+      "date": -250
+    },
+    {
+      "id": "the-roman-republic-annexes-sardinia-and-corsica-238",
+      "label": "The Roman Republic annexes\u00a0Sardinia\u00a0and\u00a0Corsica.",
+      "date": -238
+    },
+    {
+      "id": "death-of-mauryan-emperor-ashoka-the-great-india-232",
+      "label": "Death of\u00a0Mauryan Emperor\u00a0Ashoka the Great\u00a0(India).",
+      "date": -232
+    },
+    {
+      "id": "dying-gaul-a-bronze-sculpture-is-created-in-greece-230",
+      "label": "Dying Gaul,\u00a0a bronze sculpture, is created in Greece.",
+      "date": -230
+    },
+    {
+      "id": "an-earthquake-in-rhodes-greece-destroys-the-colossus-of-rhodes-one-of-the-seven-wonders-of-the-ancient-world-226",
+      "label": "An earthquake in Rhodes, Greece destroys the\u00a0Colossus of Rhodes, one of the Seven Wonders of the Ancient World.",
+      "date": -226
+    },
+    {
+      "id": "emperor-qin-shi-huang-defeats-the-other-warring-states-and-unites-china-for-the-first-time-establishing-the-qin-dynasty-221",
+      "label": "Emperor Qin Shi Huang\u00a0defeats the other Warring States and unites China for the first time, establishing the\u00a0Qin Dynasty.",
+      "date": -221
+    },
+    {
+      "id": "the-carthaginians-led-by-hannibal-defeat-the-romans-led-by-lucius-aemilius-paullus-and-gaius-terentius-varro-at-the-battle-of-cannae-in-the-second-punic-war-italy-216",
+      "label": "The Carthaginians,\u00a0led by\u00a0Hannibal, defeat the Romans, led by Lucius Aemilius Paullus and Gaius Terentius Varro, at the\u00a0Battle of Cannae\u00a0in the Second Punic War (Italy).",
+      "date": -216
+    },
+    {
+      "id": "archimedes-dies-212",
+      "label": "Archimedes dies.",
+      "date": -212
+    },
+    {
+      "id": "death-of-emperor-qin-shi-huang-210",
+      "label": "Death of Emperor Qin Shi Huang.",
+      "date": -210
+    },
+    {
+      "id": "the-terracotta-army-is-buried-with-emperor-qin-shi-huang-china-208",
+      "label": "The\u00a0Terracotta Army\u00a0is buried with Emperor Qin Shi Huang (China).",
+      "date": -208
+    },
+    {
+      "id": "a-roman-army-under-marcus-livius-and-claudius-nero-defeats-carthage-led-by-hasdrubal-barca-at-the-battle-of-the-metaurus-river-in-the-second-punic-war-italy-207",
+      "label": "A Roman army under Marcus Livius and Claudius Nero defeats Carthage, led by Hasdrubal Barca, at the\u00a0Battle of the Metaurus River\u00a0in the Second Punic War (Italy).",
+      "date": -207
+    },
+    {
+      "id": "the-han-dynasty-begins-china-206",
+      "label": "The\u00a0Han Dynasty\u00a0begins (China).",
+      "date": -206
+    },
+    {
+      "id": "the-romans-under-scipio-africanus-defeat-carthage-led-by-hannibal-at-the-battle-of-zama-ending-the-second-punic-war-tunisia-202",
+      "label": "The Romans under\u00a0Scipio Africanus\u00a0defeat Carthage, led by Hannibal, at the\u00a0Battle of Zama, ending the Second Punic War\u00a0(Tunisia).",
+      "date": -202
+    },
+    {
+      "id": "the-city-of-petra-is-founded-jordan-200",
+      "label": "The\u00a0City of Petra\u00a0is founded (Jordan).",
+      "date": -200
+    },
+    {
+      "id": "hipparchus-of-nicaea-is-born-in-iznik-bithynia-now-turkey-190",
+      "label": "Hipparchus of Nicaea\u00a0is born in Iznik, Bithynia (now Turkey).",
+      "date": -190
+    },
+    {
+      "id": "the-pergamon-altar-is-built-by-king-eumenes-ii-in-asia-minor-turkey-180",
+      "label": "The\u00a0Pergamon Altar\u00a0is built by King Eumenes II in Asia Minor (Turkey).",
+      "date": -180
+    },
+    {
+      "id": "the-third-macedonian-war-ends-when-the-romans-under-consul-aemilius-defeat-the-macedonians-at-the-battle-of-pydna-greece-168",
+      "label": "The third Macedonian War ends when the Romans under\u00a0Consul Aemilius\u00a0defeat the Macedonians at the\u00a0Battle of Pydna\u00a0(Greece).",
+      "date": -168
+    },
+    {
+      "id": "the-kingdom-of-judea-led-by-judas-maccabeus-achieves-independence-from-the-seleucid-persians-israel-palestine-160",
+      "label": "The\u00a0Kingdom of Judea, led by\u00a0Judas Maccabeus, achieves independence from the Seleucid Persians (Israel; Palestine).",
+      "date": -160
+    },
+    {
+      "id": "the-astrolabe-is-invented-possibly-by-hipparchus-of-nicaea-greece-150",
+      "label": "The\u00a0astrolabe\u00a0is invented, possibly by Hipparchus of Nicaea (Greece).",
+      "date": -150
+    },
+    {
+      "id": "roman-armies-conquer-greece-146",
+      "label": "Roman armies conquer\u00a0Greece.",
+      "date": -146
+    },
+    {
+      "id": "the-roman-conquest-of-iberia-is-complete-spain-portugal-133",
+      "label": "The Roman conquest of\u00a0Iberia\u00a0is complete (Spain; Portugal).",
+      "date": -133
+    },
+    {
+      "id": "hipparchus-of-nicaea-dies-120",
+      "label": "Hipparchus of Nicaea dies.",
+      "date": -120
+    },
+    {
+      "id": "sima-qian-publishes-records-of-the-grand-historian-a-historical-chronicle-china-109",
+      "label": "Sima Qian\u00a0publishes\u00a0Records of the Grand Historian, a historical chronicle (China).",
+      "date": -109
+    },
+    {
+      "id": "mesoamericans-establish-the-city-of-teotihuacan-mexico-100",
+      "label": "Mesoamericans establish the city of\u00a0Teotihuacan\u00a0(Mexico).",
+      "date": -100
+    },
+    {
+      "id": "sulla-is-elected-dictator-of-rome-and-begins-a-brutal-repression-of-his-opponents-italy-82",
+      "label": "Sulla\u00a0is elected dictator of Rome and begins a brutal repression of his opponents (Italy).",
+      "date": -82
+    },
+    {
+      "id": "spartacus-a-thracian-born-gladiator-leads-a-slave-revolt-against-rome-italy-73",
+      "label": "Spartacus, a Thracian-born gladiator, leads a\u00a0slave revolt\u00a0against Rome\u00a0(Italy).",
+      "date": -73
+    },
+    {
+      "id": "a-roman-army-led-by-praetor-crassus-puts-down-the-spartacus-led-slave-revolt-italy-71",
+      "label": "A Roman army led by\u00a0Praetor Crassus\u00a0puts down the Spartacus-led slave revolt (Italy).",
+      "date": -71
+    },
+    {
+      "id": "birth-of-roman-poet-publius-vergilius-maro-virgil-in-andes-cisalpine-gaul-roman-republic-now-italy-70",
+      "label": "Birth of\u00a0Roman poet Publius Vergilius Maro\u00a0(Virgil)\u00a0in Andes, Cisalpine Gaul, Roman Republic\u00a0(now Italy).",
+      "date": -70
+    },
+    {
+      "id": "birth-of-cleopatra-in-alexandria-egypt-69",
+      "label": "Birth of Cleopatra\u00a0in Alexandria, Egypt.",
+      "date": -69
+    },
+    {
+      "id": "the-romans-under-pompey-defeat-mithridates-vi-of-pontus-in-anatolia-turkey-65",
+      "label": "The Romans,\u00a0under\u00a0Pompey, defeat\u00a0Mithridates VI\u00a0of Pontus in Anatolia (Turkey),",
+      "date": -65
+    },
+    {
+      "id": "pompey-conquers-jerusalem-and-makes-judea-a-roman-province-israel-palestine-63",
+      "label": "Pompey\u00a0conquers Jerusalem and makes\u00a0Judea\u00a0a Roman province (Israel; Palestine).",
+      "date": -63
+    },
+    {
+      "id": "pompey-marcus-crassus-and-julius-caesar-form-the-first-triumvirate-to-rule-the-roman-republic-italy-60",
+      "label": "Pompey, Marcus Crassus and Julius Caesar form the\u00a0First\u00a0Triumvirate\u00a0to rule the Roman Republic (Italy).",
+      "date": -60
+    },
+    {
+      "id": "the-temple-of-horus-at-edfu-is-completed-egypt-57",
+      "label": "The\u00a0Temple of Horus at Edfu\u00a0is completed (Egypt).",
+      "date": -57
+    },
+    {
+      "id": "the-romans-under-julius-caesar-conquer-parts-of-england-and-establish-roman-rule-uk-54",
+      "label": "The Romans, under\u00a0Julius Caesar, conquer parts of\u00a0England\u00a0and establish Roman rule (UK).",
+      "date": -54
+    },
+    {
+      "id": "peace-treaty-between-the-han-dynasty-and-the-hsiung-nu-of-central-asia-china-51",
+      "label": "Peace treaty between the Han Dynasty and the Hsiung-nu\u00a0of Central Asia (China).",
+      "date": -51
+    },
+    {
+      "id": "the-founding-of-the-three-kingdoms-of-korea-koguryo-silla-and-pakche-korea-50",
+      "label": "The founding of the\u00a0Three Kingdoms of Korea: Koguryo, Silla and Pakche (Korea).",
+      "date": -50
+    },
+    {
+      "id": "julius-caesar-and-his-army-defy-rome-and-cross-the-rubicon-starting-a-roman-civil-war-italy-49",
+      "label": "Julius\u00a0Caesar and his army defy Rome and cross\u00a0the\u00a0Rubicon, starting a Roman civil war (Italy)",
+      "date": -49
+    },
+    {
+      "id": "julius-caesar-defeats-pompey-the-great-at-the-battle-of-pharsalus-greece-48",
+      "label": "Julius Caesar\u00a0defeats Pompey the Great at the\u00a0Battle of Pharsalus\u00a0(Greece).",
+      "date": -48
+    },
+    {
+      "id": "julius-caesar-defeats-pompey-s-sons-at-the-battle-of-munda-ending-the-civil-war-spain-45",
+      "label": "Julius Caesar\u00a0defeats Pompey\u2019s sons at the\u00a0Battle of Munda, ending the civil war (Spain).",
+      "date": -45
+    },
+    {
+      "id": "brutus-cassius-and-others-assassinate-julius-caesar-in-rome-italy-44",
+      "label": "Brutus, Cassius and others assassinate\u00a0Julius Caesar\u00a0in Rome \u00a0(Italy).",
+      "date": -44
+    },
+    {
+      "id": "octavian-marcus-lepidus-and-mark-antony-form-the-second-triumvirate-and-rule-rome-as-dictators-italy-43",
+      "label": "Octavian, Marcus Lepidus and Mark Antony form the\u00a0Second Triumvirate\u00a0and\u00a0rule Rome as dictators (Italy).",
+      "date": -43
+    },
+    {
+      "id": "forces-of-the-second-triumvirate-defeat-the-armies-of-brutus-and-cassius-at-the-battle-of-philippi-in-macedonia-greece-42",
+      "label": "Forces of the\u00a0Second Triumvirate\u00a0defeat the armies of Brutus and Cassius at the\u00a0Battle of Philippi\u00a0in Macedonia (Greece).",
+      "date": -42
+    },
+    {
+      "id": "rome-conquers-egypt-40",
+      "label": "Rome conquers\u00a0Egypt.",
+      "date": -40
+    },
+    {
+      "id": "octavian-s-fleet-led-by-agrippa-defeats-the-forces-of-mark-antony-and-cleopatra-at-the-battle-of-actium-ending-the-civil-war-that-began-with-julius-caesar-s-assassination-greece-31",
+      "label": "Octavian\u2019s fleet, led by\u00a0Agrippa, defeats the forces of Mark Antony and Cleopatra at the\u00a0Battle of Actium, ending the civil war that began with Julius Caesar\u2019s assassination\u00a0(Greece).",
+      "date": -31
+    },
+    {
+      "id": "according-to-legend-cleopatra-commits-suicide-with-an-asp-egypt-30",
+      "label": "According to legend,\u00a0Cleopatra\u00a0commits suicide with an asp (Egypt).",
+      "date": -30
+    },
+    {
+      "id": "octavian-now-augustus-becomes-the-first-leader-of-the-roman-empire-and-brings-pax-romana-during-his-41-year-reign-italy-27",
+      "label": "Octavian, now\u00a0Augustus, becomes the first leader of the\u00a0Roman Empire\u00a0and brings\u00a0Pax Romana\u00a0during his 41-year reign (Italy).",
+      "date": -27
+    },
+    {
+      "id": "agesander-athenodoros-polydorus-of-rhodes-create-the-marble-sculpture-laoco-n-and-his-sons-greece-19",
+      "label": "Agesander, Athenodoros & Polydorus of Rhodes\u00a0create the marble sculpture\u00a0Laoco\u00f6n\u00a0and His Sons\u00a0(Greece).",
+      "date": -19
+    },
+    {
+      "id": "the-ara-pacis-augustae-a-gift-of-the-roman-senate-to-augustus-is-completed-italy-13",
+      "label": "The\u00a0Ara Pacis Augustae, a gift of the Roman Senate to Augustus, is completed (Italy).",
+      "date": -13
+    },
+    {
+      "id": "the-frescoes-in-the-villa-of-agrippa-postumus-at-boscotrecase-are-painted-italy-11",
+      "label": "The frescoes in the\u00a0Villa of Agrippa Postumus\u00a0at Boscotrecase are painted (Italy).",
+      "date": -11
+    },
+    {
+      "id": "herod-the-great-of-judea-builds-the-city-of-caesaria-on-the-mediterranean-coast-with-the-first-artificial-harbor-built-in-the-open-sea-israel-10",
+      "label": "Herod the Great\u00a0of Judea builds the city of Caesaria on the Mediterranean coast, with the\u00a0first artificial harbor\u00a0built in\u00a0the open sea (Israel).",
+      "date": -10
+    },
+    {
+      "id": "likely-date-for-birth-of-jesus-of-nazareth-israel-palestine-4",
+      "label": "Likely date for\u00a0birth of Jesus of Nazareth\u00a0(Israel; Palestine).",
+      "date": -4
+    },
+    {
+      "id": "birth-of-saul-of-tarsus-in-cilicia-asia-minor-now-turkey-5",
+      "label": "Birth of Saul of Tarsus\u00a0in Cilicia, Asia Minor (now Turkey).",
+      "date": 5
+    },
+    {
+      "id": "metamorphoses-a-latin-poem-by-roman-poet-ovid-italy-8",
+      "label": "Metamorphoses,\u00a0a Latin poem by Roman poet\u00a0Ovid\u00a0(Italy).",
+      "date": 8
+    },
+    {
+      "id": "germanic-tribes-led-by-ariminius-defeat-three-roman-legions-under-quinctilius-varnus-in-the-battle-of-teutoburg-forest-the-defeat-stops-the-roman-advance-into-germany-germany-9",
+      "label": "Germanic tribes led by Ariminius defeat three Roman legions under Quinctilius Varnus in the\u00a0Battle of Teutoburg Forest. The defeat stops the Roman advance into Germany (Germany).",
+      "date": 9
+    },
+    {
+      "id": "the-bronze-flying-horse-of-gansu-is-created-china-25",
+      "label": "The bronze\u00a0Flying Horse\u00a0of Gansu\u00a0is created (China).",
+      "date": 25
+    },
+    {
+      "id": "a-wooden-amphitheater-built-by-atilius-at-fidenae-collapses-killing-20-000-spectators-italy-27",
+      "label": "A\u00a0wooden amphitheater\u00a0built by\u00a0Atilius\u00a0at Fidenae collapses, killing 20,000 spectators (Italy).",
+      "date": 27
+    },
+    {
+      "id": "jesus-of-nazareth-is-crucified-by-the-romans-israel-palestine-29",
+      "label": "Jesus of Nazareth is crucified\u00a0by the Romans (Israel; Palestine).",
+      "date": 29
+    },
+    {
+      "id": "assassination-of-roman-emperor-caligula-italy-41",
+      "label": "Assassination of\u00a0Roman Emperor Caligula\u00a0(Italy).",
+      "date": 41
+    },
+    {
+      "id": "flooding-of-the-thames-river-causes-the-deaths-of-10-000-people-uk-england-48",
+      "label": "Flooding of the\u00a0Thames River\u00a0causes the deaths of 10,000 people (UK: England).",
+      "date": 48
+    },
+    {
+      "id": "the-population-of-the-mesoamerican-city-of-teotihuacan-is-now-125-000-making-it-the-sixth-largest-city-on-earth-mexico-50",
+      "label": "The population of the Mesoamerican\u00a0city of Teotihuacan\u00a0is now 125,000, making it the sixth largest city on Earth (Mexico).",
+      "date": 50
+    },
+    {
+      "id": "paul-the-apostle-formerly-saul-of-tarsus-writes-the-first-epistle-to-the-thessalonians-the-oldest-document-in-the-christian-new-testament-in-greek-greece-52",
+      "label": "Paul the Apostle\u00a0(formerly Saul of Tarsus) writes the\u00a0First Epistle to the Thessalonians, the oldest document in the Christian New Testament, in Greek\u00a0(Greece).",
+      "date": 52
+    },
+    {
+      "id": "roman-emperor-claudius-is-murdered-by-his-wife-agrippina-so-that-her-son-nero-can-become-emperor-italy-54",
+      "label": "Roman Emperor\u00a0Claudius\u00a0is murdered by his wife Agrippina so that her son Nero can become emperor (Italy).",
+      "date": 54
+    },
+    {
+      "id": "boudica-formerly-known-as-boadicea-queen-of-the-celtic-iceni-tribe-leads-a-british-rebellion-against-the-romans-destroying-three-cities-and-killing-80-000-before-being-defeated-at-the-battle-of-watling-uk-60",
+      "label": "Boudica\u00a0(formerly known as Boadicea), queen of the Celtic Iceni tribe, leads a British rebellion against the Romans, destroying three cities and killing 80,000 before being defeated at the\u00a0Battle of Watling\u00a0(UK).",
+      "date": 60
+    },
+    {
+      "id": "the-province-of-judea-rebels-against-roman-rule-israel-palestine-66",
+      "label": "The province of\u00a0Judea\u00a0rebels against Roman rule (Israel; Palestine).",
+      "date": 66
+    },
+    {
+      "id": "death-of-paul-the-apostle-in-rome-possibly-by-execution-italy-67",
+      "label": "Death of Paul the Apostle\u00a0in Rome, possibly by execution (Italy).",
+      "date": 67
+    },
+    {
+      "id": "the-year-of-the-four-emperors-in-the-roman-empire-italy-68",
+      "label": "The\u00a0Year of the Four Emperors\u00a0in the Roman Empire (Italy).",
+      "date": 68
+    },
+    {
+      "id": "roman-armies-under-titus-crush-the-rebellion-in-judea-and-destroy-the-temple-in-jerusalem-israel-palestine-70",
+      "label": "Roman armies under Titus crush the\u00a0rebellion in Judea\u00a0and destroy the Temple in\u00a0Jerusalem (Israel; Palestine).",
+      "date": 70
+    },
+    {
+      "id": "first-evidence-of-metal-backed-glass-mirrors-lebanon-77",
+      "label": "First evidence of\u00a0metal-backed glass mirrors\u00a0(Lebanon).",
+      "date": 77
+    },
+    {
+      "id": "the-mt-vesuvius-volcano-erupts-burying-pompeii-and-herculaneum-italy-79",
+      "label": "The Mt. Vesuvius volcano\u00a0erupts, burying Pompeii and Herculaneum (Italy).",
+      "date": 79
+    },
+    {
+      "id": "the-flavian-amphitheater-also-known-as-the-colosseum-is-built-in-rome-italy-80",
+      "label": "The\u00a0Flavian Amphitheater\u00a0(also known as the\u00a0Colosseum) is built in Rome (Italy).",
+      "date": 80
+    },
+    {
+      "id": "claudius-ptolemy-is-born-in-alexandria-egypt-90",
+      "label": "Claudius Ptolemy is born\u00a0in Alexandria, Egypt.",
+      "date": 90
+    },
+    {
+      "id": "trajan-becomes-roman-emperor-italy-98",
+      "label": "Trajan\u00a0becomes Roman Emperor (Italy).",
+      "date": 98
+    },
+    {
+      "id": "the-moche-culture-is-thriving-peru-100",
+      "label": "The\u00a0Moche culture\u00a0is thriving (Peru).",
+      "date": 100
+    },
+    {
+      "id": "tacitus-publishes-the-histories-a-latin-history-of-rome-from-69-96-ce-italy-110",
+      "label": "Tacitus\u00a0publishes the\u00a0Histories, a Latin history of Rome from 69-96 CE (Italy).",
+      "date": 110
+    },
+    {
+      "id": "trajan-s-column-is-erected-in-rome-italy-113",
+      "label": "Trajan\u2019s Column\u00a0is erected in Rome (Italy).",
+      "date": 113
+    },
+    {
+      "id": "tacitus-is-writing-the-annals-a-latin-history-of-rome-from-14-68-ce-italy-116",
+      "label": "Tacitus\u00a0is writing the\u00a0Annals, a Latin history of Rome from 14-68 CE (Italy).",
+      "date": 116
+    },
+    {
+      "id": "the-roman-empire-reaches-its-greatest-extent-italy-117",
+      "label": "The\u00a0Roman Empire\u00a0reaches its greatest extent (Italy).",
+      "date": 117
+    },
+    {
+      "id": "birth-of-marcus-aurelius-in-ucubi-hispanica-baetica-now-spain-121",
+      "label": "Birth of Marcus Aurelius\u00a0in Ucubi, Hispanica Baetica (now Spain).",
+      "date": 121
+    },
+    {
+      "id": "the-romans-build-hadrian-s-wall-in-northern-england-as-a-defensive-fortification-the-gates-become-customs-posts-for-control-of-trade-uk-122",
+      "label": "The Romans build\u00a0Hadrian\u2019s Wall\u00a0in northern England\u00a0as\u00a0a defensive fortification; the gates become\u00a0customs\u00a0posts for control of trade\u00a0(UK).",
+      "date": 122
+    },
+    {
+      "id": "plutarch-s-historical-biography-parallel-lives-of-the-noble-greeks-and-romans-is-written-in-attic-greek-greece-125",
+      "label": "Plutarch\u2019s\u00a0historical biography,\u00a0Parallel Lives of the Noble Greeks and Romans,\u00a0is written in Attic Greek\u00a0(Greece).",
+      "date": 125
+    },
+    {
+      "id": "the-pantheon-is-built-in-rome-italy-126",
+      "label": "The\u00a0Pantheon\u00a0is built in Rome (Italy).",
+      "date": 126
+    },
+    {
+      "id": "galen-is-born-in-pergamon-asia-minor-roman-empire-now-turkey-129",
+      "label": "Galen is born\u00a0in Pergamon, Asia Minor, Roman Empire (now Turkey).",
+      "date": 129
+    },
+    {
+      "id": "a-jewish-revolt-led-by-simon-bar-kokhba-begins-in-the-roman-province-of-judea-and-leads-to-the-creation-of-a-short-lived-independent-state-of-israel-israel-palestine-132",
+      "label": "A\u00a0Jewish revolt, led by\u00a0Simon bar Kokhba, begins in the Roman province of Judea and leads to the creation of a short-lived independent state of Israel (Israel; Palestine).",
+      "date": 132
+    },
+    {
+      "id": "roman-troops-crush-the-bar-kokhba-revolt-as-punishment-emperor-hadrian-bans-the-practice-of-judaism-forbids-jews-from-entering-jerusalem-and-replaces-judea-with-syria-palestine-israel-palestine-135",
+      "label": "Roman troops crush\u00a0the Bar Kokhba revolt; as punishment, Emperor Hadrian\u00a0bans the practice of\u00a0Judaism, forbids Jews from entering Jerusalem and replaces Judea with Syria Palestine (Israel; Palestine).",
+      "date": 135
+    },
+    {
+      "id": "the-almagest-a-mathematical-and-astronomical-treatise-written-in-greek-by-claudius-ptolemy-egypt-150",
+      "label": "The Almagest, a mathematical and astronomical treatise written in Greek by\u00a0Claudius Ptolemy\u00a0(Egypt).",
+      "date": 150
+    },
+    {
+      "id": "the-antonine-plague-begins-in-the-roman-empire-over-the-next-15-years-it-will-kill-five-million-people-and-devastate-the-roman-army-iraq-italy-france-germany-armenia-160",
+      "label": "The\u00a0Antonine Plague\u00a0begins in the Roman Empire. Over the next 15 years, it will kill five million people and devastate the Roman army (Iraq; Italy; France; Germany; Armenia).",
+      "date": 160
+    },
+    {
+      "id": "marcus-aurelius-becomes-roman-emperor-italy-161",
+      "label": "Marcus Aurelius\u00a0becomes Roman Emperor (Italy).",
+      "date": 161
+    },
+    {
+      "id": "claudius-ptolemy-dies-168",
+      "label": "Claudius Ptolemy dies.",
+      "date": 168
+    },
+    {
+      "id": "on-the-natural-faculties-a-medical-treatise-written-in-greek-by-galen-of-pergamon-italy-170",
+      "label": "On the Natural Faculties, a medical treatise written in Greek by\u00a0Galen of Pergamon\u00a0(Italy).",
+      "date": 170
+    },
+    {
+      "id": "meditations-a-philosophic-memoir-written-in-greek-by-marcus-aurelius-serbia-italy-180",
+      "label": "Meditations, a philosophic memoir written in Greek by\u00a0Marcus Aurelius\u00a0(Serbia; Italy).",
+      "date": 180
+    },
+    {
+      "id": "start-of-the-revolt-of-the-yellow-turbans-a-peasant-uprising-led-by-taoist-zhang-jiao-china-184",
+      "label": "Start of the\u00a0Revolt of the Yellow Turbans, a\u00a0peasant uprising led by Taoist Zhang Jiao (China).",
+      "date": 184
+    },
+    {
+      "id": "the-mayan-city-of-tikal-becomes-a-regional-power-guatemala-200",
+      "label": "The\u00a0Mayan city of Tikal\u00a0becomes a regional power (Guatemala).",
+      "date": 200
+    },
+    {
+      "id": "by-this-date-troops-of-the-han-dynasty-have-successfully-put-down-the-revolt-of-the-yellow-turbans-china-205",
+      "label": "By this date, troops of the Han Dynasty have successfully put down the\u00a0Revolt of the Yellow Turbans\u00a0(China).",
+      "date": 205
+    },
+    {
+      "id": "porcelain-ceramics-are-invented-china-206",
+      "label": "Porcelain\u00a0ceramics are invented (China).",
+      "date": 206
+    },
+    {
+      "id": "galen-dies-216",
+      "label": "Galen dies.",
+      "date": 216
+    },
+    {
+      "id": "persian-shah-ardashir-defeats-artabanus-iv-the-last-king-of-the-parthian-empire-at-the-battle-of-hormizdagan-and-begins-the-sassanid-empire-iran-224",
+      "label": "Persian Shah Ardashir\u00a0defeats Artabanus IV, the last king of the Parthian Empire, at the\u00a0Battle of Hormizdagan\u00a0and begins the\u00a0Sassanid Empire\u00a0(Iran).",
+      "date": 224
+    },
+    {
+      "id": "roman-emperor-decius-requires-all-subjects-to-sacrifice-to-the-roman-gods-or-face-death-leading-to-the-death-of-pope-fabian-and-other-christians-italy-250",
+      "label": "Roman Emperor Decius\u00a0requires all subjects to sacrifice to the Roman gods, or face death, leading to the death of Pope Fabian and other Christians (Italy).",
+      "date": 250
+    },
+    {
+      "id": "pope-sixtus-ii-and-other-christians-are-executed-during-persecution-by-roman-emperor-valerian-italy-257",
+      "label": "Pope Sixtus II and other Christians\u00a0are executed during persecution by Roman Emperor Valerian (Italy).",
+      "date": 257
+    },
+    {
+      "id": "birth-of-flavius-valerius-constantinus-constantine-the-great-in-dardania-moesia-now-serbia-272",
+      "label": "Birth of Flavius Valerius Constantinus\u00a0(Constantine the Great) in Dardania, Moesia (now Serbia).",
+      "date": 272
+    },
+    {
+      "id": "roman-emperor-diocletian-names-maximian-co-emperor-and-divides-the-roman-empire-into-western-based-at-rome-and-eastern-based-at-nicomedia-empires-italy-turkey-285",
+      "label": "Roman Emperor Diocletian\u00a0names Maximian co-emperor and divides the\u00a0Roman Empire\u00a0into western (based at Rome) and eastern (based at Nicomedia) empires (Italy; Turkey).",
+      "date": 285
+    },
+    {
+      "id": "aurelius-carausius-rebels-against-roman-rule-and-establishes-an-independent-kingdom-in-england-uk-287",
+      "label": "Aurelius Carausius rebels against Roman rule and establishes an\u00a0independent kingdom in England\u00a0(UK).",
+      "date": 287
+    },
+    {
+      "id": "roman-troops-led-by-constantius-chlorus-defeat-the-british-rebels-and-reassert-sovereignty-uk-296",
+      "label": "Roman troops led by\u00a0Constantius Chlorus\u00a0defeat the British rebels\u00a0and\u00a0reassert sovereignty (UK).",
+      "date": 296
+    },
+    {
+      "id": "the-kingdom-of-axum-erects-the-79-foot-tall-obelisk-of-axum-ethiopia-300",
+      "label": "The\u00a0Kingdom of Axum\u00a0erects the 79-foot-tall\u00a0Obelisk of Axum\u00a0(Ethiopia).",
+      "date": 300
+    },
+    {
+      "id": "beginning-of-the-12-year-long-wu-hu-uprising-in-which-five-nomadic-tribes-overthrow-the-western-jin-dynasty-china-304",
+      "label": "Beginning of the 12-year-long\u00a0Wu Hu uprising, in which five nomadic tribes overthrow the Western Jin dynasty (China).",
+      "date": 304
+    },
+    {
+      "id": "constantine-becomes-emperor-over-part-of-the-western-roman-empire-italy-306",
+      "label": "Constantine\u00a0becomes Emperor over part of the Western Roman Empire (Italy).",
+      "date": 306
+    },
+    {
+      "id": "roman-co-emperor-constantine-defeats-his-rival-emperor-maxentius-at-the-battle-of-milvian-bridge-according-to-legend-before-the-battle-constantine-the-great-dreams-that-he-will-conquer-in-the-name-of-the-new-christian-religion-italy-312",
+      "label": "Roman co-emperor Constantine defeats his rival emperor Maxentius at the\u00a0Battle of Milvian Bridge. According to legend, before the battle, Constantine the Great dreams that he will conquer in the name of the new Christian religion (Italy).",
+      "date": 312
+    },
+    {
+      "id": "emperor-constantine-issues-the-edict-of-milan-which-recognizes-christianity-and-proclaims-religious-tolerance-in-the-western-roman-empire-italy-313",
+      "label": "Emperor Constantine issues the\u00a0Edict of Milan, which recognizes Christianity and proclaims religious tolerance in the Western Roman Empire (Italy).",
+      "date": 313
+    },
+    {
+      "id": "the-arch-of-constantine-is-built-in-rome-italy-315",
+      "label": "The\u00a0Arch of Constantine\u00a0is built in Rome (Italy).",
+      "date": 315
+    },
+    {
+      "id": "chandragupta-i-founds-the-gupta-dynasty-india-320",
+      "label": "Chandragupta I\u00a0founds the\u00a0Gupta Dynasty\u00a0(India).",
+      "date": 320
+    },
+    {
+      "id": "after-defeating-licinius-at-the-battle-of-adrianople-constantine-becomes-emperor-of-both-eastern-and-western-roman-empires-turkey-324",
+      "label": "After defeating Licinius at the\u00a0Battle of Adrianople, Constantine becomes Emperor of both Eastern and Western Roman empires (Turkey).",
+      "date": 324
+    },
+    {
+      "id": "constantine-convenes-the-first-council-of-nicaea-which-resolves-questions-about-the-christian-faith-and-rejects-arianism-as-a-heresy-turkey-325",
+      "label": "Constantine convenes the\u00a0First Council of Nicaea, which resolves questions about the Christian faith and rejects Arianism as a heresy+ (Turkey).",
+      "date": 325
+    },
+    {
+      "id": "byzantium-to-be-renamed-constantinople-becomes-the-capital-of-the-eastern-roman-byzantine-empire-turkey-330",
+      "label": "Byzantium\u00a0(to be renamed\u00a0Constantinople) becomes the capital of the Eastern Roman (Byzantine) Empire (Turkey).",
+      "date": 330
+    },
+    {
+      "id": "the-death-of-constantine-the-great-leads-to-the-redivision-of-the-roman-empire-into-eastern-and-western-empires-italy-turkey-337",
+      "label": "The\u00a0death of Constantine the Great\u00a0leads to the redivision of the Roman Empire into Eastern and Western empires (Italy; Turkey).",
+      "date": 337
+    },
+    {
+      "id": "birth-of-augustine-of-hippo-in-thagaste-roman-africa-now-algeria-354",
+      "label": "Birth of Augustine of Hippo\u00a0in Thagaste, Roman Africa (now Algeria).",
+      "date": 354
+    },
+    {
+      "id": "the-romans-under-julian-drive-the-franks-out-of-gaul-at-the-battle-of-argentoratum-france-357",
+      "label": "The Romans under\u00a0Julian\u00a0drive the Franks out of Gaul at the\u00a0Battle of Argentoratum\u00a0(France).",
+      "date": 357
+    },
+    {
+      "id": "an-earthquake-causes-widespread-destruction-in-crete-and-north-africa-365",
+      "label": "An\u00a0earthquake\u00a0causes widespread destruction in Crete and North Africa.",
+      "date": 365
+    },
+    {
+      "id": "the-huns-invade-the-balkans-many-ostrogoths-flee-the-huns-subjugate-those-who-remain-serbia-croatia-bosnia-herzegovina-376",
+      "label": "The\u00a0Huns invade the Balkans; many Ostrogoths flee; the Huns subjugate those who remain (Serbia; Croatia; Bosnia & Herzegovina).",
+      "date": 376
+    },
+    {
+      "id": "a-heavily-armed-band-of-visigoths-rises-up-against-the-romans-defeating-them-and-killing-byzantine-emperor-valens-at-the-battle-of-adrianople-turkey-378",
+      "label": "A heavily-armed band of Visigoths rises up against the Romans, defeating them and killing Byzantine Emperor Valens at the\u00a0Battle of Adrianople\u00a0(Turkey).",
+      "date": 378
+    },
+    {
+      "id": "roman-emperor-theodosius-i-bans-public-non-christian-religious-customs-italy-393",
+      "label": "Roman Emperor Theodosius I\u00a0bans public non-Christian religious customs (Italy).",
+      "date": 393
+    },
+    {
+      "id": "birth-of-attila-the-hun-395",
+      "label": "Birth of Attila the Hun.",
+      "date": 395
+    },
+    {
+      "id": "confessions-a-religious-memoir-in-latin-by-roman-catholic-bishop-augustine-of-hippo-algeria-400",
+      "label": "Confessions,\u00a0a religious memoir in Latin by Roman Catholic Bishop\u00a0Augustine of Hippo\u00a0(Algeria).",
+      "date": 400
+    },
+    {
+      "id": "the-romans-withdraw-from-britain-uk-407",
+      "label": "The\u00a0Romans\u00a0withdraw from\u00a0Britain\u00a0(UK).",
+      "date": 407
+    },
+    {
+      "id": "the-visigoths-under-alaric-sack-rome-italy-410",
+      "label": "The\u00a0Visigoths\u00a0under\u00a0Alaric\u00a0sack\u00a0Rome\u00a0(Italy).",
+      "date": 410
+    },
+    {
+      "id": "city-of-god-a-book-about-christianity-by-augustine-of-hippo-algeria-426",
+      "label": "City of God, a book about Christianity by\u00a0Augustine of Hippo\u00a0(Algeria).",
+      "date": 426
+    },
+    {
+      "id": "death-of-augustine-of-hippo-algeria-430",
+      "label": "Death of Augustine\u00a0of Hippo (Algeria).",
+      "date": 430
+    },
+    {
+      "id": "debate-over-the-meaning-of-jesus-s-birth-and-the-rejection-of-nestorianism-at-the-council-of-ephesus-lead-to-the-roman-catholic-church-s-first-schism-and-the-formation-of-the-separate-persian-church-turkey-431",
+      "label": "Debate over the meaning of Jesus\u2019s birth and the rejection of Nestorianism at the\u00a0Council of Ephesus\u00a0lead to the Roman Catholic Church\u2019s first schism and the formation of the separate Persian Church (Turkey).",
+      "date": 431
+    },
+    {
+      "id": "the-vandals-under-genseric-capture-carthage-from-the-romans-and-make-it-their-capital-tunisia-439",
+      "label": "The\u00a0Vandals\u00a0under\u00a0Genseric\u00a0capture\u00a0Carthage\u00a0from the Romans and make it their capital (Tunisia).",
+      "date": 439
+    },
+    {
+      "id": "the-mesoamerican-city-of-teotihuacan-population-150-000-is-at-the-height-of-its-power-and-influence-in-the-region-mexico-450",
+      "label": "The Mesoamerican city of\u00a0Teotihuacan, population 150,000, is at the height of its power and influence in the region (Mexico).",
+      "date": 450
+    },
+    {
+      "id": "at-the-battle-of-the-catalaunian-plains-a-combined-army-of-romans-and-visigoths-defeat-attila-the-hun-france-451",
+      "label": "At the\u00a0Battle of the Catalaunian Plains,\u00a0a combined army of Romans and Visigoths defeat\u00a0Attila the Hun\u00a0(France).",
+      "date": 451
+    },
+    {
+      "id": "according-to-legend-pope-leo-i-convinces-attila-the-hun-not-to-sack-rome-italy-452",
+      "label": "According to legend,\u00a0Pope Leo I\u00a0convinces\u00a0Attila the Hun\u00a0not to sack Rome (Italy).",
+      "date": 452
+    },
+    {
+      "id": "death-of-attila-the-hun-453",
+      "label": "Death of Attila the Hun.",
+      "date": 453
+    },
+    {
+      "id": "the-vandals-sack-rome-italy-455",
+      "label": "The\u00a0Vandals sack Rome\u00a0(Italy).",
+      "date": 455
+    },
+    {
+      "id": "buddha-preaching-the-law-a-sandstone-sculpture-is-made-at-sarnath-india-465",
+      "label": "Buddha Preaching the Law,\u00a0a sandstone sculpture,\u00a0is made at Sarnath (India).",
+      "date": 465
+    },
+    {
+      "id": "odoacer-chieftain-of-the-germanic-heruli-tribe-forces-emperor-romulus-augustus-to-abdicate-marking-the-end-of-the-western-roman-empire-italy-476",
+      "label": "Odoacer, chieftain of the Germanic Heruli tribe, forces Emperor Romulus Augustus to abdicate, marking the\u00a0end of the Western Roman Empire\u00a0(Italy).",
+      "date": 476
+    },
+    {
+      "id": "clovis-i-king-of-the-salian-franks-defeats-the-roman-occupiers-of-gaul-and-establishes-the-kingdom-of-the-franks-france-486",
+      "label": "Clovis I, King of the Salian Franks, defeats the Roman occupiers of Gaul and establishes the\u00a0Kingdom of the Franks\u00a0(France).",
+      "date": 486
+    },
+    {
+      "id": "ostrogothic-king-theodoric-the-great-invades-italy-and-establishes-a-kingdom-there-488",
+      "label": "Ostrogothic King\u00a0Theodoric the Great\u00a0invades Italy and establishes a kingdom there.",
+      "date": 488
+    },
+    {
+      "id": "svealand-the-first-swedish-state-is-established-500",
+      "label": "Svealand, the first Swedish state, is established.",
+      "date": 500
+    },
+    {
+      "id": "the-franks-under-clovis-defeat-the-visigoths-under-alaric-ii-at-the-battle-of-vouille-forcing-the-visigoths-to-retreat-into-spain-france-507",
+      "label": "The Franks under\u00a0Clovis\u00a0defeat the Visigoths under Alaric II at the\u00a0Battle of Vouille, forcing the Visigoths to retreat into Spain (France).",
+      "date": 507
+    },
+    {
+      "id": "the-consolation-of-philosophy-a-book-of-religious-philosophy-written-in-latin-by-boethius-italy-524",
+      "label": "The Consolation of Philosophy, a book of religious philosophy written in Latin\u00a0by\u00a0Boethius\u00a0(Italy).",
+      "date": 524
+    },
+    {
+      "id": "the-barberini-ivory-a-leaf-from-a-byzantine-imperial-diptych-is-made-in-constantinople-turkey-525",
+      "label": "The Barberini Ivory, a leaf from a Byzantine imperial diptych,\u00a0is made in Constantinople (Turkey).",
+      "date": 525
+    },
+    {
+      "id": "an-earthquake-in-antioch-measuring-8-0-kills-250-000-300-000-people-turkey-syria-526",
+      "label": "An\u00a0earthquake in Antioch\u00a0measuring 8.0 kills 250,000-300,000 people (Turkey; Syria).",
+      "date": 526
+    },
+    {
+      "id": "benedict-of-nursia-founds-the-first-benedictine-monastery-at-monte-cassino-italy-529",
+      "label": "Benedict of Nursia founds the first\u00a0Benedictine monastery\u00a0at Monte Cassino (Italy).",
+      "date": 529
+    },
+    {
+      "id": "byzantine-emperor-justinian-s-general-belisarius-brutally-suppresses-the-populist-nika-revolt-in-constantinople-turkey-532",
+      "label": "Byzantine Emperor Justinian\u2019s general Belisarius brutally suppresses the populist\u00a0Nika Revolt\u00a0in Constantinople (Turkey).",
+      "date": 532
+    },
+    {
+      "id": "byzantine-forces-led-by-belisarius-retake-north-africa-from-the-vandals-tunisia-533",
+      "label": "Byzantine forces led by\u00a0Belisarius\u00a0retake North Africa from the\u00a0Vandals\u00a0(Tunisia).",
+      "date": 533
+    },
+    {
+      "id": "byzantine-emperor-justinian-i-completes-his-code-of-civil-law-turkey-534",
+      "label": "Byzantine Emperor Justinian I\u00a0completes his\u00a0Code of Civil Law\u00a0(Turkey).",
+      "date": 534
+    },
+    {
+      "id": "the-original-byzantine-hagia-sophia-basilica-is-built-in-constantinople-by-isidore-of-miletus-and-anthemius-of-tralles-turkey-537",
+      "label": "The original Byzantine\u00a0Hagia Sophia\u00a0basilica is built in Constantinople by\u00a0Isidore of Miletus\u00a0and\u00a0Anthemius of Tralles\u00a0(Turkey).",
+      "date": 537
+    },
+    {
+      "id": "the-plague-of-justinian-rages-through-the-eastern-roman-byzantine-empire-killing-up-to-40-of-the-population-turkey-greece-egypt-syria-541",
+      "label": "The\u00a0Plague of Justinian\u00a0rages through the Eastern Roman (Byzantine) Empire, killing up to 40% of the population (Turkey; Greece; Egypt; Syria).",
+      "date": 541
+    },
+    {
+      "id": "the-byzantine-basilica-of-san-vitale-in-ravenna-is-completed-italy-547",
+      "label": "The Byzantine\u00a0Basilica of San Vitale\u00a0in Ravenna is completed (Italy).",
+      "date": 547
+    },
+    {
+      "id": "the-greek-language-rossano-gospels-are-illuminated-in-syria-or-italy-550",
+      "label": "The Greek language\u00a0Rossano Gospels\u00a0are illuminated\u00a0in Syria or Italy.",
+      "date": 550
+    },
+    {
+      "id": "an-earthquake-devastates-the-coastal-cities-of-the-levant-including-beirut-tyre-and-tripoli-lebanon-551",
+      "label": "An\u00a0earthquake\u00a0devastates the coastal cities of the Levant, including Beirut, Tyre and Tripoli (Lebanon).",
+      "date": 551
+    },
+    {
+      "id": "the-byzantine-army-invades-italy-and-defeats-the-ostrogoths-at-the-battle-of-taginae-italy-552",
+      "label": "The Byzantine army invades Italy and defeats the Ostrogoths at the\u00a0Battle of Taginae\u00a0(Italy).",
+      "date": 552
+    },
+    {
+      "id": "death-of-byzantine-emperor-justinian-i-the-great-after-a-38-year-reign-turkey-565",
+      "label": "Death of Byzantine Emperor Justinian I\u00a0the Great after a 38-year reign (Turkey).",
+      "date": 565
+    },
+    {
+      "id": "after-three-wars-peace-is-established-between-the-persians-and-the-byzantines-turkey-567",
+      "label": "After three wars, peace is established between the\u00a0Persians\u00a0and the\u00a0Byzantines\u00a0(Turkey).",
+      "date": 567
+    },
+    {
+      "id": "the-lombards-a-germanic-tribe-establish-a-kingdom-in-italy-568",
+      "label": "The\u00a0Lombards, a Germanic tribe, establish a kingdom in Italy.",
+      "date": 568
+    },
+    {
+      "id": "birth-of-the-muslim-prophet-muhammed-in-mecca-saudi-arabia-570",
+      "label": "Birth of the Muslim prophet Muhammed\u00a0in Mecca (Saudi Arabia).",
+      "date": 570
+    },
+    {
+      "id": "the-saxon-conquest-of-england-is-nearly-complete-after-the-saxons-defeat-the-welsh-at-the-battle-of-deorham-uk-england-577",
+      "label": "The Saxon conquest of England is nearly complete after the Saxons defeat the Welsh at the\u00a0Battle of Deorham\u00a0(UK: England).",
+      "date": 577
+    },
+    {
+      "id": "the-sui-dynasty-under-yang-jian-unites-china-for-the-first-time-in-nearly-400-years-581",
+      "label": "The\u00a0Sui Dynasty\u00a0under\u00a0Yang Jian\u00a0unites China for the first time in nearly 400 years.",
+      "date": 581
+    },
+    {
+      "id": "earliest-reference-to-use-of-toilet-paper-china-589",
+      "label": "Earliest reference to use of\u00a0toilet paper\u00a0(China).",
+      "date": 589
+    },
+    {
+      "id": "gregorius-anicius-becomes-pope-gregory-i-gregory-the-great-italy-590",
+      "label": "Gregorius Anicius becomes\u00a0Pope Gregory I\u00a0(Gregory the Great) (Italy).",
+      "date": 590
+    },
+    {
+      "id": "in-cambodia-the-northern-kingdom-of-chenla-occupies-the-kingdom-of-funan-600",
+      "label": "In Cambodia, the\u00a0Northern Kingdom of Chenla\u00a0occupies the Kingdom of Funan.",
+      "date": 600
+    },
+    {
+      "id": "the-horyu-ji-buddhist-temple-is-constructed-in-ikarauga-japan-607",
+      "label": "The\u00a0Horyu-ji Buddhist Temple\u00a0is constructed in Ikarauga (Japan).",
+      "date": 607
+    },
+    {
+      "id": "the-grand-canal-between-beijing-and-hangzhou-the-longest-in-the-world-is-completed-china-609",
+      "label": "The\u00a0Grand Canal\u00a0between Beijing and Hangzhou, the longest in the world, is completed (China).",
+      "date": 609
+    },
+    {
+      "id": "li-yuan-establishes-the-tang-dynasty-which-will-rule-china-for-286-years-618",
+      "label": "Li Yuan\u00a0establishes the\u00a0Tang Dynasty, which will rule China for 286 years.",
+      "date": 618
+    },
+    {
+      "id": "the-toothbrush-is-invented-china-619",
+      "label": "The\u00a0toothbrush\u00a0is invented (China).",
+      "date": 619
+    },
+    {
+      "id": "muhammad-flees-to-medina-from-mecca-in-the-hejira-saudi-arabia-622",
+      "label": "Muhammad\u00a0flees to Medina from Mecca in the\u00a0hejira\u00a0(Saudi Arabia).",
+      "date": 622
+    },
+    {
+      "id": "the-byzantines-led-by-emperor-heraclius-defeat-the-persians-under-khosrau-ii-at-the-battle-of-nineveh-iran-627",
+      "label": "The Byzantines, led by\u00a0Emperor Heraclius, defeat the Persians under Khosrau II at the\u00a0Battle of Nineveh\u00a0(Iran).",
+      "date": 627
+    },
+    {
+      "id": "the-muslims-led-by-muhammad-take-control-of-mecca-saudi-arabia-630",
+      "label": "The Muslims, led by\u00a0Muhammad, take control of\u00a0Mecca\u00a0(Saudi Arabia).",
+      "date": 630
+    },
+    {
+      "id": "islam-s-most-sacred-text-the-qur-an-is-written-in-arabic-saudi-arabia-632",
+      "label": "Islam\u2019s most sacred text, the\u00a0Qur\u2019an,\u00a0is written in Arabic (Saudi Arabia).",
+      "date": 632
+    },
+    {
+      "id": "muslim-arab-forces-led-by-khalid-ibn-al-walid-defeat-the-byzantines-under-emperor-heraclius-at-the-battle-of-yarmouk-leaving-the-levant-open-to-the-advance-of-the-muslims-syria-jordan-israel-palestine-636",
+      "label": "Muslim Arab forces led by Khalid ibn al-Walid defeat the Byzantines under Emperor Heraclius at the\u00a0Battle of Yarmouk, leaving the Levant open to the advance of the Muslims. (Syria; Jordan; Israel; Palestine).",
+      "date": 636
+    },
+    {
+      "id": "a-mostly-muslim-arab-army-under-omar-conquers-jerusalem-israel-palestine-638",
+      "label": "A mostly Muslim Arab army under\u00a0Omar\u00a0conquers\u00a0Jerusalem\u00a0(Israel; Palestine).",
+      "date": 638
+    },
+    {
+      "id": "the-muslims-under-omar-complete-their-conquest-of-persia-by-defeating-the-persian-army-at-the-battle-of-nehawand-iran-641",
+      "label": "The Muslims under\u00a0Omar\u00a0complete their conquest of Persia by defeating the Persian army at the\u00a0Battle of Nehawand\u00a0(Iran).",
+      "date": 641
+    },
+    {
+      "id": "the-muslims-conquer-egypt-642",
+      "label": "The\u00a0Muslims conquer Egypt.",
+      "date": 642
+    },
+    {
+      "id": "after-the-fall-of-the-soga-clan-in-645-ce-the-nara-period-begins-japan-646",
+      "label": "After the fall of the Soga clan in 645 CE, the\u00a0Nara period begins\u00a0(Japan).",
+      "date": 646
+    },
+    {
+      "id": "the-slavs-complete-their-occupation-of-the-balkans-650",
+      "label": "The\u00a0Slavs\u00a0complete their occupation of the\u00a0Balkans.",
+      "date": 650
+    },
+    {
+      "id": "ali-ibn-abi-talib-defeats-umayyad-rebels-at-the-battle-of-the-camels-to-become-leader-of-the-muslims-saudi-arabia-656",
+      "label": "Ali ibn Abi Talib\u00a0defeats Umayyad rebels at the\u00a0Battle of the Camels\u00a0to become leader of the Muslims (Saudi Arabia).",
+      "date": 656
+    },
+    {
+      "id": "jayavarman-i-begins-his-reign-as-king-of-chenia-cambodia-657",
+      "label": "Jayavarman I\u00a0begins his reign as king of Chenia (Cambodia).",
+      "date": 657
+    },
+    {
+      "id": "following-the-assassination-of-ali-ibn-abi-talib-mu-awiyah-i-becomes-muslim-caliph-and-establishes-the-umayyad-dynasty-at-damascus-syria-661",
+      "label": "Following the assassination of Ali ibn Abi Talib,\u00a0Mu\u2019awiyah I\u00a0becomes Muslim Caliph and establishes the\u00a0Umayyad Dynasty\u00a0at Damascus (Syria).",
+      "date": 661
+    },
+    {
+      "id": "building-of-the-great-mosque-of-kairouan-begins-tunisia-670",
+      "label": "Building of the\u00a0Great Mosque of Kairouan\u00a0begins (Tunisia).",
+      "date": -670
+    },
+    {
+      "id": "under-king-munmu-silla-defeats-goguryeo-and-baekje-to-unite-the-korean-peninsula-for-the-first-time-korea-676",
+      "label": "Under\u00a0King Munmu,\u00a0Silla\u00a0defeats Goguryeo and Baekje to unite the Korean peninsula for the first time (Korea).",
+      "date": 676
+    },
+    {
+      "id": "when-the-muslims-fail-to-take-constantinople-after-a-three-year-siege-they-sign-a-30-year-peace-treaty-with-the-byzantines-turkey-678",
+      "label": "When the Muslims fail to take\u00a0Constantinople\u00a0after a three-year siege, they sign a 30-year peace treaty with the Byzantines (Turkey).",
+      "date": 678
+    },
+    {
+      "id": "the-bulgars-defeat-the-byzantines-and-establish-the-first-bulgarian-empire-bulgaria-681",
+      "label": "The Bulgars defeat the Byzantines and establish the\u00a0First Bulgarian Empire\u00a0(Bulgaria).",
+      "date": 681
+    },
+    {
+      "id": "malik-i-becomes-muslim-caliph-syria-685",
+      "label": "Malik I\u00a0becomes Muslim caliph (Syria).",
+      "date": 685
+    },
+    {
+      "id": "the-muslims-build-the-umayyad-style-dome-of-the-rock-in-jerusalem-israel-palestine-691",
+      "label": "The Muslims build the Umayyad-style\u00a0Dome of the Rock\u00a0in Jerusalem (Israel; Palestine).",
+      "date": 691
+    },
+    {
+      "id": "an-arab-army-defeats-the-byzantines-at-carthage-completing-the-muslim-takeover-of-north-africa-tunisia-698",
+      "label": "An Arab army defeats the Byzantines at Carthage, completing the\u00a0Muslim takeover of North Africa\u00a0(Tunisia).",
+      "date": 698
+    },
+    {
+      "id": "the-srivijaya-empire-becomes-the-dominant-power-in-indonesia-700",
+      "label": "The\u00a0Srivijaya Empire\u00a0becomes the dominant power in Indonesia.",
+      "date": 700
+    },
+    {
+      "id": "empress-wu-hou-of-the-tang-dynasty-becomes-first-woman-to-lead-china-705",
+      "label": "Empress Wu Hou\u00a0of the Tang Dynasty becomes first woman to lead China.",
+      "date": 705
+    },
+    {
+      "id": "the-muslims-under-musa-ibn-nusayr-capture-tangier-from-the-berbers-morocco-707",
+      "label": "The Muslims under\u00a0Musa ibn-Nusayr\u00a0capture Tangier from the Berbers (Morocco).",
+      "date": 707
+    },
+    {
+      "id": "a-muslim-army-of-arabs-and-berbers-under-tariq-ibn-ziyad-invades-the-iberian-peninsula-and-defeats-roderick-last-king-of-the-visigoths-at-the-battle-of-wadi-bekka-spain-711",
+      "label": "A Muslim army of Arabs and Berbers under\u00a0Tariq ibn Ziyad\u00a0invades the Iberian Peninsula and defeats Roderick, last king of the Visigoths, at the\u00a0Battle of Wadi Bekka\u00a0(Spain).",
+      "date": 711
+    },
+    {
+      "id": "the-umayyad-style-great-mosque-of-damascus-is-completed-syria-715",
+      "label": "The Umayyad-style\u00a0Great Mosque of Damascus\u00a0is completed (Syria).",
+      "date": 715
+    },
+    {
+      "id": "a-muslim-arab-siege-of-constantinople-fails-after-bulgarian-leader-khan-tervel-comes-to-the-aid-of-the-byzantines-turkey-718",
+      "label": "A Muslim-Arab\u00a0siege of Constantinople\u00a0fails after Bulgarian leader\u00a0Khan Tervel comes to the aid of the Byzantines (Turkey).",
+      "date": 718
+    },
+    {
+      "id": "mai-th-c-loan-leads-a-revolt-against-the-chinese-rulers-of-vietnam-captures-the-capital-and-becomes-emperor-of-an-independent-region-before-the-armies-of-tang-dynasty-emperor-xuanzong-put-down-the-rebellion-vietnam-722",
+      "label": "Mai Th\u00fac Loan\u00a0leads a revolt against the Chinese\u00a0rulers of\u00a0Vietnam,\u00a0captures the capital\u00a0and becomes Emperor of an independent region before the armies of Tang Dynasty Emperor Xuanzong put down the rebellion (Vietnam).",
+      "date": 722
+    },
+    {
+      "id": "the-khazars-led-by-barjik-defeat-the-muslims-of-the-umayyad-caliphate-at-the-battle-of-ardabil-iran-730",
+      "label": "The Khazars, led by\u00a0Barjik, defeat the Muslims of the Umayyad Caliphate at the\u00a0Battle of Ardabil\u00a0(Iran).",
+      "date": 730
+    },
+    {
+      "id": "bede-completes-the-ecclesiastical-history-of-the-english-people-written-in-latin-uk-england-731",
+      "label": "Bede\u00a0completes the\u00a0Ecclesiastical History of the English People, written in\u00a0Latin\u00a0(UK: England).",
+      "date": 731
+    },
+    {
+      "id": "at-the-battle-of-tours-also-known-as-the-battle-of-poitiers-the-franks-led-by-charles-martel-stop-theadvance-of-the-muslim-army-led-by-adb-el-rahman-further-into-europe-france-732",
+      "label": "At the\u00a0Battle of Tours\u00a0(also known as the\u00a0Battle of Poitiers), the Franks, led by Charles Martel, stop theadvance of the Muslim army, led by Adb-el-Rahman, further into Europe\u00a0(France).",
+      "date": 732
+    },
+    {
+      "id": "beginning-of-the-great-berber-revolt-against-umayyad-caliph-hisham-ibn-abd-al-malik-which-results-in-the-creation-of-several-independent-berber-states-morocco-algeria-740",
+      "label": "Beginning of the\u00a0Great Berber Revolt\u00a0against Umayyad Caliph Hisham ibn Abd al-Malik, which results in the creation of several independent Berber states (Morocco; Algeria).",
+      "date": 740
+    },
+    {
+      "id": "charles-the-great-charlemagne-is-born-in-germany-or-belgium-747",
+      "label": "Charles the Great (Charlemagne) is born\u00a0in Germany or Belgium.",
+      "date": 747
+    },
+    {
+      "id": "the-abbasids-led-by-abu-al-abbas-overthrow-the-umayyad-caliphate-whose-leader-marwan-ii-is-defeated-at-the-battle-of-the-zab-iraq-750",
+      "label": "The Abbasids, led by\u00a0Abu Al-Abbas, overthrow the Umayyad Caliphate, whose leader, Marwan II, is defeated at the\u00a0Battle of the Zab\u00a0(Iraq).",
+      "date": 750
+    },
+    {
+      "id": "the-carolingian-dynasty-begins-with-the-reign-of-pepin-the-short-king-of-the-franks-france-751",
+      "label": "The\u00a0Carolingian Dynasty\u00a0begins with the reign of\u00a0Pepin the Short, King of the Franks (France).",
+      "date": 751
+    },
+    {
+      "id": "dantidurga-king-of-the-rashtrakutas-defeats-the-badami-chalukyas-under-kirtivarman-ii-and-takes-control-of-the-northern-regions-of-the-chalukya-empire-india-753",
+      "label": "Dantidurga,\u00a0king of the Rashtrakutas,\u00a0defeats the Badami Chalukyas under Kirtivarman II and takes control of the northern regions of the\u00a0Chalukya Empire\u00a0(India).",
+      "date": 753
+    },
+    {
+      "id": "general-an-lushan-rebels-against-the-tang-dynasty-and-establishes-himself-as-emperor-of-the-yan-dynasty-in-northern-china-755",
+      "label": "General\u00a0An-Lushan\u00a0rebels against the Tang Dynasty and establishes himself as Emperor of the\u00a0Yan Dynasty\u00a0in northern China.",
+      "date": 755
+    },
+    {
+      "id": "the-man-y-sh-poetry-anthology-is-published-japan-760",
+      "label": "The\u00a0Man\u2019y\u014dsh\u016b\u00a0poetry anthology\u00a0is published (Japan).",
+      "date": 760
+    },
+    {
+      "id": "muslim-abbasid-caliph-mansur-moves-his-capital-to-baghdad-iraq-763",
+      "label": "Muslim\u00a0Abbasid Caliph\u00a0Mansur\u00a0moves his capital to\u00a0Baghdad\u00a0(Iraq).",
+      "date": 763
+    },
+    {
+      "id": "mu-ammad-ibn-m-s-al-khw-rizmi-is-born-in-khwarezm-now-uzbekhistan-780",
+      "label": "Mu\u1e25ammad ibn M\u016bs\u0101 al-Khw\u0101rizmi\u00a0is born\u00a0in Khwarezm (now Uzbekhistan).",
+      "date": 780
+    },
+    {
+      "id": "byzantine-empress-irene-calls-the-second-council-of-nicaea-which-ends-a-57-year-period-of-iconoclasm-in-the-christian-church-turkey-787",
+      "label": "Byzantine Empress Irene calls the\u00a0Second Council of Nicaea, which ends a 57-year period of\u00a0iconoclasm\u00a0in the Christian Church (Turkey).",
+      "date": 787
+    },
+    {
+      "id": "the-sack-of-lindisfarne-marks-the-beginning-of-viking-raids-on-britain-uk-england-793",
+      "label": "The sack of Lindisfarne marks the\u00a0beginning of Viking raids\u00a0on Britain (UK: England).",
+      "date": 793
+    },
+    {
+      "id": "the-new-city-of-heian-kyo-kyoto-becomes-the-seat-of-japan-s-imperial-court-marking-the-beginning-of-the-heian-period-japan-794",
+      "label": "The new city of Heian-kyo (Kyoto) becomes the seat of Japan\u2019s imperial court, marking the beginning of the\u00a0Heian period\u00a0(Japan).",
+      "date": 794
+    },
+    {
+      "id": "pope-leo-iii-crowns-charlemagne-as-the-first-holy-roman-emperor-germany-800",
+      "label": "Pope Leo III crowns\u00a0Charlemagne\u00a0as the first\u00a0Holy Roman Emperor\u00a0(Germany).",
+      "date": 800
+    },
+    {
+      "id": "jayavarman-ii-unites-cambodia-and-establishes-his-capital-at-angkor-802",
+      "label": "Jayavarman II\u00a0unites Cambodia and establishes his capital at\u00a0Angkor.",
+      "date": 802
+    },
+    {
+      "id": "original-construction-of-the-carolingian-gothic-aachen-cathedral-is-completed-germany-813",
+      "label": "Original construction of the Carolingian-Gothic\u00a0Aachen Cathedral\u00a0is completed (Germany).",
+      "date": 813
+    },
+    {
+      "id": "death-of-charlemagne-814",
+      "label": "Death of Charlemagne.",
+      "date": 814
+    },
+    {
+      "id": "the-vikings-bury-two-women-and-numerous-objects-in-a-burial-ship-under-a-mound-of-earth-in-oseberg-norway-815",
+      "label": "The Vikings bury two women and numerous objects in a\u00a0burial ship\u00a0under a mound of earth in Oseberg (Norway).",
+      "date": 815
+    },
+    {
+      "id": "the-illuminated-latin-language-ebbo-gospels-is-made-at-the-benedictine-abbey-at-hautvillers-france-816",
+      "label": "The illuminated, Latin-language\u00a0Ebbo Gospels\u00a0is made at the Benedictine abbey at Hautvillers, France.",
+      "date": 816
+    },
+    {
+      "id": "muhammad-ibn-m-s-al-khw-rizm-s-the-compendious-book-on-calculation-by-completion-and-balancing-written-in-arabic-establishes-algebra-as-a-separate-discipline-iraq-820",
+      "label": "Muhammad ibn M\u016bs\u0101 al-Khw\u0101rizm\u012b\u2019s\u00a0The Compendious Book on Calculation by Completion and Balancing,\u00a0written in Arabic,\u00a0establishes\u00a0algebra\u00a0as a separate discipline (Iraq).",
+      "date": 820
+    },
+    {
+      "id": "byzantine-emperor-michael-ii-the-amorian-executes-thomas-the-slav-a-byzantine-military-commander-who-led-a-massive-but-ultimately-unsuccessful-revolt-turkey-823",
+      "label": "Byzantine Emperor\u00a0Michael II the Amorian\u00a0executes\u00a0Thomas the Slav, a Byzantine military commander who led a massive, but ultimately unsuccessful revolt (Turkey).",
+      "date": 823
+    },
+    {
+      "id": "borobudur-a-mahayana-buddhist-temple-is-built-on-java-indonesia-825",
+      "label": "Borobudur,\u00a0a Mahayana Buddhist Temple, is built on Java (Indonesia).",
+      "date": 825
+    },
+    {
+      "id": "weakened-by-a-famine-and-civil-war-the-uyghur-khaganate-is-overrun-by-the-kirghiz-people-mongolia-840",
+      "label": "Weakened by a famine and civil war, the\u00a0Uyghur Khaganate\u00a0is overrun by the Kirghiz people (Mongolia).",
+      "date": 840
+    },
+    {
+      "id": "the-treaty-of-verdun-divides-the-kingdom-of-the-franks-among-louis-ii-lothair-i-and-charles-the-bald-france-843",
+      "label": "The\u00a0Treaty of Verdun\u00a0divides the Kingdom of the Franks among Louis II, Lothair I and Charles the Bald (France).",
+      "date": 843
+    },
+    {
+      "id": "mu-ammad-ibn-m-s-al-khw-rizmi-dies-850",
+      "label": "Mu\u1e25ammad ibn M\u016bs\u0101 al-Khw\u0101rizmi dies.",
+      "date": 850
+    },
+    {
+      "id": "the-vikings-sack-london-and-canterbury-before-being-defeated-by-ockley-king-of-the-west-saxons-uk-851",
+      "label": "The\u00a0Vikings\u00a0sack London and Canterbury before being defeated by\u00a0Ockley, King of the West Saxons\u00a0(UK).",
+      "date": 851
+    },
+    {
+      "id": "a-byzantine-army-led-by-petronas-defeats-arab-forces-under-umar-al-aqta-at-the-battle-of-lalakaon-in-paphlagonia-turkey-863",
+      "label": "A Byzantine army led by\u00a0Petronas\u00a0defeats Arab forces under Umar al-Aqta at the\u00a0Battle of Lalakaon\u00a0in Paphlagonia (Turkey).",
+      "date": 863
+    },
+    {
+      "id": "playing-cards-are-invented-china-868",
+      "label": "Playing cards\u00a0are invented (China).",
+      "date": 868
+    },
+    {
+      "id": "ali-bin-muhammad-a-descendant-of-slaves-leads-the-15-year-long-zanj-revolt-of-enslaved-bantus-zanj-against-the-abbasid-caliphate-iraq-869",
+      "label": "Ali bin Muhammad, a\u00a0 descendant of slaves, leads the 15-year-long\u00a0Zanj revolt\u00a0of enslaved Bantus (Zanj) against the Abbasid caliphate (Iraq).",
+      "date": 869
+    },
+    {
+      "id": "alfred-the-great-becomes-king-of-england-uk-england-871",
+      "label": "Alfred the Great\u00a0becomes king of England (UK: England).",
+      "date": 871
+    },
+    {
+      "id": "harold-i-unites-norway-872",
+      "label": "Harold I\u00a0unites Norway.",
+      "date": 872
+    },
+    {
+      "id": "norsemen-settle-iceland-874",
+      "label": "Norsemen settle\u00a0Iceland.",
+      "date": 874
+    },
+    {
+      "id": "beginning-of-nine-year-famine-in-china-which-sparks-a-rebellion-against-the-tang-dynasty-by-wang-xianzhi-875",
+      "label": "Beginning of nine-year famine in China, which sparks a rebellion against the Tang Dynasty by\u00a0Wang Xianzhi.",
+      "date": 875
+    },
+    {
+      "id": "the-saxons-under-alfred-the-great-defeat-the-danes-at-the-battle-of-edington-uk-england-878",
+      "label": "The Saxons under\u00a0Alfred the Great\u00a0defeat the Danes at the\u00a0Battle of Edington\u00a0(UK: England).",
+      "date": 878
+    },
+    {
+      "id": "huang-chao-who-split-off-from-wang-xianzhi-s-rebellion-captures-the-tang-dynasty-capital-chang-an-deposes-emperor-xizong-and-proclaims-himself-emperor-of-the-short-lived-qi-dynasty-china-881",
+      "label": "Huang Chao, who split off from Wang Xianzhi\u2019s rebellion, captures the Tang Dynasty capital Chang\u2019an, deposes Emperor Xizong and proclaims himself emperor of the short-lived Qi Dynasty (China).",
+      "date": 881
+    },
+    {
+      "id": "the-kievan-rus-is-established-russia-882",
+      "label": "The\u00a0Kievan Rus\u2019\u00a0is established (Russia).",
+      "date": 882
+    },
+    {
+      "id": "abbasid-caliphate-armies-finally-suppress-the-zanj-slave-revolt-iraq-883",
+      "label": "Abbasid caliphate armies finally suppress the\u00a0Zanj Slave Revolt\u00a0(Iraq).",
+      "date": 883
+    },
+    {
+      "id": "the-first-muslim-fortress-is-built-on-the-site-of-the-alhambra-in-granada-spain-889",
+      "label": "The first Muslim fortress is built on the site of the\u00a0Alhambra\u00a0in Granada (Spain).",
+      "date": 889
+    },
+    {
+      "id": "the-early-cyrillic-script-is-developed-in-the-first-bulgarian-empire-bulgaria-890",
+      "label": "The\u00a0Early Cyrillic script\u00a0is developed in the First Bulgarian Empire (Bulgaria).",
+      "date": 890
+    },
+    {
+      "id": "publication-of-the-latin-language-treatise-musica-enchiriadis-which-contains-the-earliest-known-reference-to-the-organum-musical-style-895",
+      "label": "Publication of the Latin-language treatise\u00a0Musica enchiriadis, which contains the earliest known reference to the\u00a0organum\u00a0musical style.",
+      "date": 895
+    },
+    {
+      "id": "the-srivijaya-empire-based-in-palembang-controls-java-sumatra-the-malay-peninsula-the-straits-of-malacca-and-much-of-the-region-indonesia-malaysia-900",
+      "label": "The\u00a0Srivijaya Empire\u00a0based in Palembang controls Java, Sumatra, the Malay Peninsula, the Straits of Malacca and much of the region (Indonesia; Malaysia).",
+      "date": 900
+    },
+    {
+      "id": "the-period-of-the-five-dynasties-begins-in-china-907",
+      "label": "The period of the\u00a0Five Dynasties\u00a0begins in China.",
+      "date": 907
+    },
+    {
+      "id": "after-signing-the-treaty-of-saint-clair-sur-epte-vikings-led-by-rollo-settle-in-the-newly-created-kingdom-of-normandy-france-911",
+      "label": "After signing the\u00a0Treaty of Saint-Clair-sur-Epte, Vikings led by Rollo settle in the newly-created\u00a0Kingdom of Normandy\u00a0(France).",
+      "date": 911
+    },
+    {
+      "id": "the-ottonian-dynasty-begins-with-henry-the-fowler-duke-of-saxony-germany-919",
+      "label": "The\u00a0Ottonian Dynasty\u00a0begins with\u00a0Henry the Fowler, Duke of Saxony (Germany).",
+      "date": 919
+    },
+    {
+      "id": "abbasid-caliph-al-muqtadir-orders-the-execution-of-mansur-al-hallaj-a-persian-sufi-mystic-for-heresy-iraq-922",
+      "label": "Abbasid Caliph Al-Muqtadir orders the execution of\u00a0Mansur al-Hallaj, a Persian Sufi mystic, for heresy (Iraq).",
+      "date": 922
+    },
+    {
+      "id": "the-caliphate-of-c-rdoba-is-begun-by-abd-ar-rahman-iii-spain-929",
+      "label": "The\u00a0caliphate of C\u00f3rdoba\u00a0is begun by\u00a0Abd-ar-Rahman III\u00a0(Spain).",
+      "date": 929
+    },
+    {
+      "id": "wang-geon-of-the-koryo-dynasty-unifies-the-later-three-kingdoms-korea-936",
+      "label": "Wang Geon\u00a0of the Koryo Dynasty unifies the\u00a0Later Three Kingdoms\u00a0(Korea).",
+      "date": 936
+    },
+    {
+      "id": "ahmad-ibn-buwah-enters-baghdad-and-declares-himself-caliph-beginning-the-buwayhid-dynasty-iraq-945",
+      "label": "Ahmad ibn Buwah\u00a0enters Baghdad and declares himself caliph, beginning the\u00a0Buwayhid Dynasty\u00a0(Iraq).",
+      "date": 945
+    },
+    {
+      "id": "kuya-shonin-an-advocate-of-the-jodo-new-land-form-of-buddhism-founds-the-rokuharamitsuji-temple-in-kyoto-japan-951",
+      "label": "Kuya-Shonin, an advocate of the Jodo (New Land), form of Buddhism, founds the Rokuharamitsuji temple in Kyoto (Japan).",
+      "date": 951
+    },
+    {
+      "id": "chola-dynasty-artists-develop-the-classic-iconography-of-the-hindu-god-shiva-in-the-form-of-shiva-nataraja-and-create-many-statues-sometimes-called-chola-bronzes-india-955",
+      "label": "Chola Dynasty artists develop the classic iconography of the Hindu god Shiva in the form of\u00a0Shiva Nataraja,\u00a0and create many statues, sometimes called\u00a0Chola bronzes\u00a0(India).",
+      "date": 955
+    },
+    {
+      "id": "mieszko-i-duke-of-polans-founds-the-polish-state-poland-960",
+      "label": "Mieszko I, Duke of Polans, founds the Polish state (Poland).",
+      "date": 960
+    },
+    {
+      "id": "otto-the-great-is-named-holy-roman-emperor-by-pope-john-xii-germany-962",
+      "label": "Otto the Great\u00a0is named\u00a0Holy Roman Emperor\u00a0by Pope John XII (Germany).",
+      "date": 962
+    },
+    {
+      "id": "the-byzantines-under-emperor-nikephoros-ii-recapture-crete-from-the-muslim-arabs-963",
+      "label": "The Byzantines, under\u00a0Emperor Nikephoros II, recapture\u00a0Crete\u00a0from the Muslim Arabs.",
+      "date": 963
+    },
+    {
+      "id": "byzantine-armies-under-niketas-chalkoutzes-retake-cyprus-from-the-muslim-arabs-965",
+      "label": "Byzantine armies under\u00a0Niketas Chalkoutzes\u00a0retake\u00a0Cyprus\u00a0from the Muslim Arabs.",
+      "date": 965
+    },
+    {
+      "id": "murasaki-shikibu-is-born-in-heian-kyo-japan-973",
+      "label": "Murasaki Shikibu is born\u00a0in Heian-kyo (Japan).",
+      "date": 973
+    },
+    {
+      "id": "the-earliest-known-manuscript-of-the-anglo-saxon-epic-poem-beowulf-written-in-old-english-uk-england-975",
+      "label": "The earliest known manuscript of the Anglo-Saxon epic poem\u00a0Beowulf,\u00a0written in Old English (UK: England).",
+      "date": 975
+    },
+    {
+      "id": "former-slave-abu-mansur-subuktigin-becomes-leader-of-the-ghaznavid-empire-afghanistan-977",
+      "label": "Former slave\u00a0Abu Mansur Subuktigin\u00a0becomes leader of the\u00a0Ghaznavid Empire\u00a0(Afghanistan).",
+      "date": 977
+    },
+    {
+      "id": "ibn-sina-avicenna-is-born-in-afshona-in-the-samanid-empire-now-uzbekistan-980",
+      "label": "Ibn Sina (Avicenna) is born\u00a0in Afshona in the Samanid Empire (now Uzbekistan).",
+      "date": 980
+    },
+    {
+      "id": "qiao-weiyou-designs-the-first-pound-lock-china-984",
+      "label": "Qiao Weiyou\u00a0designs the\u00a0first pound lock\u00a0(China).",
+      "date": 984
+    },
+    {
+      "id": "after-being-exiled-from-iceland-eric-the-red-begins-to-colonize-greenland-985",
+      "label": "After being exiled from Iceland,\u00a0Eric the\u00a0Red\u00a0begins to colonize\u00a0Greenland.",
+      "date": 985
+    },
+    {
+      "id": "hugh-capet-ascends-to-the-french-throne-beginning-the-reign-of-the-house-of-capet-which-lasts-until-1328-987",
+      "label": "Hugh Capet\u00a0ascends to the French throne, beginning the reign of the\u00a0House of Capet, which lasts until 1328.",
+      "date": 987
+    },
+    {
+      "id": "the-kingdom-of-ghana-defeats-the-lemtunas-a-saharan-berber-tribe-mauritania-990",
+      "label": "The\u00a0Kingdom of Ghana\u00a0defeats the\u00a0Lemtunas, a Saharan Berber tribe (Mauritania).",
+      "date": 990
+    },
+    {
+      "id": "the-people-of-rapa-nui-easter-island-begin-carving-giant-moai-statues-chile-1000",
+      "label": "The people of Rapa Nui (Easter Island) begin carving giant\u00a0Moai statues\u00a0(Chile).",
+      "date": 1000
+    },
+    {
+      "id": "norsemen-possibly-including-leif-erikson-become-the-first-europeans-to-reach-north-america-when-they-build-a-settlement-in-l-anse-aux-meadows-in-newfoundland-canada-1001",
+      "label": "Norsemen, possibly including Leif Erikson, become the first Europeans to reach\u00a0North America\u00a0when they build a settlement in\u00a0L\u2019Anse aux Meadows\u00a0in Newfoundland (Canada).",
+      "date": 1001
+    },
+    {
+      "id": "malay-prince-suryavarman-defeats-khmer-empire-king-udayadityavarman-i-cambodia-1002",
+      "label": "Malay prince Suryavarman\u00a0defeats\u00a0Khmer Empire\u00a0King\u00a0Udayadityavarman I\u00a0(Cambodia).",
+      "date": 1002
+    },
+    {
+      "id": "following-a-successful-military-campaign-by-emperor-shengzong-of-the-liao-empire-against-the-song-empire-song-emperor-zhengzong-signs-the-chanyuan-treaty-establishing-peace-between-the-two-dynasties-china-1005",
+      "label": "Following a successful military campaign by\u00a0Emperor Shengzong\u00a0of the Liao Empire against the Song Empire, Song Emperor Zhengzong signs the\u00a0Chanyuan Treaty, establishing peace between the two dynasties (China).",
+      "date": 1005
+    },
+    {
+      "id": "the-book-of-kings-shahnameh-an-epic-historical-poem-written-in-persian-by-ferdowsi-iran-1010",
+      "label": "The Book of Kings (Shahnameh), an epic historical poem written in Persian by\u00a0Ferdowsi\u00a0(Iran).",
+      "date": 1010
+    },
+    {
+      "id": "the-byzantines-led-by-basil-ii-conquer-the-bulgarians-at-the-battle-of-kleidon-bulgaria-1018",
+      "label": "The Byzantines, led by\u00a0Basil II, conquer the Bulgarians at the\u00a0Battle of Kleidon\u00a0(Bulgaria).",
+      "date": 1018
+    },
+    {
+      "id": "canute-ii-a-dane-defeats-edmund-ii-at-the-battle-of-ashington-and-becomes-king-of-all-england-uk-england-1016",
+      "label": "Canute II, a Dane, defeats Edmund II at the\u00a0Battle of Ashington\u00a0and becomes King of all England (UK: England).",
+      "date": 1016
+    },
+    {
+      "id": "ibn-al-haytham-alhazen-publishes-the-book-of-optics-a-scientific-treatise-written-in-arabic-egypt-1021",
+      "label": "Ibn al-Haytham (Alhazen)\u00a0publishes the\u00a0Book of Optics,\u00a0a scientific treatise written in\u00a0Arabic\u00a0(Egypt).",
+      "date": 1021
+    },
+    {
+      "id": "ibn-sina-avicenna-publishes-the-canon-of-medicine-a-medical-encyclopedia-written-in-arabic-iran-1025",
+      "label": "Ibn Sina (Avicenna)\u00a0publishes\u00a0The Canon of Medicine,\u00a0a medical encyclopedia written in Arabic\u00a0(Iran).",
+      "date": 1025
+    },
+    {
+      "id": "mahmud-of-ghazni-destroys-somnath-india-1026",
+      "label": "Mahmud of Ghazni\u00a0destroys Somnath (India).",
+      "date": 1026
+    },
+    {
+      "id": "the-book-of-healing-a-scientific-and-philosophical-treatise-written-in-arabic-by-ibn-sina-avicenna-iran-1027",
+      "label": "The Book of Healing, a scientific and philosophical treatise written in Arabic by\u00a0Ibn Sina (Avicenna)\u00a0(Iran).",
+      "date": 1027
+    },
+    {
+      "id": "birth-of-william-the-conqueror-in-falaise-normandy-france-1028",
+      "label": "Birth of William the Conqueror\u00a0in Falaise, Normandy (France).",
+      "date": 1028
+    },
+    {
+      "id": "tughril-beg-founds-the-seljuk-empire-turkey-iran-1037",
+      "label": "Tughril Beg\u00a0founds the\u00a0Seljuk Empire\u00a0(Turkey; Iran).",
+      "date": 1037
+    },
+    {
+      "id": "bi-sheng-invents-movable-type-printing-using-first-wood-then-ceramic-characters-china-1040",
+      "label": "Bi Sheng\u00a0invents\u00a0movable type printing\u00a0using first wood, then ceramic characters (China).",
+      "date": 1040
+    },
+    {
+      "id": "otho-de-lagery-pope-urban-ii-is-born-in-lagery-france-1042",
+      "label": "Otho de Lagery\u00a0(Pope Urban II) is born\u00a0in Lagery, France.",
+      "date": 1042
+    },
+    {
+      "id": "anawrahta-becomes-king-of-pagan-and-begins-conquests-leading-to-the-empire-of-pagan-burma-1044",
+      "label": "Anawrahta\u00a0becomes\u00a0King of Pagan\u00a0and begins conquests leading to the Empire of Pagan (Burma).",
+      "date": 1044
+    },
+    {
+      "id": "the-kandariya-mahadeva-and-most-of-the-other-hindu-and-jain-temples-at-khajuraho-are-completed-india-1050",
+      "label": "The\u00a0Kandariya Mahadeva\u00a0and most of the other Hindu and Jain temples at Khajuraho are completed (India).",
+      "date": 1050
+    },
+    {
+      "id": "the-great-schism-between-the-roman-catholic-and-eastern-orthodox-churches-begins-italy-turkey-1054",
+      "label": "The\u00a0Great Schism\u00a0between the Roman Catholic and Eastern Orthodox churches begins (Italy; Turkey).",
+      "date": 1054
+    },
+    {
+      "id": "the-seljuk-turks-under-tughril-beg-capture-baghdad-and-oust-the-buwayhid-dynasty-iraq-1055",
+      "label": "The Seljuk Turks, under\u00a0Tughril Beg, capture Baghdad and oust the Buwayhid Dynasty (Iraq).",
+      "date": 1055
+    },
+    {
+      "id": "seljuk-vizier-nizam-al-mulk-establishes-the-al-nizamiyya-of-baghdad-an-institution-of-higher-learning-iraq-1065",
+      "label": "Seljuk vizier Nizam al-Mulk establishes the\u00a0Al-Nizamiyya of Baghdad, an institution of higher learning (Iraq).",
+      "date": 1065
+    },
+    {
+      "id": "anawrath-king-of-pagan-unifies-burma-after-conquering-the-kingdom-of-thaton-1057",
+      "label": "Anawrath, King of Pagan, unifies Burma after conquering the\u00a0Kingdom of Thaton.",
+      "date": 1057
+    },
+    {
+      "id": "the-normans-under-william-duke-of-normandy-william-the-conqueror-defeat-anglo-saxon-english-king-harold-ii-at-the-battle-of-hastings-uk-england-1066",
+      "label": "The Normans, under William the Conqueror, defeat Anglo-Saxon English King Harold II at the\u00a0Battle of Hastings\u00a0.",
+      "date": 1066
+    },
+    {
+      "id": "the-seljuk-turks-defeat-the-byzantines-and-capture-byzantine-emperor-romanos-iv-diogenes-at-the-battle-of-manzikert-a-turning-point-in-the-turkish-takeover-of-formerly-byzantine-controlled-anatolia-and-armenia-turkey-1071",
+      "label": "The Seljuk Turks defeat the Byzantines and capture Byzantine Emperor Romanos IV Diogenes at the\u00a0Battle of Manzikert, a turning point in the Turkish takeover of formerly Byzantine-controlled Anatolia and Armenia (Turkey).",
+      "date": 1071
+    },
+    {
+      "id": "followers-of-king-henry-ii-murder-thomas-becket-archbishop-of-canterbury-in-canterbury-cathedral-uk-england-1072",
+      "label": "Followers of King Henry II murder\u00a0Thomas Becket,\u00a0Archbishop of Canterbury, in Canterbury Cathedral (UK: England).",
+      "date": 1072
+    },
+    {
+      "id": "the-bayeaux-tapestry-which-tells-the-story-of-the-norman-conquest-of-england-is-made-uk-1075",
+      "label": "The\u00a0Bayeaux Tapestry,\u00a0which tells the story of the Norman Conquest of England, is made (UK).",
+      "date": 1075
+    },
+    {
+      "id": "according-to-arab-legend-the-berber-almoravid-dynasty-conquers-the-ghanaian-empire-ghana-mauritania-1076",
+      "label": "According to Arab legend, the\u00a0Berber Almoravid Dynasty\u00a0conquers the\u00a0Ghanaian Empire\u00a0(Ghana; Mauritania).",
+      "date": 1076
+    },
+    {
+      "id": "alfonso-vi-christian-king-of-le-n-and-castile-captures-toledo-from-the-muslim-almoravids-spain-1085",
+      "label": "Alfonso VI, Christian King of Le\u00f3n and Castile, captures\u00a0Toledo\u00a0from the Muslim Almoravids (Spain).",
+      "date": 1085
+    },
+    {
+      "id": "william-the-conqueror-orders-a-survey-of-the-land-and-other-property-in-his-kingdom-the-results-of-which-are-cataloged-in-latin-in-the-domesday-book-uk-england-1086",
+      "label": "William the Conqueror orders a survey of the land and other property in his kingdom, the results of which are cataloged in Latin\u00a0in the\u00a0Domesday Book\u00a0(UK: England).",
+      "date": 1086
+    },
+    {
+      "id": "william-the-conqueror-dies-in-normandy-france-1087",
+      "label": "William the Conqueror dies\u00a0in Normandy (France).",
+      "date": 1087
+    },
+    {
+      "id": "otho-de-lagery-is-elected-pope-urban-ii-italy-1088",
+      "label": "Otho de Lagery is elected\u00a0Pope\u00a0Urban II\u00a0(Italy).",
+      "date": 1088
+    },
+    {
+      "id": "the-earlier-norman-romanesque-version-of-westminster-abbey-is-completed-in-london-uk-england-1090",
+      "label": "The earlier, Norman Romanesque version of\u00a0Westminster Abbey\u00a0is completed in London (UK: England).",
+      "date": 1090
+    },
+    {
+      "id": "el-cid-rodrigo-diaz-de-vivar-a-castilian-nobleman-drives-the-almoravids-out-of-valencia-and-establishes-a-private-fiefdom-spain-1094",
+      "label": "El Cid\u00a0(Rodrigo Diaz de Vivar), a Castilian nobleman, drives the Almoravids out of\u00a0Valencia\u00a0and establishes a private fiefdom (Spain).",
+      "date": 1094
+    },
+    {
+      "id": "pope-urban-ii-announces-the-first-crusade-to-capture-the-holy-land-and-remove-the-turks-from-the-byzantine-empire-italy-1095",
+      "label": "Pope Urban II announces the\u00a0First Crusade\u00a0to capture the Holy Land and remove the Turks from the Byzantine Empire (Italy).",
+      "date": 1095
+    },
+    {
+      "id": "birth-of-hildegard-of-bingen-in-bermersheim-vor-der-h-he-county-palatine-of-the-rhine-holy-roman-empire-now-germany-1098",
+      "label": "Birth of Hildegard of Bingen\u00a0in Bermersheim vor der H\u00f6he, County Palatine of the Rhine, Holy Roman Empire\u00a0(now Germany)",
+      "date": 1098
+    },
+    {
+      "id": "a-severe-winter-storm-causes-extensive-flooding-along-the-coasts-of-england-and-the-netherlands-killing-c-100-000-1099",
+      "label": "A\u00a0severe winter storm\u00a0causes extensive flooding along the coasts of England and the Netherlands, killing c. 100,000.",
+      "date": 1099
+    },
+    {
+      "id": "the-white-tower-the-original-tower-of-london-is-completed-uk-england-1100",
+      "label": "The White Tower,\u00a0the original Tower of London, is completed (UK: England).",
+      "date": 1100
+    },
+    {
+      "id": "su-song-dies-1101",
+      "label": "Su Song dies.",
+      "date": 1101
+    },
+    {
+      "id": "the-kingdoms-of-croatia-and-hungary-unite-1102",
+      "label": "The kingdoms of\u00a0Croatia\u00a0and\u00a0Hungary\u00a0unite.",
+      "date": 1102
+    },
+    {
+      "id": "founding-of-the-university-of-oxford-uk-england-1117",
+      "label": "Founding of the\u00a0University of Oxford\u00a0(UK: England).",
+      "date": 1117
+    },
+    {
+      "id": "the-tale-of-genji-scroll-is-painted-possibly-by-fujiwara-no-takayoshi-or-his-workshop-japan-1120",
+      "label": "The Tale of Genji Scroll\u00a0is painted, possibly by Fujiwara no Takayoshi or his workshop (Japan).",
+      "date": 1120
+    },
+    {
+      "id": "the-jurchen-people-led-by-aguda-overthrow-the-liao-empire-and-establish-the-jin-dynasty-mongolia-1125",
+      "label": "The Jurchen people, led by\u00a0Aguda, overthrow the Liao Empire and establish the\u00a0Jin Dynasty\u00a0(Mongolia).",
+      "date": 1125
+    },
+    {
+      "id": "the-byzantine-religious-icon-our-lady-of-vladimir-is-painted-in-constantinople-turkey-1130",
+      "label": "The Byzantine religious icon\u00a0Our Lady of Vladimir\u00a0is painted in Constantinople (Turkey).",
+      "date": 1130
+    },
+    {
+      "id": "original-construction-of-the-romanesque-durham-cathedral-is-completed-uk-england-1135",
+      "label": "Original construction of the Romanesque\u00a0Durham Cathedral\u00a0is completed (UK: England).",
+      "date": 1135
+    },
+    {
+      "id": "an-earthquake-in-aleppo-syria-kills-230-000-people-1138",
+      "label": "An\u00a0earthquake in Aleppo, Syria kills 230,000 people.",
+      "date": 1138
+    },
+    {
+      "id": "publication-of-the-epic-poem-the-song-of-roland-the-oldest-known-work-of-literature-written-in-french-france-1140",
+      "label": "Publication of the epic poem\u00a0The Song of Roland,\u00a0the oldest known work of\u00a0literature written\u00a0in French\u00a0(France).",
+      "date": 1140
+    },
+    {
+      "id": "under-the-treaty-of-zamora-spain-recognizes-portugal-s-independence-1143",
+      "label": "Under the Treaty of Zamora, Spain recognizes\u00a0Portugal\u2019s independence.",
+      "date": 1143
+    },
+    {
+      "id": "spanish-king-louis-vii-and-german-king-conrad-iii-organize-the-second-crusade-1147",
+      "label": "Spanish King Louis VII and German King Conrad III organize the\u00a0Second Crusade.",
+      "date": 1147
+    },
+    {
+      "id": "according-to-legend-eric-ix-of-sweden-leads-the-first-swedish-crusade-against-the-finns-and-forces-them-to-convert-to-christianity-finland-1150",
+      "label": "According to legend,\u00a0Eric IX of Sweden\u00a0leads the\u00a0First Swedish Crusade\u00a0against the Finns and forces them to convert to Christianity (Finland).",
+      "date": 1150
+    },
+    {
+      "id": "benedictine-abbess-hildegard-of-bingen-writes-the-liturgical-drama-ordo-virtutum-which-contains-her-earliest-known-musical-compositions-germany-1151",
+      "label": "Benedictine Abbess\u00a0Hildegard of Bingen\u00a0writes the liturgical drama\u00a0Ordo Virtutum, which contains her earliest\u00a0known musical compositions (Germany).",
+      "date": 1151
+    },
+    {
+      "id": "four-buddhas-two-sitting-one-standing-and-one-reclining-are-carved-into-a-granite-rock-face-at-the-gal-vihara-temple-at-polonnauruwa-sri-lanka-1153",
+      "label": "Four Buddhas (two sitting, one standing and one reclining) are carved into a granite rock face at the\u00a0Gal Vihara temple\u00a0at Polonnauruwa (Sri Lanka).",
+      "date": 1153
+    },
+    {
+      "id": "the-hanseatic-league-an-alliance-and-treaty-for-mutual-economic-defense-forms-in-northern-europe-1158",
+      "label": "The\u00a0Hanseatic League, an alliance and treaty for mutual economic defense, forms in northern Europe.",
+      "date": 1158
+    },
+    {
+      "id": "birth-of-genghis-khan-in-mongolia-1162",
+      "label": "Birth of Genghis Khan\u00a0in Mongolia.",
+      "date": 1162
+    },
+    {
+      "id": "construction-of-the-gothic-style-notre-dame-cathedral-in-paris-begins-france-1163",
+      "label": "Construction of the Gothic-style\u00a0Notre Dame Cathedral\u00a0in Paris begins (France).",
+      "date": 1163
+    },
+    {
+      "id": "stefan-nemanja-defeats-the-byzantines-at-the-battle-of-pantina-and-overthrows-his-older-brother-to-become-the-first-leader-of-a-united-serbia-1167",
+      "label": "Stefan Nemanja\u00a0defeats the Byzantines at the\u00a0Battle of Pantina\u00a0and overthrows his older brother to become the first leader of a\u00a0united Serbia.",
+      "date": 1167
+    },
+    {
+      "id": "the-kurds-build-a-fortress-on-the-future-site-of-the-krak-des-chevaliers-castle-syria-1170",
+      "label": "The\u00a0Kurds\u00a0build a fortress on the future site of the Krak des Chevaliers castle (Syria).",
+      "date": 1170
+    },
+    {
+      "id": "english-king-henry-ii-invades-ireland-and-claims-it-for-england-1171",
+      "label": "English King Henry II\u00a0invades\u00a0Ireland\u00a0and claims it for England.",
+      "date": 1171
+    },
+    {
+      "id": "after-england-defeats-scotland-scottish-king-william-i-accepts-english-sovereignty-1174",
+      "label": "After England defeats Scotland,\u00a0Scottish king William I\u00a0accepts English sovereignty.",
+      "date": 1174
+    },
+    {
+      "id": "the-lombard-league-defeats-holy-roman-emperor-frederick-i-barbarossa-at-the-battle-of-legano-italy-1176",
+      "label": "The\u00a0Lombard League\u00a0defeats Holy Roman Emperor Frederick I Barbarossa at the\u00a0Battle of Legano\u00a0(Italy)",
+      "date": 1176
+    },
+    {
+      "id": "in-the-mishneh-torah-written-in-hebrew-maimonides-determines-the-date-of-the-creation-of-the-world-and-establishes-the-jewish-calendar-according-to-the-anno-mundi-egypt-1178",
+      "label": "In the\u00a0Mishneh Torah,\u00a0written in Hebrew,\u00a0Maimonides\u00a0determines the date of the creation of the world and establishes the Jewish calendar according to the\u00a0Anno Mundi (Egypt).",
+      "date": 1178
+    },
+    {
+      "id": "death-of-hildegard-of-bingen-1179",
+      "label": "Death of Hildegard of Bingen.",
+      "date": 1179
+    },
+    {
+      "id": "ibn-rushd-averroes-writes-the-incoherence-of-the-incoherence-a-response-to-al-ghazali-s-the-incoherence-of-the-philosophers-written-in-arabic-spain-1180",
+      "label": "Ibn Rushd (Averroes)\u00a0writes\u00a0The Incoherence of the Incoherence, a response to Al-Ghazali\u2019s\u00a0The Incoherence of the Philosophers,\u00a0written in Arabic (Spain).",
+      "date": 1180
+    },
+    {
+      "id": "french-goldsmith-and-enamellist-nicholas-of-verdun-creates-the-verdun-altar-the-klosterneuberg-altarpiece-for-the-klosterneuberg-monastery-austria-1181",
+      "label": "French goldsmith and enamellist\u00a0Nicholas of Verdun\u00a0creates the\u00a0Verdun Altar\u00a0(the Klosterneuberg Altarpiece)\u00a0for the Klosterneuberg Monastery (Austria).",
+      "date": 1181
+    },
+    {
+      "id": "minamoto-yoshitsune-defeats-the-taira-at-the-battle-of-dan-no-ura-marking-the-beginning-of-the-kamakura-period-japan-1185",
+      "label": "Minamoto Yoshitsune\u00a0defeats the Taira at the\u00a0Battle of Dan no Ura, marking the beginning of the\u00a0Kamakura period\u00a0(Japan).",
+      "date": 1185
+    },
+    {
+      "id": "the-bulgarians-successfully-throw-off-byzantine-rule-to-form-the-second-bulgarian-empire-1186",
+      "label": "The Bulgarians successfully throw off Byzantine rule to form the\u00a0Second Bulgarian Empire.",
+      "date": 1186
+    },
+    {
+      "id": "the-army-of-muslim-ayyubid-sultan-salah-ad-din-saladin-defeats-the-combined-forces-of-the-crusader-states-jerusalem-antioch-tripoli-and-edessa-at-the-battle-of-hattin-1187",
+      "label": "The army of Muslim Ayyubid sultan\u00a0Salah ad-Din (Saladin)\u00a0defeats the combined forces of the Crusader states (Jerusalem, Antioch, Tripoli and Edessa) at the\u00a0Battle of Hattin.",
+      "date": 1187
+    },
+    {
+      "id": "the-third-crusade-led-by-richard-the-lionhearted-occupies-acre-but-fails-to-take-jerusalem-from-the-muslims-israel-palestine-1189",
+      "label": "The\u00a0Third Crusade,\u00a0led by Richard the Lionhearted, occupies Acre but fails to take Jerusalem from the Muslims (Israel; Palestine).",
+      "date": 1189
+    },
+    {
+      "id": "kamakura-period-sculptor-jokei-creates-statues-of-ungyo-and-agyo-a-pair-of-fearsome-guardians-or-nio-to-protect-the-entrance-of-the-kofuku-ji-temple-in-nara-japan-1190",
+      "label": "Kamakura period sculptor\u00a0Jokei\u00a0creates statues of Ungyo and Agyo, a pair of fearsome guardians, or\u00a0nio,\u00a0to protect the entrance of the Kofuku-ji Temple in Nara (Japan).",
+      "date": 1190
+    },
+    {
+      "id": "earliest-known-vertical-post-mill-windmill-uk-england-1191",
+      "label": "Earliest known\u00a0vertical post mill windmill\u00a0(UK: England).",
+      "date": 1191
+    },
+    {
+      "id": "minamoto-no-yoritomo-becomes-the-first-shogun-of-the-kamakura-shogunate-japan-1192",
+      "label": "Minamoto no Yoritomo\u00a0becomes the first shogun of the\u00a0Kamakura shogunate\u00a0(Japan).",
+      "date": 1192
+    },
+    {
+      "id": "death-of-saladin-in-damascus-syria-1193",
+      "label": "Death of Saladin\u00a0in Damascus, Syria.",
+      "date": 1193
+    },
+    {
+      "id": "the-hand-cannon-a-simple-firearm-is-invented-china-1200",
+      "label": "The\u00a0hand cannon, a simple firearm, is invented (China).",
+      "date": 1200
+    },
+    {
+      "id": "a-7-6-earthquake-in-the-eastern-mediterranean-causes-destruction-in-egypt-and-syria-the-resulting-famine-from-the-failure-of-the-nile-floods-and-epidemics-add-to-the-death-toll-which-some-estimate-as-more-than-1-000-000-1202",
+      "label": "A 7.6\u00a0earthquake\u00a0in causes destruction in Egypt and Syria. Destruction and ensuing famine & epidemics cause an estimated 1,000,000 deaths.",
+      "date": 1202
+    },
+    {
+      "id": "soumaoro-kant-king-of-the-sosso-people-seizes-koumbi-saleh-the-capital-of-the-weakened-ghanaian-empire-mauritania-1203",
+      "label": "Soumaoro Kant\u00e9,\u00a0king of the Sosso people,\u00a0seizes\u00a0Koumbi Saleh,\u00a0the capital of the weakened Ghanaian Empire (Mauritania).",
+      "date": 1203
+    },
+    {
+      "id": "the-crusaders-sack-the-byzantine-capital-of-constantinople-turkey-1204",
+      "label": "The Crusaders sack the Byzantine capital of\u00a0Constantinople\u00a0(Turkey).",
+      "date": 1204
+    },
+    {
+      "id": "genghis-khan-establishes-the-mongol-empire-with-a-capital-at-karakorum-mongolia-1206",
+      "label": "Genghis Khan\u00a0establishes the\u00a0Mongol Empire\u00a0with a capital at Karakorum (Mongolia).",
+      "date": 1206
+    },
+    {
+      "id": "the-epic-poem-of-the-cid-cantar-de-mio-cid-is-written-in-old-spanish-spain-1207",
+      "label": "The epic\u00a0Poem of the Cid (Cantar de Mio Cid)\u00a0is written in Old Spanish (Spain).",
+      "date": 1207
+    },
+    {
+      "id": "founding-of-the-university-of-cambridge-uk-england-1209",
+      "label": "Founding of the\u00a0University of Cambridge\u00a0(UK: England).",
+      "date": 1209
+    },
+    {
+      "id": "christian-forces-defeat-the-muslims-in-the-battle-of-las-navas-de-tolosa-a-key-victory-in-the-reconquista-of-the-iberian-peninsula-spain-1212",
+      "label": "Christian forces defeat the Muslims in the\u00a0Battle of Las Navas de Tolosa, a key victory in the Reconquista of the Iberian peninsula (Spain).",
+      "date": 1212
+    },
+    {
+      "id": "at-the-insistence-of-his-nobles-king-john-signs-the-magna-carta-restricting-his-own-powers-uk-england-1215",
+      "label": "At the insistence of his nobles,\u00a0King John\u00a0signs the\u00a0Magna Carta\u00a0restricting his own powers (UK: England).",
+      "date": 1215
+    },
+    {
+      "id": "english-victories-at-the-battles-of-lincoln-and-sandwich-stop-a-french-invasion-uk-england-1217",
+      "label": "English victories at the\u00a0battles of Lincoln and Sandwich\u00a0stop a French invasion\u00a0(UK: England).",
+      "date": 1217
+    },
+    {
+      "id": "a-storm-surge-in-the-north-sea-causes-flooding-that-kills-100-000-in-the-netherlands-and-germany-1218",
+      "label": "A\u00a0storm surge\u00a0in the North Sea causes flooding that kills 100,000 in the Netherlands and Germany.",
+      "date": 1218
+    },
+    {
+      "id": "roger-bacon-is-born-in-somerset-england-now-uk-1219",
+      "label": "Roger Bacon is born\u00a0in Somerset, England (now UK).",
+      "date": 1219
+    },
+    {
+      "id": "fall-of-chichen-itza-a-mayan-city-that-had-flourished-from-600-ce-mexico-1221",
+      "label": "Fall of\u00a0Chichen Itza, a Mayan city that had flourished from 600 CE (Mexico).",
+      "date": 1221
+    },
+    {
+      "id": "ken-arok-founds-the-singhasari-kingdom-in-east-java-indonesia-1222",
+      "label": "Ken Arok\u00a0founds the\u00a0Singhasari Kingdom\u00a0in east Java (Indonesia).",
+      "date": 1222
+    },
+    {
+      "id": "the-crusading-knights-hospitaller-complete-work-on-krak-des-chevaliers-syria-1225",
+      "label": "The Crusading\u00a0Knights Hospitaller\u00a0complete work on\u00a0Krak des Chevaliers\u00a0(Syria).",
+      "date": 1225
+    },
+    {
+      "id": "death-of-genghis-khan-probably-in-battle-1227",
+      "label": "Death of Genghis Khan,\u00a0probably in battle.",
+      "date": 1227
+    },
+    {
+      "id": "the-sixth-crusade-under-frederick-ii-obtains-bethlehem-jerusalem-and-nazareth-through-a-treaty-with-kurdish-ruler-malik-al-kamil-the-fourth-ayyubid-sultan-of-egypt-israel-palestine-1228",
+      "label": "The\u00a0Sixth Crusade,\u00a0under Frederick II, obtains Bethlehem, Jerusalem and Nazareth through a treaty with Kurdish ruler Malik al-Kamil, the fourth Ayyubid sultan of Egypt (Israel; Palestine).",
+      "date": 1228
+    },
+    {
+      "id": "the-four-year-long-kangi-famine-begins-japan-1232",
+      "label": "The four-year-long\u00a0Kangi famine\u00a0begins (Japan).",
+      "date": 1232
+    },
+    {
+      "id": "sundiata-keita-founds-the-mali-empire-in-west-africa-1235",
+      "label": "Sundiata Keita\u00a0founds the\u00a0Mali Empire\u00a0in West Africa.",
+      "date": 1235
+    },
+    {
+      "id": "ferdinand-iii-king-of-castile-and-le-n-takes-c-rdoba-from-the-moors-as-part-of-the-reconquista-spain-1236",
+      "label": "Ferdinand III, King of Castile and Le\u00f3n takes\u00a0C\u00f3rdoba\u00a0from the Moors as part of the Reconquista (Spain).",
+      "date": 1236
+    },
+    {
+      "id": "mohammed-i-ibn-nasr-founder-of-the-nasrid-dynasty-begins-building-a-palace-at-the-alhambra-in-granada-spain-1238",
+      "label": "Mohammed I ibn Nasr, founder of the Nasrid Dynasty, begins building a palace at the\u00a0Alhambra\u00a0in Granada (Spain).",
+      "date": 1238
+    },
+    {
+      "id": "the-russians-under-alexander-nevsky-defeat-the-invading-swedes-at-st-petersburg-russia-1240",
+      "label": "The Russians under\u00a0Alexander\u00a0Nevsky\u00a0defeat the invading Swedes at St. Petersburg (Russia).",
+      "date": 1240
+    },
+    {
+      "id": "the-mongols-defeat-an-alliance-of-polish-and-christian-troops-led-by-henry-ii-the-pious-duke-of-silesia-at-the-battle-of-legnica-resulting-in-fragmentation-of-the-polish-state-poland-1241",
+      "label": "The\u00a0Mongols\u00a0defeat an alliance of Polish and Christian troops, led by Henry II the Pious, Duke of Silesia, at the\u00a0Battle of Legnica, resulting in fragmentation of the Polish state (Poland).",
+      "date": 1241
+    },
+    {
+      "id": "genghis-khan-s-son-batu-leads-his-golden-horde-to-southern-russia-and-establishes-his-capital-at-sarai-near-the-volga-river-russia-1242",
+      "label": "Genghis Khan\u2019s son\u00a0Batu\u00a0leads his\u00a0Golden Horde\u00a0to southern Russia and establishes his capital at Sarai near the\u00a0Volga River (Russia).",
+      "date": 1242
+    },
+    {
+      "id": "work-begins-on-the-gothic-cologne-cathedral-high-cathedral-of-st-peter-germany-1248",
+      "label": "Work begins on the Gothic\u00a0Cologne Cathedral\u00a0(High Cathedral of St. Peter) (Germany).",
+      "date": 1248
+    },
+    {
+      "id": "castel-del-monte-with-its-unusual-octagonal-design-is-constructed-in-apulia-by-holy-roman-emperor-frederick-ii-italy-1250",
+      "label": "Castel del Monte, with its unusual octagonal design, is constructed in Apulia by Holy Roman Emperor Frederick II (Italy).",
+      "date": 1250
+    },
+    {
+      "id": "birth-of-marco-polo-in-the-republic-of-venice-now-italy-1254",
+      "label": "Birth of Marco Polo\u00a0in the Republic of Venice (now Italy).",
+      "date": 1254
+    },
+    {
+      "id": "the-university-of-paris-is-founded-france-1257",
+      "label": "The\u00a0University of Paris\u00a0is founded (France).",
+      "date": 1257
+    },
+    {
+      "id": "the-mongols-under-hulagu-khan-capture-baghdad-ending-the-abbasid-caliphate-iraq-1258",
+      "label": "The Mongols under\u00a0Hulagu Khan\u00a0capture\u00a0Baghdad, ending the Abbasid caliphate (Iraq).",
+      "date": 1258
+    },
+    {
+      "id": "the-maml-ks-of-egypt-under-baybars-defeat-the-mongols-under-julegu-khan-at-the-battle-of-ain-jalut-halting-the-advance-of-the-mongols-into-muslim-territory-israel-palestine-1260",
+      "label": "The Maml\u016bks\u00a0of\u00a0Egypt, under Baybars, defeat the Mongols, under Julegu Khan, at the\u00a0Battle of Ain Jalut, halting the advance of the Mongols into Muslim territory\u00a0(Israel; Palestine).",
+      "date": 1260
+    },
+    {
+      "id": "nicaean-emperor-michael-viii-palaiologos-retakes-constantinople-from-latin-ruler-baldwin-ii-turkey-1261",
+      "label": "Nicaean emperor\u00a0Michael VIII Palaiologos\u00a0retakes Constantinople from Latin ruler Baldwin II (Turkey).",
+      "date": 1261
+    },
+    {
+      "id": "norway-under-king-haakon-iv-annexes-iceland-and-greenland-1262",
+      "label": "Norway under\u00a0King Haakon IV\u00a0annexes Iceland and Greenland.",
+      "date": 1262
+    },
+    {
+      "id": "roger-bacon-publishes-opus-majus-a-treatise-written-in-latin-on-science-mathematics-philosophy-language-and-religion-uk-england-1267",
+      "label": "Roger Bacon\u00a0publishes\u00a0Opus Majus,\u00a0a\u00a0treatise written in Latin on science, mathematics, philosophy, language and religion\u00a0(UK: England).",
+      "date": 1267
+    },
+    {
+      "id": "major-construction-on-the-french-gothic-amiens-cathedral-cathedral-basilica-of-our-lady-of-amiens-is-complete-1270",
+      "label": "Major construction on the French Gothic\u00a0Amiens Cathedral\u00a0(Cathedral Basilica of Our Lady of Amiens) is complete.",
+      "date": 1270
+    },
+    {
+      "id": "summa-contra-gentiles-a-book-about-christianity-by-thomas-aquinas-italy-1272",
+      "label": "Summa Contra Gentiles, a book about Christianity by\u00a0Thomas Aquinas\u00a0(Italy).",
+      "date": 1272
+    },
+    {
+      "id": "rudolf-i-is-named-king-of-the-romans-and-king-of-germany-marking-the-beginning-of-the-hapsburg-dynasty-switzerland-1273",
+      "label": "Rudolf I\u00a0is named King of the Romans and King of Germany, marking the beginning of the\u00a0Hapsburg Dynasty\u00a0(Switzerland).",
+      "date": 1273
+    },
+    {
+      "id": "publication-of-thomas-aquinas-summa-theologica-a-latin-compendium-of-the-teachings-of-the-roman-catholic-church-italy-1274",
+      "label": "Publication of\u00a0Thomas Aquinas\u2019\u00a0Summa Theologica,\u00a0a Latin compendium of the teachings of the Roman Catholic Church (Italy).",
+      "date": 1274
+    },
+    {
+      "id": "completion-of-the-french-gothic-reims-cathedral-notre-dame-de-reims-france-1275",
+      "label": "Completion of the French Gothic\u00a0Reims Cathedral\u00a0(Notre-Dame de Reims) (France).",
+      "date": 1275
+    },
+    {
+      "id": "the-mongols-conquer-china-and-their-leader-kublai-khan-establishes-the-yuan-dynasty-1279",
+      "label": "The Mongols conquer China and their leader\u00a0Kublai Khan\u00a0establishes the\u00a0Yuan Dynasty.",
+      "date": 1279
+    },
+    {
+      "id": "the-santa-trinita-maest-a-proto-renaissance-altarpiece-painted-by-cimabue-for-a-florence-church-italy-1280",
+      "label": "The\u00a0Santa Trinita Maest\u00e0,\u00a0a proto-Renaissance altarpiece painted by\u00a0Cimabue\u00a0for a Florence church (Italy).",
+      "date": 1280
+    },
+    {
+      "id": "japan-successfully-repels-a-mongolian-invasion-1281",
+      "label": "Japan\u00a0successfully repels a\u00a0Mongolian invasion.",
+      "date": 1281
+    },
+    {
+      "id": "sicilians-rebel-against-the-rule-of-french-king-charles-i-starting-the-war-of-sicilian-vespers-italy-1282",
+      "label": "Sicilians rebel against the rule of French King Charles I, starting the\u00a0War of Sicilian Vespers\u00a0(Italy).",
+      "date": 1282
+    },
+    {
+      "id": "the-republic-of-genoa-defeats-the-city-state-of-pisa-italy-1284",
+      "label": "The Republic of\u00a0Genoa\u00a0defeats the city-state of\u00a0Pisa\u00a0(Italy).",
+      "date": 1284
+    },
+    {
+      "id": "eyeglasses-with-convex-lenses-are-invented-italy-1286",
+      "label": "Eyeglasses\u00a0with convex lenses are invented (Italy).",
+      "date": 1286
+    },
+    {
+      "id": "severe-storms-cause-flooding-that-kills-50-000-80-000-people-in-coastal-areas-of-northwestern-europe-belgium-netherlands-denmark-1287",
+      "label": "Severe storms cause\u00a0flooding that kills 50,000-80,000\u00a0people in coastal areas of northwestern Europe (Belgium, Netherlands, Denmark).",
+      "date": 1287
+    },
+    {
+      "id": "expulsion-of-the-jews-from-england-and-wales-1290",
+      "label": "Expulsion of the Jews\u00a0from England and Wales.",
+      "date": 1290
+    },
+    {
+      "id": "the-league-of-the-three-forest-cantons-is-formed-in-switzerland-1291",
+      "label": "The\u00a0League of the Three Forest Cantons\u00a0is formed in Switzerland.",
+      "date": 1291
+    },
+    {
+      "id": "after-king-kertanegara-of-singhasari-refuses-to-pay-tribute-to-mongol-leader-and-yuan-dynasty-emperor-kublai-khan-khan-invades-java-and-takes-the-city-of-jayakatwang-but-is-repulsed-by-a-surprise-attack-by-raden-wijaya-indonesia-1293",
+      "label": "After King Kertanegara of\u00a0Singhasari\u00a0refuses to pay tribute to Mongol leader and Yuan Dynasty Emperor Kublai Khan, Khan invades Java and takes the city of Jayakatwang but is repulsed by a surprise attack by\u00a0Raden Wijaya\u00a0(Indonesia).",
+      "date": 1293
+    },
+    {
+      "id": "roger-bacon-dies-1294",
+      "label": "Roger Bacon dies.",
+      "date": 1294
+    },
+    {
+      "id": "the-first-war-of-scottish-independence-begins-when-edward-i-of-england-invades-scotland-1296",
+      "label": "The\u00a0First War of Scottish Independence\u00a0begins when Edward I of England invades Scotland.",
+      "date": 1296
+    },
+    {
+      "id": "scottish-armies-under-william-wallace-defeat-english-troops-1297",
+      "label": "Scottish armies under\u00a0William Wallace\u00a0defeat English troops.",
+      "date": 1297
+    },
+    {
+      "id": "england-defeats-the-scottish-rebellion-1298",
+      "label": "England defeats\u00a0the Scottish\u00a0rebellion.",
+      "date": 1298
+    },
+    {
+      "id": "the-oghuz-turks-under-osman-bey-found-the-ottoman-empire-in-northern-anatolia-turkey-1299",
+      "label": "The Oghuz Turks under\u00a0Osman Bey\u00a0found the\u00a0Ottoman Empire\u00a0in northern Anatolia (Turkey).",
+      "date": 1299
+    },
+    {
+      "id": "earliest-existing-version-of-one-thousand-and-one-nights-a-set-of-linked-stories-written-in-arabic-syria-1300",
+      "label": "Earliest existing version of\u00a0One Thousand and One Nights,\u00a0a set of linked stories written in Arabic (Syria).",
+      "date": 1300
+    },
+    {
+      "id": "proto-renaissance-artist-giotto-di-bondone-paints-the-frescoes-on-the-walls-of-the-scrovegni-chapel-in-padua-italy-1305",
+      "label": "Proto-Renaissance artist\u00a0Giotto di Bondone\u00a0paints the frescoes on the walls of the\u00a0Scrovegni Chapel\u00a0in Padua (Italy).",
+      "date": 1305
+    },
+    {
+      "id": "pope-clement-v-moves-the-roman-catholic-papacy-from-rome-to-avignon-france-1307",
+      "label": "Pope Clement V moves the\u00a0Roman Catholic papacy\u00a0from Rome to\u00a0Avignon\u00a0(France).",
+      "date": 1307
+    },
+    {
+      "id": "start-of-the-ars-nova-style-in-european-music-composition-1310",
+      "label": "Start of the\u00a0ars nova\u00a0style in European music composition.",
+      "date": 1310
+    },
+    {
+      "id": "duccio-di-buoninsegna-completes-the-painting-of-the-byzantine-maest-altarpiece-italy-1311",
+      "label": "Duccio di Buoninsegna\u00a0completes the painting of the Byzantine\u00a0Maest\u00e0 Altarpiece\u00a0(Italy).",
+      "date": 1311
+    },
+    {
+      "id": "the-scots-under-robert-the-bruce-defeat-the-english-under-edward-ii-at-the-battle-of-bannockburn-uk-scotland-1314",
+      "label": "The Scots under\u00a0Robert the Bruce\u00a0defeat the English under Edward II at the\u00a0Battle of Bannockburn\u00a0(UK: Scotland).",
+      "date": 1314
+    },
+    {
+      "id": "the-great-famine-of-1315-1317-begins-in-europe-after-bad-weather-in-the-spring-of-1315-causes-crops-to-fail-millions-die-from-starvation-and-disease-1315",
+      "label": "The\u00a0Great Famine of 1315-1317\u00a0begins in Europe after bad weather in the spring of 1315 causes crops to fail.\u00a0 Millions die from starvation and disease.",
+      "date": 1315
+    },
+    {
+      "id": "william-of-ockham-sets-out-the-principle-of-ockham-s-razor-in-his-commentaries-on-peter-lombard-s-sentences-written-in-latin-uk-england-1320",
+      "label": "William of Ockham\u00a0sets out the principle of\u00a0Ockham\u2019s Razor\u00a0in his\u00a0Commentaries on Peter Lombard\u2019s Sentences,\u00a0written in\u00a0Latin\u00a0(UK: England).",
+      "date": 1320
+    },
+    {
+      "id": "the-divine-comedy-an-epic-poem-is-written-in-italian-by-dante-alighieri-italy-1321",
+      "label": "The Divine Comedy,\u00a0an epic poem, is written in Italian by\u00a0Dante Alighieri\u00a0(Italy).",
+      "date": 1321
+    },
+    {
+      "id": "death-of-marco-polo-1324",
+      "label": "Death of Marco Polo.",
+      "date": 1324
+    },
+    {
+      "id": "the-aztecs-found-the-city-of-tenochtitlan-mexico-1325",
+      "label": "The\u00a0Aztecs\u00a0found the\u00a0city of Tenochtitlan\u00a0(Mexico).",
+      "date": 1325
+    },
+    {
+      "id": "the-osmali-turks-led-by-osman-bey-take-the-byzantine-fortress-of-bursa-after-a-nine-year-siege-turkey-1326",
+      "label": "The Osmali Turks, led by\u00a0Osman Bey, take the Byzantine fortress of\u00a0Bursa\u00a0after a nine-year siege (Turkey).",
+      "date": 1326
+    },
+    {
+      "id": "the-treaty-of-edinburgh-northampton-establishes-scottish-independence-from-england-1328",
+      "label": "The\u00a0Treaty of Edinburgh-Northampton\u00a0establishes\u00a0Scottish independence\u00a0from England.",
+      "date": 1328
+    },
+    {
+      "id": "casimir-iii-the-great-ascends-to-the-throne-of-poland-1333",
+      "label": "Casimir III The Great\u00a0ascends to the throne of Poland.",
+      "date": 1333
+    },
+    {
+      "id": "the-international-gothic-st-ansanus-altarpiece-is-painted-by-simone-martini-and-lippo-memmi-for-a-side-altar-of-the-siena-cathedral-italy-1335",
+      "label": "The International Gothic\u00a0St. Ansanus Altarpiece\u00a0is painted by\u00a0Simone Martini\u00a0and\u00a0Lippo Memmi\u00a0for a side altar of the Siena Cathedral (Italy).",
+      "date": 1335
+    },
+    {
+      "id": "harihara-i-and-his-brother-bukka-raya-i-of-the-sangama-dynasty-found-the-vijayanagara-empire-in-the-deccan-plateau-region-of-southern-india-1336",
+      "label": "Harihara I and his brother Bukka Raya I of the Sangama Dynasty found the\u00a0Vijayanagara Empire\u00a0in the Deccan Plateau region of southern India.",
+      "date": 1336
+    },
+    {
+      "id": "england-and-france-begin-the-hundred-years-war-which-rages-on-and-off-for-116-years-1337",
+      "label": "England and France begin the\u00a0Hundred Years\u2019 War, which rages on and off for 116 years.",
+      "date": 1337
+    },
+    {
+      "id": "birth-of-geoffrey-chaucer-in-london-england-now-uk-1343",
+      "label": "Birth of Geoffrey Chaucer\u00a0in London, England (now UK).",
+      "date": 1343
+    },
+    {
+      "id": "notre-dame-de-paris-a-french-gothic-cathedral-is-completed-france-1345",
+      "label": "Notre Dame de Paris, a French Gothic cathedral, is completed (France).",
+      "date": 1345
+    },
+    {
+      "id": "during-the-early-years-of-the-hundred-years-war-the-english-led-by-edward-iii-defeat-the-french-under-philip-vi-at-the-battle-of-cr-cy-1346",
+      "label": "During the early years of the\u00a0Hundred Years War, the English defeat the French at the\u00a0Battle of Cr\u00e9cy.",
+      "date": 1346
+    },
+    {
+      "id": "the-black-death-bubonic-plague-arrives-in-europe-between-1347-and-1353-the-plague-will-kill-an-estimated-30-60-of-the-population-1347",
+      "label": "The\u00a0Black Death arrives in Europe. The plague will kill an estimated 30-60% of the population.",
+      "date": 1347
+    },
+    {
+      "id": "founding-of-the-university-of-kracow-poland-1348",
+      "label": "Founding of the\u00a0University of Kracow\u00a0(Poland).",
+      "date": 1348
+    },
+    {
+      "id": "polish-king-kasimir-iii-defeats-and-annexes-the-kingdom-of-galicia-volhynia-1349",
+      "label": "Polish King\u00a0Kasimir III\u00a0defeats and annexes the\u00a0Kingdom of Galicia-Volhynia.",
+      "date": 1349
+    },
+    {
+      "id": "the-traditional-date-for-the-beginning-of-the-italian-renaissance-in-florence-italy-1350",
+      "label": "The traditional date for the beginning of the\u00a0Italian Renaissance\u00a0in Florence (Italy).",
+      "date": 1350
+    },
+    {
+      "id": "king-ramathibodi-i-establishes-the-kingdom-of-ayutthaya-thailand-1351",
+      "label": "King Ramathibodi I\u00a0establishes the\u00a0Kingdom of Ayutthaya\u00a0(Thailand).",
+      "date": 1351
+    },
+    {
+      "id": "ibn-battuta-completes-rihla-the-journey-an-arabic-language-account-of-his-travels-morocco-1355",
+      "label": "Ibn Battuta\u00a0completes\u00a0Rihla (The Journey),\u00a0an Arabic-language account of his travels (Morocco).",
+      "date": 1355
+    },
+    {
+      "id": "the-english-and-french-sign-the-treaty-of-br-tigny-and-treaty-of-calais-establishing-a-temporary-truce-in-the-100-years-war-france-1360",
+      "label": "The English and French sign the\u00a0Treaty of Br\u00e9tigny\u00a0and\u00a0Treaty of Calais, establishing a temporary truce in the 100 Years\u2019 War (France).",
+      "date": 1360
+    },
+    {
+      "id": "the-r-faj-kull-volcano-erupts-devastating-northern-iceland-1362",
+      "label": "The\u00a0\u00d6r\u00e6faj\u00f6kull\u00a0volcano\u00a0erupts, devastating northern Iceland.",
+      "date": 1362
+    },
+    {
+      "id": "guillaume-de-machaut-s-messe-de-notre-dame-is-the-first-polyphonic-setting-of-the-ordinary-of-the-christian-mass-that-is-attributable-to-a-single-composer-france-1365",
+      "label": "Guillaume de Machaut\u2019s\u00a0Messe de Notre-Dame\u00a0is the first polyphonic setting of the Ordinary of the Christian Mass that is attributable to a single composer (France).",
+      "date": 1365
+    },
+    {
+      "id": "the-ming-dynasty-is-founded-china-1368",
+      "label": "The\u00a0Ming Dynasty\u00a0is founded (China).",
+      "date": 1368
+    },
+    {
+      "id": "timur-tamerlane-defeats-his-former-ally-husayn-at-the-siege-of-balkh-and-becomes-ruler-of-the-western-chaghatai-in-transoxiana-uzbekistan-1370",
+      "label": "Timur (Tamerlane)\u00a0defeats his former ally Husayn at the\u00a0Siege of Balkh\u00a0and becomes ruler of the western Chaghatai in Transoxiana (Uzbekistan).",
+      "date": 1370
+    },
+    {
+      "id": "the-ottomans-under-lala-shahin-pasha-defeat-the-serbs-under-king-prilep-vuka-in-mrnjav-evi-and-his-brother-despot-uglje-a-both-of-whom-are-killed-in-the-battle-of-maritsa-near-the-village-of-chernomen-greece-1371",
+      "label": "The Ottomans under\u00a0Lala Shahin Pasha\u00a0defeat the Serbs under King Prilep Vuka\u0161in Mrnjav\u010devi\u0107 and his brother despot Uglje\u0161a (both of whom are killed) in the\u00a0Battle of Maritsa\u00a0near the village of Chernomen (Greece).",
+      "date": 1371
+    },
+    {
+      "id": "the-belltower-or-campanile-of-the-pisa-cathedral-leaning-tower-of-pisa-is-completed-italy-1372",
+      "label": "The belltower or campanile, of the Pisa Cathedral (Leaning Tower of Pisa) is completed (Italy).",
+      "date": 1372
+    },
+    {
+      "id": "the-roman-catholic-papacy-returns-to-rome-from-avignon-italy-1377",
+      "label": "The\u00a0Roman Catholic Papacy\u00a0returns to Rome from Avignon (Italy).",
+      "date": 1377
+    },
+    {
+      "id": "the-western-schism-begins-with-the-election-of-three-different-roman-catholic-popes-all-of-whom-claim-to-be-supreme-pontiff-of-the-church-italy-1378",
+      "label": "The\u00a0Western Schism\u00a0begins with the election of three different Roman Catholic popes, all of whom claim to be Supreme Pontiff of the Church (Italy).",
+      "date": 1378
+    },
+    {
+      "id": "an-alliance-of-russian-principalities-led-by-prince-dmitri-of-moscow-defeats-an-army-of-the-mongol-golden-horde-under-mamai-at-the-battle-of-kulikovo-1380",
+      "label": "An alliance of Russian principalities led by\u00a0Prince Dmitri of Moscow\u00a0defeats an army of the Mongol Golden Horde under Mamai at the\u00a0Battle of Kulikovo.",
+      "date": 1380
+    },
+    {
+      "id": "venice-defeats-genoa-in-the-war-of-chioggia-italy-1381",
+      "label": "Venice defeats Genoa in the\u00a0War of Chioggia\u00a0(Italy).",
+      "date": 1381
+    },
+    {
+      "id": "jean-bondol-hennequin-of-bruges-nicolas-bataille-robert-poin-on-create-the-apocalypse-tapestry-for-louis-i-duke-of-anjou-france-1382",
+      "label": "Jean Bondol\u00a0(Hennequin of Bruges),\u00a0Nicolas Bataille, &\u00a0Robert Poin\u00e7on\u00a0create the\u00a0Apocalypse Tapestry\u00a0for Louis I, Duke of Anjou (France).",
+      "date": 1382
+    },
+    {
+      "id": "john-the-great-s-victory-over-castile-at-the-battle-of-ajubarrota-ensures-portugal-s-independence-1385",
+      "label": "John the Great\u2019s\u00a0victory over Castile at the\u00a0Battle of Ajubarrota\u00a0ensures Portugal\u2019s independence.",
+      "date": 1385
+    },
+    {
+      "id": "the-first-battle-of-kosovo-pits-an-army-of-serbs-and-bosnians-led-by-serbian-prince-lazar-hrebeljanovi-against-the-invading-army-of-the-ottoman-empire-under-the-command-of-sultan-murad-i-both-leaders-die-in-the-battle-and-there-is-no-clear-victor-kosovo-1389",
+      "label": "The\u00a0First Battle of Kosovo\u00a0pits an army of Serbs and Bosnians led by\u00a0Serbian Prince Lazar Hrebeljanovi\u0107\u00a0against the invading army of the Ottoman Empire under the command of\u00a0Sultan Murad I. Both leaders die in the battle, and there is no clear victor (Kosovo).",
+      "date": 1389
+    },
+    {
+      "id": "lukeni-lua-nimi-conquers-the-kingdom-of-the-mwene-kabunga-in-west-central-africa-to-found-the-kingdom-of-kongo-dya-ntotila-angola-congo-1390",
+      "label": "Lukeni lua Nimi\u00a0conquers the Kingdom of the Mwene Kabunga in West Central Africa to found the\u00a0Kingdom of Kongo Dya Ntotila\u00a0(Angola; Congo).",
+      "date": 1390
+    },
+    {
+      "id": "muhammad-v-nasrid-ruler-of-the-emirate-of-granada-builds-the-palace-of-the-lions-and-the-mexuar-in-the-alhambra-spain-1391",
+      "label": "Muhammad V, Nasrid ruler of the Emirate of Granada, builds the\u00a0Palace of the Lions\u00a0and the\u00a0Mexuar\u00a0in the\u00a0Alhambra\u00a0(Spain).",
+      "date": 1391
+    },
+    {
+      "id": "charles-vi-expels-the-jews-from-france-1394",
+      "label": "Charles VI\u00a0expels the Jews from France.",
+      "date": 1394
+    },
+    {
+      "id": "the-wilton-diptych-is-painted-uk-1395",
+      "label": "The\u00a0Wilton Diptych\u00a0is painted (UK).",
+      "date": 1395
+    },
+    {
+      "id": "the-12-year-long-durga-devi-famine-begins-in-the-deccan-plateau-india-1396",
+      "label": "The 12-year-long\u00a0Durga Devi famine\u00a0begins in the Deccan Plateau (India).",
+      "date": 1396
+    },
+    {
+      "id": "queen-margaret-i-of-denmark-establishes-the-kalmar-union-uniting-denmark-sweden-and-norway-1397",
+      "label": "Queen Margaret I of Denmark\u00a0establishes the\u00a0Kalmar Union,\u00a0uniting Denmark, Sweden and Norway.",
+      "date": 1397
+    },
+    {
+      "id": "johannes-gutenberg-is-born-in-the-electorate-of-mainz-now-germany-1398",
+      "label": "Johannes Gutenberg is born\u00a0in the Electorate of Mainz (now Germany).",
+      "date": 1398
+    },
+    {
+      "id": "richard-ii-abdicates-the-throne-and-henry-bolingbroke-becomes-henry-iv-uk-england-1399",
+      "label": "Richard II\u00a0abdicates the throne and Henry Bolingbroke becomes\u00a0Henry IV\u00a0(UK: England).",
+      "date": 1399
+    },
+    {
+      "id": "paramesvara-establishes-the-kingdom-of-malacca-on-the-malay-peninsula-malaysia-1400",
+      "label": "Paramesvara\u00a0establishes the\u00a0Kingdom of Malacca\u00a0on the Malay peninsula (Malaysia).",
+      "date": 1400
+    },
+    {
+      "id": "timur-leads-the-timurid-mongols-to-victory-over-the-ottomans-at-the-battle-of-ankara-turkey-1402",
+      "label": "Timur\u00a0leads the Timurid Mongols to victory over the Ottomans at the\u00a0Battle of Ankara\u00a0(Turkey).",
+      "date": 1402
+    },
+    {
+      "id": "first-of-seven-chinese-naval-expeditions-under-zheng-he-china-1405",
+      "label": "First of seven\u00a0Chinese naval expeditions\u00a0under\u00a0Zheng He\u00a0(China).",
+      "date": 1405
+    },
+    {
+      "id": "first-of-seven-chinese-naval-expeditions-under-zheng-he-china-1406",
+      "label": "First of seven\u00a0Chinese naval expeditions\u00a0under\u00a0Zheng He\u00a0(China).",
+      "date": 1406
+    },
+    {
+      "id": "poland-under-king-w-adys-aw-ii-jagie-o-and-lithuania-under-grand-duke-vytautas-decisively-defeat-the-german-prussian-teutonic-knights-led-by-grand-master-ulrich-von-jungingen-at-the-battle-of-grunwald-poland-1410",
+      "label": "Poland, under\u00a0King W\u0142adys\u0142aw II Jagie\u0142\u0142o, and Lithuania, under\u00a0Grand Duke Vytautas, decisively defeat the German\u2013Prussian Teutonic Knights, led by Grand Master Ulrich von Jungingen, at the\u00a0Battle of Grunwald\u00a0(Poland).",
+      "date": 1410
+    },
+    {
+      "id": "birth-of-joan-of-arc-in-domr-my-france-1412",
+      "label": "Birth of Joan of Arc\u00a0in Domr\u00e9my, France.",
+      "date": 1412
+    },
+    {
+      "id": "the-english-under-king-henry-v-defeat-the-french-led-by-constable-charles-d-albret-at-the-battle-of-agincourt-the-victory-begins-a-period-of-english-success-in-the-hundred-years-war-france-1415",
+      "label": "The English defeat the French at the Battle of Agincourt. The victory begins a period of English success in the Hundred Years War(France).",
+      "date": 1415
+    },
+    {
+      "id": "the-limbourg-brothers-create-the-international-gothic-illuminated-prayer-book-les-tr-s-riches-heures-du-duc-de-berry-france-1416",
+      "label": "The\u00a0Limbourg Brothers\u00a0create the International Gothic illuminated\u00a0prayer book\u00a0Les Tr\u00e8s Riches Heures du Duc de Berry\u00a0(France).",
+      "date": 1416
+    },
+    {
+      "id": "building-of-the-forbidden-city-at-beijing-is-completed-china-1420",
+      "label": "Building of the\u00a0Forbidden City at Beijing\u00a0is completed (China).",
+      "date": 1420
+    },
+    {
+      "id": "work-on-the-old-hall-manuscript-a-collection-of-english-sacred-music-is-complete-uk-1421",
+      "label": "Work on the\u00a0Old Hall Manuscript, a collection of English sacred music, is complete (UK).",
+      "date": 1421
+    },
+    {
+      "id": "a-french-army-led-by-a-teenage-joan-of-arc-liberates-orleans-from-the-english-siege-france-1425",
+      "label": "A French army led by a teenage\u00a0Joan of Arc\u00a0liberates Orleans from the English siege (France).",
+      "date": 1425
+    },
+    {
+      "id": "the-aztec-city-states-tenochtitlan-texcoco-and-tlacopan-form-a-triple-alliance-to-defeat-the-tepanec-state-of-azcapotzalco-the-first-step-toward-establishing-the-aztec-empire-mexico-1427",
+      "label": "The Aztec city-states Tenochtitlan, Texcoco and Tlacopan form a triple alliance to defeat the Tepanec state of Azcapotzalco, the first step toward establishing the\u00a0Aztec Empire\u00a0(Mexico).",
+      "date": 1427
+    },
+    {
+      "id": "early-renaissance-artist-masaccio-paints-frescoes-in-the-brancacci-chapel-and-the-santa-maria-novella-church-in-florence-italy-1428",
+      "label": "Early Renaissance artist\u00a0Masaccio\u00a0paints frescoes in the\u00a0Brancacci Chapel\u00a0and\u00a0the\u00a0Santa Maria Novella Church\u00a0in Florence (Italy).",
+      "date": 1428
+    },
+    {
+      "id": "joan-of-arc-leads-the-french-to-victory-over-the-english-at-the-siege-of-orl-ans-a-turning-point-in-the-hundred-years-war-france-1429",
+      "label": "Joan of Arc\u00a0leads the French to victory over the English at the\u00a0Siege of\u00a0Orl\u00e9ans, a turning point in the\u00a0Hundred Years War\u00a0(France).",
+      "date": 1429
+    },
+    {
+      "id": "joan-of-arc-is-tried-and-convicted-of-heresy-then-burned-at-the-stake-france-1431",
+      "label": "Joan of Arc\u00a0is tried and convicted of heresy, then burned at the stake (France).",
+      "date": 1431
+    },
+    {
+      "id": "the-ghent-altarpiece-is-painted-by-early-netherlandish-artist-jan-and-possibly-hubert-van-eyck-for-st-john-the-baptist-church-in-ghent-belgium-1432",
+      "label": "The Ghent Altarpiece\u00a0is\u00a0painted by Early Netherlandish artist\u00a0Jan (and possibly Hubert) van Eyck\u00a0for St. John the Baptist Church in Ghent (Belgium).",
+      "date": 1432
+    },
+    {
+      "id": "cosimo-de-medici-returns-from-exile-to-become-the-de-facto-leader-of-florence-italy-1434",
+      "label": "Cosimo de\u2019 Medici\u00a0returns from exile to become the de facto leader of Florence (Italy).",
+      "date": 1434
+    },
+    {
+      "id": "the-madonna-of-chancellor-rolin-a-painting-by-early-netherlandish-artist-jan-van-eyck-belgium-1435",
+      "label": "The\u00a0Madonna of Chancellor Rolin,\u00a0a painting by Early Netherlandish artist\u00a0Jan van Eyck\u00a0(Belgium).",
+      "date": 1435
+    },
+    {
+      "id": "vlad-ii-dracula-vlad-the-impaler-becomes-voivode-of-wallachia-for-the-first-time-romania-1436",
+      "label": "Vlad II Dracula\u00a0(Vlad the Impaler)\u00a0becomes voivode of\u00a0Wallachia\u00a0for the first time (Romania).",
+      "date": 1436
+    },
+    {
+      "id": "pachacutec-founds-the-inca-dynasty-peru-1438",
+      "label": "Pachacutec\u00a0founds the\u00a0Inca Dynasty\u00a0(Peru).",
+      "date": 1438
+    },
+    {
+      "id": "david-a-bronze-statue-by-early-renaissance-sculptor-donatello-italy-1440",
+      "label": "David,\u00a0a bronze statue by Early Renaissance sculptor\u00a0Donatello\u00a0(Italy).",
+      "date": 1440
+    },
+    {
+      "id": "the-venetian-gothic-style-doge-s-palace-is-completed-in-venice-italy-1442",
+      "label": "The Venetian Gothic-style\u00a0Doge\u2019s Palace\u00a0is completed in Venice (Italy).",
+      "date": 1442
+    },
+    {
+      "id": "the-ottomans-under-sultan-murad-ii-defeat-armies-led-by-w-adys-aw-iii-of-poland-and-hungary-john-hunyadi-and-mircea-ii-of-wallachia-in-the-battle-of-varna-bulgaria-1444",
+      "label": "The Ottomans\u00a0under\u00a0Sultan Murad II\u00a0defeat armies led by W\u0142adys\u0142aw III of Poland and Hungary, John Hunyadi\u00a0and Mircea II of Wallachia in the\u00a0Battle of Varna\u00a0(Bulgaria).",
+      "date": 1444
+    },
+    {
+      "id": "the-second-battle-of-kosovo-results-in-a-decisive-victory-for-the-ottomans-under-sultan-murad-ii-over-the-kingdom-of-hungary-and-wallachia-led-by-john-hunyadi-kosovo-1448",
+      "label": "The\u00a0Second Battle of Kosovo\u00a0results in a decisive victory for the Ottomans under\u00a0Sultan Murad II\u00a0over the Kingdom of Hungary and Wallachia led by John Hunyadi (Kosovo).",
+      "date": 1448
+    },
+    {
+      "id": "francesco-sforza-becomes-duke-of-milan-italy-1450",
+      "label": "Francesco Sforza\u00a0becomes Duke of Milan (Italy).",
+      "date": 1450
+    },
+    {
+      "id": "birth-of-isabella-queen-of-castile-and-le-n-in-madrigal-de-las-altas-torres-vila-now-spain-1451",
+      "label": "Birth of Isabella\u00a0(Queen of Castile and Le\u00f3n) in Madrigal de las Altas Torres, \u00c1vila (now Spain).",
+      "date": 1451
+    },
+    {
+      "id": "leonardo-da-vinci-is-born-in-vinci-republic-of-florence-now-italy-1452",
+      "label": "Leonardo da Vinci is born\u00a0in Vinci, Republic of Florence (now Italy).",
+      "date": 1452
+    },
+    {
+      "id": "after-a-53-day-siege-the-byzantine-capital-of-constantinople-falls-to-the-ottoman-turks-under-sultan-mehmed-ii-turkey-1453",
+      "label": "After a 53-day siege, the Byzantine capital of\u00a0Constantinople\u00a0falls to the Ottoman Turks under\u00a0Sultan Mehmed II\u00a0(Turkey).",
+      "date": 1453
+    },
+    {
+      "id": "pope-nicholas-v-negotiates-the-treaty-of-lodi-which-settles-hostilities-among-the-kingdom-of-naples-the-duchy-of-milan-and-the-republic-of-florence-italy-1454",
+      "label": "Pope Nicholas V negotiates the\u00a0Treaty of Lodi,\u00a0which settles hostilities among the Kingdom of Naples, the Duchy of Milan and the Republic of Florence (Italy).",
+      "date": 1454
+    },
+    {
+      "id": "the-war-of-the-roses-between-the-houses-of-lancaster-and-york-begins-with-the-battle-of-st-albans-near-london-uk-england-1455",
+      "label": "The\u00a0War of the Roses\u00a0between the houses of Lancaster and York begins with the\u00a0Battle of St. Albans\u00a0near London (UK: England).",
+      "date": 1455
+    },
+    {
+      "id": "vlad-the-impaler-becomes-voivode-of-wallachia-for-the-second-time-romania-1456",
+      "label": "Vlad the Impaler\u00a0becomes voivode of Wallachia for the second time (Romania).",
+      "date": 1456
+    },
+    {
+      "id": "the-game-of-golf-is-being-played-in-scotland-uk-1457",
+      "label": "The game of\u00a0golf\u00a0is being played in Scotland (UK).",
+      "date": 1457
+    },
+    {
+      "id": "at-the-congress-of-mantua-pope-pius-ii-calls-for-a-crusade-against-the-ottoman-empire-italy-1459",
+      "label": "At the\u00a0Congress of Mantua,\u00a0Pope Pius II calls for a crusade against the Ottoman Empire (Italy).",
+      "date": 1459
+    },
+    {
+      "id": "birth-of-vasco-da-gama-in-alentejo-portugal-1460",
+      "label": "Birth of Vasco da Gama\u00a0in Alentejo, Portugal.",
+      "date": 1460
+    },
+    {
+      "id": "probable-date-of-the-requiem-by-johannes-ockegham-the-earliest-surviving-polyphonic-setting-of-the-roman-catholic-mass-for-the-dead-france-1461",
+      "label": "Probable date of the\u00a0Requiem\u00a0by\u00a0Johannes Ockegham, the earliest surviving polyphonic setting of the Roman Catholic Mass for the Dead (France).",
+      "date": 1461
+    },
+    {
+      "id": "vlad-the-impaler-wreaks-havoc-on-the-ottomans-in-bulgaria-causing-ottoman-sultan-mehmed-ii-to-invade-wallachia-bulgaria-romania-1462",
+      "label": "Vlad the Impaler\u00a0wreaks havoc on the Ottomans in Bulgaria, causing Ottoman Sultan Mehmed II to invade Wallachia (Bulgaria; Romania).",
+      "date": 1462
+    },
+    {
+      "id": "early-renaissance-artist-piero-della-francesca-paints-the-resurrection-of-christ-on-the-wall-of-the-comunale-in-sansepolcro-italy-1465",
+      "label": "Early Renaissance artist\u00a0Piero della Francesca\u00a0paints\u00a0The Resurrection of Christ\u00a0on the wall of the Comunale in Sansepolcro (Italy).",
+      "date": 1465
+    },
+    {
+      "id": "johannes-gutenberg-dies-1468",
+      "label": "Johannes Gutenberg dies.",
+      "date": 1468
+    },
+    {
+      "id": "birth-of-niccol-machiavelli-in-the-republic-of-florence-now-italy-1469",
+      "label": "Birth of Niccol\u00f2 Machiavelli\u00a0in the Republic of Florence (now Italy).",
+      "date": 1469
+    },
+    {
+      "id": "work-is-halted-on-the-unfinished-cologne-cathedral-germany-1473",
+      "label": "Work is halted on the unfinished\u00a0Cologne Cathedral\u00a0(Germany).",
+      "date": 1473
+    },
+    {
+      "id": "early-renaissance-artist-andrea-mantegna-completes-the-frescoes-in-the-camera-degli-sposi-of-castello-san-giorgio-in-mantua-italy-1474",
+      "label": "Early Renaissance artist\u00a0Andrea Mantegna\u00a0completes the frescoes in the\u00a0Camera degli Sposi\u00a0of Castello San Giorgio in Mantua (Italy).",
+      "date": 1474
+    },
+    {
+      "id": "the-portinari-altarpiece-painted-by-early-netherlandish-artist-hugo-van-der-goes-belgium-1475",
+      "label": "The Portinari Altarpiece,\u00a0painted by Early Netherlandish artist\u00a0Hugo van der Goes\u00a0(Belgium).",
+      "date": 1475
+    },
+    {
+      "id": "vlad-the-impaler-returns-to-the-wallachian-throne-for-the-third-and-final-time-before-dying-shortly-thereafter-romania-1476",
+      "label": "Vlad the Impaler\u00a0returns to the Wallachian throne for the third and final time before dying shortly thereafter (Romania).",
+      "date": 1476
+    },
+    {
+      "id": "no-one-expects-it-when-ferdinand-ii-of-aragon-and-isabella-i-of-castile-set-up-the-tribunal-of-the-holy-office-of-the-inquisition-the-spanish-inquisition-spain-1478",
+      "label": "No one expects it when Ferdinand II of Aragon and Isabella I of Castile set up the Tribunal of the Holy Office of the Inquisition (the Spanish Inquisition) (Spain).",
+      "date": 1478
+    },
+    {
+      "id": "the-ottomans-and-venice-conclude-15-years-of-war-with-the-treaty-of-constantinople-turkey-1480",
+      "label": "The Ottomans and Venice conclude 15 years of war with the\u00a0Treaty of Constantinople\u00a0(Turkey).",
+      "date": 1480
+    },
+    {
+      "id": "la-primavera-spring-a-painting-by-florentine-early-renaissance-artist-sandro-botticelli-italy-1482",
+      "label": "La Primavera (Spring),\u00a0a painting by Florentine Early Renaissance artist\u00a0Sandro Botticelli\u00a0(Italy).",
+      "date": 1482
+    },
+    {
+      "id": "le-morte-d-arthur-a-work-of-fiction-written-in-english-by-thomas-malory-uk-england-1485",
+      "label": "Le Morte d\u2019Arthur,\u00a0a work of fiction written in English by\u00a0Thomas Malory\u00a0(UK: England).",
+      "date": 1485
+    },
+    {
+      "id": "the-birth-of-venus-a-painting-by-florentine-early-renaissance-artist-sandro-botticelli-italy-1486",
+      "label": "The Birth of Venus, a painting by Florentine Early Renaissance artist\u00a0Sandro Botticelli\u00a0(Italy).",
+      "date": 1486
+    },
+    {
+      "id": "bartholemeu-dias-of-portugal-becomes-the-first-european-to-round-the-cape-of-good-hope-south-africa-1488",
+      "label": "Bartholemeu Dias\u00a0of Portugal becomes the first European to round the\u00a0Cape of Good Hope\u00a0(South Africa).",
+      "date": 1488
+    },
+    {
+      "id": "lady-with-an-ermine-a-painting-by-high-renaissance-artist-leonardo-da-vinci-italy-1490",
+      "label": "Lady with an Ermine, a painting by High Renaissance artist\u00a0Leonardo da Vinci\u00a0(Italy).",
+      "date": 1490
+    },
+    {
+      "id": "after-encounters-with-the-portuguese-kongo-king-nzinga-a-nkuwu-converts-to-christianity-and-takes-the-name-of-jo-o-i-in-honor-of-portugal-s-king-jo-o-ii-angola-congo-1491",
+      "label": "After encounters with the Portuguese,\u00a0Kongo King Nzinga a Nkuwu\u00a0converts to Christianity and\u00a0takes the name of Jo\u00e3o I in honor of Portugal\u2019s king Jo\u00e3o II (Angola; Congo).",
+      "date": 1491
+    },
+    {
+      "id": "christopher-columbus-crosses-the-atlantic-ocean-lands-in-the-west-indies-and-claims-them-for-spain-the-bahamas-1492",
+      "label": "Christopher Columbus\u00a0crosses the Atlantic Ocean, lands in the West Indies and claims them for Spain (The Bahamas).",
+      "date": 1492
+    },
+    {
+      "id": "in-the-treaty-of-tordesillas-spain-and-portugal-divide-up-the-world-outside-europe-between-them-1494",
+      "label": "In the\u00a0Treaty of Tordesillas,\u00a0Spain and Portugal divide up the world outside Europe between them.",
+      "date": 1494
+    },
+    {
+      "id": "the-holy-league-organized-by-pope-alexander-vi-defeats-the-french-at-the-battle-of-fornovo-and-forces-charles-viii-to-leave-italy-1495",
+      "label": "The\u00a0Holy League\u00a0organized by Pope Alexander VI defeats the French at the\u00a0Battle of Fornovo\u00a0and forces Charles VIII to leave Italy.",
+      "date": 1495
+    },
+    {
+      "id": "john-cabot-reaches-newfoundland-and-claims-it-for-england-canada-1497",
+      "label": "John Cabot reaches\u00a0Newfoundland\u00a0and claims it for England (Canada).",
+      "date": 1497
+    },
+    {
+      "id": "portuguese-explorer-vasco-de-gama-becomes-the-first-european-to-travel-from-europe-to-india-by-sea-1498",
+      "label": "Portuguese explorer\u00a0Vasco de Gama\u00a0becomes the first European to travel from Europe to India by sea.",
+      "date": 1498
+    },
+    {
+      "id": "the-ottomans-defeat-the-venetians-at-the-battle-of-zonchio-greece-1499",
+      "label": "The Ottomans defeat the Venetians at the\u00a0Battle of Zonchio\u00a0(Greece).",
+      "date": 1499
+    }
+  ]
+}

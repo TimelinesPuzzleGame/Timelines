@@ -1,0 +1,90 @@
+{
+  "slug": "user-1747606865967",
+  "topic": "Grunge, Pop Punk, and Alt Rock",
+  "category": "Entertainment",
+  "subcategory": "Music",
+  "showTooltips": false,
+  "hideDates": false,
+  "cards": [
+    {
+      "label": "Smells Like Teen Spirit - Nirvana",
+      "date": 1991,
+      "id": "ugc-1747606865524-0",
+      "deezer": {
+        "trackId": 1540470272
+      }
+    },
+    {
+      "label": "Basket Case - Green Day",
+      "date": 1994,
+      "id": "ugc-1747606865871-1",
+      "deezer": {
+        "trackId": 678044
+      }
+    },
+    {
+      "label": "Creep - Radiohead",
+      "date": 1992,
+      "id": "ugc-1747606865631-2",
+      "deezer": {
+        "trackId": 138547415
+      }
+    },
+    {
+      "label": "Everlong - Foo Fighters",
+      "date": 1997,
+      "id": "ugc-1747606865546-3",
+      "deezer": {
+        "trackId": 4762041
+      }
+    },
+    {
+      "label": "All the Small Things - Blink-182",
+      "date": 1999,
+      "id": "ugc-1747606865916-4",
+      "deezer": {
+        "trackId": 127354207
+      }
+    },
+    {
+      "label": "Chop Suey! - System of a Down",
+      "date": 2001,
+      "id": "ugc-1747606865501-5",
+      "deezer": {
+        "trackId": 15523781
+      }
+    },
+    {
+      "label": "In the End - Linkin Park",
+      "date": 2000,
+      "id": "ugc-1747606865619-6",
+      "deezer": {
+        "trackId": 676183
+      }
+    },
+    {
+      "label": "Blurry - Puddle of Mudd",
+      "date": 2001,
+      "id": "ugc-1747606865626-7",
+      "deezer": {
+        "trackId": 623731972
+      }
+    },
+    {
+      "label": "My Own Worst Enemy - Lit",
+      "date": 1999,
+      "id": "ugc-1747606865565-8",
+      "deezer": {
+        "trackId": 967040
+      }
+    },
+    {
+      "label": "Machinehead - Bush",
+      "date": 1996,
+      "id": "ugc-1747606865571-9",
+      "deezer": {
+        "trackId": 361116541
+      }
+    }
+  ]
+}

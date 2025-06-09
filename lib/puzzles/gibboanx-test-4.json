@@ -1,0 +1,432 @@
+{
+  "slug": "gibboanx-test-4",
+  "topic": "Gibboanx Test Puzzle 4",
+  "category": "Entertainment",
+  "subcategory": "Movies/TV",
+  "hideDates": false,
+  "showTooltips": true,
+  "variantSystem": {
+    "enabled": true,
+    "totalScenes": 10,
+    "selectionStrategy": "random_per_round"
+  },
+  "cards": [
+    {
+      "id": "gibboanx-test-4-1",
+      "label": "Mystic River",
+      "date": 2003,
+      "year": 2003,
+      "youtube": "https://www.youtube.com/watch?v=LditjoHXYUw&t=0s&end=120s",
+      "duration": 286,
+      "variants": [
+        {
+          "id": "LditjoHXYUw-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=LditjoHXYUw&t=0s&end=120s",
+          "sceneDescription": "Mystic River - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "LditjoHXYUw-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=LditjoHXYUw&t=120s&end=286s",
+          "sceneDescription": "Mystic River - Part 2 (2:00 - 4:46)",
+          "startTime": 120,
+          "endTime": 286
+        }
+      ],
+      "variantCount": 2,
+      "tooltip": {
+        "description": "Mystic River (2003) - Quality Score: 45/100",
+        "genre": "Classic Film",
+        "crawlerScore": 45,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T20:34:51.509Z"
+      },
+      "movie": "Mystic River"
+    },
+    {
+      "id": "gibboanx-test-4-2",
+      "label": "Noah",
+      "date": 2014,
+      "year": 2014,
+      "youtube": "https://www.youtube.com/watch?v=wmesmRC6tRk&t=0s&end=120s",
+      "duration": 206,
+      "variants": [
+        {
+          "id": "wmesmRC6tRk-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=wmesmRC6tRk&t=0s&end=120s",
+          "sceneDescription": "Noah - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "wmesmRC6tRk-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=wmesmRC6tRk&t=120s&end=206s",
+          "sceneDescription": "Noah - Part 2 (2:00 - 3:26)",
+          "startTime": 120,
+          "endTime": 206
+        }
+      ],
+      "variantCount": 2,
+      "tooltip": {
+        "description": "Noah (2014) - Quality Score: 45/100",
+        "genre": "Classic Film",
+        "crawlerScore": 45,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T20:34:51.509Z"
+      },
+      "movie": "Noah"
+    },
+    {
+      "id": "gibboanx-test-4-3",
+      "label": "Paris",
+      "date": null,
+      "year": null,
+      "youtube": "https://www.youtube.com/watch?v=bcG_eFXJlgo&t=0s&end=135s",
+      "duration": 135,
+      "variants": [
+        {
+          "id": "bcG_eFXJlgo-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=bcG_eFXJlgo&t=0s&end=135s",
+          "sceneDescription": "Paris - Part 1 (0:00 - 2:15)",
+          "startTime": 0,
+          "endTime": 135
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Paris (NaN) - Quality Score: 45/100",
+        "genre": "Classic Film",
+        "crawlerScore": 45,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T20:34:51.509Z"
+      },
+      "movie": "Paris"
+    },
+    {
+      "id": "gibboanx-test-4-4",
+      "label": "Paris",
+      "date": null,
+      "year": null,
+      "youtube": "https://www.youtube.com/watch?v=bcG_eFXJlgo&t=0s&end=135s",
+      "duration": 135,
+      "variants": [
+        {
+          "id": "bcG_eFXJlgo-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=bcG_eFXJlgo&t=0s&end=135s",
+          "sceneDescription": "Paris - Part 1 (0:00 - 2:15)",
+          "startTime": 0,
+          "endTime": 135
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Paris (NaN) - Quality Score: 45/100",
+        "genre": "Classic Film",
+        "crawlerScore": 45,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T20:34:51.509Z"
+      },
+      "movie": "Paris"
+    },
+    {
+      "id": "gibboanx-test-4-5",
+      "label": "Casablanca",
+      "date": 1942,
+      "year": 1942,
+      "youtube": "https://www.youtube.com/watch?v=w3ruUJSgtzY&t=0s&end=120s",
+      "duration": 264,
+      "variants": [
+        {
+          "id": "w3ruUJSgtzY-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=w3ruUJSgtzY&t=0s&end=120s",
+          "sceneDescription": "Casablanca - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "w3ruUJSgtzY-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=w3ruUJSgtzY&t=120s&end=264s",
+          "sceneDescription": "Casablanca - Part 2 (2:00 - 4:24)",
+          "startTime": 120,
+          "endTime": 264
+        }
+      ],
+      "variantCount": 2,
+      "tooltip": {
+        "description": "Casablanca (1942) - Quality Score: 55/100",
+        "genre": "Classic Film",
+        "crawlerScore": 55,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 10,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T20:34:51.509Z"
+      },
+      "movie": "Casablanca"
+    },
+    {
+      "id": "gibboanx-test-4-6",
+      "label": "Predator",
+      "date": 1987,
+      "year": 1987,
+      "youtube": "https://www.youtube.com/watch?v=SiA_J6MEH3o&t=0s&end=46s",
+      "duration": 46,
+      "variants": [
+        {
+          "id": "SiA_J6MEH3o-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=SiA_J6MEH3o&t=0s&end=46s",
+          "sceneDescription": "Predator - Full Scene (0:00 - 0:46)",
+          "startTime": 0,
+          "endTime": 46
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Predator (1987) - Quality Score: 40/100",
+        "genre": "Classic Film",
+        "crawlerScore": 40,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 0,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T20:34:51.509Z"
+      },
+      "movie": "Predator"
+    },
+    {
+      "id": "gibboanx-test-4-7",
+      "label": "Punch-Drunk Love",
+      "date": 2002,
+      "year": 2002,
+      "youtube": "https://www.youtube.com/watch?v=F04Gln02mRI&t=0s&end=61s",
+      "duration": 61,
+      "variants": [
+        {
+          "id": "F04Gln02mRI-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=F04Gln02mRI&t=0s&end=61s",
+          "sceneDescription": "Punch-Drunk Love - Full Scene (0:00 - 1:01)",
+          "startTime": 0,
+          "endTime": 61
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Punch-Drunk Love (2002) - Quality Score: 45/100",
+        "genre": "Classic Film",
+        "crawlerScore": 45,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T20:34:51.509Z"
+      },
+      "movie": "Punch-Drunk Love"
+    },
+    {
+      "id": "gibboanx-test-4-8",
+      "label": "Rain Man",
+      "date": 1988,
+      "year": 1988,
+      "youtube": "https://www.youtube.com/watch?v=cso7nzw8j0I&t=0s&end=170s",
+      "duration": 170,
+      "variants": [
+        {
+          "id": "cso7nzw8j0I-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=cso7nzw8j0I&t=0s&end=170s",
+          "sceneDescription": "Rain Man - Part 1 (0:00 - 2:50)",
+          "startTime": 0,
+          "endTime": 170
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Rain Man (1988) - Quality Score: 45/100",
+        "genre": "Classic Film",
+        "crawlerScore": 45,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T20:34:51.509Z"
+      },
+      "movie": "Rain Man"
+    },
+    {
+      "id": "gibboanx-test-4-9",
+      "label": "Re-Animator",
+      "date": 1985,
+      "year": 1985,
+      "youtube": "https://www.youtube.com/watch?v=7HIgP7rUCaw&t=0s&end=20s",
+      "duration": 20,
+      "variants": [
+        {
+          "id": "7HIgP7rUCaw-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=7HIgP7rUCaw&t=0s&end=20s",
+          "sceneDescription": "Re-Animator - Full Scene (0:00 - 0:20)",
+          "startTime": 0,
+          "endTime": 20
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Re-Animator (1985) - Quality Score: 40/100",
+        "genre": "Classic Film",
+        "crawlerScore": 40,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 0,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T20:34:51.509Z"
+      },
+      "movie": "Re-Animator"
+    },
+    {
+      "id": "gibboanx-test-4-10",
+      "label": "Rebel Without a Cause",
+      "date": 1955,
+      "year": 1955,
+      "youtube": "https://www.youtube.com/watch?v=Rn0a55wxwCA&t=0s&end=120s",
+      "duration": 1104,
+      "variants": [
+        {
+          "id": "Rn0a55wxwCA-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=Rn0a55wxwCA&t=0s&end=120s",
+          "sceneDescription": "Rebel Without a Cause - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "Rn0a55wxwCA-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=Rn0a55wxwCA&t=120s&end=240s",
+          "sceneDescription": "Rebel Without a Cause - Part 2 (2:00 - 4:00)",
+          "startTime": 120,
+          "endTime": 240
+        },
+        {
+          "id": "Rn0a55wxwCA-variant-2",
+          "youtube": "https://www.youtube.com/watch?v=Rn0a55wxwCA&t=240s&end=360s",
+          "sceneDescription": "Rebel Without a Cause - Part 3 (4:00 - 6:00)",
+          "startTime": 240,
+          "endTime": 360
+        },
+        {
+          "id": "Rn0a55wxwCA-variant-3",
+          "youtube": "https://www.youtube.com/watch?v=Rn0a55wxwCA&t=360s&end=480s",
+          "sceneDescription": "Rebel Without a Cause - Part 4 (6:00 - 8:00)",
+          "startTime": 360,
+          "endTime": 480
+        },
+        {
+          "id": "Rn0a55wxwCA-variant-4",
+          "youtube": "https://www.youtube.com/watch?v=Rn0a55wxwCA&t=480s&end=600s",
+          "sceneDescription": "Rebel Without a Cause - Part 5 (8:00 - 10:00)",
+          "startTime": 480,
+          "endTime": 600
+        },
+        {
+          "id": "Rn0a55wxwCA-variant-5",
+          "youtube": "https://www.youtube.com/watch?v=Rn0a55wxwCA&t=600s&end=720s",
+          "sceneDescription": "Rebel Without a Cause - Part 6 (10:00 - 12:00)",
+          "startTime": 600,
+          "endTime": 720
+        },
+        {
+          "id": "Rn0a55wxwCA-variant-6",
+          "youtube": "https://www.youtube.com/watch?v=Rn0a55wxwCA&t=720s&end=840s",
+          "sceneDescription": "Rebel Without a Cause - Part 7 (12:00 - 14:00)",
+          "startTime": 720,
+          "endTime": 840
+        },
+        {
+          "id": "Rn0a55wxwCA-variant-7",
+          "youtube": "https://www.youtube.com/watch?v=Rn0a55wxwCA&t=840s&end=960s",
+          "sceneDescription": "Rebel Without a Cause - Part 8 (14:00 - 16:00)",
+          "startTime": 840,
+          "endTime": 960
+        },
+        {
+          "id": "Rn0a55wxwCA-variant-8",
+          "youtube": "https://www.youtube.com/watch?v=Rn0a55wxwCA&t=960s&end=1104s",
+          "sceneDescription": "Rebel Without a Cause - Part 9 (16:00 - 18:24)",
+          "startTime": 960,
+          "endTime": 1104
+        }
+      ],
+      "variantCount": 9,
+      "tooltip": {
+        "description": "Rebel Without a Cause (1955) - Quality Score: 35/100",
+        "genre": "Classic Film",
+        "crawlerScore": 35,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 0,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T20:34:51.509Z"
+      },
+      "movie": "Rebel Without a Cause"
+    }
+  ]
+}

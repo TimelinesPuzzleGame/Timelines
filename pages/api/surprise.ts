@@ -1,3 +1,5 @@
+console.log("OPENAI_API_KEY loaded:", !!process.env.OPENAI_API_KEY);
+
 import { NextApiRequest, NextApiResponse } from "next";
 import OpenAI from "openai";
 import { SURPRISE_PROMPTS } from "../../lib/prompts";
@@ -19,6 +21,27 @@ const schema = z.object({
   subcategory: z.string().optional()
 });
 
+// Type for the parsed result
+type ParsedResult = z.infer<typeof schema>;
+
+async function enrichMusicCards(cards: ParsedResult["cards"]) {
+  const enriched = await Promise.all(
+    cards.map(async (card, index) => {
+      const enriched = await searchDeezerTrack(card.label, card.date);
+      if (!enriched) return null;
+      return {
+        ...card,
+        id: `surprise-${Date.now()}-${index}`,
+        deezer: {
+          trackId: enriched.trackId,
+          preview: enriched.preview,
+        },
+      };
+    })
+  );
+  return enriched.filter(Boolean);
+}
+
 export default async function handler(req: NextApiRequest, res: NextApiResponse) {
   if (req.method !== "POST") return res.status(405).end();
 
@@ -35,7 +58,7 @@ export default async function handler(req: NextApiRequest, res: NextApiResponse)
           role: "system",
           content: `${SYSTEM_PROMPT}
 
-// This puzzle is in category "${config.category}"${config.subcategory ? `, subcategory "${config.subcategory}"` : ""}. Ensure all output reflects this.`
+// This puzzle is in category "${config.category}", subcategory "${subcategory}". Ensure all output reflects this.`
         },
         { role: "user", content: config.prompt }
       ],
@@ -70,57 +93,36 @@ export default async function handler(req: NextApiRequest, res: NextApiResponse)
       result.category = "Sports";
     }
 
-async function enrichMusicCards(cards: typeof result.cards) {
-  const enriched = await Promise.all(
-    cards.map(async (card, index) => {
-      const enriched = await searchDeezerTrack(card.label, card.date);
-      if (!enriched) return null;
-      return {
-        ...card,
-        id: `surprise-${Date.now()}-${index}`,
-        deezer: {
-          trackId: enriched.trackId,
-          preview: enriched.preview,
-        },
+    let final: typeof result;
+
+    if (subcategory === "Music") {
+      let attempts = 0;
+      let enrichedCards: any[] = [];
+
+      while (enrichedCards.length < 10 && attempts < 3) {
+        enrichedCards = await enrichMusicCards(result.cards);
+        attempts++;
+      }
+
+      if (enrichedCards.length < 10) {
+        return res.status(500).json({ error: "Not enough songs with previews" });
+      }
+
+      final = {
+        ...result,
+        cards: enrichedCards.slice(0, 10),
       };
-    })
-  );
-  return enriched.filter(Boolean);
-}
+    } else {
+      final = {
+        ...result,
+        cards: result.cards.map((card, index) => ({
+          ...card,
+          id: `surprise-${Date.now()}-${index}`,
+        })),
+      };
+    }
 
-let final: typeof result;
-
-if (subcategory === "Music") {
-  let attempts = 0;
-  let enrichedCards = [];
-
-  while (enrichedCards.length < 10 && attempts < 3) {
-    enrichedCards = await enrichMusicCards(result.cards);
-    attempts++;
-  }
-
-  if (enrichedCards.length < 10) {
-    return res.status(500).json({ error: "Not enough songs with previews" });
-  }
-
-  final = {
-    ...result,
-    cards: enrichedCards.slice(0, 10),
-  };
-} else {
-  final = {
-    ...result,
-    cards: result.cards.map((card, index) => ({
-      ...card,
-      id: `surprise-${Date.now()}-${index}`,
-    })),
-  };
-}
-
-return res.status(200).json(final);
-
-
-
+    return res.status(200).json(final);
   } catch (err) {
     console.error("Surprise GPT error", err);
     res.status(500).json({ error: "Failed to generate puzzle" });

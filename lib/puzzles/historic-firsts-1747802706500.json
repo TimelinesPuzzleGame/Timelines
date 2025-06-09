@@ -1,0 +1,216 @@
+{
+  "slug": "user-1747802543927",
+  "topic": "Historic firsts",
+  "category": "History",
+  "showTooltips": false,
+  "hideDates": false,
+  "cards": [
+    {
+      "id": "1851-great-exhibition-opens",
+      "label": "Great Exhibition Opens in London",
+      "date": 1851,
+      "tooltip": "The first world’s fair draws over six million visitors to Hyde Park, showcasing industrial achievements from around the globe."
+    },
+    {
+      "id": "1853-crimean-war-nursing-revolution",
+      "label": "Florence Nightingale radically re-organizes battlefield hospitals, pioneers modern nursing",
+      "date": 1853,
+      "tooltip": "Florence Nightingale radically re-organizes battlefield hospitals, pioneers modern nursing."
+    },
+
+    {
+      "id": "1859-darwin-publishes-origins",
+      "label": "Darwin’s theory of evolution by natural selection overturns centuries of thinking about life on Earth",
+      "date": 1859,
+      "tooltip": "Charles Darwin’s theory of evolution by natural selection overturns centuries of thinking about life on Earth."
+    },
+
+    {
+      "id": "1897-first-feature-film-shown",
+      "label": "First Feature Film Premieres in Paris",
+      "date": 1897,
+      "tooltip": "Auguste and Louis Lumière screen “La Sortie de l’Usine,” marking cinema’s birth as mass entertainment."
+    },
+
+    {
+      "id": "1903-first-powered-flight",
+      "label": "First Powered Flight by Wright Brothers",
+      "date": 1903,
+      "source": "https://en.wikipedia.org/wiki/Wright_brothers",
+      "tooltip": "Orville and Wilbur Wright complete the first controlled, sustained powered flight, launching the aviation age."
+    },
+   
+    {
+      "id": "1919-first-nonstop-transatlantic-flight",
+      "label": "First Nonstop Transatlantic Flight Completed",
+      "date": 1919,
+      "source": "https://en.wikipedia.org/wiki/Alcock_and_Brown",
+      "tooltip": "John Alcock and Arthur Brown fly nonstop from Newfoundland to Ireland, proving long-distance air travel."
+    },
+
+    {
+      "id": "1927-first-talking-film",
+      "label": "First 'Talkie' Premieres: The Jazz Singer",
+      "date": 1927,
+      "source": "https://en.wikipedia.org/wiki/The_Jazz_Singer",
+      "tooltip": "Al Jolson stars in The Jazz Singer, ushering in synchronized sound and revolutionizing cinema."
+    },
+    {
+      "id": "1933-first-drive-in-theater",
+      "label": "First Drive-In Movie Theater Opens",
+      "date": 1933,
+      "source": "https://en.wikipedia.org/wiki/Drive-in_theater#United_States",
+      "tooltip": "Richard Hollingshead’s drive-in in New Jersey introduces a novel way to watch films from your car."
+    },
+    {
+      "id": "1940-first-electronic-computer-z3",
+      "label": "Z3: World’s First Working Programmable Computer",
+      "date": 1941,
+      "source": "https://en.wikipedia.org/wiki/Z3_(computer)",
+      "tooltip": "Konrad Zuse’s Z3 uses binary arithmetic and punched tape, pioneering modern computing concepts."
+    },
+    {
+      "id": "1942-first-nuclear-reactor",
+      "label": "First Controlled Nuclear Chain Reaction Achieved",
+      "date": 1942,
+      "source": "https://en.wikipedia.org/wiki/Chicago_Pile-1",
+      "tooltip": "Enrico Fermi’s Chicago Pile-1 demonstrates a sustained nuclear chain reaction, starting the atomic age."
+    },
+    {
+      "id": "1945-first-nuclear-bomb-used",
+      "label": "Nuclear Bomb Used in Warfare for First Time",
+      "date": 1945,
+      "source": "https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki",
+      "tooltip": "The U.S. detonates atomic bombs over Hiroshima and Nagasaki, hastening World War II’s end."
+    },
+
+    {
+      "id": "1948-first-instant-camera",
+      "label": "Polaroid Introduces Instant Camera",
+      "date": 1948,
+      "source": "https://en.wikipedia.org/wiki/Polaroid_Imaging_Corporation#Instant_photography",
+      "tooltip": "Edwin Land’s camera produces developed photos in under a minute, revolutionizing photography."
+    },
+
+    {
+      "id": "2004-first-private-spaceplane",
+      "label": "First Privately Funded Spaceplane Flies",
+      "date": 2004,
+      "source": "https://en.wikipedia.org/wiki/SpaceShipOne",
+      "tooltip": "SpaceShipOne completes the first privately funded human spaceflight, inspiring a new commercial space industry."
+    },
+    {
+      "id": "2005-first-youtube-video",
+      "label": "First YouTube Video Uploaded",
+      "date": 2005,
+      "source": "https://en.wikipedia.org/wiki/YouTube#History",
+      "tooltip": "'Me at the zoo' becomes the first clip on YouTube, kickstarting the world's largest video-sharing platform."
+    },
+    {
+      "id": "2006-first-tweet",
+      "label": "First Tweet Sent on Twitter",
+      "date": 2006,
+      "source": "https://en.wikipedia.org/wiki/Twitter#History",
+      "tooltip": "Jack Dorsey's 'just setting up my twttr' marks the birth of real-time microblogging."
+    },
+    {
+      "id": "2007-first-iphone-launch",
+      "label": "First iPhone Launches",
+      "date": 2007,
+      "source": "https://en.wikipedia.org/wiki/IPhone_(1st_generation)",
+      "tooltip": "Apple's touchscreen smartphone redefines mobile devices, blending phone, iPod, and internet communications."
+    },
+
+    {
+      "id": "2013-first-3d-printed-car",
+      "label": "First 3D-Printed Car Revealed",
+      "date": 2013,
+      "source": "https://en.wikipedia.org/wiki/Local_Motors#3D_printed_cars",
+      "tooltip": "Local Motors unveils the Strati, the first vehicle with major components 3D-printed, hinting at future manufacturing breakthroughs."
+    },
+    {
+      "id": "2015-first-gravitational-wave-detection",
+      "label": "First Direct Gravitational Waves Detected",
+      "date": 2015,
+      "source": "https://en.wikipedia.org/wiki/Gravitational_wave#First_detection_of_gravitational_waves",
+      "tooltip": "LIGO observes ripples in spacetime from colliding black holes, confirming a century-old prediction of general relativity."
+    },
+    {
+      "id": "2018-first-autonomous-vehicle-fatality",
+      "label": "First Autonomous Vehicle Fatality Occurs",
+      "date": 2018,
+      "source": "https://en.wikipedia.org/wiki/2018_Uber_autonomous_vehicle_fatality",
+      "tooltip": "An Uber self-driving car strikes and kills a pedestrian, prompting global scrutiny of autonomous vehicle safety."
+    },
+    {
+      "id": "2021-first-female-us-vice-president",
+      "label": "First Female U.S. Vice President",
+      "date": 2021,
+      "source": "https://en.wikipedia.org/wiki/Kamala_Harris#Vice_presidency",
+      "tooltip": "Kamala Harris becomes the first woman and first woman of color to serve as vice president, breaking a historic glass ceiling."
+    },
+    {
+      "id": "2023-first-ai-chatbot-law-exam",
+      "label": "First AI Chatbot Passes U.S. Bar Exam",
+      "date": 2023,
+      "source": "https://en.wikipedia.org/wiki/Artificial_intelligence#Law",
+      "tooltip": "An AI model scores high enough to pass portions of the bar exam, raising questions about law practice and AI's role."
+    },
+
+    {
+      "id": "1961-first-human-orbits-earth",
+      "label": "First Human Orbits Earth",
+      "date": 1961,
+      "source": "https://en.wikipedia.org/wiki/Yuri_Gagarin",
+      "tooltip": "Yuri Gagarin becomes the first person in space, marking a milestone in the Space Race."
+    },
+
+    {
+      "id": "1967-first-super-bowl-played",
+      "label": "First Super Bowl Is Played",
+      "date": 1967,
+      "source": "https://en.wikipedia.org/wiki/Super_Bowl_I",
+      "tooltip": "The inaugural championship between NFL and AFL champions laid the foundation for a major American sports tradition."
+    },
+    {
+      "id": "1969-woodstock-festival-defines-era",
+      "label": "Woodstock Festival Defines a Generation",
+      "date": 1969,
+      "source": "https://en.wikipedia.org/wiki/Woodstock",
+      "tooltip": "A three-day music festival drawing half a million attendees embodied the counterculture ethos of peace and music."
+    },
+
+    {
+      "id": "1978-first-test-tube-baby-born",
+      "label": "First Test-Tube Baby Is Born",
+      "date": 1978,
+      "source": "https://en.wikipedia.org/wiki/Louise_Brown",
+      "tooltip": "Louise Brown’s birth via in vitro fertilization paved the way for modern assisted reproductive technologies."
+    },
+
+    {
+      "id": "1981-first-space-shuttle-flight",
+      "label": "First Space Shuttle Flight Takes Off",
+      "date": 1981,
+      "source": "https://en.wikipedia.org/wiki/Space_Shuttle_Columbia",
+      "tooltip": "Columbia inaugurates reusable spacecraft missions, revolutionizing human spaceflight."
+    },
+
+    {
+      "id": "1994-mandela-becomes-president",
+      "label": "Nelson Mandela Becomes First Black President of South Africa",
+      "date": 1994,
+      "source": "https://en.wikipedia.org/wiki/Nelson_Mandela",
+      "tooltip": "After 27 years in prison, Nelson Mandela’s election signaled the end of apartheid and the birth of a multiracial democracy."
+    },
+
+    {
+      "id": "2000-iss-permanent-crew",
+      "label": "First Permanent Crew Occupies ISS",
+      "date": 2000,
+      "source": "https://en.wikipedia.org/wiki/Expedition_1",
+      "tooltip": "Expedition 1 crew begins continuous human presence on the International Space Station, marking a new era of orbital habitation."
+    }
+  
+  ]
+}

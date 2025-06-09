@@ -1,0 +1,210 @@
+{
+    "slug": "cults",
+    "topic": "Cults",
+    "category": "History",
+    "subcategory": "True Crime",
+    "showTooltips": true,
+    "cards": [
+      {
+        "label": "Jonestown's Deadly Finale: 900 Perish in Jungle Tragedy",
+        "date": 1978,
+        "tooltip": "Jim Jones' Peoples Temple ends in mass suicide, marking one of history's darkest days."
+      },
+      {
+        "label": "Manson Family Murders Shock Hollywood Elite",
+        "date": 1969,
+        "tooltip": "Charles Manson's followers unleash terror, shaking America to its core."
+      },
+      {
+        "label": "Heaven's Gate: UFO Cult Found Dead in Mass Suicide",
+        "date": 1997,
+        "tooltip": "39 believers end their lives, hoping to board an extraterrestrial spacecraft."
+      },
+      {
+        "label": "Tokyo Subway Attack: Aum Shinrikyo Releases Sarin Gas",
+        "date": 1995,
+        "tooltip": "Deadly cult attack leaves Japan in horror, exposing leader Shoko Asahara."
+      },
+      {
+        "label": "Waco Inferno: Branch Davidians' Doomsday Standoff Ends",
+        "date": 1993,
+        "tooltip": "David Koresh's compound engulfed by fire after a tense siege with authorities."
+      },
+      {
+        "label": "Solar Temple Horror: International Cult Ends in Flames",
+        "date": 1994,
+        "tooltip": "Mass murders and suicides sweep Europe and Canada in apocalyptic ritual."
+      },
+      {
+        "label": "NXIVM's Dark Secrets: Hollywood Sex Cult Exposed",
+        "date": 2018,
+        "tooltip": "Keith Raniere convicted as celebrities entangled in sinister manipulation."
+      },
+      {
+        "label": "Children of God: Global Scandal of Exploitation Revealed",
+        "date": 1978,
+        "tooltip": "Cult's sinister 'free love' teachings unmask widespread abuse."
+      },
+      {
+        "label": "Uganda's Doomsday Cult: Hundreds Dead Awaiting Armageddon",
+        "date": 2000,
+        "tooltip": "Movement for Restoration of Ten Commandments ends in shocking tragedy."
+      },
+      {
+        "label": "The Family: Australia's Disturbing Cult of Stolen Childhoods",
+        "date": 1987,
+        "tooltip": "Anne Hamilton-Byrne's secretive cult uncovered after decades of abuse."
+      },
+      {
+        "label": "FLDS Prophet Warren Jeffs Arrested for Horrific Abuses",
+        "date": 2006,
+        "tooltip": "Polygamous cult leader sentenced, revealing a nightmare of oppression."
+      },
+      {
+        "label": "Rajneeshpuram Poisoning: Bioterror Attack Hits Oregon",
+        "date": 1984,
+        "tooltip": "Bhagwan Shree Rajneesh’s followers unleash salmonella outbreak on town."
+      },
+      {
+        "label": "Synanon's Dark Turn: From Rehab to Violent Cult",
+        "date": 1978,
+        "tooltip": "California-based utopian commune ends in brutality and scandal."
+      },
+      {
+        "label": "Angel's Landing: Kansas Cult Murders Unmasked",
+        "date": 2003,
+        "tooltip": "Daniel Perez's fraud and violence shock quiet community."
+      },
+      {
+        "label": "The Vampire Clan: Teen Cult’s Brutal Rampage in Florida",
+        "date": 1996,
+        "tooltip": "Rod Ferrell leads deluded teens in horrifying double murder."
+      },
+      {
+        "label": "Apostles of Infinite Love: Quebec Raid Exposes Hidden Abuse",
+        "date": 1966,
+        "tooltip": "Police uncover widespread mistreatment in secretive religious cult."
+      },
+      {
+        "label": "Love Has Won: Cult Leader Found Mummified in Bizarre Shrine",
+        "date": 2021,
+        "tooltip": "Amy Carlson's death reveals shocking beliefs in cosmic ascension."
+      },
+      {
+        "label": "Ant Hill Kids' Nightmare: Canada's Cult of Cruelty",
+        "date": 1989,
+        "tooltip": "Roch Thériault’s followers subject to unimaginable torture and horror."
+      },
+      {
+        "label": "Superior Universal Alignment: Brazilian Cult's Dark Crimes",
+        "date": 1992,
+        "tooltip": "Valentina de Andrade implicated in ritualistic child murders."
+      },
+      {
+        "label": "People's Temple Survivors Speak: Life Before Jonestown Tragedy",
+        "date": 1977,
+        "tooltip": "Ex-members share haunting experiences under Jim Jones."
+      },
+      {
+        "label": "Yahweh ben Yahweh: Miami's Temple of Terror Exposed",
+        "date": 1990,
+        "tooltip": "Cult leader convicted in brutal string of murders."
+      },
+      {
+        "label": "The Blackburn Cult: Ritual Murders Shock 1920s America",
+        "date": 1929,
+        "tooltip": "Mother-daughter duo charged with grotesque rituals and homicide."
+      },
+      {
+        "label": "The Sullivan Institute: NYC Therapy Cult Exposed",
+        "date": 1988,
+        "tooltip": "Manhattan’s secretive 'therapy' community dissolves amid scandal."
+      },
+      {
+        "label": "Freedomites: Canada’s Naked Bombers and Arsonists Caught",
+        "date": 1962,
+        "tooltip": "Radical Doukhobors arrested after violent attacks on authority."
+      },
+      {
+        "label": "Raëlism: UFO Cult Makes Global Headlines With Cloning Claims",
+        "date": 2002,
+        "tooltip": "Controversial cult announces shocking human cloning experiment."
+      },
+      {
+        "label": "The Family International: Second-Generation Survivors Speak",
+        "date": 2005,
+        "tooltip": "Formerly 'Children of God,' new accusations of abuse emerge."
+      },
+      {
+        "label": "Cult Leader Tony Alamo's Empire of Abuse Falls",
+        "date": 2009,
+        "tooltip": "Notorious evangelist arrested, revealing horrific abuses within ministry."
+      },
+      {
+        "label": "The Movementarians: Simpsons Satire Predicts Real Cult Dangers",
+        "date": 1998,
+        "tooltip": "Cartoon's eerie parody of cult tactics foreshadows disturbing realities."
+      },
+      {
+        "label": "Eastern Lightning: Deadly Fast-Food Murder Shocks China",
+        "date": 2014,
+        "tooltip": "Cult members attack innocent woman, exposing brutal beliefs."
+      },
+      {
+        "label": "Kirtland Cult Killings: Doomsday Group Turns Murderous",
+        "date": 1989,
+        "tooltip": "Jeffrey Lundgren executes twisted vision in brutal fashion."
+      },
+      {
+        "label": "Cult of Great Eleven: Los Angeles' Forgotten Murders",
+        "date": 1929,
+        "tooltip": "Cult leaders accused of bizarre rituals and mysterious deaths."
+      },
+      {
+        "label": "Order of St. Charbel: Australian Cult Leader Jailed for Abuse",
+        "date": 2005,
+        "tooltip": "Self-styled prophet William Kamm imprisoned after disturbing allegations."
+      },
+      {
+        "label": "Cult Siege Ends in Cave Collapse in Russia",
+        "date": 2008,
+        "tooltip": "True Russian Orthodox Church followers rescued from underground apocalypse."
+      },
+      {
+        "label": "The True Way Cult: Taiwanese UFO Sect's Failed Predictions",
+        "date": 1998,
+        "tooltip": "Cult leader's prophecy of God's TV appearance doesn't pan out."
+      },
+      {
+        "label": "Concerned Christians Cult Foiled in Jerusalem",
+        "date": 1999,
+        "tooltip": "Group planning violent apocalypse arrested by Israeli authorities."
+      },
+      {
+        "label": "Nation of Yahweh: FBI Raid Exposes Miami Cult Crimes",
+        "date": 1990,
+        "tooltip": "Yahweh ben Yahweh's followers arrested for shocking crimes."
+      },
+      {
+        "label": "The Russian Skoptsy: Secret Cult's Shocking Rituals Revealed",
+        "date": 1869,
+        "tooltip": "Authorities uncover bizarre practices of self-mutilation."
+      },
+      {
+        "label": "Montana Doomsday Bunkers Abandoned by Cult Followers",
+        "date": 1990,
+        "tooltip": "Elizabeth Clare Prophet’s failed apocalypse leaves followers disillusioned."
+      },
+      {
+        "label": "Blackburn Cult: Los Angeles Police Unveil Ritual Murders",
+        "date": 1929,
+        "tooltip": "Mother-daughter team charged in sinister rituals involving human sacrifices."
+      },
+      {
+        "label": "The Bigamist Prophet: Mormon Splinter Sect Leader Convicted",
+        "date": 2011,
+        "tooltip": "Sect exposed for forced marriages and manipulation under Warren Jeffs."
+      }
+    ]
+  }
+  

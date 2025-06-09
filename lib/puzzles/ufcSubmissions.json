@@ -1,0 +1,64 @@
+{
+  "slug": "ufc-submissions",
+  "topic": "Greatest UFC Submissions",
+  "category": "Sports",
+  "subcategory": "MMA",
+  "hideDates": false,
+  "cards": [
+       {
+      "label": "Khabib submits Gaethji with triangle choke",
+      "date": 2020,
+      "youtube": "https://www.youtube.com/watch?v=B-pbpGhv3So&t=2s&end=60s"
+    },
+    {
+      "label": "Korean Zombie submits Garcia with twister",
+      "date": 2011,
+      "youtube": "https://www.youtube.com/watch?v=B-pbpGhv3So&t=68s&end=152s"
+    },
+    {
+      "label": "Magomedsharipov submits Davis with knee bar",
+      "date": 2018,
+      "youtube": "https://www.youtube.com/watch?v=B-pbpGhv3So&t=152s&end=219s"
+    },
+    {
+      "label": "Rakhmonov submits Neal with rear naked choke",
+      "date": 2023,
+      "youtube": "https://www.youtube.com/watch?v=B-pbpGhv3So&t=224s&end=339s"
+    },
+    {
+      "label": "Pena submits Nunes with rear naked choke",
+      "date": 2022,
+      "youtube": "https://www.youtube.com/watch?v=B-pbpGhv3So&t=286s&end=343s"
+    },
+    {
+      "label": "Georges St-Pierre submits Bisping with rear naked choke",
+      "date": 2017,
+      "youtube": "https://www.youtube.com/watch?v=B-pbpGhv3So&t=2454s&end=2529s"
+    },
+    {
+      "label": "Maia submits Sonnen with triangle choke",
+      "date": 2009,
+      "youtube": "https://www.youtube.com/watch?v=B-pbpGhv3So&t=3166s&end=3238s"
+    },
+    {
+      "label": "Jones submits Lyoto Machida with guillotine choke",
+      "date": 2011,
+      "youtube": "https://www.youtube.com/watch?v=B-pbpGhv3So&t=3245s&end=3313s"  
+    },
+    {
+      "label": "Lesnar submits Carwin with arm triangle",
+      "date": 2010,
+      "youtube": "https://www.youtube.com/watch?v=B-pbpGhv3So&t=1313s&end=1429s"
+    },
+    {
+      "label": "Hughs Submits St-Pierre with armbar",
+      "date": 2004,
+      "youtube": "https://www.youtube.com/watch?v=B-pbpGhv3So&t=2983s&end=3028s"
+    },
+    {
+      "label": "Daiz submits McGregor with rear naked choke",
+      "date": 2016,
+      "youtube": "https://www.youtube.com/watch?v=B-pbpGhv3So&t=2853s&end=2923s"
+    }
+  ]
+}

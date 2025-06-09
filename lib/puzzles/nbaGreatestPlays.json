@@ -1,0 +1,447 @@
+{
+  "slug": "nba-greatest-plays",
+  "topic": "NBA's Greatest Plays",
+  "category": "Sports",
+  "subcategory": "Basketball",
+  "showTooltips": true,
+  "hideDates": false,
+  "cards": [
+  {
+  "label": "Melo Clutches Up at the Garden",
+  "date": 2012,
+  "youtube": "https://www.youtube.com/watch?v=UQWUHh3rJFo&t=53&end=65",
+  "tooltip": {
+    "description": "With 13.5 seconds left, Carmelo Anthony drills a deep three over Taj Gibson to tie the game and ignite Madison Square Garden.",
+    "quote": "\"Anthony for three... BANG! Tie game!\""
+  }
+},
+{
+  "label": "Harden Breaks Ankles, Then Drains It",
+  "date": 2018,
+  "youtube": "https://www.youtube.com/watch?v=UQWUHh3rJFo&t=80&end=92",
+  "tooltip": {
+    "description": "James Harden drops Wesley Johnson with a crossover, pauses to stare him down, then nails the step-back three.",
+    "quote": "\"Clean up on aisle 3!\""
+  }
+},
+{
+  "label": "Reggie Miller’s 8 Points in 9 Seconds",
+  "date": 1995,
+  "youtube": "https://www.youtube.com/watch?v=UQWUHh3rJFo&t=93&end=105",
+  "tooltip": {
+    "description": "Reggie Miller shocks the Knicks with 8 points in just 9 seconds — two threes, a steal, and game-sealing free throws.",
+    "quote": "\"Reggie Miller scoring 8 points in 9 seconds! Unbelievable!\""
+  }
+},
+{
+  "label": "Kemp Posters Lister, Then Points",
+  "date": 1992,
+  "youtube": "https://www.youtube.com/watch?v=UQWUHh3rJFo&t=106&end=115",
+  "tooltip": {
+    "description": "Shawn Kemp throws down a vicious double-clutch dunk over Alton Lister, then points at him as he falls — pure disrespect.",
+    "quote": "\"That's one of the greatest in-game dunks EVER.\""
+  }
+},
+{
+  "label": "Game 6 Klay Buries OKC",
+  "date": 2016,
+  "youtube": "https://www.youtube.com/watch?v=UQWUHh3rJFo&t=116&end=128",
+  "tooltip": {
+    "description": "Facing elimination, Klay Thompson hits an NBA playoff record 11 threes — including clutch bombs late — to save the Warriors in Game 6.",
+    "quote": "\"Game 6 Klay is not human!\""
+  }
+},
+{
+  "label": "Devonte’ Graham Hits 61-Foot Buzzer-Beater",
+  "date": 2021,
+  "youtube": "https://www.youtube.com/watch?v=UQWUHh3rJFo&t=129&end=139",
+  "tooltip": {
+    "description": "After Shai ties it with 1.4 seconds left, Devonte’ Graham responds with a 61-foot buzzer-beater — the longest in NBA history.",
+    "quote": "\"He threw that from the other free-throw line!\""
+  }
+},
+{
+  "label": "Wade Calls Game in Double OT",
+  "date": 2009,
+  "youtube": "https://www.youtube.com/watch?v=UQWUHh3rJFo&t=140&end=152",
+  "tooltip": {
+    "description": "Dwyane Wade picks off a pass in double OT, hits a running three at the buzzer, then leaps on the table yelling, 'This is my house!'",
+    "quote": "\"This is my house!\""
+  }
+},
+{
+  "label": "Klay Drops 37 in a Quarter",
+  "date": 2015,
+  "youtube": "https://www.youtube.com/watch?v=UQWUHh3rJFo&t=153&end=165",
+  "tooltip": {
+    "description": "Klay Thompson scores 37 points in the 3rd quarter vs. the Pacers, going 13-for-13 from the field and 9-for-9 from deep — an NBA record.",
+    "quote": "\"Klay Thompson is unconscious!\""
+  }
+},
+{
+  "label": "Shaq Shatters the Backboard",
+  "date": 1993,
+  "youtube": "https://www.youtube.com/watch?v=UQWUHh3rJFo&t=166&end=176",
+  "tooltip": {
+    "description": "Shaquille O’Neal dunks with such power that the entire backboard collapses — forcing the NBA to reinforce its rims league-wide.",
+    "quote": "\"He brought the whole thing down!\""
+  }
+},
+{
+  "label": "LeBron’s Legendary Finals Block",
+  "date": 2016,
+  "youtube": "https://www.youtube.com/watch?v=UQWUHh3rJFo&t=177&end=184",
+  "tooltip": {
+    "description": "In Game 7 of the 2016 Finals, LeBron James races down and blocks Andre Iguodala’s layup to preserve a tied score late in the 4th.",
+    "quote": "\"Blocked by James!\""
+  }
+},
+{
+  "label": "Kobe to Shaq Seals the Comeback",
+  "date": 2000,
+  "youtube": "https://www.youtube.com/watch?v=UQWUHh3rJFo&t=185&end=193",
+  "tooltip": {
+    "description": "In Game 7 of the 2000 West Finals, Kobe lobs it to Shaq for the exclamation point alley-oop to cap a 15-point comeback vs. Portland.",
+    "quote": "\"Kobe to Shaq!\""
+  }
+},
+{
+  "label": "Dirk’s Ice-Cold Game-Winner",
+  "date": 2011,
+  "youtube": "https://www.youtube.com/watch?v=UQWUHh3rJFo&t=194&end=202",
+  "tooltip": {
+    "description": "Dirk Nowitzki drives left and hits a clutch game-winning layup over Chris Bosh to steal Game 2 of the 2011 Finals in Miami.",
+    "quote": "\"Nowitzki with the left hand! Banks it in!\""
+  }
+},
+{
+  "label": "Wade Destroys Varejão at the Rim",
+  "date": 2009,
+  "youtube": "https://www.youtube.com/watch?v=UQWUHh3rJFo&t=203&end=210",
+  "tooltip": {
+    "description": "Dwyane Wade detonates on Anderson Varejão with a soaring one-handed poster dunk — sending him to the floor and the arena into chaos.",
+    "quote": "\"Welcome to your Kodak moment!\""
+  }
+},
+{
+  "label": "Kobe Buzzer-Beater to Beat the Suns",
+  "date": 2006,
+  "youtube": "https://www.youtube.com/watch?v=UQWUHh3rJFo&t=211&end=228",
+  "tooltip": {
+    "description": "In Game 4 of the 2006 playoffs, Kobe ties the game in OT, then hits the buzzer-beater fadeaway to give the Lakers the win over Phoenix.",
+    "quote": "\"Kobe... for the win... BANG!\""
+  }
+},
+{
+  "label": "Pippen Posters Ewing, Then Talks Trash",
+  "date": 1994,
+  "youtube": "https://www.youtube.com/watch?v=UQWUHh3rJFo&t=229&end=241",
+  "tooltip": {
+    "description": "Scottie Pippen detonates on Patrick Ewing in Game 6 of the 1994 playoffs, then steps over him and taunts Spike Lee courtside.",
+    "quote": "\"Sit down and shut up!\""
+  }
+},
+{
+  "label": "LeBron’s Miracle Buzzer-Beater vs. Orlando",
+  "date": 2009,
+  "youtube": "https://www.youtube.com/watch?v=UQWUHh3rJFo&t=242&end=252",
+  "tooltip": {
+    "description": "LeBron catches the inbounds with one second left and nails a turnaround three at the buzzer to beat the Magic in Game 2 of the ECF.",
+    "quote": "\"LeBron... for the win... GOT IT!\""
+  }
+},
+{
+  "label": "Dr. J Floats Behind the Backboard",
+  "date": 1980,
+  "youtube": "https://www.youtube.com/watch?v=UQWUHh3rJFo&t=253&end=262",
+  "tooltip": {
+    "description": "Julius Erving drives baseline and hangs in the air behind the backboard before flipping in a reverse layup in the 1980 Finals.",
+    "quote": "\"That’s the greatest move I’ve ever seen!\""
+  }
+},
+{
+  "label": "Fisher Wins It with 0.4 Seconds Left",
+  "date": 2004,
+  "youtube": "https://www.youtube.com/watch?v=UQWUHh3rJFo&t=263&end=274",
+  "tooltip": {
+    "description": "Derek Fisher stuns San Antonio with a turnaround jumper off the inbounds — all with just 0.4 seconds left on the clock.",
+    "quote": "\"It’s good! With 0.4! They count it!\""
+  }
+},
+{
+  "label": "Vince Carter Posterizes Mourning",
+  "date": 2006,
+  "youtube": "https://www.youtube.com/watch?v=UQWUHh3rJFo&t=275&end=285",
+  "tooltip": {
+    "description": "Vince Carter detonates on Alonzo Mourning with a one-handed poster dunk — one of the greatest body-to-body facials in NBA history.",
+    "quote": "\"Oh no! He did it on Zo!\""
+  }
+},
+{
+  "label": "Aaron Gordon Clears the Mascot",
+  "date": 2016,
+  "youtube": "https://www.youtube.com/watch?v=UQWUHh3rJFo&t=286&end=294",
+  "tooltip": {
+    "description": "Aaron Gordon leaps over a spinning mascot on a hoverboard and throws down an under-the-legs dunk — one of the most iconic ever.",
+    "quote": "\"That is one of the best dunks I've ever seen!\""
+  }
+},
+{
+  "label": "Iverson Steps Over Lue in Game 1",
+  "date": 2001,
+  "youtube": "https://www.youtube.com/watch?v=UQWUHh3rJFo&t=295&end=308",
+  "tooltip": {
+    "description": "Allen Iverson hits a clutch jumper over Tyronn Lue in Game 1 of the 2001 Finals — then steps over him in an iconic taunt.",
+    "quote": "\"Iverson... steps over Lue!\""
+  }
+},
+{
+  "label": "Gerald Green’s Windmill Alley-Oop",
+  "date": 2012,
+  "youtube": "https://www.youtube.com/watch?v=UQWUHh3rJFo&t=309&end=319",
+  "tooltip": {
+    "description": "Gerald Green catches an alley-oop and throws down a windmill dunk in mid-air — one of the greatest in-game lobs ever.",
+    "quote": "\"Did you see that? Gerald Green with levitation!\""
+  }
+},
+{
+  "label": "Iverson Crosses Up MJ",
+  "date": 1997,
+  "youtube": "https://www.youtube.com/watch?v=UQWUHh3rJFo&t=320&end=332",
+  "tooltip": {
+    "description": "Rookie Allen Iverson shakes Michael Jordan with a lightning crossover and buries the jumper — a defining moment of his fearless rise.",
+    "quote": "\"Iverson! Against Jordan! Crossover — got it!\""
+  }
+},
+{
+  "label": "Derrick Jones Jr. Takes Flight",
+  "date": 2020,
+  "youtube": "https://www.youtube.com/watch?v=UQWUHh3rJFo&t=333&end=339",
+  "tooltip": {
+    "description": "Derrick Jones Jr. catches a lob in transition and throws down a lefty windmill — pure flight from Airplane Mode.",
+    "quote": "\"He caught it mid-spin and detonated!\""
+  }
+},
+{
+  "label": "Blake Griffin Destroys Kendrick Perkins",
+  "date": 2012,
+  "youtube": "https://www.youtube.com/watch?v=UQWUHh3rJFo&t=340&end=347",
+  "tooltip": {
+    "description": "Blake Griffin rises over Kendrick Perkins and throws down a brutal two-handed poster — a defining dunk of the Lob City era.",
+    "quote": "\"That is a man’s jam!\""
+  }
+},
+{
+  "label": "Jordan Flies from the Free-Throw Line",
+  "date": 1988,
+  "youtube": "https://www.youtube.com/watch?v=UQWUHh3rJFo&t=348&end=356",
+  "tooltip": {
+    "description": "Michael Jordan takes off from the free-throw line in the 1988 Dunk Contest — a legendary leap that defined greatness.",
+    "quote": "\"Air Jordan takes flight!\""
+  }
+},
+{
+  "label": "LeBron’s Takeover in Detroit",
+  "date": 2007,
+  "youtube": "https://www.youtube.com/watch?v=UQWUHh3rJFo&t=357&end=369",
+  "tooltip": {
+    "description": "LeBron scores 29 of the Cavs' last 30, including back-to-back go-ahead drives in double OT — a legendary Game 5 takeover.",
+    "quote": "\"This is Jordanesque — this is legend in the making!\""
+  }
+},
+{
+  "label": "Vince Carter’s “It’s Over” Dunk",
+  "date": 2000,
+  "youtube": "https://www.youtube.com/watch?v=UQWUHh3rJFo&t=370&end=378",
+  "tooltip": {
+    "description": "Vince Carter stuns the crowd with a 360 windmill in the 2000 Dunk Contest — then declares, 'It's over!'",
+    "quote": "\"It's over, ladies and gentlemen!\""
+  }
+},
+{
+  "label": "Kobe Drops 60 in His Final Game",
+  "date": 2016,
+  "youtube": "https://www.youtube.com/watch?v=UQWUHh3rJFo&t=379&end=396",
+  "tooltip": {
+    "description": "In the final game of his career, 37-year-old Kobe drops 60 and hits the go-ahead jumper with 30 seconds left.",
+    "quote": "\"Mamba out.\""
+  }
+},
+{
+  "label": "DeAndre Ends Brandon Knight",
+  "date": 2013,
+  "youtube": "https://www.youtube.com/watch?v=UQWUHh3rJFo&t=397&end=409",
+  "tooltip": {
+    "description": "DeAndre Jordan obliterates Brandon Knight with one of the most brutal alley-oop posters ever.",
+    "quote": "\"RIP Brandon Knight.\" – The Internet"
+  }
+},
+{
+  "label": "Curry Breaks the Record",
+  "date": 2021,
+  "youtube": "https://www.youtube.com/watch?v=UQWUHh3rJFo&t=420&end=432",
+  "tooltip": {
+    "description": "Steph Curry becomes the NBA's all-time leader in made threes at Madison Square Garden.",
+    "quote": "\"STEPHEN CURRY... the all-time three-point king in the NBA!\" – Mike Breen"
+  }
+},
+{
+  "label": "The Shot Over Ehlo",
+  "date": 1989,
+  "youtube": "https://www.youtube.com/watch?v=UQWUHh3rJFo&t=433&end=441",
+  "tooltip": {
+    "description": "Jordan's iconic buzzer-beater over Craig Ehlo to win Game 5 in 1989.",
+    "quote": "\"Good! Bulls win it! They win it!\" – Jim Durham"
+  }
+},
+{
+  "label": "Giannis' Legendary Block",
+  "date": 2021,
+  "youtube": "https://www.youtube.com/watch?v=UQWUHh3rJFo&t=442&end=449",
+  "tooltip": {
+    "description": "Giannis recovers and blocks an alley-oop in Game 4 of the 2021 Finals.",
+    "quote": "\"One of the greatest recovery blocks you will ever see!\" – Jeff Van Gundy"
+  }
+},
+{
+  "label": "Magic's Baby Hook",
+  "date": 1987,
+  "youtube": "https://www.youtube.com/watch?v=UQWUHh3rJFo&t=459&end=469",
+  "tooltip": {
+    "description": "Magic floats a baby hook over the Celtics to win Game 4 of the 1987 Finals.",
+    "quote": "\"Junior. Sky. Hook.\" – Chick Hearn"
+  }
+},
+{
+  "label": "LeBron Dunks on Jason Terry",
+  "date": 2013,
+  "youtube": "https://www.youtube.com/watch?v=UQWUHh3rJFo&t=469&end=479",
+  "tooltip": {
+    "description": "LeBron annihilates Jason Terry with an alley-oop dunk so violent it went viral.",
+    "quote": "\"It’s one of the most disrespectful dunks you’ll ever see.\" – NBA on ESPN"
+  }
+},
+{
+  "label": "Larry Bird’s Steal and Assist",
+  "date": 1987,
+  "youtube": "https://www.youtube.com/watch?v=UQWUHh3rJFo&t=480&end=490",
+  "tooltip": {
+    "description": "Larry Bird steals the ball and throws a perfect assist for the game-winning layup in Game 5 against the Hawks.",
+    "quote": "\"Oh, and there’s a steal by Bird!\" – Celtics Broadcast"
+  }
+},
+{
+  "label": "Lillard’s Buzzer-Beater",
+  "date": 2019,
+  "youtube": "https://www.youtube.com/watch?v=UQWUHh3rJFo&t=491&end=500",
+  "tooltip": {
+    "description": "Damian Lillard drains a 37-foot buzzer-beater to eliminate the Thunder in 2019.",
+    "quote": "\"DAMIAN LILLARD! BANG!\" – Kevin Harlan"
+  }
+},
+{
+  "label": "Giannis Posterizes Courtney Lee",
+  "date": 2019,
+  "youtube": "https://www.youtube.com/watch?v=UQWUHh3rJFo&t=501&end=511",
+  "tooltip": {
+    "description": "Giannis flies past defenders to throw down a massive dunk over Courtney Lee.",
+    "quote": "\"That's why he's the MVP!\" – Mike Breen"
+  }
+}, 
+{
+  "label": "Kawhi's Buzzer Beater",
+  "date": 2019,
+  "youtube": "https://www.youtube.com/watch?v=UQWUHh3rJFo&t=512&end=528",
+  "tooltip": {
+    "description": "Kawhi Leonard sinks a game-winning buzzer-beater to send the Raptors to the Eastern Conference Finals.",
+    "quote": "\"The shot! The shot! Kawhi Leonard!\" – TNT Broadcast"
+  }
+}, 
+{
+  "label": "Kyrie's Clutch Three",
+  "date": 2016,
+  "youtube": "https://www.youtube.com/watch?v=UQWUHh3rJFo&t=529&end=539",
+  "tooltip": {
+    "description": "Kyrie Irving hits a game-winning three-pointer to clinch the Cavaliers' first NBA title.",
+    "quote": "\"Irving for three! It's good!\" – ESPN Broadcast"
+  }
+},
+{
+  "label": "Ray Allen's Clutch 3-Pointer",
+  "date": 2013,
+  "youtube": "https://www.youtube.com/watch?v=UQWUHh3rJFo&t=540&end=550",
+  "tooltip": {
+    "description": "Ray Allen drains the iconic corner three to force Game 6 of the 2013 NBA Finals into overtime, one of the most clutch shots in NBA history.",
+    "quote": "\"One of the greatest shots ever made in NBA history.\""
+  }
+},
+{
+  "label": "LeBron James Block on Iguodala",
+  "date": 2016,
+  "youtube": "https://www.youtube.com/watch?v=UQWUHh3rJFo&t=551&end=563",
+  "tooltip": {
+    "description": "LeBron James makes a crucial block on Andre Iguodala during the 2016 NBA Finals, a pivotal moment in the Cavaliers' championship run.",
+    "quote": "\"The Block\" — one of LeBron’s most iconic defensive plays."
+  }
+},
+{
+  "label": "Michael Jordan’s Final Shot vs Jazz",
+  "date": 1998,
+  "youtube": "https://www.youtube.com/watch?v=UQWUHh3rJFo&t=564&end=575",
+  "tooltip": {
+    "description": "Michael Jordan hits the game-winning jumper in Game 6 of the 1998 NBA Finals, securing his sixth championship.",
+    "quote": "\"The shot that sealed the legacy of MJ.\""
+  }
+},
+{
+  "label": "Tracy McGrady's Game Winner",
+  "date": 2004,
+  "youtube": "https://www.youtube.com/watch?v=UQWUHh3rJFo&t=576&end=589",
+  "tooltip": {
+    "description": "Tracy McGrady hits a miraculous game-winning shot over the Spurs to secure an unforgettable victory.",
+    "quote": ""
+  }
+}
+  ]
+}
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,460 @@
+{
+  "slug": "gibboanx-test-40",
+  "topic": "Gibboanx Test Puzzle 40",
+  "category": "Entertainment",
+  "subcategory": "Movies/TV",
+  "hideDates": false,
+  "showTooltips": true,
+  "variantSystem": {
+    "enabled": true,
+    "totalScenes": 10,
+    "selectionStrategy": "random_per_round"
+  },
+  "cards": [
+    {
+      "id": "gibboanx-test-40-1",
+      "label": "Guardians of the Galaxy Vol. 2",
+      "date": 2017,
+      "year": 2017,
+      "youtube": "https://www.youtube.com/watch?v=DfNSBeFliIg&t=0s&end=120s",
+      "duration": 195,
+      "variants": [
+        {
+          "id": "DfNSBeFliIg-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=DfNSBeFliIg&t=0s&end=120s",
+          "sceneDescription": "Guardians of the Galaxy Vol. 2 - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "DfNSBeFliIg-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=DfNSBeFliIg&t=120s&end=195s",
+          "sceneDescription": "Guardians of the Galaxy Vol. 2 - Part 2 (2:00 - 3:15)",
+          "startTime": 120,
+          "endTime": 195
+        }
+      ],
+      "variantCount": 2,
+      "tooltip": {
+        "description": "Guardians of the Galaxy Vol. 2 (2017) - Quality Score: 40/100",
+        "genre": "Classic Film",
+        "crawlerScore": 40,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 0,
+          "resolutionQuality": 0,
+          "popularityFactor": 10,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:45:48.896Z"
+      },
+      "movie": "Guardians of the Galaxy Vol. 2"
+    },
+    {
+      "id": "gibboanx-test-40-2",
+      "label": "The Ballad of Buster Scruggs",
+      "date": 2018,
+      "year": 2018,
+      "youtube": "https://www.youtube.com/watch?v=Q0ZEmLosVXE&t=0s&end=150s",
+      "duration": 150,
+      "variants": [
+        {
+          "id": "Q0ZEmLosVXE-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=Q0ZEmLosVXE&t=0s&end=150s",
+          "sceneDescription": "The Ballad of Buster Scruggs - Part 1 (0:00 - 2:30)",
+          "startTime": 0,
+          "endTime": 150
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "The Ballad of Buster Scruggs (2018) - Quality Score: 50/100",
+        "genre": "Classic Film",
+        "crawlerScore": 50,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 10,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:45:48.896Z"
+      },
+      "movie": "The Ballad of Buster Scruggs"
+    },
+    {
+      "id": "gibboanx-test-40-3",
+      "label": "The Post",
+      "date": 2017,
+      "year": 2017,
+      "youtube": "https://www.youtube.com/watch?v=hCb4fb3Mu8c&t=0s&end=112s",
+      "duration": 112,
+      "variants": [
+        {
+          "id": "hCb4fb3Mu8c-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=hCb4fb3Mu8c&t=0s&end=112s",
+          "sceneDescription": "The Post - Full Scene (0:00 - 1:52)",
+          "startTime": 0,
+          "endTime": 112
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "The Post (2017) - Quality Score: 40/100",
+        "genre": "Classic Film",
+        "crawlerScore": 40,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 0,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:45:48.896Z"
+      },
+      "movie": "The Post"
+    },
+    {
+      "id": "gibboanx-test-40-4",
+      "label": "Hellboy II: The Golden Army",
+      "date": 2008,
+      "year": 2008,
+      "youtube": "https://www.youtube.com/watch?v=0-IxTcK-TO4&t=0s&end=120s",
+      "duration": 390,
+      "variants": [
+        {
+          "id": "0-IxTcK-TO4-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=0-IxTcK-TO4&t=0s&end=120s",
+          "sceneDescription": "Hellboy II: The Golden Army - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "0-IxTcK-TO4-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=0-IxTcK-TO4&t=120s&end=240s",
+          "sceneDescription": "Hellboy II: The Golden Army - Part 2 (2:00 - 4:00)",
+          "startTime": 120,
+          "endTime": 240
+        },
+        {
+          "id": "0-IxTcK-TO4-variant-2",
+          "youtube": "https://www.youtube.com/watch?v=0-IxTcK-TO4&t=240s&end=390s",
+          "sceneDescription": "Hellboy II: The Golden Army - Part 3 (4:00 - 6:30)",
+          "startTime": 240,
+          "endTime": 390
+        }
+      ],
+      "variantCount": 3,
+      "tooltip": {
+        "description": "Hellboy II: The Golden Army (2008) - Quality Score: 45/100",
+        "genre": "Classic Film",
+        "crawlerScore": 45,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 0,
+          "resolutionQuality": 10,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:45:48.896Z"
+      },
+      "movie": "Hellboy II: The Golden Army"
+    },
+    {
+      "id": "gibboanx-test-40-5",
+      "label": "13th",
+      "date": 2016,
+      "year": 2016,
+      "youtube": "https://www.youtube.com/watch?v=WbYWMMImltM&t=0s&end=120s",
+      "duration": 1106,
+      "variants": [
+        {
+          "id": "WbYWMMImltM-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=WbYWMMImltM&t=0s&end=120s",
+          "sceneDescription": "13th - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "WbYWMMImltM-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=WbYWMMImltM&t=120s&end=240s",
+          "sceneDescription": "13th - Part 2 (2:00 - 4:00)",
+          "startTime": 120,
+          "endTime": 240
+        },
+        {
+          "id": "WbYWMMImltM-variant-2",
+          "youtube": "https://www.youtube.com/watch?v=WbYWMMImltM&t=240s&end=360s",
+          "sceneDescription": "13th - Part 3 (4:00 - 6:00)",
+          "startTime": 240,
+          "endTime": 360
+        },
+        {
+          "id": "WbYWMMImltM-variant-3",
+          "youtube": "https://www.youtube.com/watch?v=WbYWMMImltM&t=360s&end=480s",
+          "sceneDescription": "13th - Part 4 (6:00 - 8:00)",
+          "startTime": 360,
+          "endTime": 480
+        },
+        {
+          "id": "WbYWMMImltM-variant-4",
+          "youtube": "https://www.youtube.com/watch?v=WbYWMMImltM&t=480s&end=600s",
+          "sceneDescription": "13th - Part 5 (8:00 - 10:00)",
+          "startTime": 480,
+          "endTime": 600
+        },
+        {
+          "id": "WbYWMMImltM-variant-5",
+          "youtube": "https://www.youtube.com/watch?v=WbYWMMImltM&t=600s&end=720s",
+          "sceneDescription": "13th - Part 6 (10:00 - 12:00)",
+          "startTime": 600,
+          "endTime": 720
+        },
+        {
+          "id": "WbYWMMImltM-variant-6",
+          "youtube": "https://www.youtube.com/watch?v=WbYWMMImltM&t=720s&end=840s",
+          "sceneDescription": "13th - Part 7 (12:00 - 14:00)",
+          "startTime": 720,
+          "endTime": 840
+        },
+        {
+          "id": "WbYWMMImltM-variant-7",
+          "youtube": "https://www.youtube.com/watch?v=WbYWMMImltM&t=840s&end=960s",
+          "sceneDescription": "13th - Part 8 (14:00 - 16:00)",
+          "startTime": 840,
+          "endTime": 960
+        },
+        {
+          "id": "WbYWMMImltM-variant-8",
+          "youtube": "https://www.youtube.com/watch?v=WbYWMMImltM&t=960s&end=1106s",
+          "sceneDescription": "13th - Part 9 (16:00 - 18:26)",
+          "startTime": 960,
+          "endTime": 1106
+        }
+      ],
+      "variantCount": 9,
+      "tooltip": {
+        "description": "13th (2016) - Quality Score: 50/100",
+        "genre": "Classic Film",
+        "crawlerScore": 50,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 10,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:45:48.896Z"
+      },
+      "movie": "13th"
+    },
+    {
+      "id": "gibboanx-test-40-6",
+      "label": "Molly's Game",
+      "date": 2017,
+      "year": 2017,
+      "youtube": "https://www.youtube.com/watch?v=d0-saRH8p34&t=0s&end=120s",
+      "duration": 284,
+      "variants": [
+        {
+          "id": "d0-saRH8p34-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=d0-saRH8p34&t=0s&end=120s",
+          "sceneDescription": "Molly's Game - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "d0-saRH8p34-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=d0-saRH8p34&t=120s&end=284s",
+          "sceneDescription": "Molly's Game - Part 2 (2:00 - 4:44)",
+          "startTime": 120,
+          "endTime": 284
+        }
+      ],
+      "variantCount": 2,
+      "tooltip": {
+        "description": "Molly's Game (2017) - Quality Score: 55/100",
+        "genre": "Classic Film",
+        "crawlerScore": 55,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 10,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:45:48.896Z"
+      },
+      "movie": "Molly's Game"
+    },
+    {
+      "id": "gibboanx-test-40-7",
+      "label": "Free Fire",
+      "date": 2016,
+      "year": 2016,
+      "youtube": "https://www.youtube.com/watch?v=xyyINEerlgs&t=0s&end=120s",
+      "duration": 257,
+      "variants": [
+        {
+          "id": "xyyINEerlgs-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=xyyINEerlgs&t=0s&end=120s",
+          "sceneDescription": "Free Fire - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "xyyINEerlgs-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=xyyINEerlgs&t=120s&end=257s",
+          "sceneDescription": "Free Fire - Part 2 (2:00 - 4:17)",
+          "startTime": 120,
+          "endTime": 257
+        }
+      ],
+      "variantCount": 2,
+      "tooltip": {
+        "description": "Free Fire (2016) - Quality Score: 52/100",
+        "genre": "Classic Film",
+        "crawlerScore": 52,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 10,
+          "popularityFactor": 2,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:45:48.896Z"
+      },
+      "movie": "Free Fire"
+    },
+    {
+      "id": "gibboanx-test-40-8",
+      "label": "A Star Is Born",
+      "date": 2018,
+      "year": 2018,
+      "youtube": "https://www.youtube.com/watch?v=eWupm_cePX8&t=0s&end=120s",
+      "duration": 299,
+      "variants": [
+        {
+          "id": "eWupm_cePX8-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=eWupm_cePX8&t=0s&end=120s",
+          "sceneDescription": "A Star Is Born - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "eWupm_cePX8-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=eWupm_cePX8&t=120s&end=299s",
+          "sceneDescription": "A Star Is Born - Part 2 (2:00 - 4:59)",
+          "startTime": 120,
+          "endTime": 299
+        }
+      ],
+      "variantCount": 2,
+      "tooltip": {
+        "description": "A Star Is Born (2018) - Quality Score: 40/100",
+        "genre": "Classic Film",
+        "crawlerScore": 40,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 0,
+          "resolutionQuality": 0,
+          "popularityFactor": 10,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:45:48.896Z"
+      },
+      "movie": "A Star Is Born"
+    },
+    {
+      "id": "gibboanx-test-40-9",
+      "label": "Blade II",
+      "date": 2002,
+      "year": 2002,
+      "youtube": "https://www.youtube.com/watch?v=eZszJRTbpW8&t=0s&end=138s",
+      "duration": 138,
+      "variants": [
+        {
+          "id": "eZszJRTbpW8-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=eZszJRTbpW8&t=0s&end=138s",
+          "sceneDescription": "Blade II - Part 1 (0:00 - 2:18)",
+          "startTime": 0,
+          "endTime": 138
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Blade II (2002) - Quality Score: 35/100",
+        "genre": "Classic Film",
+        "crawlerScore": 35,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 0,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:45:48.896Z"
+      },
+      "movie": "Blade II"
+    },
+    {
+      "id": "gibboanx-test-40-10",
+      "label": "Eyes Wide Shut",
+      "date": 1999,
+      "year": 1999,
+      "youtube": "https://www.youtube.com/watch?v=s_b-zpSnoHs&t=0s&end=120s",
+      "duration": 181,
+      "variants": [
+        {
+          "id": "s_b-zpSnoHs-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=s_b-zpSnoHs&t=0s&end=120s",
+          "sceneDescription": "Eyes Wide Shut - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "s_b-zpSnoHs-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=s_b-zpSnoHs&t=120s&end=181s",
+          "sceneDescription": "Eyes Wide Shut - Part 2 (2:00 - 3:01)",
+          "startTime": 120,
+          "endTime": 181
+        }
+      ],
+      "variantCount": 2,
+      "tooltip": {
+        "description": "Eyes Wide Shut (1999) - Quality Score: 60/100",
+        "genre": "Classic Film",
+        "crawlerScore": 60,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 20,
+          "resolutionQuality": 0,
+          "popularityFactor": 10,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:45:48.896Z"
+      },
+      "movie": "Eyes Wide Shut"
+    }
+  ]
+}

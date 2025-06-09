@@ -1,0 +1,68 @@
+{
+  "slug": "powerful-speeches",
+  "topic": "Powerful Speeches",
+  "category": "History",
+  "hideDates": false,
+  "cards": [
+    {
+      "id": "mlkOtherAmerica",
+      "label": "Martin Luther King Jr.'s 'The Other America'",
+      "date": 1967,
+      "youtube": "https://www.youtube.com/watch?v=dOWDtDUKz-U&t=2460s"
+    },
+    {
+      "id": "gloriaSteinemWomen",
+      "label": "Gloria Steinem's Address to the Women of America",
+      "date": 1971,
+      "youtube": "https://www.youtube.com/watch?v=iPKhJQ-Jsrg"
+    },
+    {
+      "id": "sojournerTruth",
+      "label": "Sojourner Truth's 'Ain’t I a Woman?'",
+      "date": 1851,
+      "youtube": "https://www.youtube.com/watch?v=LryYp1XVQQ0"
+    },
+    {
+      "id": "chiefJosephSurrender",
+      "label": "Chief Joseph's Surrender: 'I Will Fight No More Forever'",
+      "date": 1877,
+      "youtube": "https://www.youtube.com/watch?v=jB7omyrla8U&t=22s"
+    },
+    {
+      "id": "susanBAnthonyVote",
+      "label": "Susan B. Anthony Defends Her Right to Vote",
+      "date": 1873,
+      "youtube": "https://www.youtube.com/watch?v=LMgOdfrko9I&t=17s"
+    },
+    {
+      "id": "louGehrigFarewell",
+      "label": "Lou Gehrig's 'Luckiest Man' Farewell Speech",
+      "date": 1939,
+      "youtube": "https://www.youtube.com/watch?v=nNLKPaThYkE&t=16s"
+    },
+    {
+      "id": "churchillVE",
+      "label": "Winston Churchill Announces Victory in Europe",
+      "date": 1945,
+      "youtube": "https://www.youtube.com/watch?v=q_G8YYuk2Zk&t=9s"
+    },
+    {
+      "id": "kennedyMoonSpeech",
+      "label": "President Kennedy's 'We Choose to Go to the Moon'",
+      "date": 1962,
+      "youtube": "https://www.youtube.com/watch?v=oYJRwgHEFS0"
+    },
+    {
+      "id": "mandelaInauguration",
+      "label": "Nelson Mandela's Presidential Inauguration Speech",
+      "date": 1994,
+      "youtube": "https://www.youtube.com/watch?v=h6BNT25klgY&t=06s"
+    },
+    {
+      "id": "steveJobsStanford",
+      "label": "Steve Jobs' 'Stay Hungry, Stay Foolish' at Stanford",
+      "date": 2005,
+      "youtube": "https://www.youtube.com/watch?v=8Zx04h24uBs"
+    }
+  ]
+}

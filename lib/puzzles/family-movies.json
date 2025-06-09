@@ -1,0 +1,385 @@
+{
+  "slug": "family-movies",
+  "topic": "Family Movies",
+  "category": "Entertainment",
+  "subcategory": "Movies/TV",
+  "hideDates": false,
+  "showTooltips": true,
+  "variantSystem": {
+    "enabled": true,
+    "totalMovies": 133,
+    "totalVariants": 29,
+    "averageVariantsPerMovie": 1,
+    "selectionStrategy": "random_per_round",
+    "totalScenes": 29,
+    "averageVariantsPerScene": 1
+  },
+  "cards": [
+    {
+      "id": "PSZxmZmBfnU",
+      "label": "The Wizard of Oz",
+      "date": 1939,
+      "youtube": "https://www.youtube.com/watch?v=PSZxmZmBfnU",
+      "tooltip": {
+        "description": "Dorothy follows the yellow brick road to the Emerald City.",
+        "genre": "Family",
+        "source": "Family Movies Collection"
+      },
+      "year": 1939
+    },
+    {
+      "id": "iU2hy0L5lgg",
+      "label": "Mary Poppins",
+      "date": 1964,
+      "youtube": "https://www.youtube.com/watch?v=iU2hy0L5lgg",
+      "tooltip": {
+        "description": "The practically perfect nanny brings magic to the Banks family.",
+        "genre": "Family",
+        "source": "Family Movies Collection"
+      },
+      "year": 1964
+    },
+    {
+      "id": "WS3Lkc6Gzlk",
+      "label": "The Muppets",
+      "date": 1979,
+      "youtube": "https://www.youtube.com/watch?v=WS3Lkc6Gzlk",
+      "tooltip": {
+        "description": "Kermit sings \"The Rainbow Connection\" in this classic opening scene from the original 1979 Muppet Movie.",
+        "genre": "Family",
+        "source": "Family Movies Collection"
+      },
+      "year": 1979
+    },
+    {
+      "id": "qYAETtIIClk",
+      "label": "E.T. the Extra-Terrestrial",
+      "date": 1982,
+      "youtube": "https://www.youtube.com/watch?v=qYAETtIIClk",
+      "tooltip": {
+        "description": "A boy befriends an extraterrestrial stranded on Earth.",
+        "genre": "Family",
+        "source": "Family Movies Collection"
+      },
+      "year": 1982
+    },
+    {
+      "id": "hJ2j4oWdQtU",
+      "label": "The Goonies",
+      "date": 1985,
+      "youtube": "https://www.youtube.com/watch?v=hJ2j4oWdQtU",
+      "tooltip": {
+        "description": "Beloved family film from the 1980s featuring memorable characters and timeless themes.",
+        "genre": "Family",
+        "source": "Family Movies Collection"
+      },
+      "year": 1985
+    },
+    {
+      "id": "vPrPfkT82Pw",
+      "label": "Back to the Future",
+      "date": 1985,
+      "youtube": "https://www.youtube.com/watch?v=vPrPfkT82Pw",
+      "tooltip": {
+        "description": "Marty McFly travels back in time in this sci-fi classic.",
+        "genre": "Family",
+        "source": "Family Movies Collection"
+      },
+      "year": 1985
+    },
+    {
+      "id": "SXKlJuO07eM",
+      "label": "The Little Mermaid",
+      "date": 1989,
+      "youtube": "https://www.youtube.com/watch?v=SXKlJuO07eM",
+      "tooltip": {
+        "description": "Ariel dreams of life on land in \"Part of Your World\" from this Disney Renaissance classic.",
+        "genre": "Family",
+        "source": "Family Movies Collection"
+      },
+      "year": 1989
+    },
+    {
+      "id": "hZ1Rb9hC4JY",
+      "label": "Aladdin",
+      "date": 1992,
+      "youtube": "https://www.youtube.com/watch?v=hZ1Rb9hC4JY",
+      "tooltip": {
+        "description": "Aladdin and Jasmine soar through the sky on a magic carpet in \"A Whole New World.\"",
+        "genre": "Family",
+        "source": "Family Movies Collection"
+      },
+      "year": 1992
+    },
+    {
+      "id": "GibiNy4d4gc",
+      "label": "The Lion King",
+      "date": 1994,
+      "youtube": "https://www.youtube.com/watch?v=GibiNy4d4gc",
+      "tooltip": {
+        "description": "Simba is presented to the Pride Lands in the iconic \"Circle of Life\" opening sequence.",
+        "genre": "Family",
+        "source": "Family Movies Collection"
+      },
+      "year": 1994
+    },
+    {
+      "id": "2ARX0-AylFI",
+      "label": "Pocahontas",
+      "date": 1995,
+      "youtube": "https://www.youtube.com/watch?v=2ARX0-AylFI",
+      "tooltip": {
+        "description": "Pocahontas sings \"Colors of the Wind\" about nature and understanding.",
+        "genre": "Family",
+        "source": "Family Movies Collection"
+      },
+      "year": 1995
+    },
+    {
+      "id": "zgnHF2CwrPs",
+      "label": "Hercules",
+      "date": 1997,
+      "youtube": "https://www.youtube.com/watch?v=zgnHF2CwrPs",
+      "tooltip": {
+        "description": "Young Hercules discovers his true strength and heroic destiny.",
+        "genre": "Family",
+        "source": "Family Movies Collection"
+      },
+      "year": 1997
+    },
+    {
+      "id": "bVfopcz4nas",
+      "label": "Finding Nemo",
+      "date": 2003,
+      "youtube": "https://www.youtube.com/watch?v=bVfopcz4nas",
+      "tooltip": {
+        "description": "Marlin searches the ocean for his lost son Nemo in this heartwarming adventure.",
+        "genre": "Family",
+        "source": "Family Movies Collection"
+      },
+      "year": 2003
+    },
+    {
+      "id": "A_HjMIjzyMU",
+      "label": "Shrek 2",
+      "date": 2004,
+      "youtube": "https://www.youtube.com/watch?v=A_HjMIjzyMU",
+      "tooltip": {
+        "description": "Popular family movie from the 2000s that combines entertainment with heart.",
+        "genre": "Family",
+        "source": "Family Movies Collection"
+      },
+      "year": 2004
+    },
+    {
+      "id": "8-_9n5DtKOc",
+      "label": "WALL-E",
+      "date": 2008,
+      "youtube": "https://www.youtube.com/watch?v=8-_9n5DtKOc",
+      "tooltip": {
+        "description": "A lonely robot discovers love and saves humanity in this Pixar masterpiece.",
+        "genre": "Family",
+        "source": "Family Movies Collection"
+      },
+      "year": 2008
+    },
+    {
+      "id": "oKiYuIsPxYk",
+      "label": "How to Train Your Dragon",
+      "date": 2010,
+      "youtube": "https://www.youtube.com/watch?v=oKiYuIsPxYk",
+      "tooltip": {
+        "description": "Hiccup befriends a dragon and changes his village forever.",
+        "genre": "Family",
+        "source": "Family Movies Collection"
+      },
+      "year": 2010
+    },
+    {
+      "id": "TEHWDA_6e3M",
+      "label": "Brave",
+      "date": 2012,
+      "youtube": "https://www.youtube.com/watch?v=TEHWDA_6e3M",
+      "tooltip": {
+        "description": "Modern family film that brings together humor, adventure, and meaningful life lessons.",
+        "genre": "Family",
+        "source": "Family Movies Collection"
+      },
+      "year": 2012
+    },
+    {
+      "id": "L0MK7qz13bU",
+      "label": "Frozen",
+      "date": 2013,
+      "youtube": "https://www.youtube.com/watch?v=L0MK7qz13bU",
+      "tooltip": {
+        "description": "Elsa builds her ice palace while singing \"Let It Go.\"",
+        "genre": "Family",
+        "source": "Family Movies Collection"
+      },
+      "year": 2013
+    },
+    {
+      "id": "StTqXEQ2l-Y",
+      "label": "The Lego Movie",
+      "date": 2014,
+      "youtube": "https://www.youtube.com/watch?v=StTqXEQ2l-Y",
+      "tooltip": {
+        "description": "Everything is awesome in this creative animated adventure.",
+        "genre": "Family",
+        "source": "Family Movies Collection"
+      },
+      "year": 2014
+    },
+    {
+      "id": "yRUAzGQ3nSY",
+      "label": "Inside Out",
+      "date": 2015,
+      "youtube": "https://www.youtube.com/watch?v=yRUAzGQ3nSY",
+      "tooltip": {
+        "description": "Take a journey inside the mind of 11-year-old Riley in this emotional Pixar film.",
+        "genre": "Family",
+        "source": "Family Movies Collection"
+      },
+      "year": 2015
+    },
+    {
+      "id": "P9-FCC6I7u0",
+      "label": "Minions",
+      "date": 2015,
+      "youtube": "https://www.youtube.com/watch?v=P9-FCC6I7u0",
+      "tooltip": {
+        "description": "Modern family film that brings together humor, adventure, and meaningful life lessons.",
+        "genre": "Family",
+        "source": "Family Movies Collection"
+      },
+      "year": 2015
+    },
+    {
+      "id": "cPAbx5kgCJo",
+      "label": "Moana",
+      "date": 2016,
+      "youtube": "https://www.youtube.com/watch?v=cPAbx5kgCJo",
+      "tooltip": {
+        "description": "Moana sets sail across the ocean to save her island home.",
+        "genre": "Family",
+        "source": "Family Movies Collection"
+      },
+      "year": 2016
+    },
+    {
+      "id": "JhvrQeY3doI",
+      "label": "Finding Dory",
+      "date": 2016,
+      "youtube": "https://www.youtube.com/watch?v=JhvrQeY3doI",
+      "tooltip": {
+        "description": "Modern family film that brings together humor, adventure, and meaningful life lessons.",
+        "genre": "Family",
+        "source": "Family Movies Collection"
+      },
+      "year": 2016
+    },
+    {
+      "id": "bwzLiQZDw2I",
+      "label": "Frozen II",
+      "date": 2019,
+      "youtube": "https://www.youtube.com/watch?v=bwzLiQZDw2I",
+      "tooltip": {
+        "description": "Modern family film that brings together humor, adventure, and meaningful life lessons.",
+        "genre": "Family",
+        "source": "Family Movies Collection"
+      },
+      "year": 2019
+    },
+    {
+      "id": "wmiIUN-7qhE",
+      "label": "Toy Story 4",
+      "date": 2019,
+      "youtube": "https://www.youtube.com/watch?v=wmiIUN-7qhE",
+      "tooltip": {
+        "description": "Modern family film that brings together humor, adventure, and meaningful life lessons.",
+        "genre": "Family",
+        "source": "Family Movies Collection"
+      },
+      "year": 2019
+    },
+    {
+      "id": "x8DKg_fsacM",
+      "label": "Onward",
+      "date": 2020,
+      "youtube": "https://www.youtube.com/watch?v=x8DKg_fsacM",
+      "tooltip": {
+        "description": "Modern family film that brings together humor, adventure, and meaningful life lessons.",
+        "genre": "Family",
+        "source": "Family Movies Collection"
+      },
+      "year": 2020
+    },
+    {
+      "id": "xOsLIiBStEs",
+      "label": "Soul",
+      "date": 2020,
+      "youtube": "https://www.youtube.com/watch?v=xOsLIiBStEs",
+      "tooltip": {
+        "description": "Joe Gardner discovers what it truly means to have a soul.",
+        "genre": "Family",
+        "source": "Family Movies Collection"
+      },
+      "year": 2020
+    },
+    {
+      "id": "kP9TfCWaQT4",
+      "label": "Tom & Jerry",
+      "date": 2021,
+      "youtube": "https://www.youtube.com/watch?v=kP9TfCWaQT4",
+      "tooltip": {
+        "description": "Modern family film that brings together humor, adventure, and meaningful life lessons.",
+        "genre": "Family",
+        "source": "Family Movies Collection"
+      },
+      "year": 2021
+    },
+    {
+      "id": "47r8FXYZWNU",
+      "label": "Sonic the Hedgehog 2",
+      "date": 2022,
+      "youtube": "https://www.youtube.com/watch?v=47r8FXYZWNU",
+      "tooltip": {
+        "description": "Modern family film that brings together humor, adventure, and meaningful life lessons.",
+        "genre": "Family",
+        "source": "Family Movies Collection"
+      },
+      "year": 2022
+    },
+    {
+      "id": "6DxjJzmYsXo",
+      "label": "Minions: The Rise of Gru",
+      "date": 2022,
+      "youtube": "https://www.youtube.com/watch?v=6DxjJzmYsXo",
+      "tooltip": {
+        "description": "Modern family film that brings together humor, adventure, and meaningful life lessons.",
+        "genre": "Family",
+        "source": "Family Movies Collection"
+      },
+      "year": 2022
+    },
+    {
+      "id": "clipzone-yhBpgqXwrt8",
+      "label": "The Smurfs",
+      "date": 2011,
+      "year": 2011,
+      "youtube": "https://www.youtube.com/watch?v=yhBpgqXwrt8",
+      "tooltip": {
+        "description": "A fugitive couple goes on a glamorous and sometimes deadly adventure where nothing and no one – even themselves – are what they seem. Amid shifting alliances and unexpected betrayals, they race across the globe, with their survival ultimately hinging on the battle of truth vs. trust.",
+        "genre": "Family/Animation",
+        "source": "ClipZone: Comedy Callbacks",
+        "verified": true,
+        "embeddable": true,
+        "channelName": "ClipZone: Comedy Callbacks",
+        "tmdbVerified": true,
+        "movedFromComedy": true
+      }
+    }
+  ],
+  "cardCount": 29
+}

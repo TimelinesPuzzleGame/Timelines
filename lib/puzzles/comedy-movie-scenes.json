@@ -1,0 +1,80 @@
+{
+  "slug": "comedy-movie-scenes",
+  "topic": "Comedy Movie Scenes",
+  "category": "Entertainment",
+  "subcategory": "Comedy Movies",
+  "hideDates": false,
+  "showImageOnPlace": false,
+  "cards": [
+    {
+      "id": "crawler-2oOg_7jJjRU",
+      "label": "Anchorman: The Legend of Ron Burgundy (2004) - 2 Funniest Scenes",
+      "date": 2004,
+      "youtube": "https://youtube.com/watch?v=2oOg_7jJjRU",
+      "tooltip": "2 Funniest Scenes compilation - Single movie compilation preserved (5:43)"
+    },
+    {
+      "id": "superbad-2007-mclovin",
+      "label": "Superbad - McLovin Scene",
+      "date": 2007,
+      "youtube": "https://youtube.com/watch?v=2HTHPtoNJLk",
+      "tooltip": "The iconic fake ID scene where Fogell becomes McLovin"
+    },
+    {
+      "id": "step-brothers-2008-did-we-just",
+      "label": "Step Brothers - Did We Just Become Best Friends?",
+      "date": 2008,
+      "youtube": "https://youtube.com/watch?v=3-ZUDtaGf3I",
+      "tooltip": "The moment when Brennan and Dale bond over their shared interests"
+    },
+    {
+      "id": "zoolander-2001-blue-steel",
+      "label": "Zoolander - Blue Steel Look",
+      "date": 2001,
+      "youtube": "https://youtube.com/watch?v=D519hT7-ytY",
+      "tooltip": "Derek Zoolander demonstrates his signature model look"
+    },
+    {
+      "id": "wedding-crashers-2005-rule-76",
+      "label": "Wedding Crashers - Rule #76",
+      "date": 2005,
+      "youtube": "https://youtube.com/watch?v=yjJDBP292rM",
+      "tooltip": "No excuses, play like a champion!"
+    },
+    {
+      "id": "old-school-2003-tranquilizer",
+      "label": "Old School - Tranquilizer to the Jugular",
+      "date": 2003,
+      "youtube": "https://youtube.com/watch?v=Ej8EaLF382c",
+      "tooltip": "Frank the Tank gets hit with a tranquilizer dart"
+    },
+    {
+      "id": "dodgeball-2004-5-ds",
+      "label": "Dodgeball - The 5 D's of Dodgeball",
+      "date": 2004,
+      "youtube": "https://youtube.com/watch?v=peUyLXrgYZ0",
+      "tooltip": "Patches O'Houlihan teaches the fundamentals: Dodge, Duck, Dip, Dive and Dodge"
+    },
+    {
+      "id": "talladega-nights-2006-baby-jesus",
+      "label": "Talladega Nights - Dear Lord Baby Jesus",
+      "date": 2006,
+      "youtube": "https://youtube.com/watch?v=i1Nh_3JCFj8",
+      "tooltip": "Ricky Bobby's unique dinner prayer to baby Jesus"
+    },
+    {
+      "id": "tropic-thunder-2008-never-go-full",
+      "label": "Tropic Thunder - Never Go Full...",
+      "date": 2008,
+      "youtube": "https://youtube.com/watch?v=X6WHBO_Qc-Q",
+      "tooltip": "Kirk Lazarus gives acting advice to Tugg Speedman"
+    },
+    {
+      "id": "borat-2006-very-nice",
+      "label": "Borat - Very Nice!",
+      "date": 2006,
+      "youtube": "https://youtube.com/watch?v=LBduNcf1eQc",
+      "tooltip": "Borat's signature catchphrase compilation"
+    }
+  ]
+} 

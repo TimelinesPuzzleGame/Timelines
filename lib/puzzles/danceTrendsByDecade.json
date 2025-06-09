@@ -1,0 +1,507 @@
+{
+  "slug": "dance-trends-by-decade",
+  "topic": "Dance Crazes",
+  "category": "Entertainment",
+  "subcategory": "Dance",
+  "hideDates": false,
+  "cards": [
+    {
+      "id": "1900-cakewalk",
+      "label": "Cakewalk",
+      "date": 1900,
+      "youtube": "https://www.youtube.com/watch?v=e3BjWDvoRho&t=0s"
+    },
+    {
+      "id": "1909-grizzly-bear",
+      "label": "Grizzly Bear",
+      "date": 1909,
+      "youtube": "https://www.youtube.com/watch?v=5WYTSO99IGQ&t=0s"
+    },
+    {
+      "id": "1909-turkey-trot",
+      "label": "Turkey Trot",
+      "date": 1909,
+      "youtube": "https://www.youtube.com/watch?v=xRSygscq9FM&t=0s"
+    },
+    {
+      "id": "1909-texas-tommy",
+      "label": "Texas Tommy",
+      "date": 1909,
+      "youtube": "https://www.youtube.com/watch?v=GzyQldsVDb0&t=10s"
+    },
+
+    {
+      "id": "1914-foxtrot",
+      "label": "Foxtrot",
+      "date": 1914,
+      "youtube": "https://www.youtube.com/watch?v=RmGpLmseyC8&t=0s"
+    },
+    {
+      "id": "1910-tango",
+      "label": "Tango",
+      "date": 1910,
+      "youtube": "https://www.youtube.com/watch?v=Uc_NxwzkHEQ&t=72s"
+    },
+    {
+      "id": "1915-peabody",
+      "label": "Peabody",
+      "date": 1915,
+      "youtube": "https://www.youtube.com/watch?v=_VOFkpsxuv0&t=0s"
+    },
+    {
+      "id": "1912-turkey-trot",
+      "label": "Turkey Trot",
+      "date": 1912,
+      "youtube": "https://www.youtube.com/watch?v=xRSygscq9FM&t=0s"
+    },
+
+    {
+      "id": "1911-one-step",
+      "label": "One-Step",
+      "date": 1911,
+      "youtube": "https://www.youtube.com/watch?v=Yd-C5zNotyY&t=6s"
+    },
+    {
+      "id": "1910-waltz",
+      "label": "Waltz",
+      "date": 1910,
+      "youtube": "https://www.youtube.com/watch?v=Y1PMgIZ514M&t=3s"
+    },
+    {
+      "id": "1923-charleston",
+      "label": "Charleston",
+      "date": 1923,
+      "youtube": "https://www.youtube.com/watch?v=Z0oHxyensok&t=0s"
+    },
+    {
+      "id": "1926-black-bottom",
+      "label": "Black Bottom",
+      "date": 1926,
+      "youtube": "https://www.youtube.com/watch?v=K6EcypqTw3w&t=0s"
+    },
+    {
+      "id": "1910-tango",
+      "label": "Tango",
+      "date": 1910,
+      "youtube": "https://www.youtube.com/watch?v=df4v0ObGSF4&t=0s"
+    },
+    {
+      "id": "1934-carioca",
+      "label": "Carioca",
+      "date": 1934,
+      "youtube": "https://www.youtube.com/watch?v=i1tRy0fj4II&t=134s"
+    },
+    {
+      "id": "1936-suzie-q",
+      "label": "Suzie Q",
+      "date": 1936,
+      "youtube": "https://www.youtube.com/watch?v=psZB6t4P-QI&t=28s"
+    },
+    {
+      "id": "1937-lambeth-walk",
+      "label": "Lambeth Walk",
+      "date": 1937,
+      "youtube": "https://www.youtube.com/watch?v=GHPbdkMMnZ4&t=38s"
+    },
+    {
+      "id": "1930-swing",
+      "label": "Swing",
+      "date": 1930,
+      "youtube": "https://www.youtube.com/watch?v=mHANNkKBSNU&t=0s"
+    },
+    {
+      "id": "1934-jitterbug",
+      "label": "Jitterbug",
+      "date": 1934,
+      "youtube": "https://www.youtube.com/watch?v=3tRFL4q5m7c&t=19s"
+    },
+    {
+      "id": "1938-boogie-woogie",
+      "label": "Boogie-Woogie",
+      "date": 1938,
+      "youtube": "https://www.youtube.com/watch?v=ku2XCDsqkUg&t=18s"
+    },
+    {
+      "id": "1942-hokey-pokey",
+      "label": "Hokey Pokey",
+      "date": 1942,
+      "youtube": "https://www.youtube.com/watch?v=iZinb6rVozc&t=25s"
+    },
+
+    {
+      "id": "1934-jitterbug",
+      "label": "Jitterbug",
+      "date": 1934,
+      "youtube": "https://www.youtube.com/watch?v=vx6uk-cxXJk&t=7s"
+    },
+    {
+      "id": "1937-big-apple",
+      "label": "Big Apple",
+      "date": 1937,
+      "youtube": "https://www.youtube.com/watch?v=1yXDTRPenWI&t=13s"
+    },
+    {
+      "id": "1956-caribbean-calypso",
+      "label": "Caribbean Calypso",
+      "date": 1956,
+      "youtube": "https://www.youtube.com/watch?v=R3DXyhxx8b0&t=14s"
+    },
+    {
+      "id": "1964-greek-zorba",
+      "label": "Greek Zorba",
+      "date": 1964,
+      "youtube": "https://www.youtube.com/watch?v=BS0w3Wkric8&t=40s"
+    },
+    {
+      "id": "1835-polka",
+      "label": "Polka",
+      "date": 1835,
+      "youtube": "https://www.youtube.com/watch?v=ajxfQk_zbjM&t=0s"
+    },
+
+    {
+      "id": "1959-hully-gully",
+      "label": "Hully Gully",
+      "date": 1959,
+      "youtube": "https://www.youtube.com/watch?v=78G6DgEO4BM&t=29s"
+    },
+    {
+      "id": "1957-hand-jive",
+      "label": "Hand Jive",
+      "date": 1957,
+      "youtube": "https://www.youtube.com/watch?v=QvOuTInrue0&t=102s"
+    },
+    {
+      "id": "1960-twist",
+      "label": "Twist",
+      "date": 1960,
+      "youtube": "https://www.youtube.com/watch?v=im9XuJJXylw&t=2s"
+    },
+
+    {
+      "id": "1961-the-pony",
+      "label": "The Pony",
+      "date": 1961,
+      "youtube": "https://www.youtube.com/watch?v=JyaxcvHSyZY&t=47s"
+    },
+    {
+      "id": "1962-the-loco-motion",
+      "label": "The Loco-Motion",
+      "date": 1962,
+      "youtube": "https://www.youtube.com/shorts/ojacGUSohjA&t=0s"
+    },
+    {
+      "id": "1962-mashed-potato",
+      "label": "Mashed Potato",
+      "date": 1962,
+      "youtube": "https://www.youtube.com/watch?v=azTqxyBK32Y&t=50s"
+    },
+    {
+      "id": "1962-the-swim",
+      "label": "The Swim",
+      "date": 1962,
+      "youtube": "https://www.youtube.com/watch?v=UemR8HXm59s&t=12s"
+    },
+    {
+      "id": "1962-the-frug",
+      "label": "The Frug",
+      "date": 1962,
+      "youtube": "https://www.youtube.com/watch?v=mcrZIK3gqbU&t=33s"
+    },
+
+    {
+      "id": "1972-the-hustle",
+      "label": "The Hustle",
+      "date": 1972,
+      "youtube": "https://www.youtube.com/watch?v=SFzMs2SN--s&t=32s"
+    },
+    {
+      "id": "1973-time-warp",
+      "label": "Time Warp",
+      "date": 1973,
+      "youtube": "https://www.youtube.com/watch?v=YC1E8yVJIS4&t=45s"
+    },
+    {
+      "id": "1975-bump",
+      "label": "Bump",
+      "date": 1975,
+      "youtube": "https://www.youtube.com/watch?v=5RheYzUWoxU&t=20s"
+    },
+    {
+      "id": "1976-electric-slide",
+      "label": "Electric Slide",
+      "date": 1976,
+      "youtube": "https://www.youtube.com/watch?v=17ViCtd-dt4&t=160s"
+    },
+    {
+      "id": "1976-robot",
+      "label": "Robot",
+      "date": 1976,
+      "youtube": "https://www.youtube.com/watch?v=81OY32kb584&t=5s"
+    },
+    {
+      "id": "1977-the-running-man",
+      "label": "The Running Man",
+      "date": 1977,
+      "youtube": "https://www.youtube.com/watch?v=Eayz8OHtTcA&t=20s"
+    },
+    {
+      "id": "1978-y-m-c-a",
+      "label": "Y.M.C.A.",
+      "date": 1978,
+      "youtube": "https://www.youtube.com/watch?v=HxOJXw97SUc&t=30s"
+    },
+    {
+      "id": "1983-moonwalk",
+      "label": "Moonwalk",
+      "date": 1983,
+      "youtube": "https://www.youtube.com/watch?v=b6pomaq30Gg&t=23s"
+    },
+    {
+      "id": "1980-cotton-eyed-joe",
+      "label": "Cotton-Eyed Joe",
+      "date": 1980,
+      "youtube": "https://www.youtube.com/watch?v=Ovq0YTMGk1A&t=15s"
+    },
+    {
+      "id": "1981-superman",
+      "label": "Superman",
+      "date": 1981,
+      "youtube": "https://www.youtube.com/watch?v=7Le-mYN3dl0&t=30s"
+    },
+    {
+      "id": "1983-thriller",
+      "label": "Thriller",
+      "date": 1983,
+      "youtube": "https://www.youtube.com/watch?v=4V90AmXnguw&t=72s"
+    },
+    {
+      "id": "1986-wig-wam-bam",
+      "label": "Wig Wam Bam",
+      "date": 1986,
+      "youtube": "https://www.youtube.com/watch?v=BcjWM7VWETU&t=35s"
+    },
+    {
+      "id": "1987-cabbage-patch",
+      "label": "Cabbage Patch",
+      "date": 1987,
+      "youtube": "https://www.youtube.com/watch?v=u2S7auiJFJs&t=67s"
+    },
+    {
+      "id": "1988-da-butt",
+      "label": "Da Butt",
+      "date": 1988,
+      "youtube": "https://www.youtube.com/watch?v=FShE0VifCYs&t=68s"
+    },
+    {
+      "id": "1989-lambada",
+      "label": "Lambada",
+      "date": 1989,
+      "youtube": "https://www.youtube.com/watch?v=iyLdoQGBchQ&t=52s"
+    },
+    {
+      "id": "1990-carlton",
+      "label": "Carlton",
+      "date": 1990,
+      "youtube": "https://www.youtube.com/watch?v=zS1cLOIxsQ8&t=27s"
+    },
+    {
+      "id": "1990-hammertime",
+      "label": "Hammertime",
+      "date": 1990,
+      "youtube": "https://www.youtube.com/watch?v=otCpCn0l4Wo&t=50s"
+    },
+    {
+      "id": "1990-humpty-dance",
+      "label": "Humpty Dance",
+      "date": 1990,
+      "youtube": "https://www.youtube.com/watch?v=PBsjggc5jHM&t=197s"
+    },
+    {
+      "id": "1990-vogue",
+      "label": "Vogue",
+      "date": 1990,
+      "youtube": "https://www.youtube.com/watch?v=GuJQSAiODqI&t=30s"
+    },
+    {
+      "id": "1991-the-stonk",
+      "label": "The Stonk",
+      "date": 1991,
+      "youtube": "https://www.youtube.com/watch?v=ScNNfyq3d_w&t=30s"
+    },
+    {
+      "id": "1991-the-urkel",
+      "label": "The Urkel",
+      "date": 1991,
+      "youtube": "https://www.youtube.com/watch?v=DYUZ8Dm0EiA&t=97s"
+    },
+    {
+      "id": "1993-macarena",
+      "label": "Macarena",
+      "date": 1993,
+      "youtube": "https://www.youtube.com/watch?v=Zi_XLOBDo_Y&t=60s"
+    },
+    {
+      "id": "1998-the-roger-rabbit",
+      "label": "The Roger Rabbit",
+      "date": 1998,
+      "youtube": "https://www.youtube.com/watch?v=kUQTYnYDipk&t=5s"
+    },
+    {
+      "id": "2000-cha-cha-slide",
+      "label": "Cha-Cha Slide",
+      "date": 2000,
+      "youtube": "https://www.youtube.com/watch?v=FMWGKBl-l9A&t=14s"
+    },
+    {
+      "id": "2003-dutty-wine",
+      "label": "Dutty Wine",
+      "date": 2003,
+      "youtube": "https://www.youtube.com/watch?v=L9ROKA8Kli8&t=45s"
+    },
+    {
+      "id": "2006-chicken-noodle-soup",
+      "label": "Chicken Noodle Soup",
+      "date": 2006,
+      "youtube": "https://www.youtube.com/watch?v=A_jbFxoWw08&t=86s"
+    },
+    {
+      "id": "2007-crank-that-soulja-boy",
+      "label": "Crank That (Soulja Boy)",
+      "date": 2007,
+      "youtube": "https://www.youtube.com/watch?v=RJX6TYxyzvs&t=14s"
+    },
+    {
+      "id": "2007-cupid-shuffle",
+      "label": "Cupid Shuffle",
+      "date": 2007,
+      "youtube": "https://www.youtube.com/watch?v=h24_zoqu4_Q&t=54s"
+    },
+    {
+      "id": "2008-single-ladies",
+      "label": "Single Ladies",
+      "date": 2008,
+      "youtube": "https://www.youtube.com/watch?v=4m1EFMoRFvY&t=45s"
+    },
+    {
+      "id": "2009-stanky-legg",
+      "label": "Stanky Legg",
+      "date": 2009,
+      "youtube": "https://www.youtube.com/watch?v=T6lRHW7NRXw&t=30s"
+    },
+    {
+      "id": "2009-hoedown-throwdown",
+      "label": "Hoedown Throwdown",
+      "date": 2009,
+      "youtube": "https://www.youtube.com/watch?v=MFQMlJMnyoQ&t=57s"
+    },
+    {
+      "id": "2009-dougie",
+      "label": "Dougie",
+      "date": 2009,
+      "youtube": "https://www.youtube.com/watch?v=5h5wx9rnrno&t=02s"
+    },
+    {
+      "id": "2012-gangnam-style",
+      "label": "Gangnam Style",
+      "date": 2012,
+      "youtube": "https://www.youtube.com/watch?v=9bZkp7q19f0&t=30s"
+    },
+    {
+      "id": "2013-harlem-shake",
+      "label": "Harlem Shake",
+      "date": 2013,
+      "youtube": "https://www.youtube.com/watch?v=7tgZWzG4548=7s"
+    },
+    {
+      "id": "2014-nae-nae",
+      "label": "Nae Nae",
+      "date": 2014,
+      "youtube": "https://www.youtube.com/watch?v=E5R0aov2M28&t=10s"
+    },
+    {
+      "id": "2015-dab",
+      "label": "Dab",
+      "date": 2015,
+      "youtube": "https://www.youtube.com/watch?v=9NAGYnFcH5M&t=3s"
+    },
+    {
+      "id": "2017-floss",
+      "label": "Floss",
+      "date": 2017,
+      "youtube": "https://www.youtube.com/watch?v=tpV4SmtyqO4&t=63s"
+    },
+    {
+      "id": "2017-shoot",
+      "label": "Shoot",
+      "date": 2017,
+      "youtube": "https://www.youtube.com/watch?v=7t8Gies2Zps&t=26s"
+    },
+    {
+      "id": "2013-twerking",
+      "label": "Twerking",
+      "date": 2013,
+      "youtube": "https://www.youtube.com/watch?v=QryoOF5jEbc=57s"
+    },
+    {
+      "id": "2015-hit-the-quan",
+      "label": "Hit the Quan",
+      "date": 2015,
+      "youtube": "https://www.youtube.com/watch?v=TAbT0czPBAQ&t=15s"
+    },
+    {
+      "id": "2020-renegade",
+      "label": "Renegade",
+      "date": 2020,
+      "youtube": "https://www.youtube.com/watch?v=c3ysGlRC220&t=5s"
+    },
+    {
+      "id": "2020-blinding-lights-challenge",
+      "label": "Blinding Lights Challenge",
+      "date": 2020,
+      "youtube": "https://www.youtube.com/watch?v=z8xYp-LkbJM&t=73s"
+    },
+    {
+      "id": "2020-say-so",
+      "label": "Say So",
+      "date": 2020,
+      "youtube": "https://www.youtube.com/watch?v=Qp9WXb9yER0&t=11s"
+    },
+    {
+      "id": "2020-savage-challenge",
+      "label": "Savage Challenge",
+      "date": 2020,
+      "youtube": "https://www.youtube.com/watch?v=RhITl69iXJQ&t=58s"
+    },
+    {
+      "id": "2020-wap-challenge",
+      "label": "WAP Challenge",
+      "date": 2020,
+      "youtube": "https://www.youtube.com/watch?v=o1s2F_lUlXE&t=10s"
+    },
+    {
+      "id": "2020-toosie-slide",
+      "label": "Toosie Slide",
+      "date": 2020,
+      "youtube": "https://www.youtube.com/watch?v=xWggTb45brM&t=100s"
+    },
+    {
+      "id": "2021-buss-it-challenge",
+      "label": "Buss It Challenge",
+      "date": 2021,
+      "youtube": "https://www.youtube.com/watch?v=cNv-6ani9D8&t=15s"
+    },
+    {
+      "id": "2020-jerusalema-global-challenge",
+      "label": "Jerusalema Global Challenge",
+      "date": 2020,
+      "youtube": "https://www.youtube.com/watch?v=IMdpMG1NKOg&t=10s"
+    },
+    {
+      "id": "2020-savage-love",
+      "label": "Savage Love",
+      "date": 2020,
+      "youtube": "https://www.youtube.com/watch?v=YiEhvJbcgxU&t=5s"
+    }
+  ]
+}

@@ -1,3 +1,73 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+:root {
+  --foreground-rgb: 0, 0, 0;
+  --background-start-rgb: 214, 219, 220;
+  --background-end-rgb: 255, 255, 255;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --foreground-rgb: 255, 255, 255;
+    --background-start-rgb: 0, 0, 0;
+    --background-end-rgb: 0, 0, 0;
+  }
+}
+
+body {
+  color: rgb(var(--foreground-rgb));
+  background: linear-gradient(
+      to bottom,
+      transparent,
+      rgb(var(--background-end-rgb))
+    )
+    rgb(var(--background-start-rgb));
+}
+
+/* Puzzle grid improvements */
+.puzzle-grid {
+  @apply grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 p-4;
+}
+
+.puzzle-card {
+  @apply relative border-2 rounded-lg p-4 cursor-pointer transition-all min-w-[280px];
+}
+
+.puzzle-card:hover {
+  @apply shadow-md;
+}
+
+.puzzle-card.selected {
+  @apply border-blue-500 bg-blue-50 shadow-lg;
+}
+
+.puzzle-card.unselected {
+  @apply border-gray-300 bg-white hover:border-gray-400;
+}
+
+/* Tooltip styles */
+.puzzle-tooltip {
+  @apply absolute invisible opacity-0 transition-all duration-200;
+  @apply left-0 top-full mt-2 z-50;
+  @apply bg-gray-900 text-white p-3 rounded-lg shadow-xl;
+  @apply w-80 pointer-events-none;
+}
+
+.puzzle-card:hover .puzzle-tooltip {
+  @apply visible opacity-100;
+}
+
+/* Ensure text doesn't overflow in party mode */
+@media (min-width: 768px) {
+  .puzzle-selection-grid {
+    grid-template-columns: repeat(2, minmax(320px, 1fr));
+  }
+}
+
+@media (min-width: 1280px) {
+  .puzzle-selection-grid {
+    grid-template-columns: repeat(3, minmax(320px, 1fr));
+  }
+}

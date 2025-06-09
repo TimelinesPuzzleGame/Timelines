@@ -1,0 +1,317 @@
+{
+  "slug": "gibboanx-test-2",
+  "topic": "Gibboanx Test Puzzle 2",
+  "category": "Entertainment",
+  "subcategory": "Movies/TV",
+  "hideDates": false,
+  "showTooltips": true,
+  "variantSystem": {
+    "enabled": true,
+    "totalScenes": 8,
+    "selectionStrategy": "random_per_round"
+  },
+  "cards": [
+    {
+      "id": "gibboanx-test-2-1",
+      "label": "Escape from Alcatraz",
+      "date": 1979,
+      "year": 1979,
+      "youtube": "https://www.youtube.com/watch?v=FULxHvaSdxc&t=0s&end=78s",
+      "duration": 78,
+      "variants": [
+        {
+          "id": "FULxHvaSdxc-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=FULxHvaSdxc&t=0s&end=78s",
+          "sceneDescription": "Escape from Alcatraz - Full Scene (0:00 - 1:18)",
+          "startTime": 0,
+          "endTime": 78
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Escape from Alcatraz (1979) - Quality Score: 45/100",
+        "genre": "Classic Film",
+        "crawlerScore": 45,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 0,
+          "resolutionQuality": 10,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T20:30:42.067Z"
+      },
+      "movie": "Escape from Alcatraz"
+    },
+    {
+      "id": "gibboanx-test-2-2",
+      "label": "Goldfinger",
+      "date": 1964,
+      "year": 1964,
+      "youtube": "https://www.youtube.com/watch?v=YlkCWzakkVo&t=0s&end=178s",
+      "duration": 178,
+      "variants": [
+        {
+          "id": "YlkCWzakkVo-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=YlkCWzakkVo&t=0s&end=178s",
+          "sceneDescription": "Goldfinger - Part 1 (0:00 - 2:58)",
+          "startTime": 0,
+          "endTime": 178
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Goldfinger (1964) - Quality Score: 50/100",
+        "genre": "Classic Film",
+        "crawlerScore": 50,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 10,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T20:30:42.067Z"
+      },
+      "movie": "Goldfinger"
+    },
+    {
+      "id": "gibboanx-test-2-3",
+      "label": "Gone Baby Gone",
+      "date": 2007,
+      "year": 2007,
+      "youtube": "https://www.youtube.com/watch?v=KeECYderUlM&t=0s&end=128s",
+      "duration": 128,
+      "variants": [
+        {
+          "id": "KeECYderUlM-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=KeECYderUlM&t=0s&end=128s",
+          "sceneDescription": "Gone Baby Gone - Part 1 (0:00 - 2:08)",
+          "startTime": 0,
+          "endTime": 128
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Gone Baby Gone (2007) - Quality Score: 52/100",
+        "genre": "Classic Film",
+        "crawlerScore": 52,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 20,
+          "resolutionQuality": 0,
+          "popularityFactor": 2,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T20:30:42.067Z"
+      },
+      "movie": "Gone Baby Gone"
+    },
+
+    {
+      "id": "gibboanx-test-2-4",
+      "label": "Goon",
+      "date": 2011,
+      "year": 2011,
+      "youtube": "https://www.youtube.com/watch?v=2aHlxkvt5UQ&t=0s&end=141s",
+      "duration": 141,
+      "variants": [
+        {
+          "id": "2aHlxkvt5UQ-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=2aHlxkvt5UQ&t=0s&end=141s",
+          "sceneDescription": "Goon - Part 1 (0:00 - 2:21)",
+          "startTime": 0,
+          "endTime": 141
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Goon (2011) - Quality Score: 50/100",
+        "genre": "Classic Film",
+        "crawlerScore": 50,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 0,
+          "resolutionQuality": 0,
+          "popularityFactor": 10,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T20:30:42.067Z"
+      },
+      "movie": "Goon"
+    },
+    {
+      "id": "gibboanx-test-2-5",
+      "label": "Hard Boiled",
+      "date": 1992,
+      "year": 1992,
+      "youtube": "https://www.youtube.com/watch?v=3wYCh5nxyCI&t=0s&end=120s",
+      "duration": 302,
+      "variants": [
+        {
+          "id": "3wYCh5nxyCI-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=3wYCh5nxyCI&t=0s&end=120s",
+          "sceneDescription": "Hard Boiled - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "3wYCh5nxyCI-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=3wYCh5nxyCI&t=120s&end=240s",
+          "sceneDescription": "Hard Boiled - Part 2 (2:00 - 4:00)",
+          "startTime": 120,
+          "endTime": 240
+        },
+        {
+          "id": "3wYCh5nxyCI-variant-2",
+          "youtube": "https://www.youtube.com/watch?v=3wYCh5nxyCI&t=240s&end=302s",
+          "sceneDescription": "Hard Boiled - Part 3 (4:00 - 5:02)",
+          "startTime": 240,
+          "endTime": 302
+        }
+      ],
+      "variantCount": 3,
+      "tooltip": {
+        "description": "Hard Boiled (1992) - Quality Score: 35/100",
+        "genre": "Classic Film",
+        "crawlerScore": 35,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 0,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T20:30:42.067Z"
+      },
+      "movie": "Hard Boiled"
+    },
+    {
+      "id": "gibboanx-test-2-7",
+      "label": "Harry Brown",
+      "date": 2009,
+      "year": 2009,
+      "youtube": "https://www.youtube.com/watch?v=c9Z0yr49xXw&t=0s&end=100s",
+      "duration": 100,
+      "variants": [
+        {
+          "id": "c9Z0yr49xXw-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=c9Z0yr49xXw&t=0s&end=100s",
+          "sceneDescription": "Harry Brown - Full Scene (0:00 - 1:40)",
+          "startTime": 0,
+          "endTime": 100
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Harry Brown (2009) - Quality Score: 50/100",
+        "genre": "Classic Film",
+        "crawlerScore": 50,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 0,
+          "resolutionQuality": 10,
+          "popularityFactor": 10,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T20:30:42.067Z"
+      },
+      "movie": "Harry Brown"
+    },
+    {
+      "id": "gibboanx-test-2-8",
+      "label": "Hunger",
+      "date": 2008,
+      "year": 2008,
+      "youtube": "https://www.youtube.com/watch?v=CP_5KMlfnpQ&t=0s&end=120s",
+      "duration": 224,
+      "variants": [
+        {
+          "id": "CP_5KMlfnpQ-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=CP_5KMlfnpQ&t=0s&end=120s",
+          "sceneDescription": "Hunger - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "CP_5KMlfnpQ-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=CP_5KMlfnpQ&t=120s&end=224s",
+          "sceneDescription": "Hunger - Part 2 (2:00 - 3:44)",
+          "startTime": 120,
+          "endTime": 224
+        }
+      ],
+      "variantCount": 2,
+      "tooltip": {
+        "description": "Hunger (2008) - Quality Score: 42/100",
+        "genre": "Classic Film",
+        "crawlerScore": 42,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 2,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T20:30:42.067Z"
+      },
+      "movie": "Hunger"
+    },
+
+    {
+      "id": "gibboanx-test-2-10",
+      "label": "Incendies",
+      "date": 2010,
+      "year": 2010,
+      "youtube": "https://www.youtube.com/watch?v=EFx8KXkBMvM&t=0s&end=120s",
+      "duration": 286,
+      "variants": [
+        {
+          "id": "EFx8KXkBMvM-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=EFx8KXkBMvM&t=0s&end=120s",
+          "sceneDescription": "Incendies - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "EFx8KXkBMvM-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=EFx8KXkBMvM&t=120s&end=286s",
+          "sceneDescription": "Incendies - Part 2 (2:00 - 4:46)",
+          "startTime": 120,
+          "endTime": 286
+        }
+      ],
+      "variantCount": 2,
+      "tooltip": {
+        "description": "Incendies (2010) - Quality Score: 40/100",
+        "genre": "Classic Film",
+        "crawlerScore": 40,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 0,
+          "resolutionQuality": 0,
+          "popularityFactor": 10,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T20:30:42.067Z"
+      },
+      "movie": "Incendies"
+    }
+  ]
+}

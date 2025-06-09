@@ -1,0 +1,349 @@
+{
+  "slug": "gibboanx-test-7",
+  "topic": "Gibboanx Test Puzzle 7",
+  "category": "Entertainment",
+  "subcategory": "Movies/TV",
+  "hideDates": false,
+  "showTooltips": true,
+  "variantSystem": {
+    "enabled": true,
+    "totalScenes": 9,
+    "selectionStrategy": "random_per_round"
+  },
+  "cards": [
+    {
+      "id": "gibboanx-test-7-1",
+      "label": "Top Secret!",
+      "date": 1984,
+      "year": 1984,
+      "youtube": "https://www.youtube.com/watch?v=OBuAfIjsFVk&t=0s&end=126s",
+      "duration": 126,
+      "variants": [
+        {
+          "id": "OBuAfIjsFVk-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=OBuAfIjsFVk&t=0s&end=126s",
+          "sceneDescription": "Top Secret! - Part 1 (0:00 - 2:06)",
+          "startTime": 0,
+          "endTime": 126
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Top Secret! (1984) - Quality Score: 50/100",
+        "genre": "Classic Film",
+        "crawlerScore": 50,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 10,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T20:41:45.856Z"
+      },
+      "movie": "Top Secret!"
+    },
+    {
+      "id": "gibboanx-test-7-2",
+      "label": "Toy Story 3",
+      "date": 2010,
+      "year": 2010,
+      "youtube": "https://www.youtube.com/watch?v=EJJXYPhVOFM&t=0s&end=135s",
+      "duration": 135,
+      "variants": [
+        {
+          "id": "EJJXYPhVOFM-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=EJJXYPhVOFM&t=0s&end=135s",
+          "sceneDescription": "Toy Story 3 - Part 1 (0:00 - 2:15)",
+          "startTime": 0,
+          "endTime": 135
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Toy Story 3 (2010) - Quality Score: 40/100",
+        "genre": "Classic Film",
+        "crawlerScore": 40,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 0,
+          "resolutionQuality": 0,
+          "popularityFactor": 10,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T20:41:45.856Z"
+      },
+      "movie": "Toy Story 3"
+    },
+    {
+      "id": "gibboanx-test-7-3",
+      "label": "Traffic",
+      "date": 2000,
+      "year": 2000,
+      "youtube": "https://www.youtube.com/watch?v=UrfRYe3i4Ro&t=0s&end=130s",
+      "duration": 130,
+      "variants": [
+        {
+          "id": "UrfRYe3i4Ro-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=UrfRYe3i4Ro&t=0s&end=130s",
+          "sceneDescription": "Traffic - Part 1 (0:00 - 2:10)",
+          "startTime": 0,
+          "endTime": 130
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Traffic (2000) - Quality Score: 40/100",
+        "genre": "Classic Film",
+        "crawlerScore": 40,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 0,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T20:41:45.856Z"
+      },
+      "movie": "Traffic"
+    },
+    {
+      "id": "gibboanx-test-7-4",
+      "label": "True Grit",
+      "date": 2010,
+      "year": 2010,
+      "youtube": "https://www.youtube.com/watch?v=qpRxj0QwgjY&t=0s&end=120s",
+      "duration": 263,
+      "variants": [
+        {
+          "id": "qpRxj0QwgjY-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=qpRxj0QwgjY&t=0s&end=120s",
+          "sceneDescription": "True Grit - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "qpRxj0QwgjY-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=qpRxj0QwgjY&t=120s&end=263s",
+          "sceneDescription": "True Grit - Part 2 (2:00 - 4:23)",
+          "startTime": 120,
+          "endTime": 263
+        }
+      ],
+      "variantCount": 2,
+      "tooltip": {
+        "description": "True Grit (2010) - Quality Score: 50/100",
+        "genre": "Classic Film",
+        "crawlerScore": 50,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 10,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T20:41:45.856Z"
+      },
+      "movie": "True Grit"
+    },
+    {
+      "id": "gibboanx-test-7-5",
+      "label": "United 93",
+      "date": 2006,
+      "year": 2006,
+      "youtube": "https://www.youtube.com/watch?v=x5i-tvvHX68&t=0s&end=120s",
+      "duration": 418,
+      "variants": [
+        {
+          "id": "x5i-tvvHX68-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=x5i-tvvHX68&t=0s&end=120s",
+          "sceneDescription": "United 93 - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "x5i-tvvHX68-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=x5i-tvvHX68&t=120s&end=240s",
+          "sceneDescription": "United 93 - Part 2 (2:00 - 4:00)",
+          "startTime": 120,
+          "endTime": 240
+        },
+        {
+          "id": "x5i-tvvHX68-variant-2",
+          "youtube": "https://www.youtube.com/watch?v=x5i-tvvHX68&t=240s&end=418s",
+          "sceneDescription": "United 93 - Part 3 (4:00 - 6:58)",
+          "startTime": 240,
+          "endTime": 418
+        }
+      ],
+      "variantCount": 3,
+      "tooltip": {
+        "description": "United 93 (2006) - Quality Score: 50/100",
+        "genre": "Classic Film",
+        "crawlerScore": 50,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 10,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T20:41:45.856Z"
+      },
+      "movie": "United 93"
+    },
+    {
+      "id": "gibboanx-test-7-6",
+      "label": "War of the Worlds",
+      "date": 2005,
+      "year": 2005,
+      "youtube": "https://www.youtube.com/watch?v=zLf6pp5Tvk8&t=0s&end=30s",
+      "duration": 30,
+      "variants": [
+        {
+          "id": "zLf6pp5Tvk8-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=zLf6pp5Tvk8&t=0s&end=30s",
+          "sceneDescription": "War of the Worlds - Full Scene (0:00 - 0:30)",
+          "startTime": 0,
+          "endTime": 30
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "War of the Worlds (2005) - Quality Score: 45/100",
+        "genre": "Classic Film",
+        "crawlerScore": 45,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T20:41:45.856Z"
+      },
+      "movie": "War of the Worlds"
+    },
+    {
+      "id": "gibboanx-test-7-7",
+      "label": "We Need to Talk About Kevin",
+      "date": 2011,
+      "year": 2011,
+      "youtube": "https://www.youtube.com/watch?v=_rrPpJDI160&t=0s&end=120s",
+      "duration": 228,
+      "variants": [
+        {
+          "id": "_rrPpJDI160-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=_rrPpJDI160&t=0s&end=120s",
+          "sceneDescription": "We Need to Talk About Kevin - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "_rrPpJDI160-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=_rrPpJDI160&t=120s&end=228s",
+          "sceneDescription": "We Need to Talk About Kevin - Part 2 (2:00 - 3:48)",
+          "startTime": 120,
+          "endTime": 228
+        }
+      ],
+      "variantCount": 2,
+      "tooltip": {
+        "description": "We Need to Talk About Kevin (2011) - Quality Score: 45/100",
+        "genre": "Classic Film",
+        "crawlerScore": 45,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T20:41:45.856Z"
+      },
+      "movie": "We Need to Talk About Kevin"
+    },
+    {
+      "id": "gibboanx-test-7-8",
+      "label": "X2: X-Men United",
+      "date": 2003,
+      "year": 2003,
+      "youtube": "https://www.youtube.com/watch?v=j8-zv9wBzrs&t=0s&end=32s",
+      "duration": 32,
+      "variants": [
+        {
+          "id": "j8-zv9wBzrs-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=j8-zv9wBzrs&t=0s&end=32s",
+          "sceneDescription": "X2: X-Men United - Full Scene (0:00 - 0:32)",
+          "startTime": 0,
+          "endTime": 32
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "X2: X-Men United (2003) - Quality Score: 40/100",
+        "genre": "Classic Film",
+        "crawlerScore": 40,
+        "breakdown": {
+          "titleRelevance": 20,
+          "sceneIndicators": 10,
+          "resolutionQuality": 10,
+          "popularityFactor": 10,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T20:41:45.856Z"
+      },
+      "movie": "X2: X-Men United"
+    },
+    {
+      "id": "gibboanx-test-7-10",
+      "label": "Ben-Hur",
+      "date": 1959,
+      "year": 1959,
+      "youtube": "https://www.youtube.com/watch?v=cb1wUe5geuU&t=0s&end=121s",
+      "duration": 121,
+      "variants": [
+        {
+          "id": "cb1wUe5geuU-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=cb1wUe5geuU&t=0s&end=121s",
+          "sceneDescription": "Ben-Hur - Part 1 (0:00 - 2:01)",
+          "startTime": 0,
+          "endTime": 121
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Ben-Hur (1959) - Quality Score: 35/100",
+        "genre": "Classic Film",
+        "crawlerScore": 35,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 0,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T20:41:45.856Z"
+      },
+      "movie": "Ben-Hur"
+    }
+  ]
+}

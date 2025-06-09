@@ -1,0 +1,60 @@
+{
+  "slug": "user-1747803481956",
+  "topic": "Knockouts and Tapouts",
+  "category": "Sports",
+  "subcategory": "MMA",
+  "showTooltips": false,
+  "hideDates": false,
+  "cards": [
+    {
+      "label": "Gracie Takes UFC 1",
+      "date": 1993,
+      "id": "surprise-1747803481954-0"
+    },
+    {
+      "label": "First Women's MMA Bout in Strikeforce",
+      "date": 2009,
+      "id": "surprise-1747803481954-1"
+    },
+    {
+      "label": "Silva's Front Kick KO of Vitor Belfort",
+      "date": 2011,
+      "id": "surprise-1747803481954-2"
+    },
+    {
+      "label": "Rousey Arm-Bars Tate",
+      "date": 2012,
+      "id": "surprise-1747803481954-3"
+    },
+    {
+      "label": "McGregor's 13 Second Aldo KO",
+      "date": 2015,
+      "id": "surprise-1747803481954-4"
+    },
+    {
+      "label": "Holly Holm Shocks Rousey",
+      "date": 2015,
+      "id": "surprise-1747803481954-5"
+    },
+    {
+      "label": "Jon Jones Returns, Reclaims Title",
+      "date": 2018,
+      "id": "surprise-1747803481954-6"
+    },
+    {
+      "label": "Ferguson's TKO of Cerrone",
+      "date": 2019,
+      "id": "surprise-1747803481954-7"
+    },
+    {
+      "label": "Nunes KO Holm, Defends Bantamweight Title",
+      "date": 2019,
+      "id": "surprise-1747803481954-8"
+    },
+    {
+      "label": "Khabib Retires Undefeated",
+      "date": 2020,
+      "id": "surprise-1747803481954-9"
+    }
+  ]
+}

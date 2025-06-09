@@ -1,0 +1,89 @@
+{
+  "slug": "user-1749353045231",
+  "topic": "songs: synth pop",
+  "category": "Entertainment",
+  "showTooltips": false,
+  "hideDates": false,
+  "cards": [
+    {
+      "label": "Sweet Dreams (Are Made of This) – Eurythmics",
+      "date": 1983,
+      "id": "ugc-1749353045127-0",
+      "deezer": {
+        "trackId": 561836
+      }
+    },
+    {
+      "label": "Take on Me – A-ha",
+      "date": 1985,
+      "id": "ugc-1749353045077-1",
+      "deezer": {
+        "trackId": 664107
+      }
+    },
+    {
+      "label": "West End Girls – Pet Shop Boys",
+      "date": 1984,
+      "id": "ugc-1749353045139-2",
+      "deezer": {
+        "trackId": 462775272
+      }
+    },
+    {
+      "label": "Blue Monday – New Order",
+      "date": 1983,
+      "id": "ugc-1749353045077-3",
+      "deezer": {
+        "trackId": 131744046
+      }
+    },
+    {
+      "label": "Don't You Want Me – The Human League",
+      "date": 1981,
+      "id": "ugc-1749353045174-4",
+      "deezer": {
+        "trackId": 3092940
+      }
+    },
+    {
+      "label": "Just Can't Get Enough – Depeche Mode",
+      "date": 1981,
+      "id": "ugc-1749353045137-5",
+      "deezer": {
+        "trackId": 68513610
+      }
+    },
+    {
+      "label": "Tainted Love – Soft Cell",
+      "date": 1981,
+      "id": "ugc-1749353045224-6",
+      "deezer": {
+        "trackId": 4255662
+      }
+    },
+    {
+      "label": "Together in Electric Dreams – Phil Oakey & Giorgio Moroder",
+      "date": 1984,
+      "id": "ugc-1749353045012-7",
+      "deezer": {
+        "trackId": 3307069
+      }
+    },
+    {
+      "label": "Love Will Tear Us Apart – Joy Division",
+      "date": 1980,
+      "id": "ugc-1749353045056-8",
+      "deezer": {
+        "trackId": 797434
+      }
+    },
+    {
+      "label": "Cars – Gary Numan",
+      "date": 1979,
+      "id": "ugc-1749353045132-9",
+      "deezer": {
+        "trackId": 938553
+      }
+    }
+  ]
+}

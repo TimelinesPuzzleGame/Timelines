@@ -1,0 +1,4564 @@
+{
+  "slug": "comedy-movies",
+  "topic": "Comedy Movies",
+  "category": "Entertainment",
+  "subcategory": "Movies/TV",
+  "hideDates": false,
+  "showTooltips": true,
+  "description": "Comedy movies with accurate release dates and proper titles.",
+  "variantSystem": {
+    "enabled": true,
+    "totalMovies": 101,
+    "totalScenes": 275,
+    "moviesWithVariants": 44,
+    "selectionStrategy": "random_per_round"
+  },
+  "cards": [
+    {
+      "id": "comedy-38",
+      "label": "Stir Crazy",
+      "date": 1980,
+      "year": 1980,
+      "youtube": "https://www.youtube.com/watch?v=VICG4I_3srM",
+      "tooltip": {
+        "description": "Comedy movie scene or clip from Stir Crazy",
+        "genre": "Comedy",
+        "source": "oEmbed title analysis",
+        "verified": true,
+        "embeddable": true,
+        "alternativeVideos": [
+          {
+            "videoId": "BcEV6GQL3IU",
+            "title": "Stir Crazy: What Is This Stuff? (Richard Pryor HD CLIP)"
+          }
+        ],
+        "oembedTitle": "Stir Crazy: The Great Escape (Gene Wilder, Richard Pryor HD CLIP)",
+        "manuallyCorrected": false,
+        "totalVideoVariants": 2,
+        "originalLabel": "Stir Crazy",
+        "originalYear": 2019,
+        "correctionSource": "tmdb_oembed",
+        "tmdbId": 21629,
+        "tmdbFixed": true,
+        "movieTitle": "Stir Crazy",
+        "sceneDescription": "The Great Escape",
+        "properlyParsed": true,
+        "originalSceneLabel": "The Great Escape"
+      }
+    },
+    {
+      "id": "comedy-121",
+      "label": "Stripes",
+      "date": 1981,
+      "year": 1981,
+      "youtube": "https://www.youtube.com/watch?v=WIaYLBHvgP4",
+      "tooltip": {
+        "description": "Comedy movie scene or clip from Stripes",
+        "genre": "Comedy",
+        "source": "oEmbed title analysis",
+        "verified": true,
+        "embeddable": true,
+        "alternativeVideos": [
+          {
+            "videoId": "a_zZ9Tlqiy8",
+            "title": "Stripes: The Recruit's First Day (Harold Ramis, Bill Murray Scene)"
+          },
+          {
+            "videoId": "11F6LSoi_G0",
+            "title": "Stripes: Meeting Psycho and Ox (Bill Murray, John Candy Scene)"
+          }
+        ],
+        "oembedTitle": "Stripes: I Bet You Can't Do 5 Push Ups (Bill Murray, Harold Ramis)",
+        "manuallyCorrected": false,
+        "totalVideoVariants": 3,
+        "originalLabel": "Stripes",
+        "originalYear": 2020,
+        "correctionSource": "tmdb_oembed",
+        "tmdbId": 10890,
+        "tmdbFixed": true,
+        "movieTitle": "Stripes",
+        "sceneDescription": "I Bet You Can't Do 5 Push Ups",
+        "properlyParsed": true,
+        "originalSceneLabel": "I Bet You Can't Do 5 Push Ups"
+      }
+    },
+    {
+      "id": "clipzone-asOFi1W228M",
+      "label": "Monty Python's The Meaning of Life",
+      "date": 1983,
+      "year": 1983,
+      "youtube": "https://www.youtube.com/watch?v=asOFi1W228M",
+      "tooltip": {
+        "description": "Life's questions are 'answered' in a series of outrageous vignettes, beginning with a staid London insurance company which transforms before our eyes into a pirate ship. Then there's the National Health doctors who try to claim a healthy liver from a still-living donor. The world's most voracious glutton brings the art of vomiting to new heights before his spectacular demise.",
+        "genre": "Comedy",
+        "source": "ClipZone: Comedy Callbacks",
+        "verified": true,
+        "embeddable": true,
+        "channelName": "ClipZone: Comedy Callbacks",
+        "tmdbVerified": true
+      }
+    },
+    {
+      "id": "comedy-428",
+      "label": "Ghostbusters",
+      "date": 1984,
+      "year": 1984,
+      "youtube": "https://www.youtube.com/watch?v=pWH_EU0eAx8",
+      "tooltip": {
+        "description": "Comedy movie scene or clip from The Ghostbusters Face the Library Ghost",
+        "genre": "Comedy",
+        "source": "oEmbed title analysis",
+        "verified": true,
+        "embeddable": true,
+        "alternativeVideos": [],
+        "oembedTitle": "The Ghostbusters Face the Library Ghost | Ghostbusters (1984) (Bill Murray, Harold Ramis)",
+        "manuallyCorrected": false,
+        "totalVideoVariants": 1,
+        "originalLabel": "The Ghostbusters Face the Library Ghost",
+        "originalYear": 1984,
+        "correctionSource": "tmdb_oembed",
+        "searchQuery": "The Ghostbusters Face the Library Ghost",
+        "movieTitle": "Ghostbusters",
+        "sceneDescription": "The Ghostbusters Face the Library Ghost",
+        "tmdbId": 620,
+        "properlyParsed": true,
+        "originalSceneLabel": "The Ghostbusters Face the Library Ghost"
+      },
+      "variants": [
+        {
+          "id": "comedy-429",
+          "youtube": "https://www.youtube.com/watch?v=2PL6ib18ccU",
+          "sceneDescription": "Ghostbusters’ First Mission: Chaos at the Hotel",
+          "oembedTitle": "Ghostbusters’ First Mission: Chaos at the Hotel | Ghostbusters (1984) (Bill Murray, Dan Aykroyd)"
+        },
+        {
+          "id": "comedy-24",
+          "youtube": "https://www.youtube.com/watch?v=mmkMeCflkYs",
+          "sceneDescription": "Abby Gets Possessed",
+          "oembedTitle": "Ghostbusters (2016): Abby Gets Possessed (MELISSA MCCARTHY, LESLIE JONES, & KATE MCKINNON SCENE)"
+        },
+        {
+          "id": "KezvwARhBIc",
+          "youtube": "https://www.youtube.com/watch?v=KezvwARhBIc",
+          "sceneDescription": "Comedy scene from ClipZone"
+        }
+      ],
+      "variantCount": 4,
+      "primaryVariantId": "comedy-428"
+    },
+    {
+      "id": "comedy-46",
+      "label": "Moscow on the Hudson",
+      "date": 1984,
+      "year": 1984,
+      "youtube": "https://www.youtube.com/watch?v=hjs8qtsCCts",
+      "tooltip": {
+        "description": "Comedy movie scene or clip from Moscow On The Hudson",
+        "genre": "Comedy",
+        "source": "oEmbed title analysis",
+        "verified": true,
+        "embeddable": true,
+        "alternativeVideos": [
+          {
+            "videoId": "_aoRx8phHQw",
+            "title": "Moscow On The Hudson: Bloomingdale's Escape (Robin Williams 4K HD CLIP)"
+          },
+          {
+            "videoId": "EtLqqPaWdyQ",
+            "title": "Moscow On The Hudson: Vlad's Job Search (Robin Williams 4K HD CLIP)"
+          }
+        ],
+        "oembedTitle": "Moscow On The Hudson: Circus Show (Robin Williams 4K HD CLIP)",
+        "manuallyCorrected": false,
+        "totalVideoVariants": 3,
+        "originalLabel": "Moscow On The Hudson",
+        "originalYear": 2019,
+        "correctionSource": "tmdb_oembed",
+        "tmdbId": 23111,
+        "tmdbFixed": true,
+        "movieTitle": "Moscow on the Hudson",
+        "sceneDescription": "Circus Show",
+        "properlyParsed": true,
+        "originalSceneLabel": "Circus Show"
+      }
+    },
+    {
+      "id": "clipzone-7GoEb8vfHPo",
+      "label": "Police Academy",
+      "date": 1984,
+      "year": 1984,
+      "youtube": "https://www.youtube.com/watch?v=7GoEb8vfHPo",
+      "tooltip": {
+        "description": "Comedy scene from Police Academy",
+        "genre": "Comedy",
+        "source": "ClipZone: Comedy Callbacks",
+        "verified": true,
+        "embeddable": true,
+        "channelName": "ClipZone: Comedy Callbacks"
+      },
+      "variants": []
+    },
+    {
+      "id": "clipzone-arYBjqWzQ_M",
+      "label": "National Lampoon's European Vacation",
+      "date": 1985,
+      "year": 1985,
+      "youtube": "https://www.youtube.com/watch?v=arYBjqWzQ_M",
+      "tooltip": {
+        "description": "Comedy scene from National Lampoon's European Vacation",
+        "genre": "Comedy",
+        "source": "ClipZone: Comedy Callbacks",
+        "verified": true,
+        "embeddable": true,
+        "channelName": "ClipZone: Comedy Callbacks"
+      },
+      "variants": []
+    },
+    {
+      "id": "comedy-42",
+      "label": "School Daze",
+      "date": 1988,
+      "year": 1988,
+      "youtube": "https://www.youtube.com/watch?v=gbjGh0l3-dQ",
+      "tooltip": {
+        "description": "Comedy movie scene or clip from School Daze",
+        "genre": "Comedy",
+        "source": "oEmbed title analysis",
+        "verified": true,
+        "embeddable": true,
+        "alternativeVideos": [
+          {
+            "videoId": "I5mFdOXudGw",
+            "title": "School Daze: Fraternity Hazing (Giancarlo Esposito HD CLIP)"
+          },
+          {
+            "videoId": "VKFHCBGxCyU",
+            "title": "School Daze: One Reason Why Not (Spike Lee HD CLIP)"
+          }
+        ],
+        "oembedTitle": "School Daze: KFC Scene (Laurence Fishburne, Samuel L. Jackson Scene)",
+        "manuallyCorrected": false,
+        "totalVideoVariants": 3,
+        "originalLabel": "School Daze",
+        "originalYear": 2019,
+        "correctionSource": "tmdb_oembed",
+        "tmdbId": 36739,
+        "tmdbFixed": true,
+        "movieTitle": "School Daze",
+        "sceneDescription": "KFC Scene",
+        "properlyParsed": true,
+        "originalSceneLabel": "KFC Scene"
+      }
+    },
+    {
+      "id": "clipzone-5h9VDUNtoto",
+      "label": "Home Alone 2: Lost in New York",
+      "date": 1992,
+      "year": 1992,
+      "youtube": "https://www.youtube.com/watch?v=5h9VDUNtoto",
+      "tooltip": {
+        "description": "Instead of flying to Florida with his folks, Kevin ends up alone in New York, where he gets a hotel room with his dad's credit card—despite problems from a clerk and meddling bellboy. But when Kevin runs into his old nemeses, the Wet Bandits, he's determined to foil their plans to rob a toy store on Christmas Eve.",
+        "genre": "Comedy",
+        "source": "ClipZone: Comedy Callbacks",
+        "verified": true,
+        "embeddable": true,
+        "channelName": "ClipZone: Comedy Callbacks",
+        "tmdbVerified": true
+      }
+    },
+    {
+      "id": "comedy-110",
+      "label": "Groundhog Day",
+      "date": 1993,
+      "year": 1993,
+      "youtube": "https://www.youtube.com/watch?v=L0Fjo1oS-KQ",
+      "tooltip": {
+        "description": "Comedy movie scene or clip from Groundhog Day",
+        "genre": "Comedy",
+        "source": "oEmbed title analysis",
+        "verified": true,
+        "embeddable": true,
+        "alternativeVideos": [
+          {
+            "videoId": "PzF06qPH6ZI",
+            "title": "Groundhog Day: Happy And In Love (Andie MacDowell, Bill Murray Scene)"
+          },
+          {
+            "videoId": "4YTqBxkDJlw",
+            "title": "Groundhog Day: Groundhog Day... Again (Bill Murray Scene)"
+          },
+          {
+            "videoId": "vZoJx7KWOLU",
+            "title": "Groundhog Day: A Late Night Joyride (Bill Murray Scene)"
+          },
+          {
+            "videoId": "1LfXug11uHA",
+            "title": "Groundhog Day: Taking the Groundhog With Me! (Bill Murray Scene)"
+          },
+          {
+            "videoId": "wY6FYz7_vf4",
+            "title": "Groundhog Day: Yet Another Groundhog Day (Bill Murray)"
+          }
+        ],
+        "oembedTitle": "Groundhog Day: So, No Flapjacks? (Bill Murray Scene)",
+        "manuallyCorrected": false,
+        "totalVideoVariants": 6,
+        "originalLabel": "Groundhog Day",
+        "originalYear": 2020,
+        "correctionSource": "tmdb_oembed",
+        "tmdbId": 137,
+        "tmdbFixed": true,
+        "movieTitle": "Groundhog Day",
+        "sceneDescription": "So, No Flapjacks?",
+        "properlyParsed": true,
+        "originalSceneLabel": "So, No Flapjacks?"
+      },
+      "variants": [
+        {
+          "id": "comedy-380",
+          "youtube": "https://www.youtube.com/watch?v=rLcq99Wxatw",
+          "sceneDescription": "Phil Professes His Love To Rita",
+          "oembedTitle": "Phil Professes His Love To Rita | Groundhog Day (Bill Murray, Andie MacDowell)"
+        },
+        {
+          "id": "comedy-381",
+          "youtube": "https://www.youtube.com/watch?v=AN0giXSieRg",
+          "sceneDescription": "Phil Gets Desperate to End the Time Loop",
+          "oembedTitle": "Phil Gets Desperate to End the Time Loop | Groundhog Day (Bill Murray, Andie MacDowell)"
+        },
+        {
+          "id": "comedy-382",
+          "youtube": "https://www.youtube.com/watch?v=8YawKzARhHw",
+          "sceneDescription": "Rita Bids for Phil at the Auction",
+          "oembedTitle": "Rita Bids for Phil at the Auction | Groundhog Day (Bill Murray, Andie MacDowell)"
+        }
+      ],
+      "variantCount": 4,
+      "primaryVariantId": "comedy-110"
+    },
+    {
+      "id": "clipzone-lqqecX9jDHc",
+      "label": "Dumb and Dumber",
+      "date": 1994,
+      "year": 1994,
+      "youtube": "https://www.youtube.com/watch?v=lqqecX9jDHc",
+      "tooltip": {
+        "description": "Comedy scene from Dumb and Dumber",
+        "genre": "Comedy",
+        "source": "ClipZone: Comedy Callbacks",
+        "verified": true,
+        "embeddable": true,
+        "channelName": "ClipZone: Comedy Callbacks"
+      },
+      "variants": []
+    },
+    {
+      "id": "clipzone-kI6h9RNtWXE",
+      "label": "The Mask",
+      "date": 1994,
+      "year": 1994,
+      "youtube": "https://www.youtube.com/watch?v=kI6h9RNtWXE",
+      "tooltip": {
+        "description": "Comedy scene from The Mask",
+        "genre": "Comedy",
+        "source": "ClipZone: Comedy Callbacks",
+        "verified": true,
+        "embeddable": true,
+        "channelName": "ClipZone: Comedy Callbacks"
+      },
+      "variants": []
+    },
+    {
+      "id": "comedy-27",
+      "label": "Bad Boys",
+      "date": 1995,
+      "year": 1995,
+      "youtube": "https://www.youtube.com/watch?v=qz5KAVu-yvQ",
+      "tooltip": {
+        "description": "Comedy movie scene or clip from Bad Boys",
+        "genre": "Comedy",
+        "source": "oEmbed title analysis",
+        "verified": true,
+        "embeddable": true,
+        "alternativeVideos": [
+          {
+            "videoId": "hoKOk-eCRic",
+            "title": "Bad Boys: Car Jacking Cops (WILL SMITH & MARTIN LAWRENCE OPENING MOVIE SCENE)"
+          },
+          {
+            "videoId": "RcDgGIBshg0",
+            "title": "Bad Boys: Bar Bathroom Brawl (MARTIN LAWRENCE FIGHT SCENE)"
+          },
+          {
+            "videoId": "rqpcM_KD8WA",
+            "title": "Bad Boys: Mike and Marcus Argue (MOVIE #SHORTS)"
+          }
+        ],
+        "oembedTitle": "Bad Boys: Basketball With Captain Howard (JOE PANTOLIANO SCENE)",
+        "manuallyCorrected": true,
+        "totalVideoVariants": 4,
+        "originalLabel": "Bad Boys",
+        "originalYear": 1995,
+        "correctionSource": "tmdb_oembed",
+        "tmdbId": 9737,
+        "tmdbFixed": true,
+        "movieTitle": "Bad Boys",
+        "sceneDescription": "Basketball With Captain Howard",
+        "properlyParsed": true,
+        "originalSceneLabel": "Basketball With Captain Howard"
+      }
+    },
+    {
+      "id": "comedy-69",
+      "label": "The Cable Guy",
+      "date": 1996,
+      "year": 1996,
+      "youtube": "https://www.youtube.com/watch?v=oGA6zMdwWJ8",
+      "tooltip": {
+        "description": "Comedy movie scene or clip from The Cable Guy",
+        "genre": "Comedy",
+        "source": "oEmbed title analysis",
+        "verified": true,
+        "embeddable": true,
+        "alternativeVideos": [
+          {
+            "videoId": "fC_1qaIcETo",
+            "title": "The Cable Guy: Medieval Times Battle (HD Clip)"
+          },
+          {
+            "videoId": "AS2oZ4hYBUc",
+            "title": "The Cable Guy: Satellite Dish Fight (HD Clip)"
+          },
+          {
+            "videoId": "llct6cZkVug",
+            "title": "The Cable Guy: Access to All the Movies (Jack Black #movie #shorts #4k)"
+          },
+          {
+            "videoId": "W1mYZCcQzak",
+            "title": "The Cable Guy: Scary Hallway Scene (Jim Carrey #movie #shorts #4k)"
+          }
+        ],
+        "oembedTitle": "The Cable Guy: Installing Steven's Cable (HD Clip)",
+        "manuallyCorrected": false,
+        "totalVideoVariants": 5,
+        "originalLabel": "The Cable Guy",
+        "originalYear": 2019,
+        "correctionSource": "tmdb_oembed",
+        "tmdbId": 9894,
+        "tmdbFixed": true,
+        "movieTitle": "The Cable Guy",
+        "sceneDescription": "Installing Steven's Cable",
+        "properlyParsed": true,
+        "originalSceneLabel": "Installing Steven's Cable"
+      },
+      "variants": [
+        {
+          "id": "comedy-393",
+          "youtube": "https://www.youtube.com/watch?v=g1KdWRPyFQc",
+          "sceneDescription": "A Fun Ride with the Cable Guy",
+          "oembedTitle": "A Fun Ride with the Cable Guy | The Cable Guy (Jim Carrey, Matthew Broderick)"
+        },
+        {
+          "id": "comedy-394",
+          "youtube": "https://www.youtube.com/watch?v=z2Md6dhTNGY",
+          "sceneDescription": "Beating Robin's Date on the Bathroom",
+          "oembedTitle": "Beating Robin's Date on the Bathroom | The Cable Guy (Jim Carrey, Owen Wilson)"
+        },
+        {
+          "id": "comedy-395",
+          "youtube": "https://www.youtube.com/watch?v=t50-Jt3xvu0",
+          "sceneDescription": "Steven Is Stalked by the Cable Guy",
+          "oembedTitle": "Steven Is Stalked by the Cable Guy | The Cable Guy (Jim Carrey, Matthew Broderick, Jack Black)"
+        }
+      ],
+      "variantCount": 4,
+      "primaryVariantId": "comedy-69"
+    },
+    {
+      "id": "comedy-25",
+      "label": "Men in Black",
+      "date": 1997,
+      "year": 1997,
+      "youtube": "https://www.youtube.com/watch?v=qHR8IdyTO1M",
+      "tooltip": {
+        "description": "Comedy movie scene or clip from Men in Black",
+        "genre": "Comedy",
+        "source": "oEmbed title analysis",
+        "verified": true,
+        "embeddable": true,
+        "alternativeVideos": [
+          {
+            "videoId": "pRIIwJh1DDQ",
+            "title": "Men in Black: A Person is Smart, People Are Dumb (WILL SMITH & TOMMY LEE JONES FUNNY SCENE)"
+          },
+          {
+            "videoId": "lBtR26WynQU",
+            "title": "Men In Black: Alien Pug Gives Answers (MOVIE #SHORTS)"
+          },
+          {
+            "videoId": "j2qOVnOmD_Q",
+            "title": "Men in Black: Dr. White Flirts (MOVIE #SHORTS)"
+          },
+          {
+            "videoId": "F0Z3Ok6rWK8",
+            "title": "Men in Black: Y'all Look Alike (Will Smith HD Clip)"
+          },
+          {
+            "videoId": "VA6vU1RozHY",
+            "title": "Men in Black: Jay Accidentally Trashes Headquarters (Will Smith HD Clip)"
+          },
+          {
+            "videoId": "lLgi_VNwpYQ",
+            "title": "Men in Black: You May Want a Seatbelt (Will Smith HD Clip)"
+          },
+          {
+            "videoId": "A03Z7VJTEJY",
+            "title": "Men in Black: Rooftop Chase Scene (Will Smith)"
+          },
+          {
+            "videoId": "jRwk9OuUQ6g",
+            "title": "Men in Black: Agent K Takes Jeebs' Head (Tommy Lee Jones, Will Smith)"
+          },
+          {
+            "videoId": "m0dPvRb85hU",
+            "title": "Men in Black: Alien Autopsy Scene (Will Smith, Linda Fiorentino)"
+          }
+        ],
+        "oembedTitle": "Men in Black: A Series of Tests (WILL SMITH MOVIE SCENE)",
+        "manuallyCorrected": true,
+        "totalVideoVariants": 10,
+        "originalLabel": "Men in Black",
+        "originalYear": 1997,
+        "correctionSource": "tmdb_oembed",
+        "tmdbId": 607,
+        "tmdbFixed": true,
+        "movieTitle": "Men in Black",
+        "sceneDescription": "A Series of Tests",
+        "properlyParsed": true,
+        "originalSceneLabel": "A Series of Tests"
+      },
+      "variants": [
+        {
+          "id": "comedy-26",
+          "youtube": "https://www.youtube.com/watch?v=Jk41xLwai_I",
+          "sceneDescription": "\"I Make This Look Good\"",
+          "oembedTitle": "\"I Make This Look Good\" | Men in Black (Will Smith)"
+        },
+        {
+          "id": "comedy-115",
+          "youtube": "https://www.youtube.com/watch?v=OcNCDVqV-Es",
+          "sceneDescription": "Men in Black",
+          "oembedTitle": "Men In Black - Jeebs Loses His Head (Tommy Lee Jones, Will Smith #shorts #short #shortvideo)"
+        },
+        {
+          "id": "comedy-116",
+          "youtube": "https://www.youtube.com/watch?v=w3_u1jusDss",
+          "sceneDescription": "Men in Black",
+          "oembedTitle": "Men In Black - Agent K Erases Agent J's Memory (Will Smith #shorts #short #shortvideo#comedy)"
+        }
+      ],
+      "variantCount": 4,
+      "primaryVariantId": "comedy-25"
+    },
+    {
+      "id": "clipzone-cwZqsXjZkL4",
+      "label": "Austin Powers: International Man of Mystery",
+      "date": 1997,
+      "year": 1997,
+      "youtube": "https://www.youtube.com/watch?v=cwZqsXjZkL4",
+      "tooltip": {
+        "description": "Comedy scene from Austin Powers",
+        "genre": "Comedy",
+        "source": "ClipZone: Comedy Callbacks",
+        "verified": true,
+        "embeddable": true,
+        "channelName": "ClipZone: Comedy Callbacks"
+      },
+      "variants": []
+    },
+    {
+      "id": "clipzone-8hxsvsRfC4Y",
+      "label": "The Wedding Singer",
+      "date": 1998,
+      "year": 1998,
+      "youtube": "https://www.youtube.com/watch?v=8hxsvsRfC4Y",
+      "tooltip": {
+        "description": "Comedy scene from The Wedding Singer",
+        "genre": "Comedy",
+        "source": "ClipZone: Comedy Callbacks",
+        "verified": true,
+        "embeddable": true,
+        "channelName": "ClipZone: Comedy Callbacks"
+      },
+      "variants": []
+    },
+    {
+      "id": "clipzone-PkFB2fWVdTU",
+      "label": "Rush Hour",
+      "date": 1998,
+      "year": 1998,
+      "youtube": "https://www.youtube.com/watch?v=PkFB2fWVdTU",
+      "tooltip": {
+        "description": "Comedy scene from Rush Hour",
+        "genre": "Comedy",
+        "source": "ClipZone: Comedy Callbacks",
+        "verified": true,
+        "embeddable": true,
+        "channelName": "ClipZone: Comedy Callbacks"
+      },
+      "variants": []
+    },
+    {
+      "id": "comedy-35",
+      "label": "Big Daddy",
+      "date": 1999,
+      "year": 1999,
+      "youtube": "https://www.youtube.com/watch?v=HnBa00MNE44",
+      "tooltip": {
+        "description": "Comedy movie scene or clip from Big Daddy",
+        "genre": "Comedy",
+        "source": "oEmbed title analysis",
+        "verified": true,
+        "embeddable": true,
+        "alternativeVideos": [
+          {
+            "videoId": "87DXYjnjQPM",
+            "title": "Big Daddy: Alright, I'm Up! (ADAM SANDLER, COLE SPROUSE HD CLIP)"
+          },
+          {
+            "videoId": "hXYdcY61j7M",
+            "title": "Big Daddy: McDonald's Breakfast (ADAM SANDLER HD CLIP)"
+          },
+          {
+            "videoId": "aDc7blZD7EY",
+            "title": "Big Daddy: Hip Hop Anonymous (ADAM SANDLER HD MOVIE #SHORTS)"
+          },
+          {
+            "videoId": "23vjdti_VY8",
+            "title": "Big Daddy: You Want Me To Hold Your Hand? (ADAM SANDLER HD MOVIE #SHORTS)"
+          },
+          {
+            "videoId": "voTvqhnvYr4",
+            "title": "Big Daddy: Court Room Scene (Adam Sandler, Dylan Sprouse Scene)"
+          }
+        ],
+        "oembedTitle": "Big Daddy: Sonny Meets Julian (ADAM SANDLER HD CLIP)",
+        "manuallyCorrected": false,
+        "totalVideoVariants": 6,
+        "originalLabel": "Big Daddy",
+        "originalYear": 2018,
+        "correctionSource": "tmdb_oembed",
+        "tmdbId": 9032,
+        "tmdbFixed": true,
+        "movieTitle": "Big Daddy",
+        "sceneDescription": "Sonny Meets Julian",
+        "properlyParsed": true,
+        "originalSceneLabel": "Sonny Meets Julian"
+      },
+      "variants": [
+        {
+          "id": "comedy-87",
+          "youtube": "https://www.youtube.com/watch?v=JoKalEJSTtA",
+          "sceneDescription": "Big Daddy",
+          "oembedTitle": "Big Daddy - The Spit Trick (Adam Sandler, Cole Sprouse #shorts #short #shortvideo #comedy #4k)"
+        },
+        {
+          "id": "comedy-88",
+          "youtube": "https://www.youtube.com/watch?v=05Y3u8hZJo4",
+          "sceneDescription": "Big Daddy",
+          "oembedTitle": "Big Daddy - Covering Pee With Newspaper (Adam Sandler, Cole Sprouse #shorts #short #comedy #4k)"
+        },
+        {
+          "id": "comedy-89",
+          "youtube": "https://www.youtube.com/watch?v=Cfnm2YzygeQ",
+          "sceneDescription": "Big Daddy",
+          "oembedTitle": "Big Daddy - Loop Swoop and Pull (Adam Sandler, Cole Sprouse #shorts #short #comedy #4k)"
+        },
+        {
+          "id": "comedy-123",
+          "youtube": "https://www.youtube.com/watch?v=bMM6XjdTwf8",
+          "sceneDescription": "Big Daddy",
+          "oembedTitle": "Big Daddy - Julian Spills the Milk (Adam Sandler, Cole Dylan Sprouse #shorts #short #shortvideo)"
+        },
+        {
+          "id": "comedy-399",
+          "youtube": "https://www.youtube.com/watch?v=Z2wo4GDyGqs",
+          "sceneDescription": "Sonny and Julian's Sad Separation",
+          "oembedTitle": "Sonny and Julian's Sad Separation | Big Daddy (Adam Sandler, Cole Sprouse, Dylan Sprouse)"
+        },
+        {
+          "id": "comedy-400",
+          "youtube": "https://www.youtube.com/watch?v=nyBjHPWi3AI",
+          "sceneDescription": "Julian Needs to Use the Bathroom",
+          "oembedTitle": "Julian Needs to Use the Bathroom | Big Daddy (Adam Sandler, Cole Sprouse, Steve Buscemi)"
+        },
+        {
+          "id": "comedy-401",
+          "youtube": "https://www.youtube.com/watch?v=MBoWQYVD_ug",
+          "sceneDescription": "Sonny Meets Julian for the First Time",
+          "oembedTitle": "Sonny Meets Julian for the First Time | Big Daddy (Adam Sandler, Cole Sprouse, Dylan Sprouse)"
+        }
+      ],
+      "variantCount": 8,
+      "primaryVariantId": "comedy-35"
+    },
+    {
+      "id": "comedy-94",
+      "label": "Charlie's Angels",
+      "date": 2000,
+      "year": 2000,
+      "youtube": "https://www.youtube.com/watch?v=Sb_Szuc-HSc",
+      "tooltip": {
+        "description": "Comedy movie scene or clip from Charlie's Angels",
+        "genre": "Comedy",
+        "source": "oEmbed title analysis",
+        "verified": true,
+        "embeddable": true,
+        "alternativeVideos": [
+          {
+            "videoId": "D9hVgfDUvMc",
+            "title": "Charlie's Angels: Dylan Learns About Knox (Sam Rockwell, Drew Barrymore)"
+          },
+          {
+            "videoId": "kjiDq_Tg1WE",
+            "title": "Charlie's Angels: Madame Blossom Massage Scene (Lucy Liu)"
+          }
+        ],
+        "oembedTitle": "Charlie's Angels: Introducing the Angels (Cameron Diaz, Drew Barrymore, Lucy Liu)",
+        "manuallyCorrected": false,
+        "totalVideoVariants": 3,
+        "originalLabel": "Charlie's Angels",
+        "originalYear": 2019,
+        "correctionSource": "tmdb_oembed",
+        "tmdbId": 4327,
+        "tmdbFixed": true,
+        "movieTitle": "Charlie's Angels",
+        "sceneDescription": "Introducing the Angels",
+        "properlyParsed": true,
+        "originalSceneLabel": "Introducing the Angels"
+      }
+    },
+    {
+      "id": "comedy-102",
+      "label": "Not Another Teen Movie",
+      "date": 2001,
+      "year": 2001,
+      "youtube": "https://www.youtube.com/watch?v=NszJHEUYDdA",
+      "tooltip": {
+        "description": "Comedy movie scene or clip from Not Another Teen Movie",
+        "genre": "Comedy",
+        "source": "oEmbed title analysis",
+        "verified": true,
+        "embeddable": true,
+        "alternativeVideos": [
+          {
+            "videoId": "5VTlHB24zWY",
+            "title": "Not Another Teen Movie: Still a Loser (Chris Evans, Jaime Pressly Scene)"
+          },
+          {
+            "videoId": "rGXei3cwgm8",
+            "title": "Not Another Teen Movie: Anyone Could Be Prom Queen (Chris Evans Scene)"
+          }
+        ],
+        "oembedTitle": "Not Another Teen Movie: Detention Scene (Paul Gleason)",
+        "manuallyCorrected": false,
+        "totalVideoVariants": 3,
+        "originalLabel": "Not Another Teen Movie",
+        "originalYear": 2019,
+        "correctionSource": "tmdb_oembed",
+        "tmdbId": 11397,
+        "tmdbFixed": true,
+        "movieTitle": "Not Another Teen Movie",
+        "sceneDescription": "Detention Scene",
+        "properlyParsed": true,
+        "originalSceneLabel": "Detention Scene"
+      }
+    },
+    {
+      "id": "comedy-402",
+      "label": "Men in Black II",
+      "date": 2002,
+      "year": 2002,
+      "youtube": "https://www.youtube.com/watch?v=0z1GKBcgE_M",
+      "tooltip": {
+        "description": "Comedy movie scene or clip from MIB Agents Battle Gigantic Subway Worm",
+        "genre": "Comedy",
+        "source": "oEmbed title analysis",
+        "verified": true,
+        "embeddable": true,
+        "alternativeVideos": [],
+        "oembedTitle": "MIB Agents Battle Gigantic Subway Worm | Men In Black II (Will Smith, Patrick Warburton)",
+        "manuallyCorrected": false,
+        "totalVideoVariants": 1,
+        "originalLabel": "MIB Agents Battle Gigantic Subway Worm",
+        "originalYear": 2021,
+        "correctionSource": "tmdb_oembed",
+        "tmdbId": 608,
+        "tmdbFixed": true,
+        "movieTitle": "Men in Black II",
+        "sceneDescription": "MIB Agents Battle Gigantic Subway Worm",
+        "properlyParsed": true,
+        "originalSceneLabel": "MIB Agents Battle Gigantic Subway Worm"
+      },
+      "variants": [
+        {
+          "id": "comedy-404",
+          "youtube": "https://www.youtube.com/watch?v=pZ1rEFbP_mw",
+          "sceneDescription": "Agent J Recruits Agent K Back to the MIB",
+          "oembedTitle": "Agent J Recruits Agent K Back to the MIB | Men In Black II (Will Smith, Tommy Lee Jones)"
+        },
+        {
+          "id": "comedy-403",
+          "youtube": "https://www.youtube.com/watch?v=R918KXoIwnw",
+          "sceneDescription": "Agent J and Agent K Destroy Serleena",
+          "oembedTitle": "Agent J and Agent K Destroy Serleena | Men In Black II (Will Smith, Tommy Lee Jones, Rosario Dawson)"
+        }
+      ],
+      "variantCount": 3,
+      "primaryVariantId": "comedy-402"
+    },
+    {
+      "id": "comedy-33",
+      "label": "Mr. Deeds",
+      "date": 2002,
+      "year": 2002,
+      "youtube": "https://www.youtube.com/watch?v=i_hOGnZ1VQI",
+      "tooltip": {
+        "description": "Comedy movie scene or clip from Mr. Deeds",
+        "genre": "Comedy",
+        "source": "oEmbed title analysis",
+        "verified": true,
+        "embeddable": true,
+        "alternativeVideos": [
+          {
+            "videoId": "_XO5ri_CMBc",
+            "title": "Mr. Deeds: Pizza Parlour Fight Scene (WINONA RYDER HD CLIP)"
+          },
+          {
+            "videoId": "TlhyBFvB1vU",
+            "title": "Mr. Deeds: Deeds Learns of His Inheritance (ADAM SANDLER HD CLIP)"
+          },
+          {
+            "videoId": "cnH-2f-_U7s",
+            "title": "Mr. Deeds: Deeds Gives Crazy Eyes His Pizza (ADAM SANDLER HD MOVIE #SHORTS)"
+          },
+          {
+            "videoId": "p4mt262yeMY",
+            "title": "Mr. Deeds: Deeds' Speech At The Billionaires' Ball (ADAM SANDLER HD MOVIE #SHORTS)"
+          },
+          {
+            "videoId": "gtzA9n0JqPA",
+            "title": "Mr. Deeds: Longfellow Meets His Butlers (Adam Sandler #shorts #short #shortsvideo #comedy )"
+          },
+          {
+            "videoId": "X7_ZEGzxsTA",
+            "title": "Mr. Deeds: Mugger Prank Goes Wrong (Adam Sandler #shorts #short #shortsvideo #comedy )"
+          },
+          {
+            "videoId": "-XfX5ogdLr0",
+            "title": "Mr. Deeds: How About a Billion Dollars? (John Turturro, Adam Sandler Scene)"
+          },
+          {
+            "videoId": "4Dn1oVZ2WUg",
+            "title": "Mr. Deeds: Whacking The Frostbitten Foot (Adam Sandler, John Turturro Scene)"
+          },
+          {
+            "videoId": "fh7spT0qeuk",
+            "title": "Mr. Deeds: Deeds Punches a Football Player (Adam Sandler, Brandon Molale Scene)"
+          }
+        ],
+        "oembedTitle": "Mr. Deeds: Restaurant Fight Scene (ADAM SANDLER, WINONA RYDER HD CLIP)",
+        "manuallyCorrected": false,
+        "totalVideoVariants": 10,
+        "originalLabel": "Mr. Deeds",
+        "originalYear": 2018,
+        "correctionSource": "tmdb_oembed",
+        "tmdbId": 2022,
+        "tmdbFixed": true,
+        "movieTitle": "Mr. Deeds",
+        "sceneDescription": "Restaurant Fight Scene",
+        "properlyParsed": true,
+        "originalSceneLabel": "Restaurant Fight Scene"
+      }
+    },
+    {
+      "id": "comedy-13",
+      "label": "Charlie's Angels: Full Throttle",
+      "date": 2003,
+      "year": 2003,
+      "youtube": "https://www.youtube.com/watch?v=C8xXRa50rR8",
+      "tooltip": {
+        "description": "Comedy movie scene or clip from Charlie's Angels Full Throttle",
+        "genre": "Comedy",
+        "source": "oEmbed title analysis",
+        "verified": true,
+        "embeddable": true,
+        "alternativeVideos": [
+          {
+            "videoId": "no5BSh0pnfs",
+            "title": "Charlie's Angels Full Throttle: Striptease Distraction (Drew Barrymore, Lucy Liu, Cameron Diaz)"
+          },
+          {
+            "videoId": "7uP-CjEtSyM",
+            "title": "Charlie's Angels Full Throttle: Madison Attacks the Angels (Demi Moore)"
+          },
+          {
+            "videoId": "U0w7u5wQV2o",
+            "title": "Charlie's Angels Full Throttle: Paddy Escapes from Prison Scene"
+          }
+        ],
+        "oembedTitle": "Charlie's Angels Full Throttle: OMG JASON (MOVIE #SHORTS)",
+        "manuallyCorrected": false,
+        "totalVideoVariants": 4,
+        "originalLabel": "Charlie's Angels Full Throttle",
+        "originalYear": 2018,
+        "correctionSource": "tmdb_oembed",
+        "tmdbId": 9471,
+        "tmdbFixed": true,
+        "movieTitle": "Charlie's Angels: Full Throttle",
+        "sceneDescription": "OMG JASON",
+        "properlyParsed": true,
+        "originalSceneLabel": "OMG JASON"
+      },
+      "variants": [
+        {
+          "id": "comedy-19",
+          "youtube": "https://www.youtube.com/watch?v=R4Q0t19Zipg",
+          "sceneDescription": "Charlie's Angels: Full Throttle",
+          "oembedTitle": "Charlie's Angels Full Throttle - Illegal Chinchilla Ranch (MOVIE #SHORTS)"
+        }
+      ],
+      "variantCount": 2,
+      "primaryVariantId": "comedy-13"
+    },
+    {
+      "id": "comedy-34",
+      "label": "50 First Dates",
+      "date": 2004,
+      "year": 2004,
+      "youtube": "https://www.youtube.com/watch?v=ks4HkxsBV7U",
+      "tooltip": {
+        "description": "Comedy movie scene or clip from 50 First Dates",
+        "genre": "Comedy",
+        "source": "oEmbed title analysis",
+        "verified": true,
+        "embeddable": true,
+        "alternativeVideos": [
+          {
+            "videoId": "CBu8I1ByeAk",
+            "title": "50 First Dates: Henry Meets Lucy (ADAM SANDLER, DREW BARRYMORE HD CLIP)"
+          },
+          {
+            "videoId": "XP8nQGv4eKI",
+            "title": "50 First Dates: Lucy Watches Henry's Tape (DREW BARRYMORE, ADAM SANDLER HD CLIP)"
+          },
+          {
+            "videoId": "dTxX4LNPjvk",
+            "title": "50 First Dates: Ula's Shark Documentary (ADAM SANDLER, ROB SHNEIDER HD #SHORTS)"
+          },
+          {
+            "videoId": "Y23f0tnhmck",
+            "title": "50 First Dates: Ula Urges Henry To Date (ADAM SANDLER, ROB SCHNEIDER HD #SHORTS)"
+          },
+          {
+            "videoId": "a4TCHZFsnLA",
+            "title": "50 First Dates: Getting Away From A One Night Stand (#shorts #short #shortvideo #comedy)"
+          },
+          {
+            "videoId": "QLzb6_oN5OE",
+            "title": "50 First Dates: Ohio's State Bird (Adam Sandler #shorts #short #shortvideo #comedy #4k)"
+          },
+          {
+            "videoId": "BfnxS6jKNj8",
+            "title": "50 First Dates: Pancake Hut Toothpick (Adam Sandler #short #shorts #shortsvideo #comedy)"
+          },
+          {
+            "videoId": "1QV_v1S7M98",
+            "title": "50 First Dates: Mr. Could Kill Me In One Punch (Adam Sandler #short #shorts #shortsvideo #comedy)"
+          }
+        ],
+        "oembedTitle": "50 First Dates: Henry Learns Of Lucy's Condition (ADAM SANDLER HD CLIP)",
+        "manuallyCorrected": false,
+        "totalVideoVariants": 9,
+        "originalLabel": "50 First Dates",
+        "originalYear": 2018,
+        "correctionSource": "tmdb_oembed",
+        "tmdbId": 1824,
+        "tmdbFixed": true,
+        "movieTitle": "50 First Dates",
+        "sceneDescription": "Henry Learns Of Lucy's Condition",
+        "properlyParsed": true,
+        "originalSceneLabel": "Henry Learns Of Lucy's Condition"
+      },
+      "variants": [
+        {
+          "id": "comedy-405",
+          "youtube": "https://www.youtube.com/watch?v=j-l7k2r0FW0",
+          "sceneDescription": "Stay Away From Lucy!",
+          "oembedTitle": "Stay Away From Lucy! | 50 First Dates (Adam Sandler, Drew Barrymore, Blake Clark)"
+        },
+        {
+          "id": "comedy-406",
+          "youtube": "https://www.youtube.com/watch?v=PnUqmbnx_FI",
+          "sceneDescription": "Henry Learns About Lucy's Memory Loss",
+          "oembedTitle": "Henry Learns About Lucy's Memory Loss | 50 First Dates (Adam Sandler, Drew Barrymore)"
+        },
+        {
+          "id": "comedy-407",
+          "youtube": "https://www.youtube.com/watch?v=9WvZYubuRVg",
+          "sceneDescription": "Henry Tries to Get Lucy's Attention",
+          "oembedTitle": "Henry Tries to Get Lucy's Attention | 50 First Dates (Adam Sandler, Drew Barrymore)"
+        },
+        {
+          "id": "comedy-130",
+          "youtube": "https://www.youtube.com/watch?v=Ownqz9BQWU0",
+          "sceneDescription": "No Alcohol in Your Drink",
+          "oembedTitle": "No Alcohol in Your Drink | 50 First Dates (Adam Sandler Scene)"
+        },
+        {
+          "id": "comedy-131",
+          "youtube": "https://www.youtube.com/watch?v=YlhaYDBI2rY",
+          "sceneDescription": "A Vomiting Walrus",
+          "oembedTitle": "A Vomiting Walrus | 50 First Dates (Adam Sandler Scene)"
+        },
+        {
+          "id": "comedy-132",
+          "youtube": "https://www.youtube.com/watch?v=M3BVwqL4B4E",
+          "sceneDescription": "Lucy Watches Henry's Tapes Ending Scene",
+          "oembedTitle": "Lucy Watches Henry's Tapes Ending Scene | 50 First Dates (Drew Barrymore, Adam Sandler)"
+        }
+      ],
+      "variantCount": 7,
+      "primaryVariantId": "comedy-34"
+    },
+    {
+      "id": "comedy-126",
+      "label": "Kung Fu Hustle",
+      "date": 2004,
+      "year": 2004,
+      "youtube": "https://www.youtube.com/watch?v=BI_bLwwCyH4",
+      "tooltip": {
+        "description": "Comedy movie scene or clip from Kung Fu Hustle",
+        "genre": "Comedy",
+        "source": "oEmbed title analysis",
+        "verified": true,
+        "embeddable": true,
+        "alternativeVideos": [
+          {
+            "videoId": "nOnshZz5Iac",
+            "title": "Kung Fu Hustle: Throwing Knives and Snake Bites Scene"
+          },
+          {
+            "videoId": "NzU9qdTEC_o",
+            "title": "Kung Fu Hustle: Axe Gang Fight Scene"
+          }
+        ],
+        "oembedTitle": "Kung Fu Hustle: The Landlady and Landlord vs. The Beast Fight Scene",
+        "manuallyCorrected": false,
+        "totalVideoVariants": 3,
+        "originalLabel": "Kung Fu Hustle",
+        "originalYear": 2020,
+        "correctionSource": "tmdb_oembed",
+        "tmdbId": 9470,
+        "tmdbFixed": true,
+        "movieTitle": "Kung Fu Hustle",
+        "sceneDescription": "The Landlady and Landlord vs. The Beast Fight Scene",
+        "properlyParsed": true,
+        "originalSceneLabel": "The Landlady and Landlord vs. The Beast Fight Scene"
+      }
+    },
+    {
+      "id": "clipzone-G6mCiOu_4fc",
+      "label": "Harold & Kumar Go to White Castle",
+      "date": 2004,
+      "year": 2004,
+      "youtube": "https://www.youtube.com/watch?v=G6mCiOu_4fc",
+      "tooltip": {
+        "description": "Comedy scene from Harold & Kumar Go to White Castle",
+        "genre": "Comedy",
+        "source": "ClipZone: Comedy Callbacks",
+        "verified": true,
+        "embeddable": true,
+        "channelName": "ClipZone: Comedy Callbacks"
+      },
+      "variants": []
+    },
+    {
+      "id": "comedy-148",
+      "label": "Fun with Dick and Jane",
+      "date": 2005,
+      "year": 2005,
+      "youtube": "https://www.youtube.com/watch?v=xCOtr4yATXg",
+      "tooltip": {
+        "description": "Comedy movie scene or clip from Double Bank Robbery",
+        "genre": "Comedy",
+        "source": "oEmbed title analysis",
+        "verified": true,
+        "embeddable": true,
+        "alternativeVideos": [],
+        "oembedTitle": "Double Bank Robbery | Fun With Dick & Jane (Jim Carrey HD Scene)",
+        "manuallyCorrected": false,
+        "totalVideoVariants": 1,
+        "originalLabel": "Double Bank Robbery",
+        "originalYear": 2020,
+        "correctionSource": "tmdb_oembed",
+        "searchQuery": "Double Bank Robbery",
+        "movieTitle": "Fun with Dick and Jane",
+        "sceneDescription": "Double Bank Robbery",
+        "tmdbId": 24109,
+        "properlyParsed": true,
+        "originalSceneLabel": "Double Bank Robbery",
+        "dateFixed": true,
+        "originalIncorrectDate": 1977,
+        "correctionReason": "Manual correction based on actual movie release date"
+      },
+      "variants": [
+        {
+          "id": "comedy-149",
+          "youtube": "https://www.youtube.com/watch?v=V1yZzbawl-A",
+          "sceneDescription": "Anything For a Few Bucks",
+          "oembedTitle": "Anything For a Few Bucks | Fun With Dick & Jane (Jim Carrey HD Scene)"
+        },
+        {
+          "id": "comedy-150",
+          "youtube": "https://www.youtube.com/watch?v=ueC7netDTCk",
+          "sceneDescription": "Racing For an Interview",
+          "oembedTitle": "Racing For an Interview | Fun With Dick & Jane (Jim Carrey HD Scene)"
+        }
+      ],
+      "variantCount": 3,
+      "primaryVariantId": "comedy-148"
+    },
+    {
+      "id": "comedy-30",
+      "label": "Bewitched",
+      "date": 2005,
+      "year": 2005,
+      "youtube": "https://www.youtube.com/watch?v=8oLwMB0Dpkk",
+      "tooltip": {
+        "description": "Comedy movie scene or clip from Bewitched",
+        "genre": "Comedy",
+        "source": "oEmbed title analysis",
+        "verified": true,
+        "embeddable": true,
+        "alternativeVideos": [
+          {
+            "videoId": "2SXXBlEOicM",
+            "title": "Bewitched: A Surprise Visit (ADAM MCKAY MOVIE,  NICOLE KIDMAN HD CLIP)"
+          },
+          {
+            "videoId": "R7JV3qEW3CM",
+            "title": "Bewitched: Perfect For the Role (ADAM MCKAY MOVIE, WILL FARRELL, NICOLE KIDMAN HD CLIP)"
+          },
+          {
+            "videoId": "HEPOgxJxYWE",
+            "title": "Bewitched: Samantha Casts A Spell on Darrin (NICOLE KIDMAN, WILL FERRELL MOVIE #SHORTS)"
+          },
+          {
+            "videoId": "jDPx9oK8sIw",
+            "title": "Bewitched: Samantha Talks About Relationships (NICOLE KIDMAN, MICHAEL CAINE MOVIE #SHORTS)"
+          }
+        ],
+        "oembedTitle": "Bewitched: Rewinding Time (ADAM MCKAY MOVIE HD CLIP)",
+        "manuallyCorrected": false,
+        "totalVideoVariants": 5,
+        "originalLabel": "Bewitched",
+        "originalYear": 2018,
+        "correctionSource": "tmdb_oembed",
+        "tmdbId": 9722,
+        "tmdbFixed": true,
+        "movieTitle": "Bewitched",
+        "sceneDescription": "Rewinding Time",
+        "properlyParsed": true,
+        "originalSceneLabel": "Rewinding Time"
+      }
+    },
+    {
+      "id": "comedy-54",
+      "label": "The Longest Yard",
+      "date": 2005,
+      "year": 2005,
+      "youtube": "https://www.youtube.com/watch?v=GIk_E4qWt18",
+      "tooltip": {
+        "description": "Comedy movie scene or clip from The Longest Yard",
+        "genre": "Comedy",
+        "source": "oEmbed title analysis",
+        "verified": true,
+        "embeddable": true,
+        "alternativeVideos": [
+          {
+            "videoId": "SUlZgQqFqqQ",
+            "title": "The Longest Yard: The Caretaker Turns Down The Radio (CHRIS ROCK, ADAM SANDLER MOVIE #SHORTS)"
+          }
+        ],
+        "oembedTitle": "The Longest Yard: Paul and the Caretaker Draft Players (ADAM SANDLER, CHRIS ROCK MOVIE #SHORTS)",
+        "manuallyCorrected": false,
+        "totalVideoVariants": 2,
+        "originalLabel": "The Longest Yard",
+        "originalYear": 2019,
+        "correctionSource": "tmdb_oembed",
+        "tmdbId": 9291,
+        "tmdbFixed": true,
+        "movieTitle": "The Longest Yard",
+        "sceneDescription": "Paul and the Caretaker Draft Players",
+        "properlyParsed": true,
+        "originalSceneLabel": "Paul and the Caretaker Draft Players"
+      }
+    },
+    {
+      "id": "comedy-117",
+      "label": "Hitch",
+      "date": 2005,
+      "year": 2005,
+      "youtube": "https://www.youtube.com/watch?v=5wmFieRNYx4",
+      "tooltip": {
+        "description": "Comedy movie scene or clip from Hitch",
+        "genre": "Comedy",
+        "source": "oEmbed title analysis",
+        "verified": true,
+        "embeddable": true,
+        "alternativeVideos": [
+          {
+            "videoId": "VMxHi5tvf_k",
+            "title": "Hitch: The Secret to a Kiss (Will Smith, Kevin James Scene)"
+          },
+          {
+            "videoId": "NTbqHAPEQj8",
+            "title": "Hitch: Getting Allegra's Phone Number (Kevin James, Will Smith Scene)"
+          }
+        ],
+        "oembedTitle": "Hitch: Dance Lessons Scene (Kevin James, Will Smith)",
+        "manuallyCorrected": false,
+        "totalVideoVariants": 3,
+        "originalLabel": "Hitch",
+        "originalYear": 2020,
+        "correctionSource": "tmdb_oembed",
+        "tmdbId": 8488,
+        "tmdbFixed": true,
+        "movieTitle": "Hitch",
+        "sceneDescription": "Dance Lessons Scene",
+        "properlyParsed": true,
+        "originalSceneLabel": "Dance Lessons Scene"
+      }
+    },
+    {
+      "id": "clipzone-Q7l7HfjlnCw",
+      "label": "Wedding Crashers",
+      "date": 2005,
+      "year": 2005,
+      "youtube": "https://www.youtube.com/watch?v=Q7l7HfjlnCw",
+      "tooltip": {
+        "description": "Comedy scene from Wedding Crashers",
+        "genre": "Comedy",
+        "source": "ClipZone: Comedy Callbacks",
+        "verified": true,
+        "embeddable": true,
+        "channelName": "ClipZone: Comedy Callbacks"
+      },
+      "variants": []
+    },
+    {
+      "id": "comedy-101",
+      "label": "Click",
+      "date": 2006,
+      "year": 2006,
+      "youtube": "https://www.youtube.com/watch?v=JakSLWXuEDE",
+      "tooltip": {
+        "description": "Comedy movie scene or clip from Click",
+        "genre": "Comedy",
+        "source": "oEmbed title analysis",
+        "verified": true,
+        "embeddable": true,
+        "alternativeVideos": [
+          {
+            "videoId": "SKivycx_aGs",
+            "title": "Click: The Remote's Possibilities (Christopher Walken, Adam Sandler Scene)"
+          },
+          {
+            "videoId": "IK5BoZZR39I",
+            "title": "Click: His Son's Wedding Scene (Kate Beckinsale, Adam Sandler)"
+          }
+        ],
+        "oembedTitle": "Click: Bad Future Scene (Adam Sandler, Jonah Hill HD Clip)",
+        "manuallyCorrected": false,
+        "totalVideoVariants": 3,
+        "originalLabel": "Click",
+        "originalYear": 2019,
+        "correctionSource": "tmdb_oembed",
+        "tmdbId": 9339,
+        "tmdbFixed": true,
+        "movieTitle": "Click",
+        "sceneDescription": "Bad Future Scene",
+        "properlyParsed": true,
+        "originalSceneLabel": "Bad Future Scene"
+      },
+      "variants": [
+        {
+          "id": "comedy-140",
+          "youtube": "https://www.youtube.com/watch?v=RdCC1rliEGY",
+          "sceneDescription": "A Bad Future",
+          "oembedTitle": "A Bad Future | Click (Adam Sandler Scene)"
+        },
+        {
+          "id": "comedy-141",
+          "youtube": "https://www.youtube.com/watch?v=epOkc7gJmQk",
+          "sceneDescription": "Fainting at His Son's Wedding",
+          "oembedTitle": "Fainting at His Son's Wedding | Click (Adam Sandler Scene)"
+        },
+        {
+          "id": "comedy-139",
+          "youtube": "https://www.youtube.com/watch?v=X65JB14thtk",
+          "sceneDescription": "Farting on His Boss Scene",
+          "oembedTitle": "Farting on His Boss Scene | Click (Adam Sandler, David Hasselhoff)"
+        }
+      ],
+      "variantCount": 4,
+      "primaryVariantId": "comedy-101"
+    },
+    {
+      "id": "clipzone-G9PnNW56bp0",
+      "label": "Beerfest",
+      "date": 2006,
+      "year": 2006,
+      "youtube": "https://www.youtube.com/watch?v=G9PnNW56bp0",
+      "tooltip": {
+        "description": "During a trip to Germany to scatter their grandfather's ashes, German-American brothers Todd and Jan discover Beerfest, the secret Olympics of downing stout, and want to enter the contest to defend their family's beer-guzzling honor. Their Old Country cousins sneer at the Yanks' chances, prompting the siblings to return to America to prepare for a showdown the following year.",
+        "genre": "Comedy",
+        "source": "ClipZone: Comedy Callbacks",
+        "verified": true,
+        "embeddable": true,
+        "channelName": "ClipZone: Comedy Callbacks",
+        "tmdbVerified": true
+      }
+    },
+    {
+      "id": "comedy-3",
+      "label": "Superbad",
+      "date": 2007,
+      "year": 2007,
+      "youtube": "https://www.youtube.com/watch?v=tz3F76BWhjQ",
+      "tooltip": {
+        "description": "Comedy movie scene or clip from Superbad",
+        "genre": "Comedy",
+        "source": "oEmbed title analysis",
+        "verified": true,
+        "embeddable": true,
+        "alternativeVideos": [
+          {
+            "videoId": "vqQmTyOHTsw",
+            "title": "Superbad: McLovin (ICONIC SCENE)"
+          },
+          {
+            "videoId": "jB2i91JR6C0",
+            "title": "Superbad: Caught Staring (Michael Cera Scene)"
+          },
+          {
+            "videoId": "jiN_fu__BSY",
+            "title": "Superbad: Helping Jules Out (MOVIE SCENE)"
+          },
+          {
+            "videoId": "kqZsUa_xANQ",
+            "title": "Superbad: Seth Partners With Jules In Class (JONAH HILL, EMMA STONE HD MOVIE #SHORTS)"
+          },
+          {
+            "videoId": "bJEA0Ov9rSI",
+            "title": "Superbad: Seth and Evan Disagree (JONAH HILL, MICHAEL CERA HD MOVIE #SHORTS)"
+          },
+          {
+            "videoId": "qWVUTz2TRPk",
+            "title": "Superbad: I Won't Bring The Lube (JONAH HILL, MICHAEL CERA HD MOVIE #SHORTS)"
+          },
+          {
+            "videoId": "jwRrKvrcfe4",
+            "title": "Superbad: McLovin Tries To Buy Booze (HD MOVIE #SHORTS)"
+          },
+          {
+            "videoId": "cw5-UgiPGE4",
+            "title": "Superbad: Seth Stains His Trousers (Jonah Hill Scene)"
+          },
+          {
+            "videoId": "ldhy1zlTeQU",
+            "title": "Superbad: The Morning After  (Jonah Hill, Michael Cera Scene)"
+          },
+          {
+            "videoId": "F8BHwnjc-kE",
+            "title": "Superbad: Seth Buys Alcohol (Jonah Hill Scene)"
+          },
+          {
+            "videoId": "sSIBuGWd2-s",
+            "title": "Superbad: Teenage Boy Glances (#shorts #short #shortsvideo #comedy #4k)"
+          },
+          {
+            "videoId": "mbTywhnzl_M",
+            "title": "Superbad: McLovin Creeps On Nicola (#shorts #short #shortsvideo #4k #comedy )"
+          }
+        ],
+        "oembedTitle": "Superbad: Drawing Dicks (MOVIE SCENE)",
+        "manuallyCorrected": true,
+        "totalVideoVariants": 13,
+        "originalLabel": "Superbad",
+        "originalYear": 2007,
+        "correctionSource": "tmdb_oembed",
+        "tmdbId": 8363,
+        "tmdbFixed": true,
+        "movieTitle": "Superbad",
+        "sceneDescription": "Drawing Dicks",
+        "properlyParsed": true,
+        "originalSceneLabel": "Drawing Dicks"
+      },
+      "variants": [
+        {
+          "id": "comedy-127",
+          "youtube": "https://www.youtube.com/watch?v=qS0IsmEAoJY",
+          "sceneDescription": "Evan's Mom",
+          "oembedTitle": "Evan's Mom | Superbad (Jonah Hill, Michael Cera Scene)"
+        },
+        {
+          "id": "comedy-128",
+          "youtube": "https://www.youtube.com/watch?v=U3O9BGXVgNg",
+          "sceneDescription": "Seth's Weird Drawing Obsession",
+          "oembedTitle": "Seth's Weird Drawing Obsession | Superbad (Jonah Hill, Michael Cera Scene)"
+        },
+        {
+          "id": "comedy-129",
+          "youtube": "https://www.youtube.com/watch?v=3gZRTkWOG7A",
+          "sceneDescription": "Fogell Takes Down a Drunk Man",
+          "oembedTitle": "Fogell Takes Down a Drunk Man | Superbad (Christopher Mintz-Plasse)"
+        },
+        {
+          "id": "comedy-16",
+          "youtube": "https://www.youtube.com/watch?v=_Tk8S2fgEK4",
+          "sceneDescription": "Home Economics Class",
+          "oembedTitle": "Home Economics Class | Superbad (Jonah Hill, Emma Stone)"
+        },
+        {
+          "id": "comedy-284",
+          "youtube": "https://www.youtube.com/watch?v=ZBWJf2rYdvI",
+          "sceneDescription": "How to Buy Alcohol for the Party",
+          "oembedTitle": "How to Buy Alcohol for the Party | Superbad (Jonah Hill, Michael Cera, Dave Franco)"
+        },
+        {
+          "id": "comedy-285",
+          "youtube": "https://www.youtube.com/watch?v=RX-bRxP1wcw",
+          "sceneDescription": "The Robbery Police Report",
+          "oembedTitle": "The Robbery Police Report | Superbad (Christopher Mintz-Plasse, Seth Rogen, Bill Hader)"
+        },
+        {
+          "id": "comedy-286",
+          "youtube": "https://www.youtube.com/watch?v=RWuIumQZr58",
+          "sceneDescription": "You Can't Come to the Party...",
+          "oembedTitle": "You Can't Come to the Party... | Superbad (Jonah Hill, Michael Cera, Scott Gerbacia)"
+        },
+        {
+          "id": "comedy-287",
+          "youtube": "https://www.youtube.com/watch?v=G-E60xGncTk",
+          "sceneDescription": "Home Economics is a Joke",
+          "oembedTitle": "Home Economics is a Joke | Superbad (Jonah Hill, Michael Cera)"
+        },
+        {
+          "id": "VmOgpZZ1Oec",
+          "youtube": "https://www.youtube.com/watch?v=VmOgpZZ1Oec",
+          "sceneDescription": "Comedy scene from ClipZone"
+        }
+      ],
+      "variantCount": 10,
+      "primaryVariantId": "comedy-3"
+    },
+    {
+      "id": "comedy-37",
+      "label": "Daddy Day Camp",
+      "date": 2007,
+      "year": 2007,
+      "youtube": "https://www.youtube.com/watch?v=PNZpMh7_Vl4",
+      "tooltip": {
+        "description": "Comedy movie scene or clip from Daddy Day Camp",
+        "genre": "Comedy",
+        "source": "oEmbed title analysis",
+        "verified": true,
+        "embeddable": true,
+        "alternativeVideos": [
+          {
+            "videoId": "EmBO8fWjMLQ",
+            "title": "Daddy Day Camp: Calling For Backup (HD CLIP)"
+          },
+          {
+            "videoId": "IJVpuy3BVNU",
+            "title": "Daddy Day Camp: Clean Yourself Up (HD CLIP)"
+          },
+          {
+            "videoId": "oHAe8GiHtVs",
+            "title": "Daddy Day Camp: Air Vomit (Cuba Gooding Jr. HD MOVIE #SHORTS)"
+          },
+          {
+            "videoId": "q5Ppo3J7T4Y",
+            "title": "Daddy Day Camp: Lesson on Being Tough (Cuba Gooding Jr. HD MOVIE #SHORTS)"
+          }
+        ],
+        "oembedTitle": "Daddy Day Camp: Buying The Camp (Cuba Gooding Jr. HD CLIP)",
+        "manuallyCorrected": false,
+        "totalVideoVariants": 5,
+        "originalLabel": "Daddy Day Camp",
+        "originalYear": 2019,
+        "correctionSource": "tmdb_oembed",
+        "tmdbId": 14144,
+        "tmdbFixed": true,
+        "movieTitle": "Daddy Day Camp",
+        "sceneDescription": "Buying The Camp",
+        "properlyParsed": true,
+        "originalSceneLabel": "Buying The Camp"
+      }
+    },
+    {
+      "id": "comedy-70",
+      "label": "Walk Hard: The Dewey Cox Story",
+      "date": 2007,
+      "year": 2007,
+      "youtube": "https://www.youtube.com/watch?v=7PYp_pPeU2Y",
+      "tooltip": {
+        "description": "Comedy movie scene or clip from Walk Hard",
+        "genre": "Comedy",
+        "source": "oEmbed title analysis",
+        "verified": true,
+        "embeddable": true,
+        "alternativeVideos": [
+          {
+            "videoId": "lVwgTQwqHpw",
+            "title": "Walk Hard: The Dewey Cox Story: That's Amore, Walk Hard"
+          },
+          {
+            "videoId": "jZChBc7mc_I",
+            "title": "Walk Hard: The Dewey Cox Story: My Half Brother"
+          },
+          {
+            "videoId": "ijOkp7W6-9g",
+            "title": "Walk Hard: Dewey Gets Caught Cheating (#comedy #movie #shorts #short #4k)"
+          },
+          {
+            "videoId": "6l7rWj0pUbk",
+            "title": "Walk Hard: Dewey Follows His Dreams (#comedy #movie #motivation #shorts #short)"
+          }
+        ],
+        "oembedTitle": "Walk Hard: The Dewey Cox Story: A Life Without You",
+        "manuallyCorrected": false,
+        "totalVideoVariants": 5,
+        "originalLabel": "Walk Hard",
+        "originalYear": 2019,
+        "correctionSource": "tmdb_oembed",
+        "tmdbId": 6575,
+        "tmdbFixed": true,
+        "movieTitle": "Walk Hard: The Dewey Cox Story",
+        "sceneDescription": "The Dewey Cox Story: A Life Without You",
+        "properlyParsed": true,
+        "originalSceneLabel": "The Dewey Cox Story: A Life Without You"
+      }
+    },
+    {
+      "id": "comedy-168",
+      "label": "Step Brothers",
+      "date": 2008,
+      "year": 2008,
+      "youtube": "https://www.youtube.com/watch?v=or2efC7kVXI",
+      "tooltip": {
+        "description": "Comedy movie scene or clip from Sleep Walking Scene",
+        "genre": "Comedy",
+        "source": "oEmbed title analysis",
+        "verified": true,
+        "embeddable": true,
+        "alternativeVideos": [],
+        "oembedTitle": "Sleep Walking Scene | Step Brothers (Will Ferrel, John C. Reilly)",
+        "manuallyCorrected": false,
+        "totalVideoVariants": 1,
+        "originalLabel": "Sleep Walking Scene",
+        "originalYear": 2020,
+        "correctionSource": "tmdb_oembed",
+        "tmdbId": 12133,
+        "tmdbFixed": true,
+        "movieTitle": "Step Brothers",
+        "sceneDescription": "Sleep Walking Scene",
+        "properlyParsed": true,
+        "originalSceneLabel": "Sleep Walking Scene"
+      },
+      "variants": [
+        {
+          "id": "comedy-1",
+          "youtube": "https://www.youtube.com/watch?v=M5ZysX4Eih0",
+          "sceneDescription": "Did You Touch My Drum Set?",
+          "oembedTitle": "Step Brothers: Did You Touch My Drum Set? (Will Ferrell, John. C Reilly HD Scene)"
+        },
+        {
+          "id": "comedy-105",
+          "youtube": "https://www.youtube.com/watch?v=rUhJA8GnikU",
+          "sceneDescription": "Step Brothers",
+          "oembedTitle": "Step Brothers - Oprah, Barbara Walters, Your Wife (John C. Reilly #shorts #short #comedy)"
+        },
+        {
+          "id": "comedy-106",
+          "youtube": "https://www.youtube.com/watch?v=kpTm3f6W8Pg",
+          "sceneDescription": "Step Brothers",
+          "oembedTitle": "Step Brothers - Slow Learners (Will Ferrell, John C. Reilly #shorts #short #comedy)"
+        },
+        {
+          "id": "comedy-107",
+          "youtube": "https://www.youtube.com/watch?v=M-1DLgPrjOI",
+          "sceneDescription": "Step Brothers",
+          "oembedTitle": "Step Brothers - Our Weaknesses Interview (Will Ferrell, John C. Reilly #shorts #short #comedy)"
+        },
+        {
+          "id": "comedy-108",
+          "youtube": "https://www.youtube.com/watch?v=isXrJuA4WTo",
+          "sceneDescription": "Step Brothers",
+          "oembedTitle": "Step Brothers - Shut Your Mouth (Will Ferrell, John C. Reilly #shorts #short #comedy)"
+        },
+        {
+          "id": "comedy-109",
+          "youtube": "https://www.youtube.com/watch?v=5teIoaI5Obo",
+          "sceneDescription": "Step Brothers",
+          "oembedTitle": "Step Brothers - Long Fart Ruins Interview (Seth Rogen, John C. Reilly #shorts #short #comedy)"
+        },
+        {
+          "id": "comedy-424",
+          "youtube": "https://www.youtube.com/watch?v=vxN73z8ph3g",
+          "sceneDescription": "Chaos at the Dinner Table: Step Brothers Style",
+          "oembedTitle": "Chaos at the Dinner Table: Step Brothers Style | Step Brothers (Will Ferrel, John C. Reilly)"
+        },
+        {
+          "id": "comedy-167",
+          "youtube": "https://www.youtube.com/watch?v=4qDHNNGw41s",
+          "sceneDescription": "Are You Awake? This Is My House Now",
+          "oembedTitle": "Are You Awake? This Is My House Now | Step Brothers (Will Ferrel, John C. Reilly)"
+        },
+        {
+          "id": "comedy-174",
+          "youtube": "https://www.youtube.com/watch?v=uUVxcKitILE",
+          "sceneDescription": "I Wrestled A Giraffe",
+          "oembedTitle": "I Wrestled A Giraffe | Step Brothers (Will Ferrell, John C. Reilly #shorts)"
+        },
+        {
+          "id": "comedy-175",
+          "youtube": "https://www.youtube.com/watch?v=VeEKW-yy754",
+          "sceneDescription": "Fantasy League",
+          "oembedTitle": "Fantasy League | Step Brothers (John C. Reilly, Will Ferrell #shorts)"
+        },
+        {
+          "id": "comedy-176",
+          "youtube": "https://www.youtube.com/watch?v=P3fu8ctWCyQ",
+          "sceneDescription": "Gifted Singer",
+          "oembedTitle": "Gifted Singer | Step Brothers (Will Ferrell, John C. Reilly #shorts)"
+        },
+        {
+          "id": "comedy-177",
+          "youtube": "https://www.youtube.com/watch?v=UzfHIEVyFDE",
+          "sceneDescription": "Wedding Speech",
+          "oembedTitle": "Wedding Speech | Step Brothers (Will Ferrell #shorts)"
+        },
+        {
+          "id": "comedy-425",
+          "youtube": "https://www.youtube.com/watch?v=cpS2MZ7dVjk",
+          "sceneDescription": "How Brennan and Dale’s Song Saved the Day",
+          "oembedTitle": "How Brennan and Dale’s Song Saved the Day | Step Brothers (Will Ferrel, John C. Reilly)"
+        }
+      ],
+      "variantCount": 14,
+      "primaryVariantId": "comedy-168"
+    },
+    {
+      "id": "comedy-39",
+      "label": "First Sunday",
+      "date": 2008,
+      "year": 2008,
+      "youtube": "https://www.youtube.com/watch?v=FD6cpOe5Q28",
+      "tooltip": {
+        "description": "Comedy movie scene or clip from First Sunday",
+        "genre": "Comedy",
+        "source": "oEmbed title analysis",
+        "verified": true,
+        "embeddable": true,
+        "alternativeVideos": [
+          {
+            "videoId": "MwBgqpFzAJg",
+            "title": "First Sunday: Will a Man Rob God? (Ice Cube, Tracy Morgan HD CLIP)"
+          }
+        ],
+        "oembedTitle": "First Sunday: Tell Me What I Need To Know (Katt Williams, Ice Cube HD CLIP)",
+        "manuallyCorrected": false,
+        "totalVideoVariants": 2,
+        "originalLabel": "First Sunday",
+        "originalYear": 2019,
+        "correctionSource": "tmdb_oembed",
+        "tmdbId": 14423,
+        "tmdbFixed": true,
+        "movieTitle": "First Sunday",
+        "sceneDescription": "Tell Me What I Need To Know",
+        "properlyParsed": true,
+        "originalSceneLabel": "Tell Me What I Need To Know"
+      }
+    },
+    {
+      "id": "comedy-84",
+      "label": "The House Bunny",
+      "date": 2008,
+      "year": 2008,
+      "youtube": "https://www.youtube.com/watch?v=ZIR2AKnKM_0",
+      "tooltip": {
+        "description": "Comedy movie scene or clip from The House Bunny",
+        "genre": "Comedy",
+        "source": "oEmbed title analysis",
+        "verified": true,
+        "embeddable": true,
+        "alternativeVideos": [
+          {
+            "videoId": "nmR0rd79gCw",
+            "title": "The House Bunny: Meeting Shelley (Anna Faris, Emma Stone)"
+          },
+          {
+            "videoId": "DvTlY5c_Lrk",
+            "title": "The House Bunny: Car Wash Scene (Anna Faris, Emma Stone)"
+          }
+        ],
+        "oembedTitle": "The House Bunny: Upgrading the Zeta House (Anna Faris, Kat Dennings)",
+        "manuallyCorrected": false,
+        "totalVideoVariants": 3,
+        "originalLabel": "The House Bunny",
+        "originalYear": 2019,
+        "correctionSource": "tmdb_oembed",
+        "tmdbId": 12620,
+        "tmdbFixed": true,
+        "movieTitle": "The House Bunny",
+        "sceneDescription": "Upgrading the Zeta House",
+        "properlyParsed": true,
+        "originalSceneLabel": "Upgrading the Zeta House"
+      },
+      "variants": [
+        {
+          "id": "comedy-90",
+          "youtube": "https://www.youtube.com/watch?v=_gcSeKej4Yg",
+          "sceneDescription": "The House Bunny",
+          "oembedTitle": "The House Bunny - Center Fold Model (Anna Faris #shorts #short #shortvideo #4k)"
+        },
+        {
+          "id": "comedy-348",
+          "youtube": "https://www.youtube.com/watch?v=z0bTybnYJMo",
+          "sceneDescription": "Second Date Fail",
+          "oembedTitle": "Second Date Fail | The House Bunny (Anna Faris, Emma Stone)"
+        },
+        {
+          "id": "comedy-349",
+          "youtube": "https://www.youtube.com/watch?v=B36ovw5pPZE",
+          "sceneDescription": "First Date Gone Wrong",
+          "oembedTitle": "First Date Gone Wrong | The House Bunny (Anna Faris, Emma Stone)"
+        },
+        {
+          "id": "comedy-350",
+          "youtube": "https://www.youtube.com/watch?v=QH5jkTs8SJc",
+          "sceneDescription": "Pledging For Zeta",
+          "oembedTitle": "Pledging For Zeta | The House Bunny (Anna Faris, Emma Stone)"
+        }
+      ],
+      "variantCount": 5,
+      "primaryVariantId": "comedy-84"
+    },
+    {
+      "id": "comedy-417",
+      "label": "You Don't Mess with the Zohan",
+      "date": 2008,
+      "year": 2008,
+      "youtube": "https://www.youtube.com/watch?v=mBQNkZgvpx0",
+      "tooltip": {
+        "description": "Comedy movie scene or clip from Phantom Finds Out Zohan Is Alive",
+        "genre": "Comedy",
+        "source": "oEmbed title analysis",
+        "verified": true,
+        "embeddable": true,
+        "alternativeVideos": [],
+        "oembedTitle": "Phantom Finds Out Zohan Is Alive | You Don't Mess with the Zohan (Adam Sandler, Rob Schneider)",
+        "manuallyCorrected": false,
+        "totalVideoVariants": 1,
+        "originalLabel": "Phantom Finds Out Zohan Is Alive",
+        "originalYear": 2021,
+        "correctionSource": "tmdb_oembed",
+        "tmdbId": 10661,
+        "tmdbFixed": true,
+        "movieTitle": "You Don't Mess with the Zohan",
+        "sceneDescription": "Phantom Finds Out Zohan Is Alive",
+        "properlyParsed": true,
+        "originalSceneLabel": "Phantom Finds Out Zohan Is Alive"
+      },
+      "variants": [
+        {
+          "id": "comedy-418",
+          "youtube": "https://www.youtube.com/watch?v=ixnnhVarzvg",
+          "sceneDescription": "Zohan Proves to Be a Great Hairdresser",
+          "oembedTitle": "Zohan Proves to Be a Great Hairdresser | You Don't Mess with the Zohan (Adam Sandler)"
+        },
+        {
+          "id": "comedy-419",
+          "youtube": "https://www.youtube.com/watch?v=hZUw2IBno14",
+          "sceneDescription": "Zohan Arrives in New York",
+          "oembedTitle": "Zohan Arrives in New York | You Don't Mess with the Zohan (Adam Sandler)"
+        }
+      ],
+      "variantCount": 3,
+      "primaryVariantId": "comedy-417"
+    },
+    {
+      "id": "comedy-158",
+      "label": "Year One",
+      "date": 2009,
+      "year": 2009,
+      "youtube": "https://www.youtube.com/watch?v=T9hi4CegNGI",
+      "tooltip": {
+        "description": "Comedy movie scene or clip from No Longer a Virgin Scene",
+        "genre": "Comedy",
+        "source": "oEmbed title analysis",
+        "verified": true,
+        "embeddable": true,
+        "alternativeVideos": [],
+        "oembedTitle": "No Longer a Virgin Scene | Year One (Michael Cera, Jack Black)",
+        "manuallyCorrected": false,
+        "totalVideoVariants": 1,
+        "originalLabel": "No Longer a Virgin Scene",
+        "originalYear": 2020,
+        "correctionSource": "tmdb_oembed",
+        "tmdbId": 17610,
+        "tmdbFixed": true,
+        "movieTitle": "Year One",
+        "sceneDescription": "No Longer a Virgin Scene",
+        "properlyParsed": true,
+        "originalSceneLabel": "No Longer a Virgin Scene"
+      },
+      "variants": [
+        {
+          "id": "comedy-157",
+          "youtube": "https://www.youtube.com/watch?v=3uD2e4tfHro",
+          "sceneDescription": "Abraham and Isaac Scene",
+          "oembedTitle": "Abraham and Isaac Scene | Year One (Jack Black, Michael Cera)"
+        },
+        {
+          "id": "comedy-161",
+          "youtube": "https://www.youtube.com/watch?v=x2-Ksdk2o8w",
+          "sceneDescription": "Peeing Upside Down Scene",
+          "oembedTitle": "Peeing Upside Down Scene | Year One (Jack Black, Michael Cera)"
+        },
+        {
+          "id": "comedy-162",
+          "youtube": "https://www.youtube.com/watch?v=Nw5dtiRlEQk",
+          "sceneDescription": "Bear Poop or Human Poop?",
+          "oembedTitle": "Bear Poop or Human Poop? | Year One (Jack Black, Michael Cera #shorts)"
+        }
+      ],
+      "variantCount": 4,
+      "primaryVariantId": "comedy-158"
+    },
+    {
+      "id": "comedy-11",
+      "label": "Paul Blart: Mall Cop",
+      "date": 2009,
+      "year": 2009,
+      "youtube": "https://www.youtube.com/watch?v=-7G1H20MY-8",
+      "tooltip": {
+        "description": "Comedy movie scene or clip from Paul Blart Mall Cop",
+        "genre": "Comedy",
+        "source": "oEmbed title analysis",
+        "verified": true,
+        "embeddable": true,
+        "alternativeVideos": [
+          {
+            "videoId": "VJXW94yGSDw",
+            "title": "Paul Blart Mall Cop: A Man on the Inside (MOVIE SCENE)"
+          },
+          {
+            "videoId": "pI6gRQie0vE",
+            "title": "Paul Blart Mall Cop: Tanning Bed Takedown (MOVIE SCENE)"
+          },
+          {
+            "videoId": "BbigSd2TfbM",
+            "title": "Paul Blart Mall Cop: Obstacle Course (MOVIE SCENE)"
+          },
+          {
+            "videoId": "dlyRIFkX4TI",
+            "title": "Paul Blart Mall Cop: Air Vent Attack (MOVIE SCENE)"
+          },
+          {
+            "videoId": "YWJRhZbxbVw",
+            "title": "Paul Blart Mall Cop: Scuba Dooby Doo (MOVIE #SHORTS)"
+          }
+        ],
+        "oembedTitle": "Paul Blart Mall Cop: Backup! Backup! (MOVIE SCENE)",
+        "manuallyCorrected": false,
+        "totalVideoVariants": 6,
+        "originalLabel": "Paul Blart Mall Cop",
+        "originalYear": 2018,
+        "correctionSource": "tmdb_oembed",
+        "tmdbId": 14560,
+        "tmdbFixed": true,
+        "movieTitle": "Paul Blart: Mall Cop",
+        "sceneDescription": "Backup! Backup!",
+        "properlyParsed": true,
+        "originalSceneLabel": "Backup! Backup!"
+      }
+    },
+    {
+      "id": "comedy-20",
+      "label": "Fired Up!",
+      "date": 2009,
+      "year": 2009,
+      "youtube": "https://www.youtube.com/watch?v=J_MjXAHB3y4",
+      "tooltip": {
+        "description": "Comedy movie scene or clip from Fired Up!",
+        "genre": "Comedy",
+        "source": "oEmbed title analysis",
+        "verified": true,
+        "embeddable": true,
+        "alternativeVideos": [
+          {
+            "videoId": "T45CnyzTmaQ",
+            "title": "Fired Up!: Risk it for the Biscuit (MOVIE SCENE)"
+          },
+          {
+            "videoId": "d5rbMzs04Ao",
+            "title": "Fired Up!: Team Panther (MOVIE SCENE)"
+          },
+          {
+            "videoId": "tBDjdeeXWWg",
+            "title": "Fired Up!: We Are Driving! Again! (MOVIE SCENE)"
+          }
+        ],
+        "oembedTitle": "Fired Up!: Over the Top (MOVIE SCENE)",
+        "manuallyCorrected": false,
+        "totalVideoVariants": 4,
+        "originalLabel": "Fired Up!",
+        "originalYear": 2018,
+        "correctionSource": "tmdb_oembed",
+        "tmdbId": 17927,
+        "tmdbFixed": true,
+        "movieTitle": "Fired Up!",
+        "sceneDescription": "Over the Top",
+        "properlyParsed": true,
+        "originalSceneLabel": "Over the Top"
+      },
+      "variants": [
+        {
+          "id": "comedy-298",
+          "youtube": "https://www.youtube.com/watch?v=r3sSK2L-EhU",
+          "sceneDescription": "Welcome To Cheer Camp",
+          "oembedTitle": "Welcome To Cheer Camp | Fired Up! (Nicholas D'Agosto, Eric Christian Olsen, John Michael Higgins)"
+        },
+        {
+          "id": "comedy-299",
+          "youtube": "https://www.youtube.com/watch?v=zL0hzBSKE04",
+          "sceneDescription": "Shawn and Nick Are Exposed As Frauds",
+          "oembedTitle": "Shawn and Nick Are Exposed As Frauds | Fired Up! (Nicholas D'Agosto, Eric Christian Olsen)"
+        },
+        {
+          "id": "comedy-300",
+          "youtube": "https://www.youtube.com/watch?v=-WuGZtmE4hc",
+          "sceneDescription": "Meet the Male Cheerleaders",
+          "oembedTitle": "Meet the Male Cheerleaders | Fired Up! (Nicholas D'Agosto, Eric Christian Olsen)"
+        }
+      ],
+      "variantCount": 4,
+      "primaryVariantId": "comedy-20"
+    },
+    {
+      "id": "comedy-186",
+      "label": "Zombieland",
+      "date": 2009,
+      "year": 2009,
+      "youtube": "https://www.youtube.com/watch?v=RilDT5ZeIX0",
+      "tooltip": {
+        "description": "Comedy movie scene or clip from Tallahassee's Son Flashback",
+        "genre": "Comedy",
+        "source": "oEmbed title analysis",
+        "verified": true,
+        "embeddable": true,
+        "alternativeVideos": [],
+        "oembedTitle": "Tallahassee's Son Flashback | Zombieland (Woody Harrelson, Jesse Eisenberg, Emma Stone)",
+        "manuallyCorrected": false,
+        "totalVideoVariants": 1,
+        "originalLabel": "Tallahassee's Son Flashback",
+        "originalYear": 2020,
+        "correctionSource": "tmdb_oembed",
+        "searchQuery": "Tallahassee's Son Flashback",
+        "movieTitle": "Zombieland",
+        "sceneDescription": "Tallahassee's Son Flashback",
+        "tmdbId": 19908,
+        "properlyParsed": true,
+        "originalSceneLabel": "Tallahassee's Son Flashback"
+      },
+      "variants": [
+        {
+          "id": "comedy-187",
+          "youtube": "https://www.youtube.com/watch?v=4MZzhdUBSt8",
+          "sceneDescription": "Zombies at the Grocery Store",
+          "oembedTitle": "Zombies at the Grocery Store | Zombieland (Woody Harrelson, Jesse Eisenberg)"
+        },
+        {
+          "id": "comedy-188",
+          "youtube": "https://www.youtube.com/watch?v=Tvfe3Y4LMIc",
+          "sceneDescription": "The Con Artist Sisters",
+          "oembedTitle": "The Con Artist Sisters | Zombieland (Emma Stone, Abigail Breslin, Woody Harrelson, Jesse Eisenberg)"
+        },
+        {
+          "id": "comedy-199",
+          "youtube": "https://www.youtube.com/watch?v=CqSVObXvaCU",
+          "sceneDescription": "Tallahassee vs. Zombies",
+          "oembedTitle": "Tallahassee vs. Zombies | Zombieland (Woody Harrelson, Jesse Eisenberg)"
+        },
+        {
+          "id": "comedy-200",
+          "youtube": "https://www.youtube.com/watch?v=Xq5WkQvd7ZA",
+          "sceneDescription": "Zombies on a Rollercoaster",
+          "oembedTitle": "Zombies on a Rollercoaster | Zombieland (Woody Harrelson, Jesse Eisenberg)"
+        },
+        {
+          "id": "gG22XNhtnoY",
+          "youtube": "https://www.youtube.com/watch?v=gG22XNhtnoY",
+          "sceneDescription": "Comedy scene from ClipZone"
+        },
+        {
+          "id": "ZlW9yhUKlkQ",
+          "youtube": "https://www.youtube.com/watch?v=ZlW9yhUKlkQ",
+          "sceneDescription": "Comedy scene from ClipZone"
+        }
+      ],
+      "variantCount": 7,
+      "primaryVariantId": "comedy-186"
+    },
+    {
+      "id": "comedy-327",
+      "label": "Did You Hear About the Morgans?",
+      "date": 2009,
+      "year": 2009,
+      "youtube": "https://www.youtube.com/watch?v=a1btPzdZUA4",
+      "tooltip": {
+        "description": "Comedy movie scene or clip from How To Use Bear Spray 101",
+        "genre": "Comedy",
+        "source": "oEmbed title analysis",
+        "verified": true,
+        "embeddable": true,
+        "alternativeVideos": [],
+        "oembedTitle": "How To Use Bear Spray 101 | Did You Hear About The Morgans? (Hugh Grant, Sarah Jessica Parker)",
+        "manuallyCorrected": false,
+        "totalVideoVariants": 1,
+        "originalLabel": "How To Use Bear Spray 101",
+        "originalYear": 2020,
+        "correctionSource": "tmdb_oembed",
+        "searchQuery": "How To Use Bear Spray",
+        "movieTitle": "Did You Hear About the Morgans?",
+        "sceneDescription": "How To Use Bear Spray 101",
+        "tmdbId": 24438,
+        "properlyParsed": true,
+        "originalSceneLabel": "How To Use Bear Spray 101"
+      },
+      "variants": [
+        {
+          "id": "comedy-328",
+          "youtube": "https://www.youtube.com/watch?v=oDb-n6vKBes",
+          "sceneDescription": "Shoot Out With The Murderer",
+          "oembedTitle": "Shoot Out With The Murderer | Did You Hear About The Morgans? (Hugh Grant, Sarah Jessica Parker)"
+        },
+        {
+          "id": "comedy-329",
+          "youtube": "https://www.youtube.com/watch?v=D0i16gEusKc",
+          "sceneDescription": "Paul Gets Hurt Shooting",
+          "oembedTitle": "Paul Gets Hurt Shooting | Did You Hear About The Morgans? (Hugh Grant, Sarah Jessica Parker)"
+        }
+      ],
+      "variantCount": 3,
+      "primaryVariantId": "comedy-327"
+    },
+    {
+      "id": "clipzone-K_qhM2Ms5E8",
+      "label": "The Hangover",
+      "date": 2009,
+      "year": 2009,
+      "youtube": "https://www.youtube.com/watch?v=K_qhM2Ms5E8",
+      "tooltip": {
+        "description": "Comedy scene from The Hangover",
+        "genre": "Comedy",
+        "source": "ClipZone: Comedy Callbacks",
+        "verified": true,
+        "embeddable": true,
+        "channelName": "ClipZone: Comedy Callbacks"
+      },
+      "variants": [
+        {
+          "id": "qoGwKHwjRGs",
+          "youtube": "https://www.youtube.com/watch?v=qoGwKHwjRGs",
+          "sceneDescription": "Comedy scene from ClipZone"
+        }
+      ],
+      "variantCount": 2
+    },
+    {
+      "id": "comedy-4",
+      "label": "The Other Guys",
+      "date": 2010,
+      "year": 2010,
+      "youtube": "https://www.youtube.com/watch?v=Ogq2BkybFGY",
+      "tooltip": {
+        "description": "Comedy movie scene or clip from The Other Guys",
+        "genre": "Comedy",
+        "source": "oEmbed title analysis",
+        "verified": true,
+        "embeddable": true,
+        "alternativeVideos": [
+          {
+            "videoId": "L-hG1Il1Iw4",
+            "title": "The Other Guys: Visiting Christinith and Hal (Brett Gelman Scene)"
+          },
+          {
+            "videoId": "eDnLznNQoO4",
+            "title": "The Other Guys: Quiet Funeral Fight (FUNNY SCENE)"
+          },
+          {
+            "videoId": "vmjQPzKbWh0",
+            "title": "The Other Guys: Aim For The Bushes (MOVIE #SHORTS)"
+          },
+          {
+            "videoId": "a15b-JMmWM4",
+            "title": "The Other Guys: Old Ball & Chain (MOVIE #SHORTS)"
+          },
+          {
+            "videoId": "keuEquY0230",
+            "title": "The Other Guys: Bad Cop, Bad Cop (HD MOVIE CLIP)"
+          },
+          {
+            "videoId": "PXZumfBwkxw",
+            "title": "The Other Guys: Office Shootout Scene (HD MOVIE CLIP)"
+          },
+          {
+            "videoId": "zvjPp0vJ4nc",
+            "title": "The Other Guys: It's Like Bob's Wife (MICHAEL KEATON, WILL FERRELL MOVIE #SHORTS)"
+          },
+          {
+            "videoId": "hLOAh0PnSVc",
+            "title": "The Other Guys: Danson and P.K. Highsmith Appreciation Speech (SAMUEL L. JACKSON MOVIE #SHORTS)"
+          },
+          {
+            "videoId": "wHsg17uOjLw",
+            "title": "The Other Guys: I'm Partners With The Hulk (MARK WAHLBERG, WILL FERRELL MOVIE #SHORTS)"
+          },
+          {
+            "videoId": "5anZ3_qfFvk",
+            "title": "The Other Guys: I Don't Want No Scrubs (WILL FERRELL, MARK WAHLBERG MOVIE #SHORTS)"
+          },
+          {
+            "videoId": "_C5VHxWmR2g",
+            "title": "The Other Guys: The Old Ball and Chain (Will Ferrell, Eva Mendes HD Clip)"
+          },
+          {
+            "videoId": "15o0juFafm4",
+            "title": "The Other Guys: So Hungover (HD Clip)"
+          },
+          {
+            "videoId": "_vksmJAnN_Q",
+            "title": "The Other Guys: Gator The Pimp (HD Clip)"
+          },
+          {
+            "videoId": "uFK5Z2yTTcI",
+            "title": "The Other Guys: Crime Scene Drive In (Will Ferrell, Mark Wahlberg #movie #shorts #short #comedy #4k)"
+          },
+          {
+            "videoId": "63LrvayPxq4",
+            "title": "The Other Guys: I Audited My Parents (Will Ferrell, Mark Wahlberg #movie #shorts #comedy #4k)"
+          }
+        ],
+        "oembedTitle": "The Other Guys: Tuna vs. Lion (WILL FERRELL & MARK WALHBERG FUNNY SCENE)",
+        "manuallyCorrected": true,
+        "totalVideoVariants": 16,
+        "originalLabel": "The Other Guys",
+        "originalYear": 2010,
+        "correctionSource": "tmdb_oembed",
+        "tmdbId": 27581,
+        "tmdbFixed": true,
+        "movieTitle": "The Other Guys",
+        "sceneDescription": "Tuna vs. Lion",
+        "properlyParsed": true,
+        "originalSceneLabel": "Tuna vs. Lion"
+      },
+      "variants": [
+        {
+          "id": "comedy-76",
+          "youtube": "https://www.youtube.com/watch?v=AAlrEOsvzY8",
+          "sceneDescription": "The Other Guys",
+          "oembedTitle": "The Other Guys - Allen Insults His Wife (Will Ferrell, Eva Mendes #short #shorts #shortvideo )"
+        },
+        {
+          "id": "comedy-77",
+          "youtube": "https://www.youtube.com/watch?v=-dgOuExEySI",
+          "sceneDescription": "The Other Guys",
+          "oembedTitle": "The Other Guys - Braised Ribs Dinner (Will Ferrell, Eva Mendes #short #shorts #shortvideo #4k)"
+        },
+        {
+          "id": "comedy-151",
+          "youtube": "https://www.youtube.com/watch?v=DVZ3uWS9cKg",
+          "sceneDescription": "Bar Mitzvahs",
+          "oembedTitle": "Bar Mitzvahs | The Other Guys (Rob Riggle, Damon Wayans Jr. #shorts)"
+        },
+        {
+          "id": "comedy-152",
+          "youtube": "https://www.youtube.com/watch?v=1nm1XMk9eoY",
+          "sceneDescription": "Detective Allen's Prius",
+          "oembedTitle": "Detective Allen's Prius | The Other Guys (Mark Wahlberg, Will Ferrell #shorts)"
+        },
+        {
+          "id": "gJTL1Hl-GBE",
+          "youtube": "https://www.youtube.com/watch?v=gJTL1Hl-GBE",
+          "sceneDescription": "Comedy scene from ClipZone"
+        }
+      ],
+      "variantCount": 6,
+      "primaryVariantId": "comedy-4"
+    },
+    {
+      "id": "comedy-5",
+      "label": "Grown Ups",
+      "date": 2010,
+      "year": 2010,
+      "youtube": "https://www.youtube.com/watch?v=LbGJw9f-mIE",
+      "tooltip": {
+        "description": "Comedy movie scene or clip from Grown Ups",
+        "genre": "Comedy",
+        "source": "oEmbed title analysis",
+        "verified": true,
+        "embeddable": true,
+        "alternativeVideos": [
+          {
+            "videoId": "oeQUyyfJc-U",
+            "title": "Grown Ups: I Hope That Car Never Gets Fixed (MOVIE SCENE) Watch on Netflix!"
+          },
+          {
+            "videoId": "V0KYUX1kJiE",
+            "title": "Grown Ups: Dehydrated Breakfast (MOVIE SCENE) Watch on Netflix!"
+          },
+          {
+            "videoId": "5TBwRRdkGWs",
+            "title": "Grown Ups: I'm From Saskatchatoon (MOVIE SCENE) Watch on Netflix!"
+          },
+          {
+            "videoId": "XyqBYLWQwFY",
+            "title": "Grown Ups: Arrow Roulette Scene (Chris Rock 4K HD Clip)"
+          },
+          {
+            "videoId": "uFhVjuhnDqM",
+            "title": "Grown Ups: Final Basketball Scene (Chris Rock, Adam Sandler, Kevin James 4K HD Clip)"
+          },
+          {
+            "videoId": "Re-1t-m9YTM",
+            "title": "Grown Ups: Welcome To the Lakehouse (HD MOVIE CLIP)"
+          },
+          {
+            "videoId": "PSi5VeAMH1w",
+            "title": "Grown Ups: Rope Swing Fail (Adam Sandler, Chris Rock, Kevin James 4K HD Clip)"
+          },
+          {
+            "videoId": "5WnYD7yIHpc",
+            "title": "Grown Ups 2: K-Mart Shopping (ADAM SANDLER, KEVIN JAMES HD CLIP)"
+          },
+          {
+            "videoId": "RxRwo4AnNyc",
+            "title": "Grown Ups 2: Cliff Jumping Scene (ADAM SANDLER HD CLIP)"
+          },
+          {
+            "videoId": "ahisNf9iKz0",
+            "title": "Grown Ups 2: Family Dinner Scene (ADAM SANDLER HD CLIP)"
+          },
+          {
+            "videoId": "WbDoG5MxxFY",
+            "title": "Grown Ups 2: Car Wash Surprise (KEVIN JAMES, ANDY SAMBERG HD MOVIE #SHORTS)"
+          },
+          {
+            "videoId": "0aezn7K0INU",
+            "title": "Grown Ups 2: Lenny's Dating Advice (ADAM SANDLER HD MOVIE #SHORTS)"
+          },
+          {
+            "videoId": "NBE-BzpHmqI",
+            "title": "Grown Ups: Stop Texting The Nanny (ADAM SANDLER HD MOVIE #SHORTS)"
+          },
+          {
+            "videoId": "0W0ezdee12w",
+            "title": "Grown Ups: Third Olsen Twin (ADAM SANDLER HD MOVIE #SHORTS)"
+          },
+          {
+            "videoId": "jlYA6JkIioY",
+            "title": "Grown Ups: A Successful Vacation After All"
+          },
+          {
+            "videoId": "l_LGnzm6hFo",
+            "title": "Grown Ups 2: Creepy Yoga Class Scene (Salma Hayek, Maya Rudolph HD Clip)"
+          },
+          {
+            "videoId": "xB8hq9Kt_DE",
+            "title": "Grown Ups 2: Fighting His Childhood Bully (Adam Sandler HD Clip)"
+          },
+          {
+            "videoId": "_iYVYnpMCSU",
+            "title": "Grown Ups: Not That Kind Of Swimming (Adam Sandler #movie #shorts #comedy #short #4k)"
+          },
+          {
+            "videoId": "42A3QGgOr14",
+            "title": "Grown Ups: Hot Daughters (Adam Sandler #movie #shorts #comedy #short #4k)"
+          },
+          {
+            "videoId": "EcbXtG7FLAQ",
+            "title": "Grown Ups 2: Sleep In The Store (#comedy #shortvideo #shorts #short #4k )"
+          },
+          {
+            "videoId": "jYRCGdjoLb4",
+            "title": "Grown Ups 2: Wave Them Like You Just Don't Care (#movie #short #shorts #shortvideo #comedy )"
+          },
+          {
+            "videoId": "7rF30y6aioE",
+            "title": "Grown Ups: Telephone on a String Scene (Adam Sandler, Salma Hayek)"
+          },
+          {
+            "videoId": "AbFr0rLsV9Q",
+            "title": "Grown Ups: Ave Maria Funeral Scene (Adam Sandler, Chris Rock)"
+          },
+          {
+            "videoId": "8nVXYvLzIiI",
+            "title": "Grown Ups: Introducing the Guys Opening Scene (Adam Sandler, Chris Rock, Kevin James)"
+          }
+        ],
+        "oembedTitle": "Grown Ups: Wiley at the Water Park (MOVIE SCENE) Watch on Netflix!",
+        "manuallyCorrected": true,
+        "totalVideoVariants": 25,
+        "originalLabel": "Grown Ups",
+        "originalYear": 2010,
+        "correctionSource": "tmdb_oembed",
+        "tmdbId": 38365,
+        "tmdbFixed": true,
+        "movieTitle": "Grown Ups",
+        "sceneDescription": "Wiley at the Water Park (MOVIE SCENE) Watch on Netflix!",
+        "properlyParsed": true,
+        "originalSceneLabel": "Wiley at the Water Park (MOVIE SCENE) Watch on Netflix!"
+      },
+      "variants": [
+        {
+          "id": "comedy-119",
+          "youtube": "https://www.youtube.com/watch?v=e7-HiZuG8fM",
+          "sceneDescription": "Grown Ups",
+          "oembedTitle": "Grown Ups - Rob and Older Women (Rob Schneider #shorts #short #shortvideo #4k)"
+        },
+        {
+          "id": "comedy-120",
+          "youtube": "https://www.youtube.com/watch?v=UIM4fiVkmRQ",
+          "sceneDescription": "Grown Ups",
+          "oembedTitle": "Grown Ups - Pregnancy Joke (Salma Hayek, Maya Rudolph #shorts #short #shortvideo #4k)"
+        },
+        {
+          "id": "comedy-169",
+          "youtube": "https://www.youtube.com/watch?v=5N4FrkCuwHY",
+          "sceneDescription": "Canadian Guy at the Water Park",
+          "oembedTitle": "Canadian Guy at the Water Park | Grown Ups (Adam Sandler, Chris Rock, Maria Bello)"
+        },
+        {
+          "id": "comedy-358",
+          "youtube": "https://www.youtube.com/watch?v=9A5bW28bvzk",
+          "sceneDescription": "Caught Peeing In The Lake",
+          "oembedTitle": "Caught Peeing In The Lake | Grown Ups (Adam Sandler, Chris Rock, Rob Schneider)"
+        },
+        {
+          "id": "comedy-422",
+          "youtube": "https://www.youtube.com/watch?v=9rLfQEuzU6w",
+          "sceneDescription": "Buzzer's Funeral Turns Into a Wild Reunion",
+          "oembedTitle": "Buzzer's Funeral Turns Into a Wild Reunion | Grown Ups (Adam Sandler, Chris Rock, Kevin James)"
+        },
+        {
+          "id": "comedy-423",
+          "youtube": "https://www.youtube.com/watch?v=9ifajYp6_gg",
+          "sceneDescription": "Truth Bombs Dropped at the Lake House",
+          "oembedTitle": "Truth Bombs Dropped at the Lake House | Grown Ups (Adam Sandler, Chris Rock, Rob Schneider)"
+        },
+        {
+          "id": "comedy-170",
+          "youtube": "https://www.youtube.com/watch?v=5j7o8OuHys4",
+          "sceneDescription": "Breast Feeding Scene",
+          "oembedTitle": "Breast Feeding Scene | Grown Ups (Adam Sandler, Chris Rock, Maria Bello)"
+        },
+        {
+          "id": "comedy-357",
+          "youtube": "https://www.youtube.com/watch?v=3wYjyzGxmxM",
+          "sceneDescription": "Receiving The News On Coach Buzzer",
+          "oembedTitle": "Receiving The News On Coach Buzzer | Grown Ups (Adam Sandler, Chris Rock, Maria Bello)"
+        }
+      ],
+      "variantCount": 9,
+      "primaryVariantId": "comedy-5"
+    },
+    {
+      "id": "comedy-6",
+      "label": "Easy A",
+      "date": 2010,
+      "year": 2010,
+      "youtube": "https://www.youtube.com/watch?v=AUwffWCmR1k",
+      "tooltip": {
+        "description": "Comedy movie scene or clip from Easy A",
+        "genre": "Comedy",
+        "source": "oEmbed title analysis",
+        "verified": true,
+        "embeddable": true,
+        "alternativeVideos": [
+          {
+            "videoId": "G49RZj57X74",
+            "title": "Easy A: Faking It (MOVIE SCENE)"
+          },
+          {
+            "videoId": "k-bDZfPT58I",
+            "title": "Easy A: How To Fake It (MOVIE SCENE)"
+          },
+          {
+            "videoId": "jQ7rl7g8ElA",
+            "title": "Easy A: Olive Gets Detention (Emma Stone HD Clip)"
+          },
+          {
+            "videoId": "WJ-ij14i4e0",
+            "title": "Easy A: A Pocketful of Sunshine (MOVIE SCENE)"
+          },
+          {
+            "videoId": "y7HJeXI8aaQ",
+            "title": "Easy A: Knock on Wood (Emma Stone HD Clip)"
+          },
+          {
+            "videoId": "vMDvulalJFY",
+            "title": "Easy A: Bad Reputation (Emma Stone 4K HD Clip)"
+          },
+          {
+            "videoId": "-TjcQFBh7-M",
+            "title": "Easy A: 10 Bucks For Second Base (Emma Stone 4K HD Clip)"
+          },
+          {
+            "videoId": "nuh9CrtdlMI",
+            "title": "Easy A: Let's Be Friends (Emma Stone, Amanda Bynes 4K HD Clip)"
+          }
+        ],
+        "oembedTitle": "Easy A: I Got A Pocketful of Sunshine (MOVIE #SHORTS)",
+        "manuallyCorrected": false,
+        "totalVideoVariants": 9,
+        "originalLabel": "Easy A",
+        "originalYear": 2018,
+        "correctionSource": "tmdb_oembed",
+        "tmdbId": 37735,
+        "tmdbFixed": true,
+        "movieTitle": "Easy A",
+        "sceneDescription": "I Got A Pocketful of Sunshine",
+        "properlyParsed": true,
+        "originalSceneLabel": "I Got A Pocketful of Sunshine"
+      },
+      "variants": [
+        {
+          "id": "comedy-390",
+          "youtube": "https://www.youtube.com/watch?v=1iTK9k-J944",
+          "sceneDescription": "It's Nobody's Business!",
+          "oembedTitle": "It's Nobody's Business! | Easy A (Emma Stone, Penn Badgley)"
+        },
+        {
+          "id": "comedy-391",
+          "youtube": "https://www.youtube.com/watch?v=KxtMnmIU64o",
+          "sceneDescription": "Pocketful of Sunshine Weekend",
+          "oembedTitle": "Pocketful of Sunshine Weekend | Easy A (Emma Stone, Amanda Bynes, Aly Michalka)"
+        },
+        {
+          "id": "comedy-392",
+          "youtube": "https://www.youtube.com/watch?v=wpe4KaFuWLs",
+          "sceneDescription": "Olive's Got a Bad Reputation",
+          "oembedTitle": "Olive's Got a Bad Reputation | Easy A (Emma Stone, Aly Michalka)"
+        },
+        {
+          "id": "FV3bLp5lZ0A",
+          "youtube": "https://www.youtube.com/watch?v=FV3bLp5lZ0A",
+          "sceneDescription": "Comedy scene from ClipZone"
+        }
+      ],
+      "variantCount": 5,
+      "primaryVariantId": "comedy-6"
+    },
+    {
+      "id": "clipzone-8iCwtxJejik",
+      "label": "Crazy, Stupid, Love.",
+      "date": 2011,
+      "year": 2011,
+      "youtube": "https://www.youtube.com/watch?v=8iCwtxJejik",
+      "tooltip": {
+        "description": "After five (or six) years of vanilla-wedded bliss, ordinary suburbanites John and Jane Smith are stuck in a huge rut. Unbeknownst to each other, they are both coolly lethal, highly-paid assassins working for rival organisations. When they discover they're each other's next target, their secret lives collide in a spicy, explosive mix of wicked comedy, pent-up passion, nonstop action and high-tech weaponry.",
+        "genre": "Comedy",
+        "source": "ClipZone: Comedy Callbacks",
+        "verified": true,
+        "embeddable": true,
+        "channelName": "ClipZone: Comedy Callbacks",
+        "tmdbVerified": true
+      }
+    },
+    {
+      "id": "comedy-7",
+      "label": "The Green Hornet",
+      "date": 2011,
+      "year": 2011,
+      "youtube": "https://www.youtube.com/watch?v=eFt-yipyK5Y",
+      "tooltip": {
+        "description": "Comedy movie scene or clip from The Green Hornet",
+        "genre": "Comedy",
+        "source": "oEmbed title analysis",
+        "verified": true,
+        "embeddable": true,
+        "alternativeVideos": [],
+        "oembedTitle": "The Green Hornet: Sit On This! Fight Scene (Seth Rogen, Jay Chou 4K HD Clip)",
+        "manuallyCorrected": false,
+        "totalVideoVariants": 1,
+        "originalLabel": "The Green Hornet",
+        "originalYear": 2018,
+        "correctionSource": "tmdb_oembed",
+        "tmdbId": 213955,
+        "tmdbFixed": true,
+        "movieTitle": "The Green Hornet",
+        "sceneDescription": "Sit On This! Fight Scene",
+        "properlyParsed": true,
+        "originalSceneLabel": "Sit On This! Fight Scene",
+        "dateFixed": true,
+        "originalIncorrectDate": 1974,
+        "correctionReason": "Manual correction based on actual movie release date"
+      }
+    },
+    {
+      "id": "comedy-9",
+      "label": "Bad Teacher",
+      "date": 2011,
+      "year": 2011,
+      "youtube": "https://www.youtube.com/watch?v=DmW1smpkHQk",
+      "tooltip": {
+        "description": "Comedy movie scene or clip from Bad Teacher",
+        "genre": "Comedy",
+        "source": "oEmbed title analysis",
+        "verified": true,
+        "embeddable": true,
+        "alternativeVideos": [],
+        "oembedTitle": "Bad Teacher: Sexy Car Wash😂🔥 (MOVIE #SHORTS)",
+        "manuallyCorrected": false,
+        "totalVideoVariants": 1,
+        "originalLabel": "Bad Teacher",
+        "originalYear": 2018,
+        "correctionSource": "tmdb_oembed",
+        "tmdbId": 52449,
+        "tmdbFixed": true,
+        "movieTitle": "Bad Teacher",
+        "sceneDescription": "Sexy Car Wash😂🔥",
+        "properlyParsed": true,
+        "originalSceneLabel": "Sexy Car Wash😂🔥"
+      }
+    },
+    {
+      "id": "comedy-15",
+      "label": "A Good Old Fashioned Orgy",
+      "date": 2011,
+      "year": 2011,
+      "youtube": "https://www.youtube.com/watch?v=0Y7UoDNlS84",
+      "tooltip": {
+        "description": "Comedy movie scene or clip from A Good Old Fashioned Orgy",
+        "genre": "Comedy",
+        "source": "oEmbed title analysis",
+        "verified": true,
+        "embeddable": true,
+        "alternativeVideos": [],
+        "oembedTitle": "A Good Old Fashioned Orgy: I'm Wearing a Yang (JASON SUDEIKIS FUNNY SCENE)",
+        "manuallyCorrected": false,
+        "totalVideoVariants": 1,
+        "originalLabel": "A Good Old Fashioned Orgy",
+        "originalYear": 2018,
+        "correctionSource": "tmdb_oembed",
+        "tmdbId": 69778,
+        "tmdbFixed": true,
+        "movieTitle": "A Good Old Fashioned Orgy",
+        "sceneDescription": "I'm Wearing a Yang",
+        "properlyParsed": true,
+        "originalSceneLabel": "I'm Wearing a Yang"
+      }
+    },
+    {
+      "id": "comedy-63",
+      "label": "30 Minutes or Less",
+      "date": 2011,
+      "year": 2011,
+      "youtube": "https://www.youtube.com/watch?v=k7jmtdPXZNk",
+      "tooltip": {
+        "description": "Comedy movie scene or clip from 30 Minutes or Less",
+        "genre": "Comedy",
+        "source": "oEmbed title analysis",
+        "verified": true,
+        "embeddable": true,
+        "alternativeVideos": [
+          {
+            "videoId": "qP6Upr_8Ae0",
+            "title": "30 Minutes or Less: Dollar Store (HD Clip)"
+          },
+          {
+            "videoId": "gYa_Z4sqFx4",
+            "title": "30 Minutes or Less: Car Jacking Scene (HD Clip)"
+          }
+        ],
+        "oembedTitle": "30 Minutes or Less: Crossbow Practice (HD Clip)",
+        "manuallyCorrected": false,
+        "totalVideoVariants": 3,
+        "originalLabel": "30 Minutes or Less",
+        "originalYear": 2019,
+        "correctionSource": "tmdb_oembed",
+        "tmdbId": 62206,
+        "tmdbFixed": true,
+        "movieTitle": "30 Minutes or Less",
+        "sceneDescription": "Crossbow Practice",
+        "properlyParsed": true,
+        "originalSceneLabel": "Crossbow Practice"
+      },
+      "variants": [
+        {
+          "id": "comedy-411",
+          "youtube": "https://www.youtube.com/watch?v=ImH6C3ynFO0",
+          "sceneDescription": "Nick and Chet Robbing the Bank",
+          "oembedTitle": "Nick and Chet Robbing the Bank | 30 Minutes or Less (Jesse Eisenberg, Aziz Ansari)"
+        },
+        {
+          "id": "comedy-412",
+          "youtube": "https://www.youtube.com/watch?v=QlenmLiKfFg",
+          "sceneDescription": "Police Chase Nick and Chet",
+          "oembedTitle": "Police Chase Nick and Chet | 30 Minutes or Less (Jesse Eisenberg, Aziz Ansari)"
+        },
+        {
+          "id": "comedy-413",
+          "youtube": "https://www.youtube.com/watch?v=FpwzYkWSIFo",
+          "sceneDescription": "Friendship Is Ruined",
+          "oembedTitle": "Friendship Is Ruined | 30 Minutes or Less (Jesse Eisenberg, Aziz Ansari)"
+        }
+      ],
+      "variantCount": 4,
+      "primaryVariantId": "comedy-63"
+    },
+    {
+      "id": "comedy-75",
+      "label": "Just Go with It",
+      "date": 2011,
+      "year": 2011,
+      "youtube": "https://www.youtube.com/watch?v=xyiT85VN46Y",
+      "tooltip": {
+        "description": "Comedy movie scene or clip from Just Go With It",
+        "genre": "Comedy",
+        "source": "oEmbed title analysis",
+        "verified": true,
+        "embeddable": true,
+        "alternativeVideos": [
+          {
+            "videoId": "TE-irMAbi9Q",
+            "title": "Just Go With It: Laugh At Everything Golf (Adam Sandler #shorts #short #shortsvideos #comedy)"
+          },
+          {
+            "videoId": "nn5lCslVku0",
+            "title": "Just Go With It: My Pretend Children (Adam Sandler HD Clip)"
+          },
+          {
+            "videoId": "hzS0ELAL7cg",
+            "title": "Just Go With It: Waterfall Cool Off Scene (Jennifer Aniston, Adam Sandler)"
+          },
+          {
+            "videoId": "9qvGSMNBTVg",
+            "title": "Just Go With It: The Shopping Spree (Jennifer Aniston, Adam Sandler Scene)"
+          }
+        ],
+        "oembedTitle": "Just Go With It: Sheep CPR (Adam Sandler, Brooklyn Decker #shorts #shortsvideo #short #comedy )",
+        "manuallyCorrected": false,
+        "totalVideoVariants": 5,
+        "originalLabel": "Just Go With It",
+        "originalYear": 2019,
+        "correctionSource": "tmdb_oembed",
+        "tmdbId": 50546,
+        "tmdbFixed": true,
+        "movieTitle": "Just Go with It",
+        "sceneDescription": "Sheep CPR",
+        "properlyParsed": true,
+        "originalSceneLabel": "Sheep CPR"
+      },
+      "variants": [
+        {
+          "id": "comedy-92",
+          "youtube": "https://www.youtube.com/watch?v=QYeIt8sJ9vE",
+          "sceneDescription": "Just Go with It",
+          "oembedTitle": "Just Go With It - Dressing Like Victoria Beckham (Jennifer Aniston, Adam Sandler #shorts #short )"
+        },
+        {
+          "id": "comedy-93",
+          "youtube": "https://www.youtube.com/watch?v=O5UO29Dm-o0",
+          "sceneDescription": "Just Go with It",
+          "oembedTitle": "Just Go With It - Danny Apologizes to Palmer (Adam Sandler, Brooklyn Decker #shorts #short #comedy )"
+        },
+        {
+          "id": "comedy-95",
+          "youtube": "https://www.youtube.com/watch?v=2TXPdi4Kmo0",
+          "sceneDescription": "Just Go with It",
+          "oembedTitle": "Just Go With It - My Love Life (Jennifer Aniston, Adam Sandler #shorts #short #comedy #4k)"
+        },
+        {
+          "id": "comedy-269",
+          "youtube": "https://www.youtube.com/watch?v=k4mwuZEuoPk",
+          "sceneDescription": "Danny Second Guesses Himself",
+          "oembedTitle": "Danny Second Guesses Himself | Just Go With It (Adam Sandler, Jennifer Aniston)"
+        },
+        {
+          "id": "comedy-271",
+          "youtube": "https://www.youtube.com/watch?v=t_QpLokD3Pc",
+          "sceneDescription": "Plastic Surgery Gone Wrong",
+          "oembedTitle": "Plastic Surgery Gone Wrong | Just Go With It (Adam Sandler, Jennifer Aniston, Rachel Dratch)"
+        },
+        {
+          "id": "comedy-272",
+          "youtube": "https://www.youtube.com/watch?v=XMj0gj1zSX8",
+          "sceneDescription": "The First Rule of Improv is...",
+          "oembedTitle": "The First Rule of Improv is... | Just Go With It (Adam Sandler, Jennifer Aniston)"
+        },
+        {
+          "id": "comedy-270",
+          "youtube": "https://www.youtube.com/watch?v=bg632hQgy7Q",
+          "sceneDescription": "The Power Of The Ring",
+          "oembedTitle": "The Power Of The Ring | Just Go With It (Adam Sandler, Nick Swardson)"
+        },
+        {
+          "id": "comedy-273",
+          "youtube": "https://www.youtube.com/watch?v=_e8VUGCm1fw",
+          "sceneDescription": "You Asked For This",
+          "oembedTitle": "You Asked For This | Just Go With It (Adam Sandler, Jennifer Aniston)"
+        }
+      ],
+      "variantCount": 9,
+      "primaryVariantId": "comedy-75"
+    },
+    {
+      "id": "comedy-225",
+      "label": "Friends with Benefits",
+      "date": 2011,
+      "year": 2011,
+      "youtube": "https://www.youtube.com/watch?v=Sipn0hVdeP0",
+      "tooltip": {
+        "description": "Comedy movie scene or clip from What Do You Know About Women?",
+        "genre": "Comedy",
+        "source": "oEmbed title analysis",
+        "verified": true,
+        "embeddable": true,
+        "alternativeVideos": [],
+        "oembedTitle": "What Do You Know About Women? | Friends With Benefits (Justin Timberlake, Woody Harrelson)",
+        "manuallyCorrected": false,
+        "totalVideoVariants": 1,
+        "originalLabel": "What Do You Know About Women?",
+        "originalYear": 2020,
+        "correctionSource": "tmdb_oembed",
+        "searchQuery": "What Do You Know About Women?",
+        "movieTitle": "Friends with Benefits",
+        "sceneDescription": "What Do You Know About Women?",
+        "tmdbId": 50544,
+        "properlyParsed": true,
+        "originalSceneLabel": "What Do You Know About Women?"
+      },
+      "variants": [
+        {
+          "id": "comedy-226",
+          "youtube": "https://www.youtube.com/watch?v=HvdCnzYZQ9w",
+          "sceneDescription": "Dancing to Jump by Kriss Kross",
+          "oembedTitle": "Dancing to Jump by Kriss Kross | Friends With Benefits (Justin Timberlake, Mila Kunis)"
+        },
+        {
+          "id": "comedy-232",
+          "youtube": "https://www.youtube.com/watch?v=5a4ferrhNOs",
+          "sceneDescription": "Are You Asking Me Out?",
+          "oembedTitle": "Are You Asking Me Out? | Friends With Benefits (Justin Timberlake, Mila Kunis)"
+        },
+        {
+          "id": "comedy-233",
+          "youtube": "https://www.youtube.com/watch?v=T4wp0mz-Dus",
+          "sceneDescription": "We Should Stay Friends... NOT",
+          "oembedTitle": "We Should Stay Friends... NOT | Friends With Benefits (Mila Kunis, Bryan Greenberg)"
+        },
+        {
+          "id": "comedy-377",
+          "youtube": "https://www.youtube.com/watch?v=-EY1fo8wXFU",
+          "sceneDescription": "Jamie Lands a Date in Central Park",
+          "oembedTitle": "Jamie Lands a Date in Central Park | Friends With Benefits (Justin Timberlake, Mila Kunis)"
+        },
+        {
+          "id": "comedy-378",
+          "youtube": "https://www.youtube.com/watch?v=mpbL45L5wmk",
+          "sceneDescription": "You're Breaking Up With Me?!",
+          "oembedTitle": "You're Breaking Up With Me?! | Friends With Benefits (Justin Timberlake, Mila Kunis)"
+        },
+        {
+          "id": "comedy-379",
+          "youtube": "https://www.youtube.com/watch?v=PtHcxz9IVYE",
+          "sceneDescription": "The Flash Mob at Grand Central",
+          "oembedTitle": "The Flash Mob at Grand Central | Friends With Benefits (Justin Timberlake, Mila Kunis)"
+        }
+      ],
+      "variantCount": 7,
+      "primaryVariantId": "comedy-225"
+    },
+    {
+      "id": "comedy-330",
+      "label": "Jack and Jill",
+      "date": 2011,
+      "year": 2011,
+      "youtube": "https://www.youtube.com/watch?v=FKoHlz8Pwhc",
+      "tooltip": {
+        "description": "Comedy movie scene or clip from Jack Invites Jill On The Family Cruise",
+        "genre": "Comedy",
+        "source": "oEmbed title analysis",
+        "verified": true,
+        "embeddable": true,
+        "alternativeVideos": [],
+        "oembedTitle": "Jack Invites Jill On The Family Cruise | Jack and Jill (Adam Sandler, Eugenio Derbez, Katie Holmes)",
+        "manuallyCorrected": false,
+        "totalVideoVariants": 1,
+        "originalLabel": "Jack Invites Jill On The Family Cruise",
+        "originalYear": 2020,
+        "correctionSource": "tmdb_oembed",
+        "searchQuery": "Jack Invites Jill On The Family Cruise",
+        "movieTitle": "Jack and Jill",
+        "sceneDescription": "Jack Invites Jill On The Family Cruise",
+        "tmdbId": 71880,
+        "properlyParsed": true,
+        "originalSceneLabel": "Jack Invites Jill On The Family Cruise"
+      },
+      "variants": [
+        {
+          "id": "comedy-331",
+          "youtube": "https://www.youtube.com/watch?v=6PMF2LuHyMM",
+          "sceneDescription": "The Dreadful Thanksgiving Dinner",
+          "oembedTitle": "The Dreadful Thanksgiving Dinner | Jack and Jill (Adam Sandler, Katie Holmes, Allen Covert)"
+        }
+      ],
+      "variantCount": 2,
+      "primaryVariantId": "comedy-330"
+    },
+    {
+      "id": "comedy-12",
+      "label": "21 Jump Street",
+      "date": 2012,
+      "year": 2012,
+      "youtube": "https://www.youtube.com/watch?v=mPz3Blf8JhM",
+      "tooltip": {
+        "description": "Comedy movie scene or clip from 21 Jump Street",
+        "genre": "Comedy",
+        "source": "oEmbed title analysis",
+        "verified": true,
+        "embeddable": true,
+        "alternativeVideos": [
+          {
+            "videoId": "HO8_ZHrfvy8",
+            "title": "21 Jump Street: Tripping At School 💊🤯 (MOVIE ON NETFLIX)"
+          },
+          {
+            "videoId": "9mGjkeAO5DY",
+            "title": "21 Jump Street: \"Do You Even Know The Miranda Rights?\" (MOVIE SCENE)"
+          },
+          {
+            "videoId": "F6FB8YCX3CE",
+            "title": "21 Jump Street: Meet The Dealer 🤮 (JONAH HILL & CHANNING TATUM FUNNY SCENE) ON NETFLIX"
+          },
+          {
+            "videoId": "DM56QTPZ230",
+            "title": "21 Jump Street: First Day of School (JONAH HILL, CHANNING TATUM HD CLIP) STREAM ON NETFLIX"
+          },
+          {
+            "videoId": "ygSnUQ9Cd6Y",
+            "title": "21 Jump Street: Party Fight Scene (JONAH HILL, HD CLIP)"
+          },
+          {
+            "videoId": "kXSLfw2nGZo",
+            "title": "21 Jump Street: Highway Chase Scene (JONAH HILL, CHANNING TATUM HD CLIP)"
+          },
+          {
+            "videoId": "1TeHGZDpIps",
+            "title": "21 Jump Street:  Schmidt And Jenko Find Drug Dealers (JONAH HILL, CHANNING TATUM MOVIE #SHORTS)"
+          },
+          {
+            "videoId": "NbUfLHWXcs8",
+            "title": "21 Jump Street: Jenko Fumbles His Miranda Rights (JONAH HILL, CHANNING TATUM MOVIE #SHORTS)"
+          },
+          {
+            "videoId": "ZY06-LvJ7hE",
+            "title": "21 Jump Street: Park Duty Opening Scene (4K HD Clip)"
+          },
+          {
+            "videoId": "bQe51nnx9YU",
+            "title": "21 Jump Street: First Day On Jump Street (Ice Cube 4K HD Clip)"
+          },
+          {
+            "videoId": "h85tbBdRzeQ",
+            "title": "21 Jump Street: She Tried To Grab My Dick! (4K HD Clip)"
+          },
+          {
+            "videoId": "aXSE6VhY_cw",
+            "title": "21 Jump Street: Jenko and Schmidt's New Car (JONAH HILL, CHANNING TATUM MOVIE #SHORTS)"
+          },
+          {
+            "videoId": "d858GpiNiwY",
+            "title": "21 Jump Street: Potassium Nitrate, Don't Hate! (CHANNING TATUM MOVIE #SHORTS)"
+          },
+          {
+            "videoId": "TQig0Ne4Nac",
+            "title": "21 Jump Street: Jenko's Lesson On Coolness (JONAH HILL, CHANNING TATUM MOVIE #SHORTS)"
+          },
+          {
+            "videoId": "XgRGaAmwiS4",
+            "title": "21 Jump Street: Do Not Have Sexual Relations (JONAH HILL, CHANNING TATUM MOVIE #SHORTS)"
+          },
+          {
+            "videoId": "g_v7m1CGPys",
+            "title": "21 Jump Street: Embrace Your Stereotypes (JONAH HILL, CHANNING TATUM MOVIE #SHORTS)"
+          },
+          {
+            "videoId": "UGy4Z7fYGFU",
+            "title": "21 Jump Street: Not So Slim Shady"
+          },
+          {
+            "videoId": "JieJtfpEu50",
+            "title": "21 Jump Street: Drama and Science Class"
+          },
+          {
+            "videoId": "hSwh0OaT2KE",
+            "title": "21 Jump Street: Police Academy Training Scene"
+          },
+          {
+            "videoId": "U3qqXmiH3uY",
+            "title": "21 Jump Street: A Lifetime of Being Badass (Jonah Hill, Channing Tatum #comedy #movie #shorts #4k )"
+          },
+          {
+            "videoId": "KWfhwSGTsm4",
+            "title": "21 Jump Street: No Prom For You (Channing Tatum #comedy #movie #shorts #short #4k)"
+          }
+        ],
+        "oembedTitle": "21 Jump Street: Schmidt's Parents (JONAH HILL & CHANNING TATUM SCENE) Stream on Netflix!",
+        "manuallyCorrected": true,
+        "totalVideoVariants": 22,
+        "originalLabel": "21 Jump Street",
+        "originalYear": 2012,
+        "correctionSource": "tmdb_oembed",
+        "tmdbId": 64688,
+        "tmdbFixed": true,
+        "movieTitle": "21 Jump Street",
+        "sceneDescription": "Schmidt's Parents (JONAH HILL & CHANNING TATUM SCENE) Stream on Netflix!",
+        "properlyParsed": true,
+        "originalSceneLabel": "Schmidt's Parents (JONAH HILL & CHANNING TATUM SCENE) Stream on Netflix!"
+      },
+      "variants": [
+        {
+          "id": "comedy-124",
+          "youtube": "https://www.youtube.com/watch?v=LTZ--3UHQrA",
+          "sceneDescription": "21 Jump Street",
+          "oembedTitle": "21 Jump Street - Chase at the Park (Channing Tatum, Jonah Hill #shorts #short #shortvideo)"
+        },
+        {
+          "id": "comedy-125",
+          "youtube": "https://www.youtube.com/watch?v=rIfpPrSj2uE",
+          "sceneDescription": "21 Jump Street",
+          "oembedTitle": "21 Jump Street - Make Yourself Vomit (Channing Tatum, Jonah Hill #shorts #short #shortvideo)"
+        }
+      ],
+      "variantCount": 3,
+      "primaryVariantId": "comedy-12"
+    },
+    {
+      "id": "comedy-40",
+      "label": "Think Like a Man",
+      "date": 2012,
+      "year": 2012,
+      "youtube": "https://www.youtube.com/watch?v=I0X7niiMUus",
+      "tooltip": {
+        "description": "Comedy movie scene or clip from Think Like a Man",
+        "genre": "Comedy",
+        "source": "oEmbed title analysis",
+        "verified": true,
+        "embeddable": true,
+        "alternativeVideos": [
+          {
+            "videoId": "sVPi9Pkhhxo",
+            "title": "Think Like a Man: We've Been Robbed! (Gabrielle Union, Jerry Ferrara HD CLIP)"
+          }
+        ],
+        "oembedTitle": "Think Like a Man: Tell Them What They Want To Hear (Regina Hall, Gabrielle Union, Terrance J.)",
+        "manuallyCorrected": false,
+        "totalVideoVariants": 2,
+        "originalLabel": "Think Like a Man",
+        "originalYear": 2019,
+        "correctionSource": "tmdb_oembed",
+        "tmdbId": 67660,
+        "tmdbFixed": true,
+        "movieTitle": "Think Like a Man",
+        "sceneDescription": "Tell Them What They Want To Hear",
+        "properlyParsed": true,
+        "originalSceneLabel": "Tell Them What They Want To Hear"
+      },
+      "variants": [
+        {
+          "id": "comedy-343",
+          "youtube": "https://www.youtube.com/watch?v=DTqVg9bdXnc",
+          "sceneDescription": "Mama's Boy",
+          "oembedTitle": "Mama's Boy | Think Like a Man (Regina Hall, Michael Ealy)"
+        },
+        {
+          "id": "comedy-342",
+          "youtube": "https://www.youtube.com/watch?v=8PtBLiwfvRk",
+          "sceneDescription": "Napoleon Complex On The Court",
+          "oembedTitle": "Napoleon Complex On The Court | Think Like a Man (Kevin Hart, Jerry Ferrara, Michael Ealy)"
+        },
+        {
+          "id": "comedy-344",
+          "youtube": "https://www.youtube.com/watch?v=_aR_jROBEqE",
+          "sceneDescription": "Comedy Behind the Scenes",
+          "oembedTitle": "Comedy Behind the Scenes | Think Like a Man (Kevin Hart, Jerry Ferrara, Michael Ealy)"
+        }
+      ],
+      "variantCount": 4,
+      "primaryVariantId": "comedy-40"
+    },
+    {
+      "id": "comedy-51",
+      "label": "Safety Not Guaranteed",
+      "date": 2012,
+      "year": 2012,
+      "youtube": "https://www.youtube.com/watch?v=hThlC8oW8VE",
+      "tooltip": {
+        "description": "Comedy movie scene or clip from Safety Not Guaranteed",
+        "genre": "Comedy",
+        "source": "oEmbed title analysis",
+        "verified": true,
+        "embeddable": true,
+        "alternativeVideos": [
+          {
+            "videoId": "V8P9wpFwojI",
+            "title": "Safety Not Guaranteed: Ready to Time Travel (Aubrey Plaza) 4K HD Clip"
+          },
+          {
+            "videoId": "4y4mlQI4RIY",
+            "title": "Safety Not Guaranteed: Do You Sell Guns Here? (Aubrey Plaza) 4K HD Clip"
+          }
+        ],
+        "oembedTitle": "Safety Not Guaranteed: Lasers?! (Mark Duplass) 4K HD Clip",
+        "manuallyCorrected": false,
+        "totalVideoVariants": 3,
+        "originalLabel": "Safety Not Guaranteed",
+        "originalYear": 2019,
+        "correctionSource": "tmdb_oembed",
+        "tmdbId": 84332,
+        "tmdbFixed": true,
+        "movieTitle": "Safety Not Guaranteed",
+        "sceneDescription": "Lasers?! (Mark Duplass) 4K HD Clip",
+        "properlyParsed": true,
+        "originalSceneLabel": "Lasers?! (Mark Duplass) 4K HD Clip"
+      }
+    },
+    {
+      "id": "comedy-142",
+      "label": "Here Comes the Boom",
+      "date": 2012,
+      "year": 2012,
+      "youtube": "https://www.youtube.com/watch?v=g1fa_UQFQe0",
+      "tooltip": {
+        "description": "Comedy movie scene or clip from Amateur Fighter Beats Mayhem Miller",
+        "genre": "Comedy",
+        "source": "oEmbed title analysis",
+        "verified": true,
+        "embeddable": true,
+        "alternativeVideos": [],
+        "oembedTitle": "Amateur Fighter Beats Mayhem Miller | Here Comes the Boom",
+        "manuallyCorrected": false,
+        "totalVideoVariants": 1,
+        "originalLabel": "Amateur Fighter Beats Mayhem Miller",
+        "originalYear": 2020,
+        "correctionSource": "tmdb_oembed",
+        "searchQuery": "Amateur Fighter Beats Mayhem Miller",
+        "movieTitle": "Here Comes the Boom",
+        "sceneDescription": "Amateur Fighter Beats Mayhem Miller",
+        "tmdbId": 87826,
+        "properlyParsed": true,
+        "originalSceneLabel": "Amateur Fighter Beats Mayhem Miller"
+      },
+      "variants": [
+        {
+          "id": "comedy-143",
+          "youtube": "https://www.youtube.com/watch?v=WPEzlLAIn5s",
+          "sceneDescription": "Scott Starts to Win His Fights",
+          "oembedTitle": "Scott Starts to Win His Fights | Here Comes the Boom"
+        },
+        {
+          "id": "comedy-144",
+          "youtube": "https://www.youtube.com/watch?v=UqDEuZtVMIM",
+          "sceneDescription": "The Final Round of the Fight",
+          "oembedTitle": "The Final Round of the Fight | Here Comes the Boom"
+        },
+        {
+          "id": "comedy-345",
+          "youtube": "https://www.youtube.com/watch?v=gLRm1YllT3g",
+          "sceneDescription": "Scott Teaches Citizenship Class",
+          "oembedTitle": "Scott Teaches Citizenship Class | Here Comes the Boom (Kevin James)"
+        },
+        {
+          "id": "comedy-346",
+          "youtube": "https://www.youtube.com/watch?v=83Ztdqvo0UY",
+          "sceneDescription": "Saving The Music Department",
+          "oembedTitle": "Saving The Music Department | Here Comes the Boom (Kevin James, Salma Hayek, Frank Coraci)"
+        },
+        {
+          "id": "comedy-347",
+          "youtube": "https://www.youtube.com/watch?v=onfywnXaAI0",
+          "sceneDescription": "Weirdest First Date Ever",
+          "oembedTitle": "Weirdest First Date Ever | Here Comes the Boom (Kevin James, Salma Hayek, Frank Coraci)"
+        }
+      ],
+      "variantCount": 6,
+      "primaryVariantId": "comedy-142"
+    },
+    {
+      "id": "comedy-201",
+      "label": "Hotel Transylvania",
+      "date": 2012,
+      "year": 2012,
+      "youtube": "https://www.youtube.com/watch?v=yQwCKO8VYfE",
+      "tooltip": {
+        "description": "Comedy movie scene or clip from Mavis's First Sunrise",
+        "genre": "Comedy",
+        "source": "oEmbed title analysis",
+        "verified": true,
+        "embeddable": true,
+        "alternativeVideos": [],
+        "oembedTitle": "Mavis's First Sunrise | Hotel Transylvania (Selena Gomez, Andy Samberg)",
+        "manuallyCorrected": false,
+        "totalVideoVariants": 1,
+        "originalLabel": "Mavis's First Sunrise",
+        "originalYear": 2020,
+        "correctionSource": "tmdb_oembed",
+        "searchQuery": "Mavis's First Sunrise",
+        "movieTitle": "Hotel Transylvania",
+        "sceneDescription": "Mavis's First Sunrise",
+        "tmdbId": 76492,
+        "properlyParsed": true,
+        "originalSceneLabel": "Mavis's First Sunrise"
+      },
+      "variants": [
+        {
+          "id": "comedy-202",
+          "youtube": "https://www.youtube.com/watch?v=hgjmFzzMq-k",
+          "sceneDescription": "The Book of True Love",
+          "oembedTitle": "The Book of True Love | Hotel Transylvania (Adam Sandler, Selena Gomez)"
+        },
+        {
+          "id": "comedy-220",
+          "youtube": "https://www.youtube.com/watch?v=XekKXE_bYPw",
+          "sceneDescription": "Dracula's Backstory",
+          "oembedTitle": "Dracula's Backstory | Hotel Transylvania (Adam Sandler, Andy Samberg)"
+        },
+        {
+          "id": "comedy-221",
+          "youtube": "https://www.youtube.com/watch?v=BfCpmn7JaKc",
+          "sceneDescription": "Dracula Hypnotizes Jonathan",
+          "oembedTitle": "Dracula Hypnotizes Jonathan | Hotel Transylvania (Adam Sandler, Andy Samberg)"
+        },
+        {
+          "id": "comedy-213",
+          "youtube": "https://www.youtube.com/watch?v=VBEYUxdRQK8",
+          "sceneDescription": "Celebrating Refuge from the Humans",
+          "oembedTitle": "Celebrating Refuge from the Humans | Hotel Transylvania (Adam Sandler, Selena Gomez)"
+        }
+      ],
+      "variantCount": 5,
+      "primaryVariantId": "comedy-201"
+    },
+    {
+      "id": "comedy-332",
+      "label": "That's My Boy",
+      "date": 2012,
+      "year": 2012,
+      "youtube": "https://www.youtube.com/watch?v=qC6V7pO2iac",
+      "tooltip": {
+        "description": "Comedy movie scene or clip from Fistfight at the Church",
+        "genre": "Comedy",
+        "source": "oEmbed title analysis",
+        "verified": true,
+        "embeddable": true,
+        "alternativeVideos": [],
+        "oembedTitle": "Fistfight at the Church | That's My Boy (Adam Sandler, Andy Samberg, Leighton Meester, James Caan)",
+        "manuallyCorrected": false,
+        "totalVideoVariants": 1,
+        "originalLabel": "Fistfight at the Church",
+        "originalYear": 2020,
+        "correctionSource": "tmdb_oembed",
+        "searchQuery": "Fistfight at the Church",
+        "movieTitle": "That's My Boy",
+        "sceneDescription": "Fistfight at the Church",
+        "tmdbId": 87428,
+        "properlyParsed": true,
+        "originalSceneLabel": "Fistfight at the Church"
+      },
+      "variants": [
+        {
+          "id": "comedy-333",
+          "youtube": "https://www.youtube.com/watch?v=eNhKCyacxG0",
+          "sceneDescription": "Donny Admits He Was A Bad Parent",
+          "oembedTitle": "Donny Admits He Was A Bad Parent | That's My Boy (Adam Sandler, Andy Samberg)"
+        },
+        {
+          "id": "comedy-334",
+          "youtube": "https://www.youtube.com/watch?v=RgGRZp_6Mgw",
+          "sceneDescription": "Donny and Vanilla Ice Wedding Crash",
+          "oembedTitle": "Donny and Vanilla Ice Wedding Crash | That's My Boy (Adam Sandler, Andy Samberg, Leighton Meester)"
+        }
+      ],
+      "variantCount": 3,
+      "primaryVariantId": "comedy-332"
+    },
+    {
+      "id": "comedy-259",
+      "label": "This Is the End",
+      "date": 2013,
+      "year": 2013,
+      "youtube": "https://www.youtube.com/watch?v=vHLzHtFcq-Y",
+      "tooltip": {
+        "description": "Comedy movie scene or clip from The Book of Revelation",
+        "genre": "Comedy",
+        "source": "oEmbed title analysis",
+        "verified": true,
+        "embeddable": true,
+        "alternativeVideos": [],
+        "oembedTitle": "The Book of Revelation | This Is The End (Jay Baruchel, James Franco, Seth Rogen, Craig Robinson)",
+        "manuallyCorrected": false,
+        "totalVideoVariants": 1,
+        "originalLabel": "The Book of Revelation",
+        "originalYear": 2020,
+        "correctionSource": "tmdb_oembed",
+        "tmdbId": 109414,
+        "tmdbFixed": true,
+        "movieTitle": "This Is the End",
+        "sceneDescription": "The Book of Revelation",
+        "properlyParsed": true,
+        "originalSceneLabel": "The Book of Revelation"
+      },
+      "variants": [
+        {
+          "id": "comedy-41",
+          "youtube": "https://www.youtube.com/watch?v=AniNWXq8KRc",
+          "sceneDescription": "I Ain't Got No Panties On",
+          "oembedTitle": "This Is The End: I Ain't Got No Panties On (RIHANNA, JAMES FRANCO HD MOVIE #SHORTS)"
+        },
+        {
+          "id": "comedy-261",
+          "youtube": "https://www.youtube.com/watch?v=GNfGQtTS0uE",
+          "sceneDescription": "See You On The Other Side",
+          "oembedTitle": "See You On The Other Side | This Is The End (Jay Baruchel, James Franco, Seth Rogen, Craig Robinson)"
+        },
+        {
+          "id": "comedy-260",
+          "youtube": "https://www.youtube.com/watch?v=DH3CFbR1U-k",
+          "sceneDescription": "The First Weird Event",
+          "oembedTitle": "The First Weird Event | This Is The End (Jay Baruchel, Seth Rogen)"
+        },
+        {
+          "id": "comedy-262",
+          "youtube": "https://www.youtube.com/watch?v=cXYpSK3Flws",
+          "sceneDescription": "We Could Build a Life Here",
+          "oembedTitle": "We Could Build a Life Here | This Is The End (Jay Baruchel, Craig Robinson)"
+        },
+        {
+          "id": "comedy-263",
+          "youtube": "https://www.youtube.com/watch?v=emKhYlzJM8I",
+          "sceneDescription": "It's Too Scary to Sleep Alone",
+          "oembedTitle": "It's Too Scary to Sleep Alone | This Is The End (Jay Baruchel, Craig Robinson)"
+        }
+      ],
+      "variantCount": 6,
+      "primaryVariantId": "comedy-259"
+    },
+    {
+      "id": "comedy-179",
+      "label": "Grown Ups 2",
+      "date": 2013,
+      "year": 2013,
+      "youtube": "https://www.youtube.com/watch?v=XKsuXHZZh4M",
+      "tooltip": {
+        "description": "Comedy movie scene or clip from Don’t Ruin His Confidence",
+        "genre": "Comedy",
+        "source": "oEmbed title analysis",
+        "verified": true,
+        "embeddable": true,
+        "alternativeVideos": [],
+        "oembedTitle": "Don’t Ruin His Confidence | Grown Ups 2 (Kevin James, Maria Bello)",
+        "manuallyCorrected": false,
+        "totalVideoVariants": 1,
+        "originalLabel": "Don’t Ruin His Confidence",
+        "originalYear": 2020,
+        "correctionSource": "tmdb_oembed",
+        "searchQuery": "Don’t Ruin His Confidence",
+        "movieTitle": "Grown Ups 2",
+        "sceneDescription": "Don’t Ruin His Confidence",
+        "tmdbId": 109418,
+        "properlyParsed": true,
+        "originalSceneLabel": "Don’t Ruin His Confidence"
+      },
+      "variants": [
+        {
+          "id": "comedy-180",
+          "youtube": "https://www.youtube.com/watch?v=m9aimf_tTxk",
+          "sceneDescription": "Car Tire Runaway Scene",
+          "oembedTitle": "Car Tire Runaway Scene | Grown Ups 2 (Adam Sandler, Chris Rock, David Spade)"
+        },
+        {
+          "id": "comedy-181",
+          "youtube": "https://www.youtube.com/watch?v=cwG6fIphWls",
+          "sceneDescription": "Substitute Bus Driver Scene",
+          "oembedTitle": "Substitute Bus Driver Scene | Grown Ups 2 (Adam Sandler, Chris Rock)"
+        },
+        {
+          "id": "comedy-359",
+          "youtube": "https://www.youtube.com/watch?v=L2S6DzAZ7iU",
+          "sceneDescription": "Fixing The Ice Cream Machine",
+          "oembedTitle": "Fixing The Ice Cream Machine | Grown Ups 2 (Adam Sandler, Salma Hayek, Maya Rudolph)"
+        }
+      ],
+      "variantCount": 4,
+      "primaryVariantId": "comedy-179"
+    },
+    {
+      "id": "clipzone-KLAkxSjs8ZY",
+      "label": "The Hangover Part III",
+      "date": 2013,
+      "year": 2013,
+      "youtube": "https://www.youtube.com/watch?v=KLAkxSjs8ZY",
+      "tooltip": {
+        "description": "This time, there's no wedding. No bachelor party. What could go wrong, right? But when the Wolfpack hits the road, all bets are off.",
+        "genre": "Comedy",
+        "source": "ClipZone: Comedy Callbacks",
+        "verified": true,
+        "embeddable": true,
+        "channelName": "ClipZone: Comedy Callbacks",
+        "tmdbVerified": true
+      }
+    },
+    {
+      "id": "comedy-29",
+      "label": "22 Jump Street",
+      "date": 2014,
+      "year": 2014,
+      "youtube": "https://www.youtube.com/watch?v=f4srZo3Tzw4",
+      "tooltip": {
+        "description": "Comedy movie scene or clip from 22 Jump Street",
+        "genre": "Comedy",
+        "source": "oEmbed title analysis",
+        "verified": true,
+        "embeddable": true,
+        "alternativeVideos": [
+          {
+            "videoId": "hKGf4NwrqaY",
+            "title": "22 Jump Street: I'm So Focused (JONAH HILL, CHANNING TATUM HD CLIP)"
+          },
+          {
+            "videoId": "afsjgQCcvwA",
+            "title": "22 Jump Street: Cynthia Slam Poetry Scene (JONAH HILL HD CLIP)"
+          },
+          {
+            "videoId": "ZIjb5izQ47M",
+            "title": "22 Jump Street: Schimdt Has A Bad Trip (JONAH HILL, CHANNING TATUM MOVIE #SHORTS)"
+          },
+          {
+            "videoId": "rEAbRUZatKs",
+            "title": "22 Jump Street: Schimdt Visits Mr. Walters in Prison (JONAH HILL, CHANNING TATUM MOVIE #SHORTS)"
+          },
+          {
+            "videoId": "KnYh9huVWA4",
+            "title": "22 Jump Street: Captain Dickson's Meltdown Scene"
+          },
+          {
+            "videoId": "bQCS0nVz6IU",
+            "title": "22 Jump Street: Visiting Coach Walters in Prison (Rob Riggle HD Clip)"
+          },
+          {
+            "videoId": "aJIYWpj41yA",
+            "title": "22 Jump Street: First Day at College"
+          },
+          {
+            "videoId": "FdXYgppcOqo",
+            "title": "22 Jump Street: You're Trying To Kiss Me (Jonah Hill #comedy #movie #shorts #short #4k)"
+          },
+          {
+            "videoId": "0oI4KxNrb3g",
+            "title": "22 Jump Street: Say Something Cool (Jonah Hill, Channing Tatum #comedy #movie #shorts #short #4k)"
+          }
+        ],
+        "oembedTitle": "22 Jump Street: My Name is Jeff (Channing Tatum 4K HD Clip) Comedy Scene",
+        "manuallyCorrected": true,
+        "totalVideoVariants": 10,
+        "originalLabel": "22 Jump Street",
+        "originalYear": 2014,
+        "correctionSource": "tmdb_oembed",
+        "tmdbId": 187017,
+        "tmdbFixed": true,
+        "movieTitle": "22 Jump Street",
+        "sceneDescription": "My Name is Jeff (Channing Tatum 4K HD Clip) Comedy Scene",
+        "properlyParsed": true,
+        "originalSceneLabel": "My Name is Jeff (Channing Tatum 4K HD Clip) Comedy Scene"
+      }
+    },
+    {
+      "id": "comedy-314",
+      "label": "Think Like a Man Too",
+      "date": 2014,
+      "year": 2014,
+      "youtube": "https://www.youtube.com/watch?v=onTXgaNFdcM",
+      "tooltip": {
+        "description": "Comedy movie scene or clip from A Jail Break Wedding",
+        "genre": "Comedy",
+        "source": "oEmbed title analysis",
+        "verified": true,
+        "embeddable": true,
+        "alternativeVideos": [],
+        "oembedTitle": "A Jail Break Wedding | Think Like A Man Too (Kevin Hart, Regina Hall, Terrence J)",
+        "manuallyCorrected": false,
+        "totalVideoVariants": 1,
+        "originalLabel": "A Jail Break Wedding",
+        "originalYear": 2020,
+        "correctionSource": "tmdb_oembed",
+        "searchQuery": "A Jail Break Wedding",
+        "movieTitle": "Think Like a Man Too",
+        "sceneDescription": "A Jail Break Wedding",
+        "tmdbId": 184098,
+        "properlyParsed": true,
+        "originalSceneLabel": "A Jail Break Wedding"
+      },
+      "variants": [
+        {
+          "id": "comedy-315",
+          "youtube": "https://www.youtube.com/watch?v=7ULkcKe5wZ4",
+          "sceneDescription": "Loretta is Back in the Saddle",
+          "oembedTitle": "Loretta is Back in the Saddle | Think Like A Man Too (Regina Hall, Taraji P. Henson, Jenifer Lewis)"
+        },
+        {
+          "id": "comedy-316",
+          "youtube": "https://www.youtube.com/watch?v=jAMF-9So5KM",
+          "sceneDescription": "Cedric Joins the Vegas Fun",
+          "oembedTitle": "Cedric Joins the Vegas Fun | Think Like A Man Too (Kevin Hart, Michael Ealy, Romany Malco)"
+        }
+      ],
+      "variantCount": 3,
+      "primaryVariantId": "comedy-314"
+    },
+    {
+      "id": "comedy-363",
+      "label": "Sex Tape",
+      "date": 2014,
+      "year": 2014,
+      "youtube": "https://www.youtube.com/watch?v=Qa_1cUXclwA",
+      "tooltip": {
+        "description": "Comedy movie scene or clip from The Videotape Is Out",
+        "genre": "Comedy",
+        "source": "oEmbed title analysis",
+        "verified": true,
+        "embeddable": true,
+        "alternativeVideos": [],
+        "oembedTitle": "The Videotape Is Out | Sex Tape (Cameron Diaz, Jason Segel)",
+        "manuallyCorrected": false,
+        "totalVideoVariants": 1,
+        "originalLabel": "The Videotape Is Out",
+        "originalYear": 2020,
+        "correctionSource": "tmdb_oembed",
+        "searchQuery": "The Videotape Is Out",
+        "movieTitle": "Sex Tape",
+        "sceneDescription": "The Videotape Is Out",
+        "tmdbId": 225886,
+        "properlyParsed": true,
+        "originalSceneLabel": "The Videotape Is Out"
+      },
+      "variants": [
+        {
+          "id": "comedy-364",
+          "youtube": "https://www.youtube.com/watch?v=X77srD6WqKI",
+          "sceneDescription": "Let's Make a Homemade Movie",
+          "oembedTitle": "Let's Make a Homemade Movie | Sex Tape (Cameron Diaz, Jason Segel)"
+        },
+        {
+          "id": "comedy-365",
+          "youtube": "https://www.youtube.com/watch?v=5GMBkGezmSk",
+          "sceneDescription": "Syncing Mishap",
+          "oembedTitle": "Syncing Mishap | Sex Tape (Cameron Diaz, Jason Segel)"
+        }
+      ],
+      "variantCount": 3,
+      "primaryVariantId": "comedy-363"
+    },
+    {
+      "id": "comedy-31",
+      "label": "The Night Before",
+      "date": 2015,
+      "year": 2015,
+      "youtube": "https://www.youtube.com/watch?v=miyfyh7OIHU",
+      "tooltip": {
+        "description": "Comedy movie scene or clip from The Night Before",
+        "genre": "Comedy",
+        "source": "oEmbed title analysis",
+        "verified": true,
+        "embeddable": true,
+        "alternativeVideos": [
+          {
+            "videoId": "RZkhLfYiBZo",
+            "title": "The Night Before: Ethan Calls Betsy Big (SETH ROGEN, JOSEPH GORDON -LEVITT MOVIE #SHORTS)"
+          },
+          {
+            "videoId": "NxMngwt35og",
+            "title": "The Night Before: Tripping in the Back of a Limo (Seth Rogen Scene)"
+          },
+          {
+            "videoId": "9S6APRKyMW0",
+            "title": "The Night Before: Playing Kanye's 'Runaway\" on a Giant Piano (Anthony Mackie, Seth Rogen Scene)"
+          },
+          {
+            "videoId": "qu8KxFP002g",
+            "title": "The Night Before: We Did Not Kill Jesus! (Seth Rogen, Jillian Bell Scene)"
+          }
+        ],
+        "oembedTitle": "The Night Before: Where's Your Elf Face? (JOSEPH GORDON-LEVITT MOVIE #SHORTS)",
+        "manuallyCorrected": false,
+        "totalVideoVariants": 5,
+        "originalLabel": "The Night Before",
+        "originalYear": 2018,
+        "correctionSource": "tmdb_oembed",
+        "tmdbId": 296100,
+        "tmdbFixed": true,
+        "movieTitle": "The Night Before",
+        "sceneDescription": "Where's Your Elf Face?",
+        "properlyParsed": true,
+        "originalSceneLabel": "Where's Your Elf Face?"
+      },
+      "variants": [
+        {
+          "id": "comedy-360",
+          "youtube": "https://www.youtube.com/watch?v=nClQaATd0tA",
+          "sceneDescription": "Tripping During Family Dinner",
+          "oembedTitle": "Tripping During Family Dinner | The Night Before (Seth Rogen, Joseph Gordon-Levitt, Anthony Mackie)"
+        },
+        {
+          "id": "comedy-361",
+          "youtube": "https://www.youtube.com/watch?v=DcQBL09hl5Y",
+          "sceneDescription": "Time Travelling With An Unexpected Father Figure",
+          "oembedTitle": "Time Travelling With An Unexpected Father Figure | The Night Before (Seth Rogen, Jillian Bell)"
+        },
+        {
+          "id": "comedy-362",
+          "youtube": "https://www.youtube.com/watch?v=Kw12aiwSlzM",
+          "sceneDescription": "Christmas Eve Subway Argument",
+          "oembedTitle": "Christmas Eve Subway Argument  | The Night Before (Seth Rogen, Joseph Gordon-Levitt, Anthony Mackie)"
+        }
+      ],
+      "variantCount": 4,
+      "primaryVariantId": "comedy-31"
+    },
+    {
+      "id": "comedy-98",
+      "label": "The Wedding Ringer",
+      "date": 2015,
+      "year": 2015,
+      "youtube": "https://www.youtube.com/watch?v=e6e1ya2zUns",
+      "tooltip": {
+        "description": "Comedy movie scene or clip from The Wedding Ringer",
+        "genre": "Comedy",
+        "source": "oEmbed title analysis",
+        "verified": true,
+        "embeddable": true,
+        "alternativeVideos": [
+          {
+            "videoId": "K5yEWcKh1bc",
+            "title": "The Wedding Ringer: Wedding Party Auditions (Kevin Hart, Josh Gad, Alan Ritchson)"
+          },
+          {
+            "videoId": "2sZL7ydNyU4",
+            "title": "The Wedding Ringer: Let's Dance! (Kevin Hart, Josh Gad Scene)"
+          }
+        ],
+        "oembedTitle": "The Wedding Ringer: Meeting the Groomsmen Scene (Kevin Hart, Josh Gad)",
+        "manuallyCorrected": false,
+        "totalVideoVariants": 3,
+        "originalLabel": "The Wedding Ringer",
+        "originalYear": 2019,
+        "correctionSource": "tmdb_oembed",
+        "tmdbId": 252838,
+        "tmdbFixed": true,
+        "movieTitle": "The Wedding Ringer",
+        "sceneDescription": "Meeting the Groomsmen Scene",
+        "properlyParsed": true,
+        "originalSceneLabel": "Meeting the Groomsmen Scene"
+      },
+      "variants": [
+        {
+          "id": "comedy-384",
+          "youtube": "https://www.youtube.com/watch?v=OOfjaGtvhMI",
+          "sceneDescription": "Best Man's Speech",
+          "oembedTitle": "Best Man's Speech | The Wedding Ringer (Kevin Hart, Josh Gad)"
+        },
+        {
+          "id": "comedy-385",
+          "youtube": "https://www.youtube.com/watch?v=sa2i3Y7-bvg",
+          "sceneDescription": "Football Match Against Father-in-law",
+          "oembedTitle": "Football Match Against Father-in-law | The Wedding Ringer (Kevin Hart, Josh Gad)"
+        },
+        {
+          "id": "comedy-386",
+          "youtube": "https://www.youtube.com/watch?v=rmzshJ_IuWM",
+          "sceneDescription": "Memories With the Groomsmen",
+          "oembedTitle": "Memories With the Groomsmen | The Wedding Ringer (Kevin Hart, Josh Gad)"
+        }
+      ],
+      "variantCount": 4,
+      "primaryVariantId": "comedy-98"
+    },
+    {
+      "id": "comedy-414",
+      "label": "Sausage Party",
+      "date": 2016,
+      "year": 2016,
+      "youtube": "https://www.youtube.com/watch?v=0N1xyCR0n0Q",
+      "tooltip": {
+        "description": "Comedy movie scene or clip from The Awful Truth About the Great Beyond",
+        "genre": "Comedy",
+        "source": "oEmbed title analysis",
+        "verified": true,
+        "embeddable": true,
+        "alternativeVideos": [],
+        "oembedTitle": "The Awful Truth About the Great Beyond | Sausage Party (Seth Rogen, Bill Hader, Scott Underwood)",
+        "manuallyCorrected": false,
+        "totalVideoVariants": 1,
+        "originalLabel": "The Awful Truth About the Great Beyond",
+        "originalYear": 2021,
+        "correctionSource": "tmdb_oembed",
+        "searchQuery": "The Awful Truth About the Great Beyond",
+        "movieTitle": "Sausage Party",
+        "sceneDescription": "The Awful Truth About the Great Beyond",
+        "tmdbId": 223702,
+        "properlyParsed": true,
+        "originalSceneLabel": "The Awful Truth About the Great Beyond"
+      },
+      "variants": [
+        {
+          "id": "comedy-415",
+          "youtube": "https://www.youtube.com/watch?v=oCpetENfht4",
+          "sceneDescription": "The Groceries Are Out of the Package!",
+          "oembedTitle": "The Groceries Are Out of the Package! | Sausage Party (Seth Rogen, Jonah Hill, James Franco)"
+        },
+        {
+          "id": "comedy-416",
+          "youtube": "https://www.youtube.com/watch?v=VQMRb7NBzUs",
+          "sceneDescription": "Frank Meets the Non-Perishables",
+          "oembedTitle": "Frank Meets the Non-Perishables | Sausage Party (Seth Rogen, Bill Hader, Craig Robinson)"
+        }
+      ],
+      "variantCount": 3,
+      "primaryVariantId": "comedy-414"
+    },
+    {
+      "id": "clipzone-BWkqBRuwjeY",
+      "label": "Central Intelligence",
+      "date": 2016,
+      "year": 2016,
+      "youtube": "https://www.youtube.com/watch?v=BWkqBRuwjeY",
+      "tooltip": {
+        "description": "Calvin Joyner, a mild-mannered accountant whose high school glory days are long behind him, reconnects with an awkward pal from high school through Facebook. After meeting up, Calvin’s mundane life takes an unexpectedly thrilling turn when he's thrust into the world of international espionage.",
+        "genre": "Comedy",
+        "source": "ClipZone: Comedy Callbacks",
+        "verified": true,
+        "embeddable": true,
+        "channelName": "ClipZone: Comedy Callbacks",
+        "tmdbVerified": true
+      }
+    },
+    {
+      "id": "clipzone-X2i9Zz_AqTg",
+      "label": "Neighbors 2: Sorority Rising",
+      "date": 2016,
+      "year": 2016,
+      "youtube": "https://www.youtube.com/watch?v=X2i9Zz_AqTg",
+      "tooltip": {
+        "description": "A sorority moves in next door to the home of Mac and Kelly Radner who have a young child. The Radner's enlist their former nemeses from the fraternity to help battle the raucous sisters.",
+        "genre": "Comedy",
+        "source": "ClipZone: Comedy Callbacks",
+        "verified": true,
+        "embeddable": true,
+        "channelName": "ClipZone: Comedy Callbacks",
+        "tmdbVerified": true
+      }
+    },
+    {
+      "id": "comedy-215",
+      "label": "Rough Night",
+      "date": 2017,
+      "year": 2017,
+      "youtube": "https://www.youtube.com/watch?v=rF0PLGIRpas",
+      "tooltip": {
+        "description": "Comedy movie scene or clip from There's No Body There's No Case",
+        "genre": "Comedy",
+        "source": "oEmbed title analysis",
+        "verified": true,
+        "embeddable": true,
+        "alternativeVideos": [],
+        "oembedTitle": "There's No Body There's No Case  | Rough Night (Scarlett Johansson, Peter Francis James)",
+        "manuallyCorrected": false,
+        "totalVideoVariants": 1,
+        "originalLabel": "There's No Body There's No Case",
+        "originalYear": 2020,
+        "correctionSource": "tmdb_oembed",
+        "tmdbId": 397422,
+        "tmdbFixed": true,
+        "movieTitle": "Rough Night",
+        "sceneDescription": "There's No Body There's No Case",
+        "properlyParsed": true,
+        "originalSceneLabel": "There's No Body There's No Case"
+      },
+      "variants": [
+        {
+          "id": "comedy-203",
+          "youtube": "https://www.youtube.com/watch?v=-rDgEGKnMIw",
+          "sceneDescription": "Friends Forever",
+          "oembedTitle": "Friends Forever | Rough Night (Scarlett Johansson, Jillian Bell, Ilana Glazer, Zoë Kravitz)"
+        },
+        {
+          "id": "comedy-21",
+          "youtube": "https://www.youtube.com/watch?v=pdLsH0tG3GQ",
+          "sceneDescription": "Which Party Girl Are You?",
+          "oembedTitle": "Rough Night: Which Party Girl Are You? (MOVIE #SHORTS)"
+        },
+        {
+          "id": "comedy-111",
+          "youtube": "https://www.youtube.com/watch?v=vhJMcTutSHE",
+          "sceneDescription": "Rough Night",
+          "oembedTitle": "Rough Night - Beer Pong Last Cup Left (Scarlett Johansson #shorts #short #shortvideo)"
+        },
+        {
+          "id": "comedy-112",
+          "youtube": "https://www.youtube.com/watch?v=Kq316WPYai4",
+          "sceneDescription": "Rough Night",
+          "oembedTitle": "Rough Night - Princess Foot Job (Jillian Bell, Scarlett Johansson #shorts #short #shortvideo)"
+        },
+        {
+          "id": "comedy-113",
+          "youtube": "https://www.youtube.com/watch?v=iWC3VQiBRas",
+          "sceneDescription": "Rough Night",
+          "oembedTitle": "Rough Night - Career Over Relationship (Scarlett Johansson #shorts #short #shortvideo)"
+        },
+        {
+          "id": "comedy-204",
+          "youtube": "https://www.youtube.com/watch?v=TCpm8DAffaw",
+          "sceneDescription": "Is Jess Cheating?",
+          "oembedTitle": "Is Jess Cheating? | Rough Night (Paul W. Downs, Bo Burnham, Eric André, Karan Soni)"
+        },
+        {
+          "id": "comedy-205",
+          "youtube": "https://www.youtube.com/watch?v=hk8hkySqCrg",
+          "sceneDescription": "A Lap Dance Gone Wrong",
+          "oembedTitle": "A Lap Dance Gone Wrong | Rough Night (Scarlett Johansson, Jillian Bell, Ilana Glazer, Zoë Kravitz)"
+        },
+        {
+          "id": "comedy-214",
+          "youtube": "https://www.youtube.com/watch?v=xVZ69u6LwUQ",
+          "sceneDescription": "Getting In The Mood",
+          "oembedTitle": "Getting In The Mood | Rough Night (Scarlett Johansson, Ty Burrell, Demi Moore)"
+        }
+      ],
+      "variantCount": 9,
+      "primaryVariantId": "comedy-215"
+    },
+    {
+      "id": "comedy-22",
+      "label": "Holmes & Watson",
+      "date": 2018,
+      "year": 2018,
+      "youtube": "https://www.youtube.com/watch?v=aVWbYFvPm-A",
+      "tooltip": {
+        "description": "Comedy movie scene or clip from Holmes & Watson",
+        "genre": "Comedy",
+        "source": "oEmbed title analysis",
+        "verified": true,
+        "embeddable": true,
+        "alternativeVideos": [
+          {
+            "videoId": "kHYA8PEwMZA",
+            "title": "Holmes & Watson: Hit Him in the Biscuits (MOVIE SCENE)"
+          },
+          {
+            "videoId": "04_0I9lte6M",
+            "title": "Holmes & Watson: Not The Bees! (MOVIE SCENE)"
+          },
+          {
+            "videoId": "vKSWzpanb4k",
+            "title": "Holmes & Watson: Blend In Like a Common Oaf (MOVIE SCENE)"
+          }
+        ],
+        "oembedTitle": "Holmes & Watson: Moriarty's Doppleganger (MOVIE SCENE)",
+        "manuallyCorrected": false,
+        "totalVideoVariants": 4,
+        "originalLabel": "Holmes & Watson",
+        "originalYear": 2018,
+        "correctionSource": "tmdb_oembed",
+        "tmdbId": 426563,
+        "tmdbFixed": true,
+        "movieTitle": "Holmes & Watson",
+        "sceneDescription": "Moriarty's Doppleganger",
+        "properlyParsed": true,
+        "originalSceneLabel": "Moriarty's Doppleganger"
+      },
+      "variants": [
+        {
+          "id": "comedy-355",
+          "youtube": "https://www.youtube.com/watch?v=yi4CSVKeyJA",
+          "sceneDescription": "Sherlock Cracks The Case - Watson Is Guilty!",
+          "oembedTitle": "Sherlock Cracks The Case - Watson Is Guilty! | Holmes & Watson (Will Ferrell, John C. Reilly)"
+        },
+        {
+          "id": "comedy-356",
+          "youtube": "https://www.youtube.com/watch?v=CNt-6ahvuVo",
+          "sceneDescription": "Sherlock and Watson Sing",
+          "oembedTitle": "Sherlock and Watson Sing | Holmes & Watson (Will Ferrell, John C. Reilly)"
+        },
+        {
+          "id": "comedy-354",
+          "youtube": "https://www.youtube.com/watch?v=rzzmWp8CBJo",
+          "sceneDescription": "God Save The Queen",
+          "oembedTitle": "God Save The Queen | Holmes & Watson (Will Ferrell, John C. Reilly)"
+        }
+      ],
+      "variantCount": 4,
+      "primaryVariantId": "comedy-22"
+    },
+    {
+      "id": "clipzone-eEed-o8fVpM",
+      "label": "Super Troopers 2",
+      "date": 2018,
+      "year": 2018,
+      "youtube": "https://www.youtube.com/watch?v=eEed-o8fVpM",
+      "tooltip": {
+        "description": "When an international border dispute arises between the U.S. and Canada, the Super Troopers- Mac, Thorny, Foster, Rabbit and Farva, are called in to set up a new Highway Patrol station in the disputed area.",
+        "genre": "Comedy",
+        "source": "ClipZone: Comedy Callbacks",
+        "verified": true,
+        "embeddable": true,
+        "channelName": "ClipZone: Comedy Callbacks",
+        "tmdbVerified": true
+      }
+    },
+    {
+      "id": "comedy-426",
+      "label": "Men in Black: International",
+      "date": 2019,
+      "year": 2019,
+      "youtube": "https://www.youtube.com/watch?v=nhCHzpAZHjI",
+      "tooltip": {
+        "description": "Comedy movie scene or clip from Agent H",
+        "genre": "Comedy",
+        "source": "oEmbed title analysis",
+        "verified": true,
+        "embeddable": true,
+        "alternativeVideos": [],
+        "oembedTitle": "Agent H: The Best in the Building | Men In Black: International (Tessa Thompson, Chris Hemsworth)",
+        "manuallyCorrected": false,
+        "totalVideoVariants": 1,
+        "originalLabel": "Agent H",
+        "originalYear": 2022,
+        "correctionSource": "tmdb_oembed",
+        "tmdbId": 479455,
+        "tmdbFixed": true,
+        "movieTitle": "Men in Black: International",
+        "sceneDescription": "Agent H: The Best in the Building",
+        "properlyParsed": true,
+        "originalSceneLabel": "Agent H: The Best in the Building"
+      },
+      "variants": [
+        {
+          "id": "comedy-122",
+          "youtube": "https://www.youtube.com/watch?v=J69TiXJRBe0",
+          "sceneDescription": "Luca and Riza Scene",
+          "oembedTitle": "MIB International: Luca and Riza Scene (Rebecca Ferguson, Chris Hemsworth)"
+        },
+        {
+          "id": "comedy-375",
+          "youtube": "https://www.youtube.com/watch?v=KlMNxXlSeWU",
+          "sceneDescription": "Proposal at the Eiffel Tower",
+          "oembedTitle": "Proposal at the Eiffel Tower | Men In Black: International (Liam Neeson, Chris Hemsworth)"
+        },
+        {
+          "id": "comedy-376",
+          "youtube": "https://www.youtube.com/watch?v=6S3-eU0CIk0",
+          "sceneDescription": "Agent H Makes an Exchange for the Antidote",
+          "oembedTitle": "Agent H Makes an Exchange for the Antidote | Men In Black: International (Chris Hemsworth)"
+        },
+        {
+          "id": "comedy-383",
+          "youtube": "https://www.youtube.com/watch?v=uHXnXctHoc0",
+          "sceneDescription": "The Rocket Bike Escape",
+          "oembedTitle": "The Rocket Bike Escape | Men In Black: International (Tessa Thompson, Chris Hemsworth)"
+        },
+        {
+          "id": "comedy-427",
+          "youtube": "https://www.youtube.com/watch?v=PqBUN0KhKFk",
+          "sceneDescription": "Alien Twins Fatally Wound Vungus",
+          "oembedTitle": "Alien Twins Fatally Wound Vungus | Men In Black: International (Tessa Thompson, Chris Hemsworth)"
+        }
+      ],
+      "variantCount": 6,
+      "primaryVariantId": "comedy-426"
+    },
+    {
+      "id": "comedy-47",
+      "label": "5 Funny Scenes That Will Crack You Up",
+      "date": 2019,
+      "year": 2019,
+      "youtube": "https://www.youtube.com/watch?v=uJo44Qqm1Qk",
+      "tooltip": {
+        "description": "Comedy movie scene or clip from 5 Funny Scenes That Will Crack You Up",
+        "genre": "Comedy",
+        "source": "oEmbed title analysis",
+        "verified": true,
+        "embeddable": true,
+        "alternativeVideos": [],
+        "oembedTitle": "5 Funny Scenes That Will Crack You Up (WILL SMITH, THE ROCK, KEVIN HART HD MOVIE CLIPS)",
+        "manuallyCorrected": false,
+        "totalVideoVariants": 1,
+        "originalLabel": "5 Funny Scenes That Will Crack You Up",
+        "originalYear": 2019,
+        "correctionSource": "failed",
+        "failReason": "too generic",
+        "parsedMovieTitle": "5 Funny Scenes That Will Crack You Up",
+        "sceneDescription": "5 Funny Scenes That Will Crack You Up",
+        "searchQuery": "5 Funny Scenes That Will Crack You Up"
+      }
+    },
+    {
+      "id": "comedy-56",
+      "label": "Dented Cans Are Half Price",
+      "date": 2019,
+      "year": 2019,
+      "youtube": "https://www.youtube.com/watch?v=sOfk1C-Mqok",
+      "tooltip": {
+        "description": "Comedy movie scene or clip from Dented Cans Are Half Price - Big Daddy",
+        "genre": "Comedy",
+        "source": "oEmbed title analysis",
+        "verified": true,
+        "embeddable": true,
+        "alternativeVideos": [],
+        "oembedTitle": "Dented Cans Are Half Price - Big Daddy (Adam Sandler, Cole Sprouse 4K HD Clip)",
+        "manuallyCorrected": false,
+        "totalVideoVariants": 1,
+        "originalLabel": "Dented Cans Are Half Price - Big Daddy",
+        "originalYear": 2019,
+        "correctionSource": "failed",
+        "searchQuery": "Dented Cans Are Half Price - Big Daddy",
+        "parsedMovieTitle": "Dented Cans Are Half Price - Big Daddy",
+        "sceneDescription": "Dented Cans Are Half Price - Big Daddy"
+      }
+    },
+    {
+      "id": "comedy-57",
+      "label": "Michael Learns About The Skip Feature",
+      "date": 2019,
+      "year": 2019,
+      "youtube": "https://www.youtube.com/watch?v=oeS4xcJkWlk",
+      "tooltip": {
+        "description": "Comedy movie scene or clip from Michael Learns About The Skip Feature - Click",
+        "genre": "Comedy",
+        "source": "oEmbed title analysis",
+        "verified": true,
+        "embeddable": true,
+        "alternativeVideos": [],
+        "oembedTitle": "Michael Learns About The Skip Feature - Click (Adam Sandler, Kate Beckinsale 4K HD CLIP)",
+        "manuallyCorrected": false,
+        "totalVideoVariants": 1,
+        "originalLabel": "Michael Learns About The Skip Feature - Click",
+        "originalYear": 2019,
+        "correctionSource": "failed",
+        "searchQuery": "Michael Learns About The Skip Feature - Click",
+        "parsedMovieTitle": "Michael Learns About The Skip Feature - Click",
+        "sceneDescription": "Michael Learns About The Skip Feature - Click"
+      }
+    },
+    {
+      "id": "comedy-58",
+      "label": "I Just Drank My Own Pee",
+      "date": 2019,
+      "year": 2019,
+      "youtube": "https://www.youtube.com/watch?v=uKZW4prrihE",
+      "tooltip": {
+        "description": "Comedy movie scene or clip from I Just Drank My Own Pee - This Is The End",
+        "genre": "Comedy",
+        "source": "oEmbed title analysis",
+        "verified": true,
+        "embeddable": true,
+        "alternativeVideos": [],
+        "oembedTitle": "I Just Drank My Own Pee - This Is The End (Craig Robinson 4K HD Clip)",
+        "manuallyCorrected": false,
+        "totalVideoVariants": 1,
+        "originalLabel": "I Just Drank My Own Pee - This Is The End",
+        "originalYear": 2019,
+        "correctionSource": "failed",
+        "searchQuery": "I Just Drank My Own Pee - This Is The End",
+        "parsedMovieTitle": "I Just Drank My Own Pee - This Is The End",
+        "sceneDescription": "I Just Drank My Own Pee - This Is The End"
+      }
+    },
+    {
+      "id": "comedy-59",
+      "label": "A Lot Of Fatalities",
+      "date": 2019,
+      "year": 2019,
+      "youtube": "https://www.youtube.com/watch?v=9eMyd8WIr6s",
+      "tooltip": {
+        "description": "Comedy movie scene or clip from A Lot Of Fatalities - This Is The End",
+        "genre": "Comedy",
+        "source": "oEmbed title analysis",
+        "verified": true,
+        "embeddable": true,
+        "alternativeVideos": [],
+        "oembedTitle": "A Lot Of Fatalities - This Is The End (Jonah Hill, Danny McBride 4K HD Clip)",
+        "manuallyCorrected": false,
+        "totalVideoVariants": 1,
+        "originalLabel": "A Lot Of Fatalities - This Is The End",
+        "originalYear": 2019,
+        "correctionSource": "failed",
+        "searchQuery": "A Lot Of Fatalities - This Is The End",
+        "parsedMovieTitle": "A Lot Of Fatalities - This Is The End",
+        "sceneDescription": "A Lot Of Fatalities - This Is The End"
+      }
+    },
+    {
+      "id": "comedy-60",
+      "label": "Tasting Michael's Fart",
+      "date": 2019,
+      "year": 2019,
+      "youtube": "https://www.youtube.com/watch?v=0_tTz6TGQSk",
+      "tooltip": {
+        "description": "Comedy movie scene or clip from Tasting Michael's Fart - Click",
+        "genre": "Comedy",
+        "source": "oEmbed title analysis",
+        "verified": true,
+        "embeddable": true,
+        "alternativeVideos": [],
+        "oembedTitle": "Tasting Michael's Fart - Click (Adam Sandler, David Hasselhoff 4K HD Clip)",
+        "manuallyCorrected": false,
+        "totalVideoVariants": 1,
+        "originalLabel": "Tasting Michael's Fart - Click",
+        "originalYear": 2019,
+        "correctionSource": "failed",
+        "searchQuery": "Tasting Michael's Fart - Click",
+        "parsedMovieTitle": "Tasting Michael's Fart - Click",
+        "sceneDescription": "Tasting Michael's Fart - Click"
+      }
+    },
+    {
+      "id": "comedy-61",
+      "label": "Our Cover Is Blown",
+      "date": 2019,
+      "year": 2019,
+      "youtube": "https://www.youtube.com/watch?v=F5-c8LyhhVo",
+      "tooltip": {
+        "description": "Comedy movie scene or clip from Our Cover Is Blown - 21 Jump Street",
+        "genre": "Comedy",
+        "source": "oEmbed title analysis",
+        "verified": true,
+        "embeddable": true,
+        "alternativeVideos": [],
+        "oembedTitle": "Our Cover Is Blown - 21 Jump Street (Johnny Depp, Jonah Hill 4K Movie Clip)",
+        "manuallyCorrected": false,
+        "totalVideoVariants": 1,
+        "originalLabel": "Our Cover Is Blown - 21 Jump Street",
+        "originalYear": 2019,
+        "correctionSource": "failed",
+        "searchQuery": "Our Cover Is Blown - 21 Jump Street",
+        "parsedMovieTitle": "Our Cover Is Blown - 21 Jump Street",
+        "sceneDescription": "Our Cover Is Blown - 21 Jump Street"
+      }
+    },
+    {
+      "id": "comedy-64",
+      "label": "I'm NOT A Hipster",
+      "date": 2019,
+      "year": 2019,
+      "youtube": "https://www.youtube.com/watch?v=4QUycEda-XU",
+      "tooltip": {
+        "description": "Comedy movie scene or clip from I'm NOT A Hipster - This Is The End",
+        "genre": "Comedy",
+        "source": "oEmbed title analysis",
+        "verified": true,
+        "embeddable": true,
+        "alternativeVideos": [],
+        "oembedTitle": "I'm NOT A Hipster - This Is The End (Emma Watson, Craig Robinson #SHORTS)",
+        "manuallyCorrected": false,
+        "totalVideoVariants": 1,
+        "originalLabel": "I'm NOT A Hipster - This Is The End",
+        "originalYear": 2019,
+        "correctionSource": "failed",
+        "searchQuery": "I'm NOT A Hipster - This Is The End",
+        "parsedMovieTitle": "I'm NOT A Hipster - This Is The End",
+        "sceneDescription": "I'm NOT A Hipster - This Is The End"
+      }
+    },
+    {
+      "id": "comedy-65",
+      "label": "Craig Robinson Refuses To Wear A Crop Top",
+      "date": 2019,
+      "year": 2019,
+      "youtube": "https://www.youtube.com/watch?v=-vriEtb3CNM",
+      "tooltip": {
+        "description": "Comedy movie scene or clip from Craig Robinson Refuses To Wear A Crop Top - This Is The End (#Movie #Shorts)",
+        "genre": "Comedy",
+        "source": "oEmbed title analysis",
+        "verified": true,
+        "embeddable": true,
+        "alternativeVideos": [],
+        "oembedTitle": "Craig Robinson Refuses To Wear A Crop Top - This Is The End (#Movie #Shorts)",
+        "manuallyCorrected": false,
+        "totalVideoVariants": 1,
+        "originalLabel": "Craig Robinson Refuses To Wear A Crop Top - This Is The End (#Movie #Shorts)",
+        "originalYear": 2019,
+        "correctionSource": "failed",
+        "searchQuery": "Craig Robinson Refuses To Wear A Crop Top - This Is The End",
+        "parsedMovieTitle": "Craig Robinson Refuses To Wear A Crop Top - This Is The End",
+        "sceneDescription": "Craig Robinson Refuses To Wear A Crop Top - This Is The End (#Movie #Shorts)"
+      }
+    },
+    {
+      "id": "comedy-66",
+      "label": "Craig Robinson",
+      "date": 2019,
+      "year": 2019,
+      "youtube": "https://www.youtube.com/watch?v=uRUy7aq3LcE",
+      "tooltip": {
+        "description": "Comedy movie scene or clip from Craig Robinson",
+        "genre": "Comedy",
+        "source": "oEmbed title analysis",
+        "verified": true,
+        "embeddable": true,
+        "alternativeVideos": [],
+        "oembedTitle": "Craig Robinson: The Comedic Relief King (#Movie #4K #Comedy)",
+        "manuallyCorrected": false,
+        "totalVideoVariants": 1,
+        "originalLabel": "Craig Robinson",
+        "originalYear": 2019,
+        "correctionSource": "failed",
+        "searchQuery": "Craig Robinson",
+        "parsedMovieTitle": "Craig Robinson",
+        "sceneDescription": "The Comedic Relief King"
+      }
+    },
+    {
+      "id": "comedy-67",
+      "label": "Who Got You Smiling Like That? (The Other Guys",
+      "date": 2019,
+      "year": 2019,
+      "youtube": "https://www.youtube.com/watch?v=m8qoy9v9yDw",
+      "tooltip": {
+        "description": "Comedy movie scene or clip from Who Got You Smiling Like That?",
+        "genre": "Comedy",
+        "source": "oEmbed title analysis",
+        "verified": true,
+        "embeddable": true,
+        "alternativeVideos": [],
+        "oembedTitle": "Who Got You Smiling Like That? (The Other Guys - Will Ferrell, Mark Wahlberg #movie #shorts)",
+        "manuallyCorrected": false,
+        "totalVideoVariants": 1,
+        "originalLabel": "Who Got You Smiling Like That?",
+        "originalYear": 2019,
+        "correctionSource": "failed",
+        "searchQuery": "Who Got You Smiling Like That?",
+        "parsedMovieTitle": "Who Got You Smiling Like That?",
+        "sceneDescription": "Who Got You Smiling Like That?"
+      }
+    },
+    {
+      "id": "comedy-68",
+      "label": "When You Want Your Ex Back",
+      "date": 2019,
+      "year": 2019,
+      "youtube": "https://www.youtube.com/watch?v=dA3_d6spiP8",
+      "tooltip": {
+        "description": "Comedy movie scene or clip from When You Want Your Ex Back - The Other Guys",
+        "genre": "Comedy",
+        "source": "oEmbed title analysis",
+        "verified": true,
+        "embeddable": true,
+        "alternativeVideos": [],
+        "oembedTitle": "When You Want Your Ex Back - The Other Guys (Mark Wahlberg #movie #shorts)",
+        "manuallyCorrected": false,
+        "totalVideoVariants": 1,
+        "originalLabel": "When You Want Your Ex Back - The Other Guys",
+        "originalYear": 2019,
+        "correctionSource": "failed",
+        "searchQuery": "When You Want Your Ex Back - The Other Guys",
+        "parsedMovieTitle": "When You Want Your Ex Back - The Other Guys",
+        "sceneDescription": "When You Want Your Ex Back - The Other Guys"
+      }
+    },
+    {
+      "id": "comedy-73",
+      "label": "Talledega Nights",
+      "date": 2019,
+      "year": 2019,
+      "youtube": "https://www.youtube.com/watch?v=WF5PQRDC_BA",
+      "tooltip": {
+        "description": "Comedy movie scene or clip from Talledega Nights",
+        "genre": "Comedy",
+        "source": "oEmbed title analysis",
+        "verified": true,
+        "embeddable": true,
+        "alternativeVideos": [],
+        "oembedTitle": "Talledega Nights: Ricky Bobby Delivers Pizza",
+        "manuallyCorrected": false,
+        "totalVideoVariants": 1,
+        "originalLabel": "Talledega Nights",
+        "originalYear": 2019,
+        "correctionSource": "failed",
+        "searchQuery": "Talledega Nights",
+        "parsedMovieTitle": "Talledega Nights",
+        "sceneDescription": "Ricky Bobby Delivers Pizza"
+      }
+    },
+    {
+      "id": "comedy-337",
+      "label": "Zombieland: Double Tap",
+      "date": 2019,
+      "year": 2019,
+      "youtube": "https://www.youtube.com/watch?v=BxzN52gpZDY",
+      "tooltip": {
+        "description": "Comedy movie scene or clip from The Ultimate Sacrifice",
+        "genre": "Comedy",
+        "source": "oEmbed title analysis",
+        "verified": true,
+        "embeddable": true,
+        "alternativeVideos": [],
+        "oembedTitle": "The Ultimate Sacrifice | Zombieland: Double Tap (Woody Harrelson, Jesse Eisenberg, Abigail Breslin)",
+        "manuallyCorrected": false,
+        "totalVideoVariants": 1,
+        "originalLabel": "The Ultimate Sacrifice",
+        "originalYear": 2020,
+        "correctionSource": "tmdb_oembed",
+        "searchQuery": "The Ultimate Sacrifice",
+        "movieTitle": "Zombieland: Double Tap",
+        "sceneDescription": "The Ultimate Sacrifice",
+        "tmdbId": 338967,
+        "properlyParsed": true,
+        "originalSceneLabel": "The Ultimate Sacrifice"
+      },
+      "variants": [
+        {
+          "id": "comedy-338",
+          "youtube": "https://www.youtube.com/watch?v=U72UPF-WedE",
+          "sceneDescription": "Tallahassee Meets Albuquerque",
+          "oembedTitle": "Tallahassee Meets Albuquerque | Zombieland: Double Tap (Woody Harrelson, Luke Wilson)"
+        },
+        {
+          "id": "comedy-420",
+          "youtube": "https://www.youtube.com/watch?v=dgBylxPrTMU",
+          "sceneDescription": "Babylon Gets Attacked by Zombie Horde",
+          "oembedTitle": "Babylon Gets Attacked by Zombie Horde | Zombieland: Double Tap (Woody Harrelson, Jesse Eisenberg)"
+        },
+        {
+          "id": "comedy-421",
+          "youtube": "https://www.youtube.com/watch?v=B-06IyR3JSw",
+          "sceneDescription": "Columbus Meets Madison at the Mall",
+          "oembedTitle": "Columbus Meets Madison at the Mall | Zombieland: Double Tap (Jesse Eisenberg, Zoey Deutch)"
+        }
+      ],
+      "variantCount": 4,
+      "primaryVariantId": "comedy-337"
+    },
+    {
+      "id": "comedy-301",
+      "label": "Meet Dr. Rick",
+      "date": 2020,
+      "year": 2020,
+      "youtube": "https://www.youtube.com/watch?v=HUGUnkzIFKI",
+      "tooltip": {
+        "description": "Comedy movie scene or clip from Meet Dr. Rick",
+        "genre": "Comedy",
+        "source": "oEmbed title analysis",
+        "verified": true,
+        "embeddable": true,
+        "alternativeVideos": [],
+        "oembedTitle": "Meet Dr. Rick | Fired Up! #FiredUp #MovieScenes #MovieClip",
+        "manuallyCorrected": false,
+        "totalVideoVariants": 1,
+        "originalLabel": "Meet Dr. Rick",
+        "originalYear": 2020,
+        "correctionSource": "failed",
+        "searchQuery": "Fired Up! #FiredUp #MovieScenes #Movie",
+        "parsedMovieTitle": "Fired Up! #FiredUp #MovieScenes #Movie",
+        "sceneDescription": "Meet Dr. Rick"
+      }
+    },
+    {
+      "id": "comedy-304",
+      "label": "Let’s Lady And The Tramp It",
+      "date": 2020,
+      "year": 2020,
+      "youtube": "https://www.youtube.com/watch?v=Y2Lz8h3n7zI",
+      "tooltip": {
+        "description": "Comedy movie scene or clip from Let’s Lady And The Tramp It",
+        "genre": "Comedy",
+        "source": "oEmbed title analysis",
+        "verified": true,
+        "embeddable": true,
+        "alternativeVideos": [],
+        "oembedTitle": "Let’s Lady And The Tramp It | Platonic #Platonic #SethRogen #LukeMacfarlane #TVShow",
+        "manuallyCorrected": false,
+        "totalVideoVariants": 1,
+        "originalLabel": "Let’s Lady And The Tramp It",
+        "originalYear": 2020,
+        "correctionSource": "failed",
+        "searchQuery": "Platonic #Platonic #SethRogen #LukeMacfarlane #TVShow",
+        "parsedMovieTitle": "Platonic #Platonic #SethRogen #LukeMacfarlane #TVShow",
+        "sceneDescription": "Let’s Lady And The Tramp It"
+      }
+    },
+    {
+      "id": "comedy-305",
+      "label": "Machine Gun Kelly is the Hottest Guy on Earth",
+      "date": 2020,
+      "year": 2020,
+      "youtube": "https://www.youtube.com/watch?v=vkRlUwZGDhY",
+      "tooltip": {
+        "description": "Comedy movie scene or clip from Machine Gun Kelly is the Hottest Guy on Earth",
+        "genre": "Comedy",
+        "source": "oEmbed title analysis",
+        "verified": true,
+        "embeddable": true,
+        "alternativeVideos": [],
+        "oembedTitle": "Machine Gun Kelly is the Hottest Guy on Earth | Platonic #Platonic #SethRogen #MachineGunKelly",
+        "manuallyCorrected": false,
+        "totalVideoVariants": 1,
+        "originalLabel": "Machine Gun Kelly is the Hottest Guy on Earth",
+        "originalYear": 2020,
+        "correctionSource": "failed",
+        "searchQuery": "Platonic #Platonic #SethRogen #MachineGunKelly",
+        "parsedMovieTitle": "Platonic #Platonic #SethRogen #MachineGunKelly",
+        "sceneDescription": "Machine Gun Kelly is the Hottest Guy on Earth"
+      }
+    },
+    {
+      "id": "comedy-306",
+      "label": "There's Just Something About Her",
+      "date": 2020,
+      "year": 2020,
+      "youtube": "https://www.youtube.com/watch?v=qb7HT1hb0CQ",
+      "tooltip": {
+        "description": "Comedy movie scene or clip from There's Just Something About Her",
+        "genre": "Comedy",
+        "source": "oEmbed title analysis",
+        "verified": true,
+        "embeddable": true,
+        "alternativeVideos": [],
+        "oembedTitle": "There's Just Something About Her | Fired Up! #FiredUp #MovieScenes #MovieClip",
+        "manuallyCorrected": false,
+        "totalVideoVariants": 1,
+        "originalLabel": "There's Just Something About Her",
+        "originalYear": 2020,
+        "correctionSource": "failed",
+        "searchQuery": "Fired Up! #FiredUp #MovieScenes #Movie",
+        "parsedMovieTitle": "Fired Up! #FiredUp #MovieScenes #Movie",
+        "sceneDescription": "There's Just Something About Her"
+      }
+    },
+    {
+      "id": "comedy-79",
+      "label": "Ghostbusters: Afterlife",
+      "date": 2021,
+      "year": 2021,
+      "youtube": "https://www.youtube.com/watch?v=2KXKLWNVpUc",
+      "tooltip": {
+        "description": "Comedy movie scene or clip from Ghostbusters: Afterlife",
+        "genre": "Comedy",
+        "source": "oEmbed title analysis",
+        "verified": true,
+        "embeddable": true,
+        "alternativeVideos": [
+          {
+            "videoId": "6hKgvpqA8E8",
+            "title": "Ghostbusters Afterlife: Chasing the Muncher Ghost (McKenna Grace Scene)"
+          },
+          {
+            "videoId": "B_z-yRVwapI",
+            "title": "Ghostbusters Afterlife: Terror Dogs in Walmart (Paul Rudd HD Clip)"
+          }
+        ],
+        "oembedTitle": "Ghostbusters Afterlife: Testing the Trap Scene (Paul Rudd, McKenna Grace HD Clip)",
+        "manuallyCorrected": true,
+        "totalVideoVariants": 3,
+        "originalLabel": "Ghostbusters: Afterlife",
+        "originalYear": 2021,
+        "correctionSource": "tmdb_oembed",
+        "tmdbId": 425909,
+        "tmdbFixed": true,
+        "movieTitle": "Ghostbusters: Afterlife",
+        "sceneDescription": "Testing the Trap Scene",
+        "properlyParsed": true,
+        "originalSceneLabel": "Testing the Trap Scene"
+      }
+    },
+    {
+      "id": "comedy-100",
+      "label": "Lyle, Lyle, Crocodile",
+      "date": 2022,
+      "year": 2022,
+      "youtube": "https://www.youtube.com/watch?v=NSSxpn6pjbQ",
+      "tooltip": {
+        "description": "Comedy movie scene or clip from Lyle, Lyle, Crocodile",
+        "genre": "Comedy",
+        "source": "oEmbed title analysis",
+        "verified": true,
+        "embeddable": true,
+        "alternativeVideos": [
+          {
+            "videoId": "NuZXbSyRsT8",
+            "title": "Lyle, Lyle, Crocodile: Hector Sings \"Take a Look At Us Now\" (Javier Bardem, Shawn Mendes Scene)"
+          }
+        ],
+        "oembedTitle": "Lyle, Lyle, Crocodile: Hector Discovers Lyle (Javier Bardem, Shawn Mendes Scene)",
+        "manuallyCorrected": false,
+        "totalVideoVariants": 2,
+        "originalLabel": "Lyle, Lyle, Crocodile",
+        "originalYear": 2019,
+        "correctionSource": "tmdb_oembed",
+        "tmdbId": 830784,
+        "tmdbFixed": true,
+        "movieTitle": "Lyle, Lyle, Crocodile",
+        "sceneDescription": "Hector Discovers Lyle",
+        "properlyParsed": true,
+        "originalSceneLabel": "Hector Discovers Lyle"
+      }
+    },
+    {
+      "id": "comedy-237",
+      "label": "The Machine",
+      "date": 2023,
+      "year": 2023,
+      "youtube": "https://www.youtube.com/watch?v=TJpkV81y6KU",
+      "tooltip": {
+        "description": "Comedy movie scene or clip from Shootout at the Bank",
+        "genre": "Comedy",
+        "source": "oEmbed title analysis",
+        "verified": true,
+        "embeddable": true,
+        "alternativeVideos": [],
+        "oembedTitle": "Shootout at the Bank | The Machine (Bert Kreischer, Mark Hamill, Iva Babić)",
+        "manuallyCorrected": false,
+        "totalVideoVariants": 1,
+        "originalLabel": "Shootout at the Bank",
+        "originalYear": 2020,
+        "correctionSource": "tmdb_oembed",
+        "searchQuery": "Shootout at the Bank",
+        "movieTitle": "The Machine",
+        "sceneDescription": "Shootout at the Bank",
+        "tmdbId": 647250,
+        "properlyParsed": true,
+        "originalSceneLabel": "Shootout at the Bank"
+      },
+      "variants": [
+        {
+          "id": "comedy-238",
+          "youtube": "https://www.youtube.com/watch?v=e_cDdfBfmPY",
+          "sceneDescription": "Bert and Albert Get Kidnapped",
+          "oembedTitle": "Bert and Albert Get Kidnapped | The Machine (Bert Kreischer, Mark Hamill, Iva Babić)"
+        },
+        {
+          "id": "comedy-239",
+          "youtube": "https://www.youtube.com/watch?v=Dldk70wQ5nc",
+          "sceneDescription": "The Flight to Moscow",
+          "oembedTitle": "The Flight to Moscow | The Machine (Bert Kreischer, Mark Hamill, Iva Babić)"
+        },
+        {
+          "id": "comedy-240",
+          "youtube": "https://www.youtube.com/watch?v=q8dehE2o4fE",
+          "sceneDescription": "The Machine Lights it UP",
+          "oembedTitle": "The Machine Lights it UP | The Machine (Bert Kreischer, Mark Hamill, Iva Babić)"
+        },
+        {
+          "id": "comedy-241",
+          "youtube": "https://www.youtube.com/watch?v=lfuvxKwbYqE",
+          "sceneDescription": "The Machine is BACK",
+          "oembedTitle": "The Machine is BACK | The Machine (Bert Kreischer, Mark Hamill, Iva Babić)"
+        }
+      ],
+      "variantCount": 5,
+      "primaryVariantId": "comedy-237"
+    },
+    {
+      "id": "comedy-308",
+      "label": "No Hard Feelings",
+      "date": 2023,
+      "year": 2023,
+      "youtube": "https://www.youtube.com/watch?v=pDyFxSJ3uaw",
+      "tooltip": {
+        "description": "Comedy movie scene or clip from Maddie Meets the Parents",
+        "genre": "Comedy",
+        "source": "oEmbed title analysis",
+        "verified": true,
+        "embeddable": true,
+        "alternativeVideos": [],
+        "oembedTitle": "Maddie Meets the Parents | No Hard Feelings (Jennifer Lawrence, Matthew Broderick, Laura Benanti)",
+        "manuallyCorrected": false,
+        "totalVideoVariants": 1,
+        "originalLabel": "Maddie Meets the Parents",
+        "originalYear": 2020,
+        "correctionSource": "tmdb_oembed",
+        "searchQuery": "Maddie Meets the Parents",
+        "movieTitle": "No Hard Feelings",
+        "sceneDescription": "Maddie Meets the Parents",
+        "tmdbId": 884605,
+        "properlyParsed": true,
+        "originalSceneLabel": "Maddie Meets the Parents"
+      },
+      "variants": [
+        {
+          "id": "comedy-309",
+          "youtube": "https://www.youtube.com/watch?v=jJIZ3mEZAeA",
+          "sceneDescription": "Percy Knows About the Deal",
+          "oembedTitle": "Percy Knows About the Deal | No Hard Feelings (Jennifer Lawrence, Andrew Barth Feldman)"
+        },
+        {
+          "id": "comedy-310",
+          "youtube": "https://www.youtube.com/watch?v=eToEW6NLeRc",
+          "sceneDescription": "Maddie Tries to Apologize to Percy",
+          "oembedTitle": "Maddie Tries to Apologize to Percy | No Hard Feelings (Jennifer Lawrence, Andrew Barth Feldman)"
+        },
+        {
+          "id": "comedy-311",
+          "youtube": "https://www.youtube.com/watch?v=ivXfh1Vvnlw",
+          "sceneDescription": "A Great First Impression...",
+          "oembedTitle": "A Great First Impression... | No Hard Feelings (Jennifer Lawrence, Matthew Broderick, Laura Benanti)"
+        },
+        {
+          "id": "comedy-312",
+          "youtube": "https://www.youtube.com/watch?v=0y_5jgSVV-g",
+          "sceneDescription": "Flirting at the Animal Shelter",
+          "oembedTitle": "Flirting at the Animal Shelter | No Hard Feelings (Jennifer Lawrence, Andrew Barth Feldman)"
+        }
+      ],
+      "variantCount": 5,
+      "primaryVariantId": "comedy-308"
+    }
+  ],
+  "cardCount": 366,
+  "verification": {
+    "properlyParsed": true,
+    "parseSuccess": 378,
+    "tmdbLookups": 315,
+    "tvShowsFiltered": 51,
+    "uniqueMovies": 89,
+    "yearChangesMade": 219,
+    "fixDate": "2025-06-02",
+    "parsingMethod": "oembed_title_extraction",
+    "compilationsRemoved": 12,
+    "cleanupDate": "2025-06-02",
+    "labelsFixed": true
+  },
+  "metadata": {
+    "created": "2025-06-02T20:38:58.756Z",
+    "source": "Real YouTube Comedy Playlist (729 videos)",
+    "quality": "Expanded extraction with manual corrections",
+    "reliability": "Professional metadata",
+    "testingMethod": "YouTube API + oEmbed + Advanced parsing"
+  },
+  "showImageOnPlace": true
+}

@@ -1,0 +1,411 @@
+{
+  "slug": "gibboanx-test-28",
+  "topic": "Gibboanx Test Puzzle 28",
+  "category": "Entertainment",
+  "subcategory": "Movies/TV",
+  "hideDates": false,
+  "showTooltips": true,
+  "variantSystem": {
+    "enabled": true,
+    "totalScenes": 10,
+    "selectionStrategy": "random_per_round"
+  },
+  "cards": [
+    {
+      "id": "gibboanx-test-28-1",
+      "label": "Henry: Portrait of a Serial Killer",
+      "date": 1986,
+      "year": 1986,
+      "youtube": "https://www.youtube.com/watch?v=T_UFcZjC3k0&t=0s&end=120s",
+      "duration": 214,
+      "variants": [
+        {
+          "id": "T_UFcZjC3k0-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=T_UFcZjC3k0&t=0s&end=120s",
+          "sceneDescription": "Henry: Portrait of a Serial Killer - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "T_UFcZjC3k0-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=T_UFcZjC3k0&t=120s&end=214s",
+          "sceneDescription": "Henry: Portrait of a Serial Killer - Part 2 (2:00 - 3:34)",
+          "startTime": 120,
+          "endTime": 214
+        }
+      ],
+      "variantCount": 2,
+      "tooltip": {
+        "description": "Henry: Portrait of a Serial Killer (1986) - Quality Score: 42/100",
+        "genre": "Classic Film",
+        "crawlerScore": 42,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 2,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:33:21.319Z"
+      },
+      "movie": "Henry: Portrait of a Serial Killer"
+    },
+    {
+      "id": "gibboanx-test-28-2",
+      "label": "The Last King of Scotland",
+      "date": 2006,
+      "year": 2006,
+      "youtube": "https://www.youtube.com/watch?v=d8JZWfaffUA&t=0s&end=30s",
+      "duration": 30,
+      "variants": [
+        {
+          "id": "d8JZWfaffUA-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=d8JZWfaffUA&t=0s&end=30s",
+          "sceneDescription": "The Last King of Scotland - Full Scene (0:00 - 0:30)",
+          "startTime": 0,
+          "endTime": 30
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "The Last King of Scotland (2006) - Quality Score: 42/100",
+        "genre": "Classic Film",
+        "crawlerScore": 42,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 2,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:33:21.319Z"
+      },
+      "movie": "The Last King of Scotland"
+    },
+    {
+      "id": "gibboanx-test-28-3",
+      "label": "Short Cuts",
+      "date": 1993,
+      "year": 1993,
+      "youtube": "https://www.youtube.com/watch?v=fotRXhpB7-4&t=0s&end=120s",
+      "duration": 432,
+      "variants": [
+        {
+          "id": "fotRXhpB7-4-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=fotRXhpB7-4&t=0s&end=120s",
+          "sceneDescription": "Short Cuts - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "fotRXhpB7-4-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=fotRXhpB7-4&t=120s&end=240s",
+          "sceneDescription": "Short Cuts - Part 2 (2:00 - 4:00)",
+          "startTime": 120,
+          "endTime": 240
+        },
+        {
+          "id": "fotRXhpB7-4-variant-2",
+          "youtube": "https://www.youtube.com/watch?v=fotRXhpB7-4&t=240s&end=360s",
+          "sceneDescription": "Short Cuts - Part 3 (4:00 - 6:00)",
+          "startTime": 240,
+          "endTime": 360
+        },
+        {
+          "id": "fotRXhpB7-4-variant-3",
+          "youtube": "https://www.youtube.com/watch?v=fotRXhpB7-4&t=360s&end=432s",
+          "sceneDescription": "Short Cuts - Part 4 (6:00 - 7:12)",
+          "startTime": 360,
+          "endTime": 432
+        }
+      ],
+      "variantCount": 4,
+      "tooltip": {
+        "description": "Short Cuts (1993) - Quality Score: 42/100",
+        "genre": "Classic Film",
+        "crawlerScore": 42,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 2,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:33:21.319Z"
+      },
+      "movie": "Short Cuts"
+    },
+    {
+      "id": "gibboanx-test-28-4",
+      "label": "Witness",
+      "date": 1985,
+      "year": 1985,
+      "youtube": "https://www.youtube.com/watch?v=6DkDGCI9fkc&t=0s&end=157s",
+      "duration": 157,
+      "variants": [
+        {
+          "id": "6DkDGCI9fkc-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=6DkDGCI9fkc&t=0s&end=157s",
+          "sceneDescription": "Witness - Part 1 (0:00 - 2:37)",
+          "startTime": 0,
+          "endTime": 157
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Witness (1985) - Quality Score: 35/100",
+        "genre": "Classic Film",
+        "crawlerScore": 35,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 0,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:33:21.319Z"
+      },
+      "movie": "Witness"
+    },
+    {
+      "id": "gibboanx-test-28-5",
+      "label": "Gangster No. 1",
+      "date": 2000,
+      "year": 2000,
+      "youtube": "https://www.youtube.com/watch?v=YGpbbfVgmrY&t=0s&end=85s",
+      "duration": 85,
+      "variants": [
+        {
+          "id": "YGpbbfVgmrY-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=YGpbbfVgmrY&t=0s&end=85s",
+          "sceneDescription": "Gangster No. 1 - Full Scene (0:00 - 1:25)",
+          "startTime": 0,
+          "endTime": 85
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Gangster No. 1 (2000) - Quality Score: 42/100",
+        "genre": "Classic Film",
+        "crawlerScore": 42,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 2,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:33:21.319Z"
+      },
+      "movie": "Gangster No. 1"
+    },
+    {
+      "id": "gibboanx-test-28-6",
+      "label": "The Crow",
+      "date": 1994,
+      "year": 1994,
+      "youtube": "https://www.youtube.com/watch?v=DDvhGi59j-s&t=0s&end=120s",
+      "duration": 218,
+      "variants": [
+        {
+          "id": "DDvhGi59j-s-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=DDvhGi59j-s&t=0s&end=120s",
+          "sceneDescription": "The Crow - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "DDvhGi59j-s-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=DDvhGi59j-s&t=120s&end=218s",
+          "sceneDescription": "The Crow - Part 2 (2:00 - 3:38)",
+          "startTime": 120,
+          "endTime": 218
+        }
+      ],
+      "variantCount": 2,
+      "tooltip": {
+        "description": "The Crow (1994) - Quality Score: 45/100",
+        "genre": "Classic Film",
+        "crawlerScore": 45,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 0,
+          "resolutionQuality": 10,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:33:21.319Z"
+      },
+      "movie": "The Crow"
+    },
+    {
+      "id": "gibboanx-test-28-7",
+      "label": "Eastern Promises",
+      "date": 2007,
+      "year": 2007,
+      "youtube": "https://www.youtube.com/watch?v=8mBiwBrJbgo&t=0s&end=120s",
+      "duration": 341,
+      "variants": [
+        {
+          "id": "8mBiwBrJbgo-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=8mBiwBrJbgo&t=0s&end=120s",
+          "sceneDescription": "Eastern Promises - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "8mBiwBrJbgo-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=8mBiwBrJbgo&t=120s&end=240s",
+          "sceneDescription": "Eastern Promises - Part 2 (2:00 - 4:00)",
+          "startTime": 120,
+          "endTime": 240
+        },
+        {
+          "id": "8mBiwBrJbgo-variant-2",
+          "youtube": "https://www.youtube.com/watch?v=8mBiwBrJbgo&t=240s&end=341s",
+          "sceneDescription": "Eastern Promises - Part 3 (4:00 - 5:41)",
+          "startTime": 240,
+          "endTime": 341
+        }
+      ],
+      "variantCount": 3,
+      "tooltip": {
+        "description": "Eastern Promises (2007) - Quality Score: 35/100",
+        "genre": "Classic Film",
+        "crawlerScore": 35,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 0,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:33:21.319Z"
+      },
+      "movie": "Eastern Promises"
+    },
+    {
+      "id": "gibboanx-test-28-8",
+      "label": "The Hobbit: The Desolation of Smaug",
+      "date": 2013,
+      "year": 2013,
+      "youtube": "https://www.youtube.com/watch?v=BiuIY3f1XQM&t=0s&end=52s",
+      "duration": 52,
+      "variants": [
+        {
+          "id": "BiuIY3f1XQM-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=BiuIY3f1XQM&t=0s&end=52s",
+          "sceneDescription": "The Hobbit: The Desolation of Smaug - Full Scene (0:00 - 0:52)",
+          "startTime": 0,
+          "endTime": 52
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "The Hobbit: The Desolation of Smaug (2013) - Quality Score: 50/100",
+        "genre": "Classic Film",
+        "crawlerScore": 50,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 10,
+          "popularityFactor": 0,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:33:21.319Z"
+      },
+      "movie": "The Hobbit: The Desolation of Smaug"
+    },
+    {
+      "id": "gibboanx-test-28-9",
+      "label": "Manhattan",
+      "date": 1979,
+      "year": 1979,
+      "youtube": "https://www.youtube.com/watch?v=GbXiPJa1G9Y&t=0s&end=60s",
+      "duration": 60,
+      "variants": [
+        {
+          "id": "GbXiPJa1G9Y-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=GbXiPJa1G9Y&t=0s&end=60s",
+          "sceneDescription": "Manhattan - Full Scene (0:00 - 1:00)",
+          "startTime": 0,
+          "endTime": 60
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Manhattan (1979) - Quality Score: 40/100",
+        "genre": "Classic Film",
+        "crawlerScore": 40,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 0,
+          "resolutionQuality": 0,
+          "popularityFactor": 10,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:33:21.319Z"
+      },
+      "movie": "Manhattan"
+    },
+    {
+      "id": "gibboanx-test-28-10",
+      "label": "Kingpin",
+      "date": 1996,
+      "year": 1996,
+      "youtube": "https://www.youtube.com/watch?v=4A_7iIT4SpY&t=0s&end=120s",
+      "duration": 225,
+      "variants": [
+        {
+          "id": "4A_7iIT4SpY-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=4A_7iIT4SpY&t=0s&end=120s",
+          "sceneDescription": "Kingpin - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "4A_7iIT4SpY-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=4A_7iIT4SpY&t=120s&end=225s",
+          "sceneDescription": "Kingpin - Part 2 (2:00 - 3:45)",
+          "startTime": 120,
+          "endTime": 225
+        }
+      ],
+      "variantCount": 2,
+      "tooltip": {
+        "description": "Kingpin (1996) - Quality Score: 35/100",
+        "genre": "Classic Film",
+        "crawlerScore": 35,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 0,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:33:21.319Z"
+      },
+      "movie": "Kingpin"
+    }
+  ]
+}

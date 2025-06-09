@@ -1,0 +1,130 @@
+{
+  "slug": "greatest-movie-scenes",
+  "title": "Greatest Movie Scenes",
+  "category": "Movies",
+  "description": "A puzzle featuring iconic movie scenes from classics to modern blockbusters.",
+  "cards": [
+    {
+      "label": "The Dark Knight",
+      "date": 2008,
+      "youtube": "https://www.youtube.com/watch?v=2AuYKg3KpS4",
+      "tooltip": { "description": "" }
+    },
+    {
+      "label": "Pulp Fiction",
+      "date": 1994,
+      "youtube": "https://www.youtube.com/watch?v=s7EdQ4FqbhY",
+      "tooltip": { "description": "" }
+    },
+    {
+      "label": "Forrest Gump",
+      "date": 1994,
+      "youtube": "https://www.youtube.com/watch?v=bLvqoHBptjg",
+      "tooltip": { "description": "" }
+    },
+    {
+      "label": "The Shawshank Redemption",
+      "date": 1994,
+      "youtube": "https://www.youtube.com/watch?v=6hB3S9bIaco",
+      "tooltip": { "description": "" }
+    },
+    {
+      "label": "Gladiator",
+      "date": 2000,
+      "youtube": "https://www.youtube.com/watch?v=owK1qxDselE",
+      "tooltip": { "description": "" }
+    },
+    {
+      "label": "The Matrix",
+      "date": 1999,
+      "youtube": "https://www.youtube.com/watch?v=m8e-FF8MsqU",
+      "tooltip": { "description": "" }
+    },
+    {
+      "label": "Titanic",
+      "date": 1997,
+      "youtube": "https://www.youtube.com/watch?v=kVrqfYjkTdQ",
+      "tooltip": { "description": "" }
+    },
+    {
+      "label": "The Godfather",
+      "date": 1972,
+      "youtube": "https://www.youtube.com/watch?v=sY1S34973zA",
+      "tooltip": { "description": "" }
+    },
+    {
+      "label": "Inception",
+      "date": 2010,
+      "youtube": "https://www.youtube.com/watch?v=YoHD9XEInc0",
+      "tooltip": { "description": "" }
+    },
+    {
+      "label": "Jurassic Park",
+      "date": 1993,
+      "youtube": "https://www.youtube.com/watch?v=lc0UehYemQA",
+      "tooltip": { "description": "" }
+    },
+    {
+      "label": "The Lion King",
+      "date": 1994,
+      "youtube": "https://www.youtube.com/watch?v=7TavVZMewpY",
+      "tooltip": { "description": "" }
+    },
+    {
+      "label": "Fight Club",
+      "date": 1999,
+      "youtube": "https://www.youtube.com/watch?v=SUXWAEX2jlg",
+      "tooltip": { "description": "" }
+    },
+    {
+      "label": "Goodfellas",
+      "date": 1990,
+      "youtube": "https://www.youtube.com/watch?v=qo5jJpHtI1Y",
+      "tooltip": { "description": "" }
+    },
+    {
+      "label": "The Silence of the Lambs",
+      "date": 1991,
+      "youtube": "https://www.youtube.com/watch?v=W6Mm8Sbe__o",
+      "tooltip": { "description": "" }
+    },
+    {
+      "label": "Saving Private Ryan",
+      "date": 1998,
+      "youtube": "https://www.youtube.com/watch?v=zwhP5b4tD6g",
+      "tooltip": { "description": "" }
+    },
+    {
+      "label": "Schindler's List",
+      "date": 1993,
+      "youtube": "https://www.youtube.com/watch?v=gG22XNhtnoY",
+      "tooltip": { "description": "" }
+    },
+    {
+      "label": "Avatar",
+      "date": 2009,
+      "youtube": "https://www.youtube.com/watch?v=5PSNL1qE6VY",
+      "tooltip": { "description": "" }
+    },
+    {
+      "label": "The Avengers",
+      "date": 2012,
+      "youtube": "https://www.youtube.com/watch?v=eOrNdBpGMv8",
+      "tooltip": { "description": "" }
+    },
+    {
+      "label": "Deadpool",
+      "date": 2016,
+      "youtube": "https://www.youtube.com/watch?v=ONHBaC-pfsk",
+      "tooltip": { "description": "" }
+    },
+    {
+      "label": "Interstellar",
+      "date": 2014,
+      "youtube": "https://www.youtube.com/watch?v=zSWdZVtXT7E",
+      "tooltip": { "description": "" }
+    }
+  ]
+}
+
+

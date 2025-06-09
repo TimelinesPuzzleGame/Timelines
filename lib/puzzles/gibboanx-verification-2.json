@@ -1,0 +1,206 @@
+{
+  "slug": "gibboanx-verification-2",
+  "topic": "Gibboanx Verification Puzzle #2",
+  "category": "Entertainment",
+  "subcategory": "Movies/TV",
+  "hideDates": false,
+  "showTooltips": true,
+  "description": "Verification puzzle with 10 quality videos - REQUIRES APPROVAL",
+  "variantSystem": {
+    "enabled": true,
+    "totalScenes": 10,
+    "selectionStrategy": "random_per_round"
+  },
+  "cards": [
+    {
+      "id": "gibboanx-verification-2-1",
+      "label": "Gladiator",
+      "year": 2000,
+      "date": 2000,
+      "youtube": "https://www.youtube.com/watch?v=lEM5nJ-AUiM",
+      "duration": 173,
+      "tooltip": {
+        "description": "Gladiator - Quality Score: 75/100",
+        "genre": "Classic Film",
+        "crawlerScore": 75,
+        "source": "verified-gibboanx-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-07T01:04:13.708Z",
+        "verificationRequired": true,
+        "rank": 48
+      },
+      "movie": "Gladiator"
+    },
+    {
+      "id": "gibboanx-verification-2-2",
+      "label": "Raiders of the Lost Ark",
+      "year": 1981,
+      "date": 1981,
+      "youtube": "https://www.youtube.com/watch?v=FT3m4LXq3b4",
+      "duration": 370,
+      "tooltip": {
+        "description": "Raiders of the Lost Ark - Quality Score: 55/100",
+        "genre": "Classic Film",
+        "crawlerScore": 55,
+        "source": "verified-gibboanx-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-07T01:04:13.708Z",
+        "verificationRequired": true,
+        "rank": 49
+      },
+      "movie": "Raiders of the Lost Ark"
+    },
+    {
+      "id": "gibboanx-verification-2-3",
+      "label": "Miller's Crossing",
+      "year": 1990,
+      "date": 1990,
+      "youtube": "https://www.youtube.com/watch?v=rGWCiT4Xy0k",
+      "duration": 156,
+      "tooltip": {
+        "description": "Miller's Crossing - Quality Score: 55/100",
+        "genre": "Classic Film",
+        "crawlerScore": 55,
+        "source": "verified-gibboanx-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-07T01:04:13.708Z",
+        "verificationRequired": true,
+        "rank": 50
+      },
+      "movie": "Miller's Crossing"
+    },
+    {
+      "id": "gibboanx-verification-2-4",
+      "label": "Die Hard",
+      "year": 1988,
+      "date": 1988,
+      "youtube": "https://www.youtube.com/watch?v=I6wRZCV7naE",
+      "duration": 162,
+      "tooltip": {
+        "description": "Die Hard - Quality Score: 75/100",
+        "genre": "Classic Film",
+        "crawlerScore": 75,
+        "source": "verified-gibboanx-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-07T01:04:13.708Z",
+        "verificationRequired": true,
+        "rank": 52
+      },
+      "movie": "Die Hard"
+    },
+    {
+      "id": "gibboanx-verification-2-5",
+      "label": "Kick-Ass",
+      "year": 2010,
+      "date": 2010,
+      "youtube": "https://www.youtube.com/watch?v=8zUemCOntvo",
+      "duration": 134,
+      "tooltip": {
+        "description": "Kick-Ass - Quality Score: 80/100",
+        "genre": "Classic Film",
+        "crawlerScore": 80,
+        "source": "verified-gibboanx-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-07T01:04:13.708Z",
+        "verificationRequired": true,
+        "rank": 54
+      },
+      "movie": "Kick-Ass"
+    },
+    {
+      "id": "gibboanx-verification-2-6",
+      "label": "Batman Begins",
+      "year": 2005,
+      "date": 2005,
+      "youtube": "https://www.youtube.com/watch?v=Wk3zmfhC6Dw",
+      "duration": 191,
+      "tooltip": {
+        "description": "Batman Begins - Quality Score: 75/100",
+        "genre": "Classic Film",
+        "crawlerScore": 75,
+        "source": "verified-gibboanx-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-07T01:04:13.708Z",
+        "verificationRequired": true,
+        "rank": 59
+      },
+      "movie": "Batman Begins"
+    },
+    {
+      "id": "gibboanx-verification-2-7",
+      "label": "The Green Mile",
+      "year": 1999,
+      "date": 1999,
+      "youtube": "https://www.youtube.com/watch?v=zcRKfYzaT4k",
+      "duration": 145,
+      "tooltip": {
+        "description": "The Green Mile - Quality Score: 55/100",
+        "genre": "Classic Film",
+        "crawlerScore": 55,
+        "source": "verified-gibboanx-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-07T01:04:13.708Z",
+        "verificationRequired": true,
+        "rank": 60
+      },
+      "movie": "The Green Mile"
+    },
+    {
+      "id": "gibboanx-verification-2-8",
+      "label": "The French Connection",
+      "year": 1971,
+      "date": 1971,
+      "youtube": "https://www.youtube.com/watch?v=XeT-GPcxkXs",
+      "duration": 487,
+      "tooltip": {
+        "description": "The French Connection - Quality Score: 55/100",
+        "genre": "Classic Film",
+        "crawlerScore": 55,
+        "source": "verified-gibboanx-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-07T01:04:13.708Z",
+        "verificationRequired": true,
+        "rank": 61
+      },
+      "movie": "The French Connection"
+    },
+    {
+      "id": "gibboanx-verification-2-9",
+      "label": "Drive",
+      "year": 2011,
+      "date": 2011,
+      "youtube": "https://www.youtube.com/watch?v=DIVQJN2NUok",
+      "duration": 165,
+      "tooltip": {
+        "description": "Drive - Quality Score: 60/100",
+        "genre": "Classic Film",
+        "crawlerScore": 60,
+        "source": "verified-gibboanx-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-07T01:04:13.708Z",
+        "verificationRequired": true,
+        "rank": 63
+      },
+      "movie": "Drive"
+    },
+    {
+      "id": "gibboanx-verification-2-10",
+      "label": "The Evil Dead",
+      "year": 1981,
+      "date": 1981,
+      "youtube": "https://www.youtube.com/watch?v=_Bs9fYcOeY8",
+      "duration": 297,
+      "tooltip": {
+        "description": "The Evil Dead - Quality Score: 75/100",
+        "genre": "Classic Film",
+        "crawlerScore": 75,
+        "source": "verified-gibboanx-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-07T01:04:13.708Z",
+        "verificationRequired": true,
+        "rank": 65
+      },
+      "movie": "The Evil Dead"
+    }
+  ]
+}

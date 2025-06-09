@@ -1,0 +1,62 @@
+{
+  "slug": "user-1747807709226",
+  "topic": "Evolution of life on earth",
+  "category": "History",
+  "showTooltips": false,
+  "hideDates": false,
+  "cards": [
+    {
+      "label": "Formation of Earth",
+      "date": -4540000000,
+      "source": "https://en.wikipedia.org/wiki/Earth",
+      "id": "ugc-1747807709223-0"
+    },
+    {
+      "label": "First Single-Celled Organisms",
+      "date": -3500000000,
+      "id": "ugc-1747807708435-1"
+    },
+    {
+      "label": "Cambrian Explosion",
+      "date": -538800000,
+      "source": "https://en.wikipedia.org/wiki/Cambrian_explosion",
+      "id": "ugc-1747807708444-2"
+    },
+    {
+      "label": "Earliest Evidence of Dinosaurs",
+      "date": -230000000,
+      "id": "ugc-1747807708442-3"
+    },
+    {
+      "label": "First Flowers Bloom",
+      "date": -1400000000,
+      "id": "ugc-1747807709010-4"
+    },
+    {
+      "label": "Extinction of Dinosaurs",
+      "date": -65000000,
+      "id": "ugc-1747807708990-5"
+    },
+    {
+      "label": "Earliest Fossile Evidence of Homo Sapiens",
+      "date": -315000,
+      "id": "ugc-1747807708442-6"
+    },
+    {
+      "label": "First Ants",
+      "date": -100000000,
+      "id": "ugc-1747807708891-7"
+    },
+    {
+      "label": "First Pine Trees",
+      "date": -131000000,
+      "source": "https://en.wikipedia.org/wiki/Industrial_Revolution",
+      "id": "ugc-1747807708444-8"
+    },
+    {
+      "label": "Sturgeon and Paddlefish first appear",
+      "date": -248000000,
+      "id": "ugc-1747807708443-9"
+    }
+  ]
+}

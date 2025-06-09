@@ -1,0 +1,299 @@
+{
+  "slug": "fashion-through-the-ages",
+  "topic": "Fashion Through the Ages",
+  "category": "Arts",
+  "subcategory": "Fashion",
+  "hideDates": false,
+  "showTooltips": true,
+  "showImageOnPlace": true,
+  "cards": [
+    {
+      "id": "fashion-1920s-9-1922",
+      "label": "Flapper Fashion",
+      "date": 1922,
+      "image": "/images/fashion/fashion-1920s-9-1922.jpg",
+      "tooltip": {
+        "description": "Flapper Fashion - A defining fashion trend of the 1920s"
+      }
+    },
+    {
+      "id": "fashion-1920s-11-1925",
+      "label": "Top Designers of the Era",
+      "date": 1925,
+      "image": "/images/fashion/fashion-1920s-11-1925.jpg",
+      "tooltip": {
+        "description": "Top Designers of the Era - A defining fashion trend of the 1920s"
+      }
+    },
+    {
+      "id": "fashion-1920s-10-1929",
+      "label": "Women’s Trends of the 1920s",
+      "date": 1929,
+      "image": "/images/fashion/fashion-1920s-10-1929.jpg",
+      "tooltip": {
+        "description": "Women’s Trends of the 1920s - A defining fashion trend of the 1920s"
+      }
+    },
+    {
+      "id": "fashion-1930s-12-1932",
+      "label": "Bias-Cut Gowns",
+      "date": 1932,
+      "image": "/images/fashion/fashion-1930s-12-1932.jpg",
+      "tooltip": {
+        "description": "Bias-Cut Gowns - A defining fashion trend of the 1930s"
+      }
+    },
+    {
+      "id": "fashion-1930s-13-1934",
+      "label": "Backless Evening Gowns",
+      "date": 1934,
+      "image": "/images/fashion/fashion-1930s-13-1934.jpg",
+      "tooltip": {
+        "description": "Backless Evening Gowns - A defining fashion trend of the 1930s"
+      }
+    },
+    {
+      "id": "fashion-1930s-8-1936",
+      "label": "Pants Became Popular",
+      "date": 1936,
+      "image": "/images/fashion/fashion-1930s-8-1936.jpg",
+      "tooltip": {
+        "description": "Pants Became Popular - A defining fashion trend of the 1930s"
+      }
+    },
+    {
+      "id": "fashion-1930s-14-1937",
+      "label": "Schiaparelli Surrealism",
+      "date": 1937,
+      "image": "/images/fashion/fashion-1930s-14-1937.jpg",
+      "tooltip": {
+        "description": "Schiaparelli Surrealism - A defining fashion trend of the 1930s"
+      }
+    },
+    {
+      "id": "fashion-1940s-16-1945",
+      "label": "The Bikini Arrives",
+      "date": 1945,
+      "image": "/images/fashion/fashion-1940s-16-1945.jpg",
+      "tooltip": {
+        "description": "The Bikini Arrives - A defining fashion trend of the 1940s"
+      }
+    },
+    {
+      "id": "fashion-1940s-15-1947",
+      "label": "Dior's New Look",
+      "date": 1947,
+      "image": "/images/fashion/fashion-1940s-15-1947.jpg",
+      "tooltip": {
+        "description": "Dior's New Look - A defining fashion trend of the 1940s"
+      }
+    },
+    {
+      "id": "fashion-1950s-18-1950",
+      "label": "Couture’s Golden Age",
+      "date": 1950,
+      "image": "/images/fashion/fashion-1950s-18-1950.jpg",
+      "tooltip": {
+        "description": "Couture’s Golden Age - A defining fashion trend of the 1950s"
+      }
+    },
+    {
+      "id": "fashion-1950s-19-1952",
+      "label": "A Straighter Silhouette Emerges",
+      "date": 1952,
+      "image": "/images/fashion/fashion-1950s-19-1952.jpg",
+      "tooltip": {
+        "description": "A Straighter Silhouette Emerges - A defining fashion trend of the 1950s"
+      }
+    },
+    {
+      "id": "fashion-1950s-17-1954",
+      "label": "Women’s Trends of the 1950s: The Hourglass Silhouette Reigns",
+      "date": 1954,
+      "image": "/images/fashion/fashion-1950s-17-1954.jpg",
+      "tooltip": {
+        "description": "Women’s Trends of the 1950s: The Hourglass Silhouette Reigns - A defining fashion trend of the 1950s"
+      }
+    },
+    {
+      "id": "fashion-1960s-21-1963",
+      "label": "Mod Fashion",
+      "date": 1963,
+      "image": "/images/fashion/fashion-1960s-21-1963.jpg",
+      "tooltip": {
+        "description": "Mod Fashion - A defining fashion trend of the 1960s"
+      }
+    },
+    {
+      "id": "fashion-1960s-20-1965",
+      "label": "Mini Skirts",
+      "date": 1965,
+      "image": "/images/fashion/fashion-1960s-20-1965.jpg",
+      "tooltip": {
+        "description": "Mini Skirts - A defining fashion trend of the 1960s"
+      }
+    },
+    {
+      "id": "fashion-1960s-26-1965",
+      "label": "All Hail Saint Laurent",
+      "date": 1965,
+      "image": "/images/fashion/fashion-1960s-26-1965.jpg",
+      "tooltip": {
+        "description": "All Hail Saint Laurent - A defining fashion trend of the 1960s"
+      }
+    },
+    {
+      "id": "fashion-1960s-24-1966",
+      "label": "Synthetics Proliferate Fashion",
+      "date": 1966,
+      "image": "/images/fashion/fashion-1960s-24-1966.jpg",
+      "tooltip": {
+        "description": "Synthetics Proliferate Fashion - A defining fashion trend of the 1960s"
+      }
+    },
+    {
+      "id": "fashion-1960s-22-1968",
+      "label": "Hippie Style",
+      "date": 1968,
+      "image": "/images/fashion/fashion-1960s-22-1968.jpg",
+      "tooltip": {
+        "description": "Hippie Style - A defining fashion trend of the 1960s"
+      }
+    },
+    {
+      "id": "fashion-1960s-23-1968",
+      "label": "Youth Is the New Black",
+      "date": 1968,
+      "image": "/images/fashion/fashion-1960s-23-1968.jpg",
+      "tooltip": {
+        "description": "Youth Is the New Black - A defining fashion trend of the 1960s"
+      }
+    },
+    {
+      "id": "fashion-1960s-25-1969",
+      "label": "The Jackie-Look",
+      "date": 1969,
+      "image": "/images/fashion/fashion-1960s-25-1969.jpg",
+      "tooltip": {
+        "description": "The Jackie-Look - A defining fashion trend of the 1960s"
+      }
+    },
+    {
+      "id": "fashion-1960s-27-1969",
+      "label": "Space Age Fashion",
+      "date": 1969,
+      "image": "/images/fashion/fashion-1960s-27-1969.jpg",
+      "tooltip": {
+        "description": "Space Age Fashion - A defining fashion trend of the 1960s"
+      }
+    },
+    {
+      "id": "fashion-1970s-29-1972",
+      "label": "Men’s Trends of the 1970s",
+      "date": 1972,
+      "image": "/images/fashion/fashion-1970s-29-1972.jpg",
+      "tooltip": {
+        "description": "Men’s Trends of the 1970s - A defining fashion trend of the 1970s"
+      }
+    },
+    {
+      "id": "fashion-1970s-28-1977",
+      "label": "Disco Fashion",
+      "date": 1977,
+      "image": "/images/fashion/fashion-1970s-28-1977.jpg",
+      "tooltip": {
+        "description": "Disco Fashion - A defining fashion trend of the 1970s"
+      }
+    },
+    {
+      "id": "fashion-1980s-30-1985",
+      "label": "Power Suits",
+      "date": 1985,
+      "image": "/images/fashion/fashion-1980s-30-1985.jpg",
+      "tooltip": {
+        "description": "Power Suits - A defining fashion trend of the 1980s"
+      }
+    },
+    {
+      "id": "fashion-1990s-32-1991",
+      "label": "Women’s Trends of the 1990s",
+      "date": 1991,
+      "image": "/images/fashion/fashion-1990s-32-1991.jpg",
+      "tooltip": {
+        "description": "Women’s Trends of the 1990s - A defining fashion trend of the 1990s"
+      }
+    },
+    {
+      "id": "fashion-1990s-31-1993",
+      "label": "Grunge Fashion",
+      "date": 1993,
+      "image": "/images/fashion/fashion-1990s-31-1993.jpg",
+      "tooltip": {
+        "description": "Grunge Fashion - A defining fashion trend of the 1990s"
+      }
+    },
+    {
+      "id": "fashion-1990s-33-1997",
+      "label": "Slip Dresses",
+      "date": 1997,
+      "image": "/images/fashion/fashion-1990s-33-1997.jpg",
+      "tooltip": {
+        "description": "Slip Dresses - A defining fashion trend of the 1990s"
+      }
+    },
+    {
+      "id": "fashion-2000s-34-2002",
+      "label": "Ultra Low-Rise Jeans",
+      "date": 2002,
+      "image": "/images/fashion/fashion-2000s-34-2002.jpg",
+      "tooltip": {
+        "description": "Ultra Low-Rise Jeans - A defining fashion trend of the 2000s"
+      }
+    },
+    {
+      "id": "fashion-2000s-36-2005",
+      "label": "In the Culture",
+      "date": 2005,
+      "image": "/images/fashion/fashion-2000s-36-2005.jpg",
+      "tooltip": {
+        "description": "In the Culture - A defining fashion trend of the 2000s"
+      }
+    },
+    {
+      "id": "fashion-2000s-35-2007",
+      "label": "Boho Chic",
+      "date": 2007,
+      "image": "/images/fashion/fashion-2000s-35-2007.jpg",
+      "tooltip": {
+        "description": "Boho Chic - A defining fashion trend of the 2000s"
+      }
+    },
+    {
+      "id": "fashion-2010s-39-2012",
+      "label": "Instagram Fashion",
+      "date": 2012,
+      "image": "/images/fashion/fashion-2010s-39-2012.jpg",
+      "tooltip": {
+        "description": "Instagram Fashion - A defining fashion trend of the 2010s"
+      }
+    },
+    {
+      "id": "fashion-2010s-38-2014",
+      "label": "Women’s Trends of the 2010s",
+      "date": 2014,
+      "image": "/images/fashion/fashion-2010s-38-2014.jpg",
+      "tooltip": {
+        "description": "Women’s Trends of the 2010s - A defining fashion trend of the 2010s"
+      }
+    },
+    {
+      "id": "fashion-2010s-37-2015",
+      "label": "Athleisure",
+      "date": 2015,
+      "image": "/images/fashion/fashion-2010s-37-2015.jpg",
+      "tooltip": {
+        "description": "Athleisure - A defining fashion trend of the 2010s"
+      }
+    }
+  ]
+}

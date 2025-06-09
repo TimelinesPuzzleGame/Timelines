@@ -1,0 +1,432 @@
+{
+  "slug": "gibboanx-test-26",
+  "topic": "Gibboanx Test Puzzle 26",
+  "category": "Entertainment",
+  "subcategory": "Movies/TV",
+  "hideDates": false,
+  "showTooltips": true,
+  "variantSystem": {
+    "enabled": true,
+    "totalScenes": 10,
+    "selectionStrategy": "random_per_round"
+  },
+  "cards": [
+    {
+      "id": "gibboanx-test-26-1",
+      "label": "Diamonds Are Forever",
+      "date": 1971,
+      "year": 1971,
+      "youtube": "https://www.youtube.com/watch?v=fZHq64Ze9HA&t=0s&end=120s",
+      "duration": 207,
+      "variants": [
+        {
+          "id": "fZHq64Ze9HA-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=fZHq64Ze9HA&t=0s&end=120s",
+          "sceneDescription": "Diamonds Are Forever - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "fZHq64Ze9HA-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=fZHq64Ze9HA&t=120s&end=207s",
+          "sceneDescription": "Diamonds Are Forever - Part 2 (2:00 - 3:27)",
+          "startTime": 120,
+          "endTime": 207
+        }
+      ],
+      "variantCount": 2,
+      "tooltip": {
+        "description": "Diamonds Are Forever (1971) - Quality Score: 42/100",
+        "genre": "Classic Film",
+        "crawlerScore": 42,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 2,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:31:06.042Z"
+      },
+      "movie": "Diamonds Are Forever"
+    },
+    {
+      "id": "gibboanx-test-26-2",
+      "label": "Live and Let Die",
+      "date": 1973,
+      "year": 1973,
+      "youtube": "https://www.youtube.com/watch?v=wyYuTht2tFA&t=0s&end=120s",
+      "duration": 313,
+      "variants": [
+        {
+          "id": "wyYuTht2tFA-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=wyYuTht2tFA&t=0s&end=120s",
+          "sceneDescription": "Live and Let Die - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "wyYuTht2tFA-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=wyYuTht2tFA&t=120s&end=240s",
+          "sceneDescription": "Live and Let Die - Part 2 (2:00 - 4:00)",
+          "startTime": 120,
+          "endTime": 240
+        },
+        {
+          "id": "wyYuTht2tFA-variant-2",
+          "youtube": "https://www.youtube.com/watch?v=wyYuTht2tFA&t=240s&end=313s",
+          "sceneDescription": "Live and Let Die - Part 3 (4:00 - 5:13)",
+          "startTime": 240,
+          "endTime": 313
+        }
+      ],
+      "variantCount": 3,
+      "tooltip": {
+        "description": "Live and Let Die (1973) - Quality Score: 35/100",
+        "genre": "Classic Film",
+        "crawlerScore": 35,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 0,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:31:06.042Z"
+      },
+      "movie": "Live and Let Die"
+    },
+    {
+      "id": "gibboanx-test-26-3",
+      "label": "127 Hours",
+      "date": 2010,
+      "year": 2010,
+      "youtube": "https://www.youtube.com/watch?v=nw_mrWs2hME&t=0s&end=120s",
+      "duration": 200,
+      "variants": [
+        {
+          "id": "nw_mrWs2hME-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=nw_mrWs2hME&t=0s&end=120s",
+          "sceneDescription": "127 Hours - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "nw_mrWs2hME-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=nw_mrWs2hME&t=120s&end=200s",
+          "sceneDescription": "127 Hours - Part 2 (2:00 - 3:20)",
+          "startTime": 120,
+          "endTime": 200
+        }
+      ],
+      "variantCount": 2,
+      "tooltip": {
+        "description": "127 Hours (2010) - Quality Score: 45/100",
+        "genre": "Classic Film",
+        "crawlerScore": 45,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:31:06.042Z"
+      },
+      "movie": "127 Hours"
+    },
+    {
+      "id": "gibboanx-test-26-4",
+      "label": "Jacob's Ladder",
+      "date": 1990,
+      "year": 1990,
+      "youtube": "https://www.youtube.com/watch?v=0FbtMOGlyKU&t=0s&end=164s",
+      "duration": 164,
+      "variants": [
+        {
+          "id": "0FbtMOGlyKU-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=0FbtMOGlyKU&t=0s&end=164s",
+          "sceneDescription": "Jacob's Ladder - Part 1 (0:00 - 2:44)",
+          "startTime": 0,
+          "endTime": 164
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Jacob's Ladder (1990) - Quality Score: 55/100",
+        "genre": "Classic Film",
+        "crawlerScore": 55,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:31:06.042Z"
+      },
+      "movie": "Jacob's Ladder"
+    },
+    {
+      "id": "gibboanx-test-26-5",
+      "label": "Black Hawk Down",
+      "date": 2001,
+      "year": 2001,
+      "youtube": "https://www.youtube.com/watch?v=ovRhLzL_ZHQ&t=0s&end=157s",
+      "duration": 157,
+      "variants": [
+        {
+          "id": "ovRhLzL_ZHQ-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=ovRhLzL_ZHQ&t=0s&end=157s",
+          "sceneDescription": "Black Hawk Down - Part 1 (0:00 - 2:37)",
+          "startTime": 0,
+          "endTime": 157
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Black Hawk Down (2001) - Quality Score: 40/100",
+        "genre": "Classic Film",
+        "crawlerScore": 40,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 0,
+          "resolutionQuality": 0,
+          "popularityFactor": 10,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:31:06.042Z"
+      },
+      "movie": "Black Hawk Down"
+    },
+    {
+      "id": "gibboanx-test-26-6",
+      "label": "Machete",
+      "date": 2010,
+      "year": 2010,
+      "youtube": "https://www.youtube.com/watch?v=BBTtK8QHl3I&t=0s&end=49s",
+      "duration": 49,
+      "variants": [
+        {
+          "id": "BBTtK8QHl3I-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=BBTtK8QHl3I&t=0s&end=49s",
+          "sceneDescription": "Machete - Full Scene (0:00 - 0:49)",
+          "startTime": 0,
+          "endTime": 49
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Machete (2010) - Quality Score: 40/100",
+        "genre": "Classic Film",
+        "crawlerScore": 40,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 0,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:31:06.042Z"
+      },
+      "movie": "Machete"
+    },
+    {
+      "id": "gibboanx-test-26-7",
+      "label": "The Adventures of Tintin",
+      "date": 2011,
+      "year": 2011,
+      "youtube": "https://www.youtube.com/watch?v=OHuo2TcZv-4&t=0s&end=120s",
+      "duration": 291,
+      "variants": [
+        {
+          "id": "OHuo2TcZv-4-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=OHuo2TcZv-4&t=0s&end=120s",
+          "sceneDescription": "The Adventures of Tintin - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "OHuo2TcZv-4-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=OHuo2TcZv-4&t=120s&end=291s",
+          "sceneDescription": "The Adventures of Tintin - Part 2 (2:00 - 4:51)",
+          "startTime": 120,
+          "endTime": 291
+        }
+      ],
+      "variantCount": 2,
+      "tooltip": {
+        "description": "The Adventures of Tintin (2011) - Quality Score: 35/100",
+        "genre": "Classic Film",
+        "crawlerScore": 35,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 0,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:31:06.042Z"
+      },
+      "movie": "The Adventures of Tintin"
+    },
+    {
+      "id": "gibboanx-test-26-8",
+      "label": "Mission: Impossible II",
+      "date": 2000,
+      "year": 2000,
+      "youtube": "https://www.youtube.com/watch?v=J9zOqL4pXlQ&t=0s&end=120s",
+      "duration": 570,
+      "variants": [
+        {
+          "id": "J9zOqL4pXlQ-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=J9zOqL4pXlQ&t=0s&end=120s",
+          "sceneDescription": "Mission: Impossible II - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "J9zOqL4pXlQ-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=J9zOqL4pXlQ&t=120s&end=240s",
+          "sceneDescription": "Mission: Impossible II - Part 2 (2:00 - 4:00)",
+          "startTime": 120,
+          "endTime": 240
+        },
+        {
+          "id": "J9zOqL4pXlQ-variant-2",
+          "youtube": "https://www.youtube.com/watch?v=J9zOqL4pXlQ&t=240s&end=360s",
+          "sceneDescription": "Mission: Impossible II - Part 3 (4:00 - 6:00)",
+          "startTime": 240,
+          "endTime": 360
+        },
+        {
+          "id": "J9zOqL4pXlQ-variant-3",
+          "youtube": "https://www.youtube.com/watch?v=J9zOqL4pXlQ&t=360s&end=480s",
+          "sceneDescription": "Mission: Impossible II - Part 4 (6:00 - 8:00)",
+          "startTime": 360,
+          "endTime": 480
+        },
+        {
+          "id": "J9zOqL4pXlQ-variant-4",
+          "youtube": "https://www.youtube.com/watch?v=J9zOqL4pXlQ&t=480s&end=570s",
+          "sceneDescription": "Mission: Impossible II - Part 5 (8:00 - 9:30)",
+          "startTime": 480,
+          "endTime": 570
+        }
+      ],
+      "variantCount": 5,
+      "tooltip": {
+        "description": "Mission: Impossible II (2000) - Quality Score: 45/100",
+        "genre": "Classic Film",
+        "crawlerScore": 45,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 0,
+          "resolutionQuality": 10,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:31:06.042Z"
+      },
+      "movie": "Mission: Impossible II"
+    },
+    {
+      "id": "gibboanx-test-26-9",
+      "label": "A Matter of Life and Death",
+      "date": 1946,
+      "year": 1946,
+      "youtube": "https://www.youtube.com/watch?v=xj5nopMMSV0&t=0s&end=116s",
+      "duration": 116,
+      "variants": [
+        {
+          "id": "xj5nopMMSV0-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=xj5nopMMSV0&t=0s&end=116s",
+          "sceneDescription": "A Matter of Life and Death - Full Scene (0:00 - 1:56)",
+          "startTime": 0,
+          "endTime": 116
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "A Matter of Life and Death (1946) - Quality Score: 42/100",
+        "genre": "Classic Film",
+        "crawlerScore": 42,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 2,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:31:06.042Z"
+      },
+      "movie": "A Matter of Life and Death"
+    },
+    {
+      "id": "gibboanx-test-26-10",
+      "label": "Kubo and the Two Strings",
+      "date": 2016,
+      "year": 2016,
+      "youtube": "https://www.youtube.com/watch?v=Wr8AQ_dUuvs&t=0s&end=120s",
+      "duration": 312,
+      "variants": [
+        {
+          "id": "Wr8AQ_dUuvs-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=Wr8AQ_dUuvs&t=0s&end=120s",
+          "sceneDescription": "Kubo and the Two Strings - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "Wr8AQ_dUuvs-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=Wr8AQ_dUuvs&t=120s&end=240s",
+          "sceneDescription": "Kubo and the Two Strings - Part 2 (2:00 - 4:00)",
+          "startTime": 120,
+          "endTime": 240
+        },
+        {
+          "id": "Wr8AQ_dUuvs-variant-2",
+          "youtube": "https://www.youtube.com/watch?v=Wr8AQ_dUuvs&t=240s&end=312s",
+          "sceneDescription": "Kubo and the Two Strings - Part 3 (4:00 - 5:12)",
+          "startTime": 240,
+          "endTime": 312
+        }
+      ],
+      "variantCount": 3,
+      "tooltip": {
+        "description": "Kubo and the Two Strings (2016) - Quality Score: 42/100",
+        "genre": "Classic Film",
+        "crawlerScore": 42,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 2,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:31:06.042Z"
+      },
+      "movie": "Kubo and the Two Strings"
+    }
+  ]
+}

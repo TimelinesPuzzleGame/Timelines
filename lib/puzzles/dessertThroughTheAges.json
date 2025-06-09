@@ -1,0 +1,60 @@
+{
+  "slug": "dessert-through-the-ages",
+  "topic": "Dessert through the Ages",
+  "category": "History",
+  "subcategory": "Cuisine",
+  "hideDates": false,
+  "showTooltips": false,
+  "cards": [
+    {
+      "id": "sugar-crystallization-india",
+      "label": "First crystallized sugar documented in India",
+      "date": 500
+    },
+    {
+      "id": "panforte-siena",
+      "label": "Panforte first baked at Montecellese Abbey in Siena",
+      "date": 1205
+    },
+    {
+      "id": "apple-pie-english-cookbook",
+      "label": "First apple pie recipe recorded in an English cookbook",
+      "date": 1381
+    },
+    {
+      "id": "sorbet-french-court",
+      "label": "Catherine de’ Medici introduces sorbet to the French court",
+      "date": 1553
+    },
+    {
+      "id": "first-ice-cream-paris",
+      "label": "Café Procope serves the first ice cream to the public in Paris",
+      "date": 1660
+    },
+    {
+      "id": "first-chocolate-bar",
+      "label": "John Cadbury produces the first solid eating chocolate bar",
+      "date": 1847
+    },
+    {
+      "id": "baking-powder-patent",
+      "label": "Alfred Bird patents baking powder",
+      "date": 1869
+    },
+    {
+      "id": "ice-cream-soda",
+      "label": "Ice cream soda is invented in New York City",
+      "date": 1874
+    },
+    {
+      "id": "jello-patent",
+      "label": "Pearle B. Wait patents Jell-O gelatin dessert",
+      "date": 1897
+    },
+    {
+      "id": "popsicle-invention",
+      "label": "Frank Epperson invents the Popsicle",
+      "date": 1905
+    }
+  ]
+}

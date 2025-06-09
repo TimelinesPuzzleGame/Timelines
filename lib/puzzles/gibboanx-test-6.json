@@ -1,0 +1,404 @@
+{
+  "slug": "gibboanx-test-6",
+  "topic": "Gibboanx Test Puzzle 6",
+  "category": "Entertainment",
+  "subcategory": "Movies/TV",
+  "hideDates": false,
+  "showTooltips": true,
+  "variantSystem": {
+    "enabled": true,
+    "totalScenes": 10,
+    "selectionStrategy": "random_per_round"
+  },
+  "cards": [
+    {
+      "id": "gibboanx-test-6-1",
+      "label": "The Edge of Seventeen",
+      "date": 2016,
+      "year": 2016,
+      "youtube": "https://www.youtube.com/watch?v=BI2eMNRswnw&t=0s&end=120s",
+      "duration": 415,
+      "variants": [
+        {
+          "id": "BI2eMNRswnw-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=BI2eMNRswnw&t=0s&end=120s",
+          "sceneDescription": "The Edge of Seventeen - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "BI2eMNRswnw-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=BI2eMNRswnw&t=120s&end=240s",
+          "sceneDescription": "The Edge of Seventeen - Part 2 (2:00 - 4:00)",
+          "startTime": 120,
+          "endTime": 240
+        },
+        {
+          "id": "BI2eMNRswnw-variant-2",
+          "youtube": "https://www.youtube.com/watch?v=BI2eMNRswnw&t=240s&end=415s",
+          "sceneDescription": "The Edge of Seventeen - Part 3 (4:00 - 6:55)",
+          "startTime": 240,
+          "endTime": 415
+        }
+      ],
+      "variantCount": 3,
+      "tooltip": {
+        "description": "The Edge of Seventeen (2016) - Quality Score: 50/100",
+        "genre": "Classic Film",
+        "crawlerScore": 50,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 0,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T20:39:36.205Z"
+      },
+      "movie": "The Edge of Seventeen"
+    },
+    {
+      "id": "gibboanx-test-6-2",
+      "label": "The Lego Movie",
+      "date": 2014,
+      "year": 2014,
+      "youtube": "https://www.youtube.com/watch?v=ALfsTkIt5_8&t=0s&end=120s",
+      "duration": 191,
+      "variants": [
+        {
+          "id": "ALfsTkIt5_8-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=ALfsTkIt5_8&t=0s&end=120s",
+          "sceneDescription": "The Lego Movie - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "ALfsTkIt5_8-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=ALfsTkIt5_8&t=120s&end=191s",
+          "sceneDescription": "The Lego Movie - Part 2 (2:00 - 3:11)",
+          "startTime": 120,
+          "endTime": 191
+        }
+      ],
+      "variantCount": 2,
+      "tooltip": {
+        "description": "The Lego Movie (2014) - Quality Score: 50/100",
+        "genre": "Classic Film",
+        "crawlerScore": 50,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 10,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T20:39:36.205Z"
+      },
+      "movie": "The Lego Movie"
+    },
+    {
+      "id": "gibboanx-test-6-3",
+      "label": "The Lost Boys",
+      "date": 1987,
+      "year": 1987,
+      "youtube": "https://www.youtube.com/watch?v=Yzls_qR1Q0E&t=0s&end=120s",
+      "duration": 194,
+      "variants": [
+        {
+          "id": "Yzls_qR1Q0E-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=Yzls_qR1Q0E&t=0s&end=120s",
+          "sceneDescription": "The Lost Boys - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "Yzls_qR1Q0E-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=Yzls_qR1Q0E&t=120s&end=194s",
+          "sceneDescription": "The Lost Boys - Part 2 (2:00 - 3:14)",
+          "startTime": 120,
+          "endTime": 194
+        }
+      ],
+      "variantCount": 2,
+      "tooltip": {
+        "description": "The Lost Boys (1987) - Quality Score: 42/100",
+        "genre": "Classic Film",
+        "crawlerScore": 42,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 2,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T20:39:36.205Z"
+      },
+      "movie": "The Lost Boys"
+    },
+    {
+      "id": "gibboanx-test-6-4",
+      "label": "The Martian",
+      "date": 2015,
+      "year": 2015,
+      "youtube": "https://www.youtube.com/watch?v=od3CSzhfB10&t=0s&end=131s",
+      "duration": 131,
+      "variants": [
+        {
+          "id": "od3CSzhfB10-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=od3CSzhfB10&t=0s&end=131s",
+          "sceneDescription": "The Martian - Part 1 (0:00 - 2:11)",
+          "startTime": 0,
+          "endTime": 131
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "The Martian (2015) - Quality Score: 45/100",
+        "genre": "Classic Film",
+        "crawlerScore": 45,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T20:39:36.205Z"
+      },
+      "movie": "The Martian"
+    },
+    {
+      "id": "gibboanx-test-6-5",
+      "label": "The Terminator",
+      "date": 1984,
+      "year": 1984,
+      "youtube": "https://www.youtube.com/watch?v=VFOt0wuJmj0&t=0s&end=73s",
+      "duration": 73,
+      "variants": [
+        {
+          "id": "VFOt0wuJmj0-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=VFOt0wuJmj0&t=0s&end=73s",
+          "sceneDescription": "The Terminator - Full Scene (0:00 - 1:13)",
+          "startTime": 0,
+          "endTime": 73
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "The Terminator (1984) - Quality Score: 50/100",
+        "genre": "Classic Film",
+        "crawlerScore": 50,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 0,
+          "resolutionQuality": 10,
+          "popularityFactor": 10,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T20:39:36.205Z"
+      },
+      "movie": "The Terminator"
+    },
+    {
+      "id": "gibboanx-test-6-6",
+      "label": "The Untouchables",
+      "date": 1987,
+      "year": 1987,
+      "youtube": "https://www.youtube.com/watch?v=-Sg50edXPdM&t=0s&end=120s",
+      "duration": 197,
+      "variants": [
+        {
+          "id": "-Sg50edXPdM-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=-Sg50edXPdM&t=0s&end=120s",
+          "sceneDescription": "The Untouchables - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "-Sg50edXPdM-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=-Sg50edXPdM&t=120s&end=197s",
+          "sceneDescription": "The Untouchables - Part 2 (2:00 - 3:17)",
+          "startTime": 120,
+          "endTime": 197
+        }
+      ],
+      "variantCount": 2,
+      "tooltip": {
+        "description": "The Untouchables (1987) - Quality Score: 45/100",
+        "genre": "Classic Film",
+        "crawlerScore": 45,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T20:39:36.205Z"
+      },
+      "movie": "The Untouchables"
+    },
+    {
+      "id": "gibboanx-test-6-7",
+      "label": "The Vanishing",
+      "date": 1988,
+      "year": 1988,
+      "youtube": "https://www.youtube.com/watch?v=Wc-4kAfor5U&t=0s&end=120s",
+      "duration": 194,
+      "variants": [
+        {
+          "id": "Wc-4kAfor5U-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=Wc-4kAfor5U&t=0s&end=120s",
+          "sceneDescription": "The Vanishing - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "Wc-4kAfor5U-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=Wc-4kAfor5U&t=120s&end=194s",
+          "sceneDescription": "The Vanishing - Part 2 (2:00 - 3:14)",
+          "startTime": 120,
+          "endTime": 194
+        }
+      ],
+      "variantCount": 2,
+      "tooltip": {
+        "description": "The Vanishing (1988) - Quality Score: 50/100",
+        "genre": "Classic Film",
+        "crawlerScore": 50,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 20,
+          "resolutionQuality": 0,
+          "popularityFactor": 0,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T20:39:36.205Z"
+      },
+      "movie": "The Vanishing"
+    },
+    {
+      "id": "gibboanx-test-6-8",
+      "label": "The Wild Bunch",
+      "date": 1969,
+      "year": 1969,
+      "youtube": "https://www.youtube.com/watch?v=yvEj8typz20&t=0s&end=120s",
+      "duration": 289,
+      "variants": [
+        {
+          "id": "yvEj8typz20-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=yvEj8typz20&t=0s&end=120s",
+          "sceneDescription": "The Wild Bunch - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "yvEj8typz20-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=yvEj8typz20&t=120s&end=289s",
+          "sceneDescription": "The Wild Bunch - Part 2 (2:00 - 4:49)",
+          "startTime": 120,
+          "endTime": 289
+        }
+      ],
+      "variantCount": 2,
+      "tooltip": {
+        "description": "The Wild Bunch (1969) - Quality Score: 35/100",
+        "genre": "Classic Film",
+        "crawlerScore": 35,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 0,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T20:39:36.205Z"
+      },
+      "movie": "The Wild Bunch"
+    },
+    {
+      "id": "gibboanx-test-6-9",
+      "label": "This Is England",
+      "date": 2006,
+      "year": 2006,
+      "youtube": "https://www.youtube.com/watch?v=OMFxwzXZVQM&t=0s&end=60s",
+      "duration": 60,
+      "variants": [
+        {
+          "id": "OMFxwzXZVQM-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=OMFxwzXZVQM&t=0s&end=60s",
+          "sceneDescription": "This Is England - Full Scene (0:00 - 1:00)",
+          "startTime": 0,
+          "endTime": 60
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "This Is England (2006) - Quality Score: 45/100",
+        "genre": "Classic Film",
+        "crawlerScore": 45,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T20:39:36.205Z"
+      },
+      "movie": "This Is England"
+    },
+    {
+      "id": "gibboanx-test-6-10",
+      "label": "Three Days of the Condor",
+      "date": 1975,
+      "year": 1975,
+      "youtube": "https://www.youtube.com/watch?v=d5oHT6ojvIs&t=0s&end=97s",
+      "duration": 97,
+      "variants": [
+        {
+          "id": "d5oHT6ojvIs-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=d5oHT6ojvIs&t=0s&end=97s",
+          "sceneDescription": "Three Days of the Condor - Full Scene (0:00 - 1:37)",
+          "startTime": 0,
+          "endTime": 97
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Three Days of the Condor (1975) - Quality Score: 45/100",
+        "genre": "Classic Film",
+        "crawlerScore": 45,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T20:39:36.205Z"
+      },
+      "movie": "Three Days of the Condor"
+    }
+  ]
+}

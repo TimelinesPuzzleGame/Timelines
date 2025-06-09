@@ -1,0 +1,397 @@
+{
+  "slug": "gibboanx-test-34",
+  "topic": "Gibboanx Test Puzzle 34",
+  "category": "Entertainment",
+  "subcategory": "Movies/TV",
+  "hideDates": false,
+  "showTooltips": true,
+  "variantSystem": {
+    "enabled": true,
+    "totalScenes": 10,
+    "selectionStrategy": "random_per_round"
+  },
+  "cards": [
+    {
+      "id": "gibboanx-test-34-1",
+      "label": "The Iron Giant",
+      "date": 1999,
+      "year": 1999,
+      "youtube": "https://www.youtube.com/watch?v=fu0scA8kqHQ&t=0s&end=120s",
+      "duration": 236,
+      "variants": [
+        {
+          "id": "fu0scA8kqHQ-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=fu0scA8kqHQ&t=0s&end=120s",
+          "sceneDescription": "The Iron Giant - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "fu0scA8kqHQ-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=fu0scA8kqHQ&t=120s&end=236s",
+          "sceneDescription": "The Iron Giant - Part 2 (2:00 - 3:56)",
+          "startTime": 120,
+          "endTime": 236
+        }
+      ],
+      "variantCount": 2,
+      "tooltip": {
+        "description": "The Iron Giant (1999) - Quality Score: 50/100",
+        "genre": "Classic Film",
+        "crawlerScore": 50,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 10,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:39:44.166Z"
+      },
+      "movie": "The Iron Giant"
+    },
+    {
+      "id": "gibboanx-test-34-2",
+      "label": "Princess Mononoke",
+      "date": 1997,
+      "year": 1997,
+      "youtube": "https://www.youtube.com/watch?v=NElxpUu-2sQ&t=0s&end=29s",
+      "duration": 29,
+      "variants": [
+        {
+          "id": "NElxpUu-2sQ-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=NElxpUu-2sQ&t=0s&end=29s",
+          "sceneDescription": "Princess Mononoke - Full Scene (0:00 - 0:29)",
+          "startTime": 0,
+          "endTime": 29
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Princess Mononoke (1997) - Quality Score: 35/100",
+        "genre": "Classic Film",
+        "crawlerScore": 35,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 0,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:39:44.166Z"
+      },
+      "movie": "Princess Mononoke"
+    },
+    {
+      "id": "gibboanx-test-34-3",
+      "label": "Mission: Impossible - Rogue Nation",
+      "date": 2015,
+      "year": 2015,
+      "youtube": "https://www.youtube.com/watch?v=99qxaEF2XDQ&t=0s&end=120s",
+      "duration": 269,
+      "variants": [
+        {
+          "id": "99qxaEF2XDQ-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=99qxaEF2XDQ&t=0s&end=120s",
+          "sceneDescription": "Mission: Impossible - Rogue Nation - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "99qxaEF2XDQ-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=99qxaEF2XDQ&t=120s&end=269s",
+          "sceneDescription": "Mission: Impossible - Rogue Nation - Part 2 (2:00 - 4:29)",
+          "startTime": 120,
+          "endTime": 269
+        }
+      ],
+      "variantCount": 2,
+      "tooltip": {
+        "description": "Mission: Impossible - Rogue Nation (2015) - Quality Score: 50/100",
+        "genre": "Classic Film",
+        "crawlerScore": 50,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 10,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:39:44.166Z"
+      },
+      "movie": "Mission: Impossible - Rogue Nation"
+    },
+    {
+      "id": "gibboanx-test-34-4",
+      "label": "Spring",
+      "date": 2014,
+      "year": 2014,
+      "youtube": "https://www.youtube.com/watch?v=YjKIRKGARHI&t=0s&end=103s",
+      "duration": 103,
+      "variants": [
+        {
+          "id": "YjKIRKGARHI-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=YjKIRKGARHI&t=0s&end=103s",
+          "sceneDescription": "Spring - Full Scene (0:00 - 1:43)",
+          "startTime": 0,
+          "endTime": 103
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Spring (2014) - Quality Score: 42/100",
+        "genre": "Classic Film",
+        "crawlerScore": 42,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 2,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:39:44.166Z"
+      },
+      "movie": "Spring"
+    },
+    {
+      "id": "gibboanx-test-34-5",
+      "label": "Sicario",
+      "date": 2015,
+      "year": 2015,
+      "youtube": "https://www.youtube.com/watch?v=Cs5UwKqzzV8&t=0s&end=120s",
+      "duration": 271,
+      "variants": [
+        {
+          "id": "Cs5UwKqzzV8-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=Cs5UwKqzzV8&t=0s&end=120s",
+          "sceneDescription": "Sicario - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "Cs5UwKqzzV8-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=Cs5UwKqzzV8&t=120s&end=271s",
+          "sceneDescription": "Sicario - Part 2 (2:00 - 4:31)",
+          "startTime": 120,
+          "endTime": 271
+        }
+      ],
+      "variantCount": 2,
+      "tooltip": {
+        "description": "Sicario (2015) - Quality Score: 50/100",
+        "genre": "Classic Film",
+        "crawlerScore": 50,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 10,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:39:44.166Z"
+      },
+      "movie": "Sicario"
+    },
+    {
+      "id": "gibboanx-test-34-6",
+      "label": "Awakenings",
+      "date": 1990,
+      "year": 1990,
+      "youtube": "https://www.youtube.com/watch?v=4UBtEPQKyRE&t=0s&end=54s",
+      "duration": 54,
+      "variants": [
+        {
+          "id": "4UBtEPQKyRE-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=4UBtEPQKyRE&t=0s&end=54s",
+          "sceneDescription": "Awakenings - Full Scene (0:00 - 0:54)",
+          "startTime": 0,
+          "endTime": 54
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Awakenings (1990) - Quality Score: 40/100",
+        "genre": "Classic Film",
+        "crawlerScore": 40,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 0,
+          "resolutionQuality": 0,
+          "popularityFactor": 10,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:39:44.166Z"
+      },
+      "movie": "Awakenings"
+    },
+    {
+      "id": "gibboanx-test-34-7",
+      "label": "Young Adult",
+      "date": 2011,
+      "year": 2011,
+      "youtube": "https://www.youtube.com/watch?v=r87ilBEztc0&t=0s&end=31s",
+      "duration": 31,
+      "variants": [
+        {
+          "id": "r87ilBEztc0-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=r87ilBEztc0&t=0s&end=31s",
+          "sceneDescription": "Young Adult - Full Scene (0:00 - 0:31)",
+          "startTime": 0,
+          "endTime": 31
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Young Adult (2011) - Quality Score: 42/100",
+        "genre": "Classic Film",
+        "crawlerScore": 42,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 2,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:39:44.166Z"
+      },
+      "movie": "Young Adult"
+    },
+    {
+      "id": "gibboanx-test-34-8",
+      "label": "Spartacus",
+      "date": 1960,
+      "year": 1960,
+      "youtube": "https://www.youtube.com/watch?v=JdR3pryHVaM&t=0s&end=48s",
+      "duration": 48,
+      "variants": [
+        {
+          "id": "JdR3pryHVaM-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=JdR3pryHVaM&t=0s&end=48s",
+          "sceneDescription": "Spartacus - Full Scene (0:00 - 0:48)",
+          "startTime": 0,
+          "endTime": 48
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Spartacus (1960) - Quality Score: 40/100",
+        "genre": "Classic Film",
+        "crawlerScore": 40,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 0,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:39:44.166Z"
+      },
+      "movie": "Spartacus"
+    },
+    {
+      "id": "gibboanx-test-34-9",
+      "label": "Ronin",
+      "date": 1998,
+      "year": 1998,
+      "youtube": "https://www.youtube.com/watch?v=qIuxlX4tvMs&t=0s&end=120s",
+      "duration": 302,
+      "variants": [
+        {
+          "id": "qIuxlX4tvMs-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=qIuxlX4tvMs&t=0s&end=120s",
+          "sceneDescription": "Ronin - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "qIuxlX4tvMs-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=qIuxlX4tvMs&t=120s&end=240s",
+          "sceneDescription": "Ronin - Part 2 (2:00 - 4:00)",
+          "startTime": 120,
+          "endTime": 240
+        },
+        {
+          "id": "qIuxlX4tvMs-variant-2",
+          "youtube": "https://www.youtube.com/watch?v=qIuxlX4tvMs&t=240s&end=302s",
+          "sceneDescription": "Ronin - Part 3 (4:00 - 5:02)",
+          "startTime": 240,
+          "endTime": 302
+        }
+      ],
+      "variantCount": 3,
+      "tooltip": {
+        "description": "Ronin (1998) - Quality Score: 52/100",
+        "genre": "Classic Film",
+        "crawlerScore": 52,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 10,
+          "popularityFactor": 2,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:39:44.166Z"
+      },
+      "movie": "Ronin"
+    },
+    {
+      "id": "gibboanx-test-34-10",
+      "label": "Touch of Evil",
+      "date": 1958,
+      "year": 1958,
+      "youtube": "https://www.youtube.com/watch?v=s9_rQdiRa9s&t=0s&end=120s",
+      "duration": 217,
+      "variants": [
+        {
+          "id": "s9_rQdiRa9s-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=s9_rQdiRa9s&t=0s&end=120s",
+          "sceneDescription": "Touch of Evil - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "s9_rQdiRa9s-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=s9_rQdiRa9s&t=120s&end=217s",
+          "sceneDescription": "Touch of Evil - Part 2 (2:00 - 3:37)",
+          "startTime": 120,
+          "endTime": 217
+        }
+      ],
+      "variantCount": 2,
+      "tooltip": {
+        "description": "Touch of Evil (1958) - Quality Score: 40/100",
+        "genre": "Classic Film",
+        "crawlerScore": 40,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 0,
+          "resolutionQuality": 10,
+          "popularityFactor": 0,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:39:44.166Z"
+      },
+      "movie": "Touch of Evil"
+    }
+  ]
+}

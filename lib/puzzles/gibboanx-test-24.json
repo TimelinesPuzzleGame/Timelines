@@ -1,0 +1,376 @@
+{
+  "slug": "gibboanx-test-24",
+  "topic": "Gibboanx Test Puzzle 24",
+  "category": "Entertainment",
+  "subcategory": "Movies/TV",
+  "hideDates": false,
+  "showTooltips": true,
+  "variantSystem": {
+    "enabled": true,
+    "totalScenes": 10,
+    "selectionStrategy": "random_per_round"
+  },
+  "cards": [
+    {
+      "id": "gibboanx-test-24-1",
+      "label": "Angels with Dirty Faces",
+      "date": 1938,
+      "year": 1938,
+      "youtube": "https://www.youtube.com/watch?v=sv-zyvz5rMQ&t=0s&end=81s",
+      "duration": 81,
+      "variants": [
+        {
+          "id": "sv-zyvz5rMQ-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=sv-zyvz5rMQ&t=0s&end=81s",
+          "sceneDescription": "Angels with Dirty Faces - Full Scene (0:00 - 1:21)",
+          "startTime": 0,
+          "endTime": 81
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Angels with Dirty Faces (1938) - Quality Score: 40/100",
+        "genre": "Classic Film",
+        "crawlerScore": 40,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 0,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:29:05.378Z"
+      },
+      "movie": "Angels with Dirty Faces"
+    },
+    {
+      "id": "gibboanx-test-24-2",
+      "label": "Rachel Getting Married",
+      "date": 2008,
+      "year": 2008,
+      "youtube": "https://www.youtube.com/watch?v=l7p9x4l5Nx4&t=0s&end=120s",
+      "duration": 274,
+      "variants": [
+        {
+          "id": "l7p9x4l5Nx4-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=l7p9x4l5Nx4&t=0s&end=120s",
+          "sceneDescription": "Rachel Getting Married - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "l7p9x4l5Nx4-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=l7p9x4l5Nx4&t=120s&end=274s",
+          "sceneDescription": "Rachel Getting Married - Part 2 (2:00 - 4:34)",
+          "startTime": 120,
+          "endTime": 274
+        }
+      ],
+      "variantCount": 2,
+      "tooltip": {
+        "description": "Rachel Getting Married (2008) - Quality Score: 42/100",
+        "genre": "Classic Film",
+        "crawlerScore": 42,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 2,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:29:05.378Z"
+      },
+      "movie": "Rachel Getting Married"
+    },
+    {
+      "id": "gibboanx-test-24-3",
+      "label": "Planet Terror",
+      "date": 2007,
+      "year": 2007,
+      "youtube": "https://www.youtube.com/watch?v=FGrbQGHXEQc&t=0s&end=126s",
+      "duration": 126,
+      "variants": [
+        {
+          "id": "FGrbQGHXEQc-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=FGrbQGHXEQc&t=0s&end=126s",
+          "sceneDescription": "Planet Terror - Part 1 (0:00 - 2:06)",
+          "startTime": 0,
+          "endTime": 126
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Planet Terror (2007) - Quality Score: 40/100",
+        "genre": "Classic Film",
+        "crawlerScore": 40,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 0,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:29:05.378Z"
+      },
+      "movie": "Planet Terror"
+    },
+    {
+      "id": "gibboanx-test-24-4",
+      "label": "Private Parts",
+      "date": 1997,
+      "year": 1997,
+      "youtube": "https://www.youtube.com/watch?v=9G6xu-J_Dmc&t=0s&end=38s",
+      "duration": 38,
+      "variants": [
+        {
+          "id": "9G6xu-J_Dmc-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=9G6xu-J_Dmc&t=0s&end=38s",
+          "sceneDescription": "Private Parts - Full Scene (0:00 - 0:38)",
+          "startTime": 0,
+          "endTime": 38
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Private Parts (1997) - Quality Score: 45/100",
+        "genre": "Classic Film",
+        "crawlerScore": 45,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:29:05.378Z"
+      },
+      "movie": "Private Parts"
+    },
+    {
+      "id": "gibboanx-test-24-5",
+      "label": "Spring Breakers",
+      "date": 2012,
+      "year": 2012,
+      "youtube": "https://www.youtube.com/watch?v=fuY62NVMF3Q&t=0s&end=29s",
+      "duration": 29,
+      "variants": [
+        {
+          "id": "fuY62NVMF3Q-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=fuY62NVMF3Q&t=0s&end=29s",
+          "sceneDescription": "Spring Breakers - Full Scene (0:00 - 0:29)",
+          "startTime": 0,
+          "endTime": 29
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Spring Breakers (2012) - Quality Score: 45/100",
+        "genre": "Classic Film",
+        "crawlerScore": 45,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:29:05.378Z"
+      },
+      "movie": "Spring Breakers"
+    },
+    {
+      "id": "gibboanx-test-24-6",
+      "label": "Wag the Dog",
+      "date": 1997,
+      "year": 1997,
+      "youtube": "https://www.youtube.com/watch?v=bjerGldHsD8&t=0s&end=120s",
+      "duration": 244,
+      "variants": [
+        {
+          "id": "bjerGldHsD8-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=bjerGldHsD8&t=0s&end=120s",
+          "sceneDescription": "Wag the Dog - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "bjerGldHsD8-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=bjerGldHsD8&t=120s&end=244s",
+          "sceneDescription": "Wag the Dog - Part 2 (2:00 - 4:04)",
+          "startTime": 120,
+          "endTime": 244
+        }
+      ],
+      "variantCount": 2,
+      "tooltip": {
+        "description": "Wag the Dog (1997) - Quality Score: 42/100",
+        "genre": "Classic Film",
+        "crawlerScore": 42,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 2,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:29:05.378Z"
+      },
+      "movie": "Wag the Dog"
+    },
+    {
+      "id": "gibboanx-test-24-7",
+      "label": "Margin Call",
+      "date": 2011,
+      "year": 2011,
+      "youtube": "https://www.youtube.com/watch?v=87Ohstf_URU&t=0s&end=124s",
+      "duration": 124,
+      "variants": [
+        {
+          "id": "87Ohstf_URU-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=87Ohstf_URU&t=0s&end=124s",
+          "sceneDescription": "Margin Call - Part 1 (0:00 - 2:04)",
+          "startTime": 0,
+          "endTime": 124
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Margin Call (2011) - Quality Score: 35/100",
+        "genre": "Classic Film",
+        "crawlerScore": 35,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 0,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:29:05.378Z"
+      },
+      "movie": "Margin Call"
+    },
+    {
+      "id": "gibboanx-test-24-8",
+      "label": "Paris",
+      "date": null,
+      "year": null,
+      "youtube": "https://www.youtube.com/watch?v=bcG_eFXJlgo&t=0s&end=135s",
+      "duration": 135,
+      "variants": [
+        {
+          "id": "bcG_eFXJlgo-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=bcG_eFXJlgo&t=0s&end=135s",
+          "sceneDescription": "Paris - Part 1 (0:00 - 2:15)",
+          "startTime": 0,
+          "endTime": 135
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Paris (NaN) - Quality Score: 45/100",
+        "genre": "Classic Film",
+        "crawlerScore": 45,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:29:05.378Z"
+      },
+      "movie": "Paris"
+    },
+    {
+      "id": "gibboanx-test-24-9",
+      "label": "Prisoners",
+      "date": 2013,
+      "year": 2013,
+      "youtube": "https://www.youtube.com/watch?v=QwEl0-qYGEg&t=0s&end=120s",
+      "duration": 249,
+      "variants": [
+        {
+          "id": "QwEl0-qYGEg-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=QwEl0-qYGEg&t=0s&end=120s",
+          "sceneDescription": "Prisoners - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "QwEl0-qYGEg-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=QwEl0-qYGEg&t=120s&end=249s",
+          "sceneDescription": "Prisoners - Part 2 (2:00 - 4:09)",
+          "startTime": 120,
+          "endTime": 249
+        }
+      ],
+      "variantCount": 2,
+      "tooltip": {
+        "description": "Prisoners (2013) - Quality Score: 40/100",
+        "genre": "Classic Film",
+        "crawlerScore": 40,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 0,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:29:05.378Z"
+      },
+      "movie": "Prisoners"
+    },
+    {
+      "id": "gibboanx-test-24-10",
+      "label": "Bone Tomahawk",
+      "date": 2015,
+      "year": 2015,
+      "youtube": "https://www.youtube.com/watch?v=dMoYdvuiGNU&t=0s&end=27s",
+      "duration": 27,
+      "variants": [
+        {
+          "id": "dMoYdvuiGNU-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=dMoYdvuiGNU&t=0s&end=27s",
+          "sceneDescription": "Bone Tomahawk - Full Scene (0:00 - 0:27)",
+          "startTime": 0,
+          "endTime": 27
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Bone Tomahawk (2015) - Quality Score: 35/100",
+        "genre": "Classic Film",
+        "crawlerScore": 35,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 0,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:29:05.378Z"
+      },
+      "movie": "Bone Tomahawk"
+    }
+  ]
+}

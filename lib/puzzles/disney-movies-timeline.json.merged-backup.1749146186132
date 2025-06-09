@@ -1,0 +1,379 @@
+{
+  "slug": "disney-movies-timeline",
+  "topic": "Disney Movies Timeline",
+  "category": "Entertainment",
+  "subcategory": "Movies/TV",
+  "showTooltips": true,
+  "cards": [
+    {
+      "id": "HI0x0KYChq4",
+      "label": "Snow White and the Seven Dwarfs (1937) - Heigh-Ho",
+      "date": 1937,
+      "youtube": "https://www.youtube.com/watch?v=HI0x0KYChq4",
+      "tooltip": {
+        "description": "The first full-length animated feature film"
+      },
+      "year": 1937
+    },
+    {
+      "id": "FcOt6mfjxeA",
+      "label": "Pinocchio (1940) - When You Wish Upon a Star",
+      "date": 1940,
+      "youtube": "https://www.youtube.com/watch?v=FcOt6mfjxeA",
+      "tooltip": {
+        "description": "The classic song that became Disney's anthem"
+      },
+      "year": 1940
+    },
+    {
+      "id": "D4WO0mirjlQ",
+      "label": "Fantasia (1940) - The Sorcerer's Apprentice",
+      "date": 1940,
+      "youtube": "https://www.youtube.com/watch?v=D4WO0mirjlQ",
+      "tooltip": {
+        "description": "Mickey Mouse's iconic magical mishap"
+      },
+      "year": 1940
+    },
+    {
+      "id": "Tw_kLi8rK_c",
+      "label": "Dumbo (1941) - Baby Mine",
+      "date": 1941,
+      "youtube": "https://www.youtube.com/watch?v=Tw_kLi8rK_c",
+      "tooltip": {
+        "description": "The touching lullaby scene"
+      },
+      "year": 1941
+    },
+    {
+      "id": "DX-pMPXLIvE",
+      "label": "Bambi (1942) - April Shower",
+      "date": 1942,
+      "youtube": "https://www.youtube.com/watch?v=DX-pMPXLIvE",
+      "tooltip": {
+        "description": "The forest comes alive in the rain"
+      },
+      "year": 1942
+    },
+    {
+      "id": "0hgHY9k-44U",
+      "label": "Cinderella (1950) - A Dream Is a Wish Your Heart Makes",
+      "date": 1950,
+      "youtube": "https://www.youtube.com/watch?v=0hgHY9k-44U",
+      "tooltip": {
+        "description": "Cinderella's hopeful morning song"
+      },
+      "year": 1950
+    },
+    {
+      "id": "rvr58DYwHOg",
+      "label": "Alice in Wonderland (1951) - The Unbirthday Song",
+      "date": 1951,
+      "youtube": "https://www.youtube.com/watch?v=rvr58DYwHOg",
+      "tooltip": {
+        "description": "The Mad Hatter's tea party"
+      },
+      "year": 1951
+    },
+    {
+      "id": "6xZif3WmG7I",
+      "label": "Peter Pan (1953) - You Can Fly",
+      "date": 1953,
+      "youtube": "https://www.youtube.com/watch?v=6xZif3WmG7I",
+      "tooltip": {
+        "description": "Flying to Neverland"
+      },
+      "year": 1953
+    },
+    {
+      "id": "Q-vjsQqR2uE",
+      "label": "Lady and the Tramp (1955) - Bella Notte",
+      "date": 1955,
+      "youtube": "https://www.youtube.com/watch?v=Q-vjsQqR2uE",
+      "tooltip": {
+        "description": "The romantic spaghetti dinner"
+      },
+      "year": 1955
+    },
+    {
+      "id": "GC_mV1IpjWA",
+      "label": "Sleeping Beauty (1959) - Once Upon a Dream",
+      "date": 1959,
+      "youtube": "https://www.youtube.com/watch?v=GC_mV1IpjWA",
+      "tooltip": {
+        "description": "Aurora meets Prince Phillip"
+      },
+      "year": 1959
+    },
+    {
+      "id": "Xpsm4nU4he0",
+      "label": "101 Dalmatians (1961) - Cruella De Vil",
+      "date": 1961,
+      "youtube": "https://www.youtube.com/watch?v=Xpsm4nU4he0",
+      "tooltip": {
+        "description": "The villain's theme song"
+      },
+      "year": 1961
+    },
+    {
+      "id": "2cv2ueYnKjg",
+      "label": "The Sword in the Stone (1963) - Higitus Figitus",
+      "date": 1963,
+      "youtube": "https://www.youtube.com/watch?v=2cv2ueYnKjg",
+      "tooltip": {
+        "description": "Merlin's packing spell"
+      },
+      "year": 1963
+    },
+    {
+      "id": "zWDPOHkzw-8",
+      "label": "The Jungle Book (1967) - The Bare Necessities",
+      "date": 1967,
+      "youtube": "https://www.youtube.com/watch?v=zWDPOHkzw-8",
+      "tooltip": {
+        "description": "Baloo's life philosophy"
+      },
+      "year": 1967
+    },
+    {
+      "id": "a-xWhG4g2qs",
+      "label": "The Aristocats (1970) - Everybody Wants to Be a Cat",
+      "date": 1970,
+      "youtube": "https://www.youtube.com/watch?v=a-xWhG4g2qs",
+      "tooltip": {
+        "description": "The jazzy cat jam session"
+      },
+      "year": 1970
+    },
+    {
+      "id": "4MRi-5oTKLI",
+      "label": "Robin Hood (1973) - Oo-De-Lally",
+      "date": 1973,
+      "youtube": "https://www.youtube.com/watch?v=4MRi-5oTKLI",
+      "tooltip": {
+        "description": "The merry adventure begins"
+      },
+      "year": 1973
+    },
+    {
+      "id": "gdvr7h4FM5Y",
+      "label": "The Many Adventures of Winnie the Pooh (1977)",
+      "date": 1977,
+      "youtube": "https://www.youtube.com/watch?v=gdvr7h4FM5Y",
+      "tooltip": {
+        "description": "Pooh's honey tree adventure"
+      },
+      "year": 1977
+    },
+    {
+      "id": "CaimKeDcudo",
+      "label": "The Fox and the Hound (1981) - Best of Friends",
+      "date": 1981,
+      "youtube": "https://www.youtube.com/watch?v=CaimKeDcudo",
+      "tooltip": {
+        "description": "Tod and Copper's friendship"
+      },
+      "year": 1981
+    },
+    {
+      "id": "tRlzmyveDHE",
+      "label": "The Great Mouse Detective (1986) - The World's Greatest Criminal Mind",
+      "date": 1986,
+      "youtube": "https://www.youtube.com/watch?v=tRlzmyveDHE",
+      "tooltip": {
+        "description": "Ratigan's villain song"
+      },
+      "year": 1986
+    },
+    {
+      "id": "79HijYKYsK8",
+      "label": "Oliver & Company (1988) - Why Should I Worry",
+      "date": 1988,
+      "youtube": "https://www.youtube.com/watch?v=79HijYKYsK8",
+      "tooltip": {
+        "description": "Dodger's New York strut"
+      },
+      "year": 1988
+    },
+    {
+      "id": "siOOZUIyveI",
+      "label": "The Little Mermaid (1989) - Under the Sea",
+      "date": 1989,
+      "youtube": "https://www.youtube.com/watch?v=siOOZUIyveI",
+      "tooltip": {
+        "description": "Sebastian's Caribbean celebration"
+      },
+      "year": 1989
+    },
+    {
+      "id": "nLXlm8F5-qc",
+      "label": "Beauty and the Beast (1991) - Be Our Guest",
+      "date": 1991,
+      "youtube": "https://www.youtube.com/watch?v=nLXlm8F5-qc",
+      "tooltip": {
+        "description": "The enchanted dinner show"
+      },
+      "year": 1991
+    },
+    {
+      "id": "7lH_rkZTshE",
+      "label": "Aladdin (1992) - A Whole New World",
+      "date": 1992,
+      "youtube": "https://www.youtube.com/watch?v=7lH_rkZTshE",
+      "tooltip": {
+        "description": "The magic carpet ride"
+      },
+      "year": 1992
+    },
+    {
+      "id": "HvvZ1TEQRB8",
+      "label": "The Lion King (1994) - Circle of Life",
+      "date": 1994,
+      "youtube": "https://www.youtube.com/watch?v=HvvZ1TEQRB8",
+      "tooltip": {
+        "description": "Simba's presentation"
+      },
+      "year": 1994
+    },
+    {
+      "id": "aBTpVqogPAQ",
+      "label": "Pocahontas (1995) - Colors of the Wind",
+      "date": 1995,
+      "youtube": "https://www.youtube.com/watch?v=aBTpVqogPAQ",
+      "tooltip": {
+        "description": "Pocahontas teaches about nature"
+      },
+      "year": 1995
+    },
+    {
+      "id": "jqLY96_zezc",
+      "label": "The Hunchback of Notre Dame (1996) - Hellfire",
+      "date": 1996,
+      "youtube": "https://www.youtube.com/watch?v=jqLY96_zezc",
+      "tooltip": {
+        "description": "Frollo's dark villain song"
+      },
+      "year": 1996
+    },
+    {
+      "id": "DFJ0-NQzK_k",
+      "label": "Hercules (1997) - Zero to Hero",
+      "date": 1997,
+      "youtube": "https://www.youtube.com/watch?v=DFJ0-NQzK_k",
+      "tooltip": {
+        "description": "Hercules' rise to fame"
+      },
+      "year": 1997
+    },
+    {
+      "id": "s8n2jcrQY5o",
+      "label": "Mulan (1998) - I'll Make a Man Out of You",
+      "date": 1998,
+      "youtube": "https://www.youtube.com/watch?v=s8n2jcrQY5o",
+      "tooltip": {
+        "description": "Training montage"
+      },
+      "year": 1998
+    },
+    {
+      "id": "FeIVQNSYk4k",
+      "label": "Tarzan (1999) - You'll Be in My Heart",
+      "date": 1999,
+      "youtube": "https://www.youtube.com/watch?v=FeIVQNSYk4k",
+      "tooltip": {
+        "description": "Kala's lullaby to baby Tarzan"
+      },
+      "year": 1999
+    },
+    {
+      "id": "HNMq8XS4LhE",
+      "label": "The Emperor's New Groove (2000) - Perfect World",
+      "date": 2000,
+      "youtube": "https://www.youtube.com/watch?v=HNMq8XS4LhE",
+      "tooltip": {
+        "description": "Kuzco's theme song"
+      },
+      "year": 2000
+    },
+    {
+      "id": "BGJEJ0Xsa_E",
+      "label": "Lilo & Stitch (2002) - Hawaiian Roller Coaster Ride",
+      "date": 2002,
+      "youtube": "https://www.youtube.com/watch?v=BGJEJ0Xsa_E",
+      "tooltip": {
+        "description": "Surfing with Stitch"
+      },
+      "year": 2002
+    },
+    {
+      "id": "rKTN5NHjwkI",
+      "label": "The Princess and the Frog (2009) - Almost There",
+      "date": 2009,
+      "youtube": "https://www.youtube.com/watch?v=rKTN5NHjwkI",
+      "tooltip": {
+        "description": "Tiana's dream of her restaurant"
+      },
+      "year": 2009
+    },
+    {
+      "id": "x8md795D5LU",
+      "label": "Tangled (2010) - I See the Light",
+      "date": 2010,
+      "youtube": "https://www.youtube.com/watch?v=x8md795D5LU",
+      "tooltip": {
+        "description": "The lantern scene"
+      },
+      "year": 2010
+    },
+    {
+      "id": "gm3-m_TZfj0",
+      "label": "Brave (2012) - Touch the Sky",
+      "date": 2012,
+      "youtube": "https://www.youtube.com/watch?v=gm3-m_TZfj0",
+      "tooltip": {
+        "description": "Merida's freedom ride"
+      },
+      "year": 2012
+    },
+    {
+      "id": "moSFlvxnbgk",
+      "label": "Frozen (2013) - Let It Go",
+      "date": 2013,
+      "youtube": "https://www.youtube.com/watch?v=moSFlvxnbgk",
+      "tooltip": {
+        "description": "Elsa embraces her powers"
+      },
+      "year": 2013
+    },
+    {
+      "id": "93lrosBEW-Q",
+      "label": "Moana (2016) - How Far I'll Go",
+      "date": 2016,
+      "youtube": "https://www.youtube.com/watch?v=93lrosBEW-Q",
+      "tooltip": {
+        "description": "Moana's call to the ocean"
+      },
+      "year": 2016
+    },
+    {
+      "id": "yJg99MORLOw",
+      "label": "Coco (2017) - Remember Me",
+      "date": 2017,
+      "youtube": "https://www.youtube.com/watch?v=yJg99MORLOw",
+      "tooltip": {
+        "description": "Miguel sings to Mama Coco"
+      },
+      "year": 2017
+    },
+    {
+      "id": "08NlhjpVFsU",
+      "label": "Encanto (2021) - We Don't Talk About Bruno",
+      "date": 2021,
+      "youtube": "https://www.youtube.com/watch?v=08NlhjpVFsU",
+      "tooltip": {
+        "description": "The family's forbidden song"
+      },
+      "year": 2021
+    }
+  ]
+}

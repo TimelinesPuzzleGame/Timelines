@@ -3,6 +3,7 @@
   "topic": "Place the Painting",
   "category": "Arts",
   "subcategory": "Paintings",
+  "showImageOnPlace": true,
   "hideDates": false,
   "cards":
        [

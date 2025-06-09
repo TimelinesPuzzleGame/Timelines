@@ -1,0 +1,299 @@
+{
+  "slug": "famous-mugshots",
+  "topic": "Famous Mugshots",
+  "category": "History",
+  "subcategory": "Crime & Justice",
+  "hideDates": false,
+  "showTooltips": true,
+  "showImageOnPlace": true,
+  "cards": [
+    {
+      "id": "vladimir-lenin-1895",
+      "label": "Vladimir Lenin",
+      "date": 1895,
+      "image": "/images/mugshots/vladimir-lenin-1895.jpg",
+      "tooltip": {
+        "description": "Revolutionary arrested for Marxist activities"
+      }
+    },
+    {
+      "id": "benito-mussolini-1903",
+      "label": "Benito Mussolini",
+      "date": 1903,
+      "image": "/images/mugshots/benito-mussolini-1903.jpg",
+      "tooltip": {
+        "description": "Future fascist dictator arrested in Switzerland"
+      }
+    },
+    {
+      "id": "joseph-stalin-1911",
+      "label": "Joseph Stalin",
+      "date": 1911,
+      "image": "/images/mugshots/joseph-stalin-1911.jpg",
+      "tooltip": {
+        "description": "Future Soviet leader arrested by Tsarist police"
+      }
+    },
+    {
+      "id": "bugsy-siegel-1928",
+      "label": "Bugsy Siegel",
+      "date": 1928,
+      "image": "/images/mugshots/bugsy-siegel-1928.jpg",
+      "tooltip": {
+        "description": "Infamous gangster arrested in New York"
+      }
+    },
+    {
+      "id": "al-capone-1930",
+      "label": "Al Capone",
+      "date": 1930,
+      "image": "/images/mugshots/al-capone-1930.jpg",
+      "tooltip": {
+        "description": "Notorious gangster arrested in Miami"
+      }
+    },
+    {
+      "id": "lucky-luciano-1931",
+      "label": "Lucky Luciano",
+      "date": 1931,
+      "image": "/images/mugshots/lucky-luciano-1931.jpg",
+      "tooltip": {
+        "description": "Notorious gangster arrested in New York"
+      }
+    },
+    {
+      "id": "john-dillinger-1934",
+      "label": "John Dillinger",
+      "date": 1934,
+      "image": "/images/mugshots/john-dillinger-1934.jpg",
+      "tooltip": {
+        "description": "Depression-era gangster"
+      }
+    },
+    {
+      "id": "frank-sinatra-1938",
+      "label": "Frank Sinatra",
+      "date": 1938,
+      "image": "/images/mugshots/frank-sinatra-1938.jpg",
+      "tooltip": {
+        "description": "Crooner arrested for adultery and seduction"
+      }
+    },
+    {
+      "id": "malcolm-x-1944",
+      "label": "Malcolm X",
+      "date": 1944,
+      "image": "/images/mugshots/malcolm-x-1944.jpg",
+      "tooltip": {
+        "description": "Future activist arrested for larceny at age 18"
+      }
+    },
+    {
+      "id": "rosa-parks-1956",
+      "label": "Rosa Parks",
+      "date": 1956,
+      "image": "/images/mugshots/rosa-parks-1956.jpg",
+      "tooltip": {
+        "description": "Civil rights icon arrested for bus boycott in Montgomery"
+      }
+    },
+    {
+      "id": "mlk-1956",
+      "label": "Martin Luther King Jr.",
+      "date": 1956,
+      "image": "/images/mugshots/mlk-1956.jpg",
+      "tooltip": {
+        "description": "Civil rights leader arrested during Montgomery bus boycott"
+      }
+    },
+    {
+      "id": "lee-harvey-oswald-1963",
+      "label": "Lee Harvey Oswald",
+      "date": 1963,
+      "image": "/images/mugshots/lee-harvey-oswald-1963.jpg",
+      "tooltip": {
+        "description": "Arrested for assassination of President Kennedy"
+      }
+    },
+    {
+      "id": "johnny-cash-1965",
+      "label": "Johnny Cash",
+      "date": 1965,
+      "image": "/images/mugshots/johnny-cash-1965.jpg",
+      "tooltip": {
+        "description": "Country legend arrested for drug possession in El Paso"
+      }
+    },
+    {
+      "id": "charles-manson-1969",
+      "label": "Charles Manson",
+      "date": 1969,
+      "image": "/images/mugshots/charles-manson-1969.jpg",
+      "tooltip": {
+        "description": "Cult leader arrested for Sharon Tate murders"
+      }
+    },
+    {
+      "id": "jimi-hendrix-1969",
+      "label": "Jimi Hendrix",
+      "date": 1969,
+      "image": "/images/mugshots/jimi-hendrix-1969.jpg",
+      "tooltip": {
+        "description": "Guitar legend arrested at Toronto airport"
+      }
+    },
+    {
+      "id": "jim-morrison-1970",
+      "label": "Jim Morrison",
+      "date": 1970,
+      "image": "/images/mugshots/jim-morrison-1970.jpg",
+      "tooltip": {
+        "description": "The Doors frontman arrested for indecent exposure in Miami"
+      }
+    },
+    {
+      "id": "jane-fonda-1970",
+      "label": "Jane Fonda",
+      "date": 1970,
+      "image": "/images/mugshots/jane-fonda-1970.jpg",
+      "tooltip": {
+        "description": "Actress arrested for alleged drug smuggling"
+      }
+    },
+    {
+      "id": "larry-king-1971",
+      "label": "Larry King",
+      "date": 1971,
+      "image": "/images/mugshots/larry-king-1971.jpg",
+      "tooltip": {
+        "description": "TV host arrested for grand larceny"
+      }
+    },
+    {
+      "id": "steve-mcqueen-1972",
+      "label": "Steve McQueen",
+      "date": 1972,
+      "image": "/images/mugshots/steve-mcqueen-1972.jpg",
+      "tooltip": {
+        "description": "Hollywood star arrested for drunk driving in Alaska"
+      }
+    },
+    {
+      "id": "mick-jagger-1972",
+      "label": "Mick Jagger",
+      "date": 1972,
+      "image": "/images/mugshots/mick-jagger-1972.jpg",
+      "tooltip": {
+        "description": "Rolling Stones frontman arrested for assault"
+      }
+    },
+    {
+      "id": "david-bowie-1976",
+      "label": "David Bowie",
+      "date": 1976,
+      "image": "/images/mugshots/david-bowie-1976.jpg",
+      "tooltip": {
+        "description": "Rock star arrested for marijuana possession in Rochester, NY"
+      }
+    },
+    {
+      "id": "pablo-escobar-1977",
+      "label": "Pablo Escobar",
+      "date": 1977,
+      "image": "/images/mugshots/pablo-escobar-1977.jpg",
+      "tooltip": {
+        "description": "Drug kingpin arrested in Medellín, Colombia"
+      }
+    },
+    {
+      "id": "bill-gates-1977",
+      "label": "Bill Gates",
+      "date": 1977,
+      "image": "/images/mugshots/bill-gates-1977.jpg",
+      "tooltip": {
+        "description": "Microsoft founder arrested for traffic violations"
+      }
+    },
+    {
+      "id": "david-berkowitz-1977",
+      "label": "David Berkowitz",
+      "date": 1977,
+      "image": "/images/mugshots/david-berkowitz-1977.jpg",
+      "tooltip": {
+        "description": "Son of Sam serial killer arrested in New York"
+      }
+    },
+    {
+      "id": "john-wayne-gacy-1978",
+      "label": "John Wayne Gacy",
+      "date": 1978,
+      "image": "/images/mugshots/john-wayne-gacy-1978.jpg",
+      "tooltip": {
+        "description": "Serial killer arrested for murder of 33 people"
+      }
+    },
+    {
+      "id": "sid-vicious-1978",
+      "label": "Sid Vicious",
+      "date": 1978,
+      "image": "/images/mugshots/sid-vicious-1978.jpg",
+      "tooltip": {
+        "description": "Sex Pistols bassist arrested for girlfriend's murder"
+      }
+    },
+    {
+      "id": "ted-bundy-1980",
+      "label": "Ted Bundy",
+      "date": 1980,
+      "image": "/images/mugshots/ted-bundy-1980.jpg",
+      "tooltip": {
+        "description": "Serial killer held in Florida"
+      }
+    },
+    {
+      "id": "kurt-cobain-1986",
+      "label": "Kurt Cobain",
+      "date": 1986,
+      "image": "/images/mugshots/kurt-cobain-1986.jpg",
+      "tooltip": {
+        "description": "Nirvana frontman arrested for trespassing while intoxicated"
+      }
+    },
+    {
+      "id": "john-gotti-1990",
+      "label": "John Gotti",
+      "date": 1990,
+      "image": "/images/mugshots/john-gotti-1990.jpg",
+      "tooltip": {
+        "description": "Mafia boss arrested on multiple charges"
+      }
+    },
+    {
+      "id": "jeffrey-dahmer-1991",
+      "label": "Jeffrey Dahmer",
+      "date": 1991,
+      "image": "/images/mugshots/jeffrey-dahmer-1991.jpg",
+      "tooltip": {
+        "description": "Serial killer arrested in Milwaukee"
+      }
+    },
+    {
+      "id": "oj-simpson-1994",
+      "label": "O.J. Simpson",
+      "date": 1994,
+      "image": "/images/mugshots/oj-simpson-1994.jpg",
+      "tooltip": {
+        "description": "NFL star arrested after infamous car chase"
+      }
+    },
+    {
+      "id": "tupac-1995",
+      "label": "Tupac Shakur",
+      "date": 1995,
+      "image": "/images/mugshots/tupac-1995.jpg",
+      "tooltip": {
+        "description": "Rapper in prison for sexual abuse conviction"
+      }
+    }
+  ]
+}

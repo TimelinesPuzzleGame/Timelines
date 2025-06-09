@@ -1,0 +1,523 @@
+{
+  "slug": "expanded-slang-history",
+  "topic": "Slang Words and Phrases (Expanded)",
+  "category": "History",
+  "showTooltips": true,
+  "cards": [
+    {
+      "label": "Gold-Dig",
+      "date": 1926,
+      "tooltip": { "description": "Describes someone who pursues relationships for money, first noted in the Roaring Twenties." }
+    },
+    {
+      "label": "It Girl",
+      "date": 1927,
+      "tooltip": { "description": "Coined to name Clara Bow as the era’s ultimate style and charm icon." }
+    },
+    {
+      "label": "Baloney",
+      "date": 1928,
+      "tooltip": { "description": "Popularized by The Saturday Evening Post, it meant calling something pure nonsense." }
+    },
+    {
+      "label": "It Boy",
+      "date": 1929,
+      "tooltip": { "description": "The male counterpart to “It Girl,” labeling a young man with instant sex appeal." }
+    },
+    {
+      "label": "Booksy",
+      "date": 1930,
+      "tooltip": { "description": "Derived from “bookish,” it labeled anyone known for loving books in the early ’30s." }
+    },
+    {
+      "label": "Snazzy",
+      "date": 1931,
+      "tooltip": { "description": "Captured the flash and flair of early-Hollywood style—something eye-catching and cool." }
+    },
+    {
+      "label": "Burp",
+      "date": 1932,
+      "tooltip": { "description": "A playful onomatopoeia that quickly became the casual term for belching." }
+    },
+    {
+      "label": "Beered Up",
+      "date": 1933,
+      "tooltip": { "description": "Celebrated the end of Prohibition—being seriously drunk was “beered up.”" }
+    },
+    {
+      "label": "Boffo",
+      "date": 1934,
+      "tooltip": { "description": "From vaudeville and early comedy, a “boffo” show was one that got roaring laughter." }
+    },
+    {
+      "label": "Gramps",
+      "date": 1935,
+      "tooltip": { "description": "A cheeky term for grandpa—or any older fellow who seemed out of touch." }
+    },
+    {
+      "label": "Bingo",
+      "date": 1936,
+      "tooltip": { "description": "Named after the popular game halls springing up when entertainment was king." }
+    },
+    {
+      "label": "Gunky",
+      "date": 1937,
+      "tooltip": { "description": "Slang for something slimy or gross—think of early special-effects movies." }
+    },
+    {
+      "label": "Fave",
+      "date": 1938,
+      "tooltip": { "description": "Short for “favorite,” it moved from Hollywood write-ups into everyday chatter." }
+    },
+    {
+      "label": "Bad-Mouthing",
+      "date": 1939,
+      "tooltip": { "description": "Originally described athletes trash-talking opponents before games." }
+    },
+    {
+      "label": "Baby Blues",
+      "date": 1940,
+      "tooltip": { "description": "Label for postpartum sadness, coined when parenting magazines took off." }
+    },
+    {
+      "label": "Dreamboat",
+      "date": 1941,
+      "tooltip": { "description": "Called out a handsome heartthrob—Cary Grant epitomized being a “dreamboat.”" }
+    },
+    {
+      "label": "Hyper",
+      "date": 1942,
+      "tooltip": { "description": "Short for “hyperactive,” used to describe overly energetic kids in wartime America." }
+    },
+    {
+      "label": "Duh",
+      "date": 1943,
+      "tooltip": { "description": "Surprisingly first used in a 1940s cartoon—our go-to for “Well, no kidding!”" }
+    },
+    {
+      "label": "Tag-Along",
+      "date": 1944,
+      "tooltip": { "description": "From military slang for a secondary bomb to meaning someone who crashes your plans." }
+    },
+    {
+      "label": "Doh!",
+      "date": 1945,
+      "tooltip": { "description": "Originally from a popular radio show—Homer Simpson’s catchphrase came decades later." }
+    },
+    {
+      "label": "Cheese (as in “Cheesed Off”)",
+      "date": 1946,
+      "tooltip": { "description": "To be “cheesed off” was to be seriously annoyed—right alongside slang like “square.”" }
+    },
+    {
+      "label": "Artsy",
+      "date": 1947,
+      "tooltip": { "description": "Meant someone pretentious or overly boho—think Edith Head’s wild costume creations." }
+    },
+    {
+      "label": "Fannie Mae",
+      "date": 1948,
+      "tooltip": { "description": "From government lingo for the Federal National Mortgage Association to student loan slang." }
+    },
+    {
+      "label": "Jet Set",
+      "date": 1949,
+      "tooltip": { "description": "To be in the “Jet Set” meant living the glamorous, globe-trotting life of postwar elites." }
+    },
+    {
+      "label": "Beautiful People",
+      "date": 1950,
+      "tooltip": { "description": "Hollywood coined this for its glamorous stars; soon everyone used it for “the in crowd.”" }
+    },
+    {
+      "label": "Nerd",
+      "date": 1951,
+      "tooltip": { "description": "First printed in Newsweek as a synonym for “square”—never a compliment." }
+    },
+    {
+      "label": "Divey (as in “Dive Bar”)",
+      "date": 1952,
+      "tooltip": { "description": "Described a grimy but loved watering hole—New Yorker articles popularized it." }
+    },
+    {
+      "label": "Hippie",
+      "date": 1953,
+      "tooltip": { "description": "Predated the ’60s: early beatniks used it to label bohemians chasing freedom." }
+    },
+    {
+      "label": "Boonies",
+      "date": 1954,
+      "tooltip": { "description": "“Boonies” meant remote countryside—often heard in WWII vets’ stories of home." }
+    },
+    {
+      "label": "Cool",
+      "date": 1955,
+      "tooltip": { "description": "Embraced by jazz legends and James Dean—cemented as THE compliment." }
+    },
+    {
+      "label": "Nit-Picker",
+      "date": 1956,
+      "tooltip": { "description": "Dubbed anyone obsessed with trivial details—usually the office micromanager." }
+    },
+    {
+      "label": "Endsville",
+      "date": 1957,
+      "tooltip": { "description": "Slang for something so great it’s like utopia—often used by jazz musicians." }
+    },
+    {
+      "label": "Nuke",
+      "date": 1958,
+      "tooltip": { "description": "Short for “nuclear bomb”—coined during the era of bomb tests and Cold War fears." }
+    },
+    {
+      "label": "Hot-Dog",
+      "date": 1959,
+      "tooltip": { "description": "Surf culture’s term for showing off—thrill-seekers were true “hot-dogs.”" }
+    },
+    {
+      "label": "Dullsville",
+      "date": 1960,
+      "tooltip": { "description": "The opposite of Endsville—anything boring was “Dullsville.”" }
+    },
+    {
+      "label": "Bratty",
+      "date": 1961,
+      "tooltip": { "description": "Baby boomers used it to call out annoying youngsters in early teen culture." }
+    },
+    {
+      "label": "Drop-Dead",
+      "date": 1962,
+      "tooltip": { "description": "From fashion circles: calling someone or something gorgeous enough to stop traffic." }
+    },
+    {
+      "label": "Mickey Mouse",
+      "date": 1963,
+      "tooltip": { "description": "Originally military slang for goofing off—soon everyone used it for lame tasks." }
+    },
+    {
+      "label": "Aw-Shucks",
+      "date": 1964,
+      "tooltip": { "description": "Tom Wolfe’s Gatsby obsessed America made this faux-humble phrase a staple." }
+    },
+    {
+      "label": "Grody",
+      "date": 1965,
+      "tooltip": { "description": "Meaning “gross,” it rode the wave of “groovy” culture before fading out." }
+    },
+    {
+      "label": "Kegger",
+      "date": 1966,
+      "tooltip": { "description": "College slang for a massive beer party—often in fraternities or backyards." }
+    },
+    {
+      "label": "Freak Flag",
+      "date": 1967,
+      "tooltip": { "description": "Jimi Hendrix declared “Let your freak flag fly,” embracing counterculture ideals." }
+    },
+    {
+      "label": "Bippy",
+      "date": 1968,
+      "tooltip": { "description": "Coined on Laugh-In to mean “rear end”—part of psychedelic-era lingo." }
+    },
+    {
+      "label": "Out of Sight",
+      "date": 1969,
+      "tooltip": { "description": "Used to call something unbelievably cool—jazz critics loved it first." }
+    },
+    {
+      "label": "Dorky",
+      "date": 1970,
+      "tooltip": { "description": "The ’70s kept “nerd” alive by labeling awkward folks as “dorky.”" }
+    },
+    {
+      "label": "Deadheads",
+      "date": 1971,
+      "tooltip": { "description": "Followers of the Grateful Dead embraced the name—still touring today." }
+    },
+    {
+      "label": "Guilt Trip",
+      "date": 1972,
+      "tooltip": { "description": "As therapy grew, “guilt trip” captured the push to psychoanalysis." }
+    },
+    {
+      "label": "Carbo",
+      "date": 1973,
+      "tooltip": { "description": "Named after carbs—surfaced alongside the early Atkins and diet-culture boom." }
+    },
+    {
+      "label": "Motorhead",
+      "date": 1974,
+      "tooltip": { "description": "Originally meant a bike fanatic—soon it was a legendary rock band’s name." }
+    },
+    {
+      "label": "Detox",
+      "date": 1975,
+      "tooltip": { "description": "From early health-food movements to rehab jargon—“detox” did double duty." }
+    },
+    {
+      "label": "Hardball",
+      "date": 1976,
+      "tooltip": { "description": "Business execs adopted “hardball” to describe no-mercy negotiations." }
+    },
+    {
+      "label": "Brewski",
+      "date": 1977,
+      "tooltip": { "description": "Slang for beer—every college bar in America said “Pass the brewski.”" }
+    },
+    {
+      "label": "Pig-out",
+      "date": 1978,
+      "tooltip": { "description": "College life coined “pig-out” for epic junk-food binge sessions." }
+    },
+    {
+      "label": "Nostalgia-Fest",
+      "date": 1979,
+      "tooltip": { "description": "As Baby Boomers aged, anything retro became a “Nostalgia-Fest.”" }
+    },
+    {
+      "label": "Frizzy",
+      "date": 1980,
+      "tooltip": { "description": "With perms in vogue, “frizzy” labeled hair that didn’t cooperate." }
+    },
+    {
+      "label": "Chill Pill",
+      "date": 1981,
+      "tooltip": { "description": "Told to relaxation-resistant teens: “Take a chill pill, dude.”" }
+    },
+    {
+      "label": "Buff",
+      "date": 1982,
+      "tooltip": { "description": "“Buff” described a ripped physique—Arnold Schwarzenegger made it famous." }
+    },
+    {
+      "label": "Beat Box",
+      "date": 1983,
+      "tooltip": { "description": "Started as a term for drum machines, then evolved into vocal percussion." }
+    },
+    {
+      "label": "Major",
+      "date": 1984,
+      "tooltip": { "description": "“Major” meant something huge or exciting—popularized by teen movies like Sixteen Candles." }
+    },
+    {
+      "label": "Radness",
+      "date": 1985,
+      "tooltip": { "description": "Summed up the cool-factor of ’80s skate and surf culture." }
+    },
+    {
+      "label": "Studmuffin",
+      "date": 1986,
+      "tooltip": { "description": "A cheeky term for a charmingly handsome guy onscreen—Denzel Washington vibes." }
+    },
+    {
+      "label": "Couch Surfing",
+      "date": 1987,
+      "tooltip": { "description": "Not the free stay-on-friends’-couches trend, but vegging out on the couch all day." }
+    },
+    {
+      "label": "F-Bomb",
+      "date": 1988,
+      "tooltip": { "description": "Emerging from Carlin’s notorious “7 dirty words,” dropping an F-Bomb shocked crowds." }
+    },
+    {
+      "label": "Trash Talk",
+      "date": 1989,
+      "tooltip": { "description": "NBA stars like Michael Jordan made “trash talk” a pre-game ritual." }
+    },
+    {
+      "label": "Kewl",
+      "date": 1990,
+      "tooltip": { "description": "A deliberately odd spelling of “cool,” championed by young skaters." }
+    },
+    {
+      "label": "Tighty Whiteys",
+      "date": 1991,
+      "tooltip": { "description": "“Tighty Whiteys” referred to the classic snug underwear, featured in Risky Business." }
+    },
+    {
+      "label": "NOT",
+      "date": 1992,
+      "tooltip": { "description": "Made infamous by Wayne’s World: add “NOT” at the end, and your statement flips." }
+    },
+    {
+      "label": "Da Bomb",
+      "date": 1993,
+      "tooltip": { "description": "Hip-hop tracks of the era used “Da Bomb” to praise something ridiculously awesome." }
+    },
+    {
+      "label": "Benjamins",
+      "date": 1994,
+      "tooltip": { "description": "Biggie’s lyrics propelled “Benjamins” to symbolize $100 bills and wealth." }
+    },
+    {
+      "label": "As If",
+      "date": 1995,
+      "tooltip": { "description": "Popularized by Clueless, “As If!” let teens dismiss anything lame." }
+    },
+    {
+      "label": "Whatever",
+      "date": 1996,
+      "tooltip": { "description": "Teens everywhere shrugged with “Whatever,” cementing ’90s teen apathy." }
+    },
+    {
+      "label": "Jiggy",
+      "date": 1997,
+      "tooltip": { "description": "Will Smith’s hit song turned “Jiggy” into a synonym for stylish swagger." }
+    },
+    {
+      "label": "Phat",
+      "date": 1998,
+      "tooltip": { "description": "An acronym for “Pretty Hot And Tempting,” used to praise anything fresh and trendy." }
+    },
+    {
+      "label": "Bling",
+      "date": 1999,
+      "tooltip": { "description": "Rap videos made “Bling” the ultimate badge of flashy success." }
+    },
+    {
+      "label": "Whassup?",
+      "date": 2000,
+      "tooltip": { "description": "The Budweiser ad campaign made “Whassup?” the year’s most contagious greeting." }
+    },
+    {
+      "label": "Bromance",
+      "date": 2001,
+      "tooltip": { "description": "Described a close, nonsexual friendship—coined before Being John Malkovich made it trendy." }
+    },
+    {
+      "label": "Hella",
+      "date": 2002,
+      "tooltip": { "description": "Bay Area kids used “hella” to mean “very”—soon West Coast slang went nationwide." }
+    },
+    {
+      "label": "Peeps",
+      "date": 2003,
+      "tooltip": { "description": "Naval term turned friend-group label—everyone’s “peeps” were their crew." }
+    },
+    {
+      "label": "Muffin Top",
+      "date": 2004,
+      "tooltip": { "description": "As low-rise jeans rose, showing that “muffin top” became a wardrobe hazard." }
+    },
+    {
+      "label": "Fo Shizzle/Fo Sheezy",
+      "date": 2005,
+      "tooltip": { "description": "Snoop Dogg’s playful “Fo Shizzle” meant “for sure” in hip-hop circles." }
+    },
+    {
+      "label": "Sick",
+      "date": 2006,
+      "tooltip": { "description": "“Sick!” praised something awesome—remains timeless in street-culture slang." }
+    },
+    {
+      "label": "GIF",
+      "date": 2007,
+      "tooltip": { "description": "From tech demos to Twitter feeds, “GIF” sparked debates: “Jif” or “Gif”?" }
+    },
+    {
+      "label": "Photobomb",
+      "date": 2008,
+      "tooltip": { "description": "Slipped into pop culture when people started leaping into digital photos uninvited." }
+    },
+    {
+      "label": "Salty",
+      "date": 2009,
+      "tooltip": { "description": "“Salty” described petty anger, especially over the smallest online slight." }
+    },
+    {
+      "label": "AF",
+      "date": 2010,
+      "tooltip": { "description": "Short for “as f*ck,” it gave maximum emphasis to any adjective with minimal effort." }
+    },
+    {
+      "label": "BAE",
+      "date": 2011,
+      "tooltip": { "description": "“Before Anyone Else” gave couples a Twitter-friendly way to say “my boo.”" }
+    },
+    {
+      "label": "Catfish",
+      "date": 2012,
+      "tooltip": { "description": "After the viral documentary, “catfish” meant an online romance built on lies." }
+    },
+    {
+      "label": "Binge-watch",
+      "date": 2013,
+      "tooltip": { "description": "When Netflix dropped full seasons, streaming marathons became “binge-watch.”" }
+    },
+    {
+      "label": "Shook",
+      "date": 2014,
+      "tooltip": { "description": "Memes made “shook” the go-to for being genuinely rattled or astonished." }
+    },
+    {
+      "label": "Ghost" ,
+      "date": 2015,
+      "tooltip": { "description": "Ghosting someone—vanishing without explanation—became a classic post-date move." }
+    },
+    {
+      "label": "Tea",
+      "date": 2016,
+      "tooltip": { "description": "Originally drag slang for juicy gossip—everyone now spills the “tea.”" }
+    },
+    {
+      "label": "Clapback",
+      "date": 2017,
+      "tooltip": { "description": "An epic, snappy rebuttal to trolls—Twitter wars made “clapback” famous." }
+    },
+    {
+      "label": "Woke",
+      "date": 2018,
+      "tooltip": { "description": "Described awareness of social injustices—became a political and cultural rallying cry." }
+    },
+    {
+      "label": "Stan",
+      "date": 2019,
+      "tooltip": { "description": "From an Eminem song to a dictionary entry—“stan” means superfan devotion." }
+    },
+    {
+      "label": "Extra",
+      "date": 2020,
+      "tooltip": { "description": "To be overly dramatic or over-the-top—social media stars perfected “extra.”" }
+    },
+    {
+      "label": "Cap or No Cap",
+      "date": 2021,
+      "tooltip": { "description": "“Cap” = lie; “No cap” = truth—became a staple on TikTok and Vine reboots." }
+    },
+    {
+      "label": "Opp",
+      "date": 2022,
+      "tooltip": { "description": "Came from hip-hop to name anyone standing in your way—rivalries snapped coded." }
+    },
+    {
+      "label": "Rizz",
+      "date": 2023,
+      "tooltip": { "description": "Oxford added “rizz” in ’23 to label someone’s smooth game or charm." }
+    },
+    {
+      "label": "Vibe Check",
+      "date": 2024,
+      "tooltip": { "description": "TikTok users started testing “vibe check”: making sure the energy is on point." }
+    },
+    {
+      "label": "Quiet Quitting",
+      "date": 2024,
+      "tooltip": { "description": "Workers quitting hustle culture without leaving jobs made “quiet quitting” trend." }
+    },
+    {
+      "label": "Goblin Mode",
+      "date": 2024,
+      "tooltip": { "description": "TikTok coined “goblin mode” for embracing lazy, unapologetically messy living." }
+    },
+    {
+      "label": "Meta Mood",
+      "date": 2025,
+      "tooltip": { "description": "Describes being overly self-referential online—born from social media introspection." }
+    },
+    {
+      "label": "Energy Shifts",
+      "date": 2025,
+      "tooltip": { "description": "Astrology influencers labeled big life changes as “energy shifts” sweeping your sign." }
+    }
+  ]
+}

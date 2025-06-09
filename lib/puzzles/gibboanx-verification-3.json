@@ -1,0 +1,206 @@
+{
+  "slug": "gibboanx-verification-3",
+  "topic": "Gibboanx Verification Puzzle #3",
+  "category": "Entertainment",
+  "subcategory": "Movies/TV",
+  "hideDates": false,
+  "showTooltips": true,
+  "description": "Verification puzzle with 10 quality videos - REQUIRES APPROVAL",
+  "variantSystem": {
+    "enabled": true,
+    "totalScenes": 10,
+    "selectionStrategy": "random_per_round"
+  },
+  "cards": [
+    {
+      "id": "gibboanx-verification-3-1",
+      "label": "The Evil Dead",
+      "year": 1981,
+      "date": 1981,
+      "youtube": "https://www.youtube.com/watch?v=_Bs9fYcOeY8",
+      "duration": 297,
+      "tooltip": {
+        "description": "The Evil Dead (1981) - Quality Score: 75/100",
+        "genre": "Classic Film",
+        "crawlerScore": 75,
+        "source": "verified-gibboanx-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-07T02:10:01.631Z",
+        "verificationRequired": true,
+        "rank": 65
+      },
+      "movie": "The Evil Dead"
+    },
+    {
+      "id": "gibboanx-verification-3-2",
+      "label": "The Thing",
+      "year": 1982,
+      "date": 1982,
+      "youtube": "https://www.youtube.com/watch?v=JjIXwkX1e48",
+      "duration": 181,
+      "tooltip": {
+        "description": "The Thing (1982) - Quality Score: 80/100",
+        "genre": "Classic Film",
+        "crawlerScore": 80,
+        "source": "verified-gibboanx-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-07T02:10:01.642Z",
+        "verificationRequired": true,
+        "rank": 67
+      },
+      "movie": "The Thing"
+    },
+    {
+      "id": "gibboanx-verification-3-3",
+      "label": "Blue Velvet",
+      "year": 1986,
+      "date": 1986,
+      "youtube": "https://www.youtube.com/watch?v=senNDipdmPo",
+      "duration": 162,
+      "tooltip": {
+        "description": "Blue Velvet (1986) - Quality Score: 80/100",
+        "genre": "Classic Film",
+        "crawlerScore": 80,
+        "source": "verified-gibboanx-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-07T02:10:01.642Z",
+        "verificationRequired": true,
+        "rank": 69
+      },
+      "movie": "Blue Velvet"
+    },
+    {
+      "id": "gibboanx-verification-3-4",
+      "label": "The Wicker Man",
+      "year": 1973,
+      "date": 1973,
+      "youtube": "https://www.youtube.com/watch?v=GRKaAiBy-Go",
+      "duration": 206,
+      "tooltip": {
+        "description": "The Wicker Man (1973) - Quality Score: 55/100",
+        "genre": "Classic Film",
+        "crawlerScore": 55,
+        "source": "verified-gibboanx-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-07T02:10:01.642Z",
+        "verificationRequired": true,
+        "rank": 70
+      },
+      "movie": "The Wicker Man"
+    },
+    {
+      "id": "gibboanx-verification-3-5",
+      "label": "The Princess Bride",
+      "year": 1987,
+      "date": 1987,
+      "youtube": "https://www.youtube.com/watch?v=U_7s9ruF8Ds",
+      "duration": 249,
+      "tooltip": {
+        "description": "The Princess Bride (1987) - Quality Score: 80/100",
+        "genre": "Classic Film",
+        "crawlerScore": 80,
+        "source": "verified-gibboanx-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-07T02:10:01.642Z",
+        "verificationRequired": true,
+        "rank": 72
+      },
+      "movie": "The Princess Bride"
+    },
+    {
+      "id": "gibboanx-verification-3-6",
+      "label": "A Clockwork Orange",
+      "year": 1971,
+      "date": 1971,
+      "youtube": "https://www.youtube.com/watch?v=G63UNtPt9p0",
+      "duration": 297,
+      "tooltip": {
+        "description": "A Clockwork Orange (1971) - Quality Score: 55/100",
+        "genre": "Classic Film",
+        "crawlerScore": 55,
+        "source": "verified-gibboanx-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-07T02:10:01.642Z",
+        "verificationRequired": true,
+        "rank": 73
+      },
+      "movie": "A Clockwork Orange"
+    },
+    {
+      "id": "gibboanx-verification-3-7",
+      "label": "Go",
+      "year": 1999,
+      "date": 1999,
+      "youtube": "https://www.youtube.com/watch?v=sPZUh1YRnDg",
+      "duration": 160,
+      "tooltip": {
+        "description": "Go (1999) - Quality Score: 80/100",
+        "genre": "Classic Film",
+        "crawlerScore": 80,
+        "source": "verified-gibboanx-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-07T02:10:01.642Z",
+        "verificationRequired": true,
+        "rank": 74
+      },
+      "movie": "Go"
+    },
+    {
+      "id": "gibboanx-verification-3-8",
+      "label": "The Lord of the Rings: The Return of the King",
+      "year": 2003,
+      "date": 2003,
+      "youtube": "https://www.youtube.com/watch?v=IV0jE2PLPpE",
+      "duration": 603,
+      "tooltip": {
+        "description": "The Lord of the Rings: The Return of the King (2003) - Quality Score: 60/100",
+        "genre": "Classic Film",
+        "crawlerScore": 60,
+        "source": "verified-gibboanx-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-07T02:10:01.642Z",
+        "verificationRequired": true,
+        "rank": 76
+      },
+      "movie": "The Lord of the Rings: The Return of the King"
+    },
+    {
+      "id": "gibboanx-verification-3-9",
+      "label": "Toy Story 2",
+      "year": 1999,
+      "date": 1999,
+      "youtube": "https://www.youtube.com/watch?v=EAJV3V0lrv8",
+      "duration": 738,
+      "tooltip": {
+        "description": "Toy Story 2 (1999) - Quality Score: 60/100",
+        "genre": "Classic Film",
+        "crawlerScore": 60,
+        "source": "verified-gibboanx-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-07T02:10:01.642Z",
+        "verificationRequired": true,
+        "rank": 78
+      },
+      "movie": "Toy Story 2"
+    },
+    {
+      "id": "gibboanx-verification-3-10",
+      "label": "Indiana Jones and the Last Crusade",
+      "year": 1989,
+      "date": 1989,
+      "youtube": "https://www.youtube.com/watch?v=XqGWI0WTj24",
+      "duration": 298,
+      "tooltip": {
+        "description": "Indiana Jones and the Last Crusade (1989) - Quality Score: 60/100",
+        "genre": "Classic Film",
+        "crawlerScore": 60,
+        "source": "verified-gibboanx-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-07T02:10:01.642Z",
+        "verificationRequired": true,
+        "rank": 80
+      },
+      "movie": "Indiana Jones and the Last Crusade"
+    }
+  ]
+}

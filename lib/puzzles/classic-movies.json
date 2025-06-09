@@ -1,0 +1,766 @@
+{
+  "slug": "classic-movies",
+  "topic": "Classic Movies",
+  "category": "Entertainment",
+  "subcategory": "Movies/TV",
+  "hideDates": false,
+  "showTooltips": true,
+  "cards": [
+    {
+      "id": "classic-movie-0",
+      "label": "Anatomy of a Murder",
+      "date": 1959,
+      "youtube": "https://www.youtube.com/watch?v=fT_R8jYp8vY",
+      "tooltip": {
+        "description": "The doctor who performed the autopsy of the murder victim is cross-examined.\n#AnatomyOfAMurder #JamesStewart #hdscenes #movieclips \n\nWatch Anatomy Of A Murder Now: http://AAN.SonyPictures.com/AnatomyO..."
+      }
+    },
+    {
+      "id": "classic-movie-1",
+      "label": "Anatomy Of a Murder",
+      "date": 1959,
+      "youtube": "https://www.youtube.com/watch?v=MpXgCigXAo8",
+      "tooltip": {
+        "description": "Paul (James Stewart) discusses the case with Laura (Lee Remick) while her jealous husband watches them.\n#AnatomyOfAMurder #JamesStewart #hdscenes #movieclips \n\nWatch the full movie! https://play.googl..."
+      }
+    },
+    {
+      "id": "classic-movie-2",
+      "label": "Anatomy Of a Murder",
+      "date": 1959,
+      "youtube": "https://www.youtube.com/watch?v=WADoqBLfkGE",
+      "tooltip": {
+        "description": "Paul (James Stewart) visits the accused, Frederick Manion (Ben Gazzara), to discuss his murder case.\n#AnatomyOfAMurder #JamesStewart #hdscenes #movieclips \n\nWatch Anatomy Of A Murder Now: http://AAN.S..."
+      }
+    },
+    {
+      "id": "classic-movie-3",
+      "label": "Taxi Driver",
+      "date": 1976,
+      "youtube": "https://www.youtube.com/watch?v=ZJ8AHMxogCE",
+      "tooltip": {
+        "description": "Travis (Robert De Niro) finds a Secret Service agent in the crowd and asks him questions. \n#TaxiDriver #RobertDeNiro #TravisBickle #MartinScorsese #hdscenes #movieclips \n\nWatch the full movie! https:/..."
+      }
+    },
+    {
+      "id": "classic-movie-4",
+      "label": "Taxi Driver",
+      "date": 1976,
+      "youtube": "https://www.youtube.com/watch?v=Ar3AGurbNmE",
+      "tooltip": {
+        "description": "Travis (Robert De Niro) prepares himself for the violence ahead. \n#TaxiDriver #RobertDeNiro #TravisBickle #MartinScorsese #hdscenes #movieclips \n\nWatch the full movie! https://play.google.com/store/mo..."
+      }
+    },
+    {
+      "id": "classic-movie-5",
+      "label": "Taxi Driver",
+      "date": 1976,
+      "youtube": "https://www.youtube.com/watch?v=A9Sy0bO2qvo",
+      "tooltip": {
+        "description": "Betsy (Cybill Shepherd) refuses to meet with Travis (Robert De Niro).\n#TaxiDriver #RobertDeNiro #TravisBickle #MartinScorsese #hdscenes #movieclips \n\nWatch the full movie! https://play.google.com/stor..."
+      }
+    },
+    {
+      "id": "classic-movie-6",
+      "label": "Taxi Driver",
+      "date": 1976,
+      "youtube": "https://www.youtube.com/watch?v=HdBe7tHddQs",
+      "tooltip": {
+        "description": "Travis (Robert De Niro) is left alone on the street when Betsy (Cybill Shepherd) leaves him after a terrible date.\n#TaxiDriver #RobertDeNiro #TravisBickle #MartinScorsese #hdscenes #movieclips \n\nWatch..."
+      }
+    },
+    {
+      "id": "classic-movie-7",
+      "label": "Taxi Driver",
+      "date": 1976,
+      "youtube": "https://www.youtube.com/watch?v=ubpXNWlr-sU",
+      "tooltip": {
+        "description": "Travis (Robert De Niro) finds Iris' (Jodie Foster) workplace and starts a shootout.\n#TaxiDriver #RobertDeNiro #TravisBickle #MartinScorsese #hdscenes #movieclips \n\nWatch Taxi Driver Now: http://AAN.So..."
+      }
+    },
+    {
+      "id": "classic-movie-8",
+      "label": "Taxi Driver",
+      "date": 1976,
+      "youtube": "https://www.youtube.com/watch?v=mDqCO1gUvmM",
+      "tooltip": {
+        "description": "Trying to get rid of his frustrations and get his life together, Travis (Robert De Niro) begins intense physical training.\n#TaxiDriver #RobertDeNiro #TravisBickle #MartinScorsese #hdscenes #movieclips..."
+      }
+    },
+    {
+      "id": "classic-movie-9",
+      "label": "Taxi Driver",
+      "date": 1976,
+      "youtube": "https://www.youtube.com/watch?v=uwBxrNF-l8A",
+      "tooltip": {
+        "description": "Armed with new guns, Travis (Robert De Niro) trains intensely and practices a menacing speech in the mirror, pulling a pistol from a homemade holster on his right arm, saying the famous line, \"You tal..."
+      }
+    },
+    {
+      "id": "classic-movie-10",
+      "label": "Taxi Driver",
+      "date": 1976,
+      "youtube": "https://www.youtube.com/watch?v=ObTydwWM-e0",
+      "tooltip": {
+        "description": "Travis (Robert De Niro) meets Betsy (Cybill Shepherd) for a coffee date, where he shares his views on her volunteering for Charles Palantine's campaign and expresses his dislike for her coworker, Tom...."
+      }
+    },
+    {
+      "id": "classic-movie-11",
+      "label": "Taxi Driver",
+      "date": 1976,
+      "youtube": "https://www.youtube.com/watch?v=vsdgSBpO-DI",
+      "tooltip": {
+        "description": "Iris (Jodie Foster) and her friend almost get hit by Travis' (Robert De Niro) taxi. Travis follows them until he sees them meeting two men on a corner. He reflects on his loneliness and that a change ..."
+      }
+    },
+    {
+      "id": "classic-movie-12",
+      "label": "Stripes",
+      "date": 1981,
+      "youtube": "https://www.youtube.com/watch?v=WIaYLBHvgP4",
+      "tooltip": {
+        "description": "John (Bill Murray) and Russell (Harold Ramis) make a bet. \n#Stripes #BillMurray #JohnCandy #movieclips\n\nWatch Stripes Now: http://AAN.SonyPictures.com/Stripes\nSome of the links in above are affiliate ..."
+      }
+    },
+    {
+      "id": "classic-movie-13",
+      "label": "Stripes",
+      "date": 1981,
+      "youtube": "https://www.youtube.com/watch?v=a_zZ9Tlqiy8",
+      "tooltip": {
+        "description": "John (Bill Murray) and Russell (Harold Ramis) get acquainted with their group and home base.\n#Stripes #BillMurray #JohnCandy #movieclips\n\nWatch Stripes Now: http://AAN.SonyPictures.com/Stripes\nSome of..."
+      }
+    },
+    {
+      "id": "classic-movie-14",
+      "label": "Stripes",
+      "date": 1981,
+      "youtube": "https://www.youtube.com/watch?v=11F6LSoi_G0",
+      "tooltip": {
+        "description": "The group meets together and are introduced to Psycho (Conrad Dunn) and Ox (John Candy).\n#Stripes #BillMurray #JohnCandy #movieclips\n\nWatch Stripes Now: http://AAN.SonyPictures.com/Stripes\nSome of the..."
+      }
+    },
+    {
+      "id": "classic-movie-15",
+      "label": "Christine",
+      "date": 1983,
+      "youtube": "https://www.youtube.com/watch?v=64mPmCQLOjc",
+      "tooltip": {
+        "description": "Buddy (William Ostrander) is terrorized late at night by Christine.\n#christine #movie #movieclips #WilliamOstrander \n\nWatch the full movie! https://play.google.com/store/movies/details/Christine?id=pX..."
+      }
+    },
+    {
+      "id": "classic-movie-16",
+      "label": "Christine",
+      "date": 1983,
+      "youtube": "https://www.youtube.com/watch?v=yjKoD5otves",
+      "tooltip": {
+        "description": "Arnie (Keith Gordon) arrives at the garage to find Christine trashed.\n#Christine #movie #movieclips #KeithGordon\n\nWatch the full movie! https://play.google.com/store/movies/details/Christine?id=pX0hN9..."
+      }
+    },
+    {
+      "id": "classic-movie-17",
+      "label": "Christine",
+      "date": 1983,
+      "youtube": "https://www.youtube.com/watch?v=i3I6Odg84DU",
+      "tooltip": {
+        "description": "Buddy (William Ostrander) pulls a knife on his classmates.\n#Christine #movie #movieclips #WilliamOstrander \n\nWatch the full movie! https://play.google.com/store/movies/details/Christine?id=pX0hN9vz_7U..."
+      }
+    },
+    {
+      "id": "classic-movie-18",
+      "label": "Stand By Me",
+      "date": 1986,
+      "youtube": "https://www.youtube.com/watch?v=1A8SeGFAX6s",
+      "tooltip": {
+        "description": "Gordie (Wil Wheaton) retells the story of a local pie eating contest.\n#StandByMe #StephenKing #movieclips #moviescenes #movie \n\nWatch Stand By Me Now: http://AAN.SonyPictures.com/StandByMe\nSome of the..."
+      }
+    },
+    {
+      "id": "classic-movie-19",
+      "label": "Stand By Me",
+      "date": 1986,
+      "youtube": "https://www.youtube.com/watch?v=GsGgYSWIzfI",
+      "tooltip": {
+        "description": "Crossing the swamp, Gordie (Wil Wheaton) finds a leech in a very private place.\n#StandByMe #StephenKing #movieclips #moviescenes #movie \n\nWatch Stand By Me Now: http://AAN.SonyPictures.com/StandByMe\nS..."
+      }
+    },
+    {
+      "id": "classic-movie-20",
+      "label": "Stand By Me",
+      "date": 1986,
+      "youtube": "https://www.youtube.com/watch?v=S9ZdffeniwM",
+      "tooltip": {
+        "description": "Gordie (Wil Wheaton) and Vern (Jerry O'Connell) are almost struck by a train.\n#StandByMe #StephenKing #movieclips #moviescenes #movie \n\nWatch Stand By Me Now: http://AAN.SonyPictures.com/StandByMe\nSom..."
+      }
+    },
+    {
+      "id": "classic-movie-21",
+      "label": "The Karate Kid Part 2",
+      "date": 1986,
+      "youtube": "https://www.youtube.com/watch?v=XxlUn7jXmRw",
+      "tooltip": {
+        "description": "Daniel (Ralph Macchio) and Mr. Miyagi (Pat Morita) rescue Sato (Danny Kamekona).\n#TheKarateKid #CobraKai #movieclips #moviescenes #movie  \n\nWatch The Karate Kid Part II Now: http://AAN.SonyPictures.co..."
+      }
+    },
+    {
+      "id": "classic-movie-22",
+      "label": "The Karate Kid Part 2",
+      "date": 1986,
+      "youtube": "https://www.youtube.com/watch?v=4zrJysPu7bw",
+      "tooltip": {
+        "description": "Daniel (Ralph Macchio) wins a bet against Chozen (Yuji Okumoto).\n#TheKarateKid #CobraKai #movieclips #moviescenes #movie  \n\nWatch The Karate Kid Part II Now: http://AAN.SonyPictures.com/TheKarateKidPa..."
+      }
+    },
+    {
+      "id": "classic-movie-23",
+      "label": "The Karate Kid Part 2",
+      "date": 1986,
+      "youtube": "https://www.youtube.com/watch?v=Z7AV3Mh7gn0",
+      "tooltip": {
+        "description": "Daniel (Ralph Macchio) agrees to fight Chozen (Yuji Okumoto) to the death.\n#TheKarateKid #CobraKai #movieclips #moviescenes #movie  \n\nWatch The Karate Kid Part II Now: http://AAN.SonyPictures.com/TheK..."
+      }
+    },
+    {
+      "id": "classic-movie-24",
+      "label": "La Bamba",
+      "date": 1987,
+      "youtube": "https://www.youtube.com/watch?v=Vd1zjTuM0D8",
+      "tooltip": {
+        "description": "At a school dance, a nervous but determined Ritchie Valens (Lou Diamond Phillips) steps up to the mic for one of his first live performances. As he plays, the crowd begins to warm up, and Ritchie’s na..."
+      }
+    },
+    {
+      "id": "classic-movie-25",
+      "label": "La Bamba",
+      "date": 1987,
+      "youtube": "https://www.youtube.com/watch?v=LZjM-_NA_0s",
+      "tooltip": {
+        "description": "On stage, Ritchie (Lou Diamond Phillips) performs “La Bamba” with passion, merging his Latino roots with American rock. The crowd dances, the music soars, and in that moment, Ritchie becomes more than..."
+      }
+    },
+    {
+      "id": "classic-movie-26",
+      "label": "The Karate Kid Part 3",
+      "date": 1989,
+      "youtube": "https://www.youtube.com/watch?v=vcXrLNWU3gM",
+      "tooltip": {
+        "description": "Daniel (Ralph Macchio) and Mike (Sean Kanan) face off in the tournament final. \n#TheKarateKid #CobraKai #movieclips #moviescenes #movie  \n\nWatch Karate Kid III Now: http://AAN.SonyPictures.com/KarateK..."
+      }
+    },
+    {
+      "id": "classic-movie-27",
+      "label": "The Karate Kid Part 3",
+      "date": 1989,
+      "youtube": "https://www.youtube.com/watch?v=IdQlxwAORvk",
+      "tooltip": {
+        "description": "Daniel (Ralph Macchio) is cornered in a Cobra Kai dojo. \n#TheKarateKid #CobraKai #movieclips #moviescenes #movie  \n\nWatch Karate Kid III Now: http://AAN.SonyPictures.com/KarateKidIII\nWatch The Karate ..."
+      }
+    },
+    {
+      "id": "classic-movie-28",
+      "label": "The Karate Kid Part 3",
+      "date": 1989,
+      "youtube": "https://www.youtube.com/watch?v=61m7rpzO0iE",
+      "tooltip": {
+        "description": "Mike (Sean Kanan) threatens Daniel (Ralph Macchio) when he refuses to compete in the tournament. \n#TheKarateKid #CobraKai #movieclips #moviescenes #movie  \n\nWatch Karate Kid III Now: http://AAN.SonyPi..."
+      }
+    },
+    {
+      "id": "classic-movie-29",
+      "label": "My Girl",
+      "date": 1991,
+      "youtube": "https://www.youtube.com/watch?v=WxnfYGO_dh0",
+      "tooltip": {
+        "description": "Vada (Anna Chlumsky) gets teased for hanging around Thomas J. (Macaulay Culkin).\n#MyGirl #movieclips #moviescenes #movie \n\nWatch My Girl Now: http://AAN.SonyPictures.com/MyGirl\nSome of the links in ab..."
+      }
+    },
+    {
+      "id": "classic-movie-30",
+      "label": "My Girl",
+      "date": 1991,
+      "youtube": "https://www.youtube.com/watch?v=sVIQeugA6ds",
+      "tooltip": {
+        "description": "Vada (Anna Chlumsky) becomes overwhelmed at the funeral of Thomas J (Macaulay Culkin).\n#MyGirl #movieclips #moviescenes #movie \n\nWatch My Girl Now: http://AAN.SonyPictures.com/MyGirl\nSome of the links..."
+      }
+    },
+    {
+      "id": "classic-movie-31",
+      "label": "My Girl",
+      "date": 1991,
+      "youtube": "https://www.youtube.com/watch?v=FXHcISpnsbk",
+      "tooltip": {
+        "description": "Shelly (Jamie Lee Curtis) gives Vada (Anna Chlumsky) a makeover.\n#MyGirl #movieclips #moviescenes #movie \n\nWatch My Girl Now: http://AAN.SonyPictures.com/MyGirl\nSome of the links in above are affiliat..."
+      }
+    },
+    {
+      "id": "classic-movie-32",
+      "label": "The Fisher King",
+      "date": 1991,
+      "youtube": "https://www.youtube.com/watch?v=5WYzBgrDj3M",
+      "tooltip": {
+        "description": "After a great evening out on a date, Parry (Robin Williams) has a hallucination of the Red Knight.\n#TheFisherKing #RobinWilliams #JeffBridges #hdclips #moviescenes\n\nWatch the full movie! https://play...."
+      }
+    },
+    {
+      "id": "classic-movie-33",
+      "label": "The Fisher King",
+      "date": 1991,
+      "youtube": "https://www.youtube.com/watch?v=G8lcHDIYb_8",
+      "tooltip": {
+        "description": "Lydia (Amanda Plummer) is surprised to get a call from Jack (Jeff Bridges) when a cabaret singer arrives.\n#TheFisherKing #RobinWilliams #JeffBridges #hdclips #moviescenes\n\nWatch the full movie! https:..."
+      }
+    },
+    {
+      "id": "classic-movie-34",
+      "label": "The Fisher King",
+      "date": 1991,
+      "youtube": "https://www.youtube.com/watch?v=ZImtpwHem_U",
+      "tooltip": {
+        "description": "Jack (Jeff Bridges) and Parry (Robin Williams) lie on the grass and watch the stars in Central Park.\n#TheFisherKing #RobinWilliams #JeffBridges #hdclips #moviescenes\n\nWatch the full movie! https://pla..."
+      }
+    },
+    {
+      "id": "classic-movie-35",
+      "label": "The Fisher King",
+      "date": 1991,
+      "youtube": "https://www.youtube.com/watch?v=1Pw2wNH5RWQ",
+      "tooltip": {
+        "description": "As he leaves, Parry's (Robin Williams) abnormal fear hits him, he sees the Red Knight and runs screaming into the night. While Parry lies on the ground, twitching uncontrollably, the same two punks wh..."
+      }
+    },
+    {
+      "id": "classic-movie-36",
+      "label": "The Fisher King",
+      "date": 1991,
+      "youtube": "https://www.youtube.com/watch?v=2CffkAbWN48",
+      "tooltip": {
+        "description": "Lydia (Amanda Plummer) shows up at the video store. Parry (Robin Williams) is there too, posing as an employee. Lydia's membership is squared away and Parry helps her find a few movies to rent. \n\nWatc..."
+      }
+    },
+    {
+      "id": "classic-movie-37",
+      "label": "The Fisher King",
+      "date": 1991,
+      "youtube": "https://www.youtube.com/watch?v=-wZNsnHOE2Y",
+      "tooltip": {
+        "description": "While everyone dances at the Grand Central Station, Parry (Robin Williams) follows Lydia (Amanda Plummer) aimlessly.\n\nWatch The Fisher King Now: https://play.google.com/store/movies/details/The_Fisher..."
+      }
+    },
+    {
+      "id": "classic-movie-38",
+      "label": "A Few Good Men",
+      "date": 1992,
+      "youtube": "https://www.youtube.com/watch?v=-6Strdklf-I",
+      "tooltip": {
+        "description": "Kaffee (Tom Cruise) questions an aggressive Lt. Kendrick (Kiefer Sutherland).\n#AFewGoodMen #TomCruise #JackNicholson #hdclips #moviescenes \n\nWatch A Few Good Men Now: http://AAN.SonyPictures.com/AFewG..."
+      }
+    },
+    {
+      "id": "classic-movie-39",
+      "label": "A Few Good Men",
+      "date": 1992,
+      "youtube": "https://www.youtube.com/watch?v=8DuEo_TluBw",
+      "tooltip": {
+        "description": "Colonel Jessup (Jack Nicholson) reminds Kendrick (Kiefer Sutherland) who is in charge. \n#AFewGoodMen #TomCruise #JackNicholson #moviescenes \nWatch A Few Good Men Now: http://AAN.SonyPictures.com/AFewG..."
+      }
+    },
+    {
+      "id": "classic-movie-40",
+      "label": "A Few Good Men",
+      "date": 1992,
+      "youtube": "https://www.youtube.com/watch?v=AIdZ6Dm001o",
+      "tooltip": {
+        "description": "Jessup (Jack Nicholson) demands the respect of Kaffee (Tom Cruise).\n#AFewGoodMen #TomCruise #JackNicholson #moviescenes \nWatch A Few Good Men Now: http://AAN.SonyPictures.com/AFewGoodMen\n\nTom Cruise, ..."
+      }
+    },
+    {
+      "id": "classic-movie-41",
+      "label": "A Few Good Men",
+      "date": 1992,
+      "youtube": "https://www.youtube.com/watch?v=ZisC2Y4d4J4",
+      "tooltip": {
+        "description": "Galloway (Demi Moore) instructs Kaffee (Tom Cruise) on his next assignment. \n#AFewGoodMen #TomCruise #JackNicholson #moviescenes \nWatch A Few Good Men Now: http://AAN.SonyPictures.com/AFewGoodMen\n\nTom..."
+      }
+    },
+    {
+      "id": "classic-movie-42",
+      "label": "Groundhog Day",
+      "date": 1993,
+      "youtube": "https://www.youtube.com/watch?v=L0Fjo1oS-KQ",
+      "tooltip": {
+        "description": "Phil (Bill Murray) and friends go for a late night booze cruise. \n#GroundhogDay #BillMurray #movie #moviescenes #movieclips \n\nWatch Groundhog Day Now: http://AAN.SonyPictures.com/GroundhogDay\nSome of ..."
+      }
+    },
+    {
+      "id": "classic-movie-43",
+      "label": "Groundhog Day",
+      "date": 1993,
+      "youtube": "https://www.youtube.com/watch?v=PzF06qPH6ZI",
+      "tooltip": {
+        "description": "Phil (Bill Murray) finally breaks the cycle and finds a happy ending with Rita (Andie MacDowell).\n#GroundhogDay #BillMurray #movie #moviescenes #movieclips \n\nWatch Groundhog Day Now: http://AAN.SonyPi..."
+      }
+    },
+    {
+      "id": "classic-movie-44",
+      "label": "Groundhog Day",
+      "date": 1993,
+      "youtube": "https://www.youtube.com/watch?v=4YTqBxkDJlw",
+      "tooltip": {
+        "description": "Phil (Bill Murray) wakes to find it is Groundhog Day yet again.\n#GroundhogDay #BillMurray #movie #moviescenes #movieclips \n\nWatch Groundhog Day Now: http://AAN.SonyPictures.com/GroundhogDay\nSome of th..."
+      }
+    },
+    {
+      "id": "classic-movie-45",
+      "label": "Groundhog Day",
+      "date": 1993,
+      "youtube": "https://www.youtube.com/watch?v=1LfXug11uHA",
+      "tooltip": {
+        "description": "Exhausted from his repeated days, Phil (Bill Murray) decides to end it all, taking the groundhog with him.\n#GroundhogDay #BillMurray #movie #moviescenes #movieclips \n\nWatch Groundhog Day Now: http://A..."
+      }
+    },
+    {
+      "id": "classic-movie-46",
+      "label": "Groundhog Day",
+      "date": 1993,
+      "youtube": "https://www.youtube.com/watch?v=vZoJx7KWOLU",
+      "tooltip": {
+        "description": "Phil (Bill Murray) and friends take a late night drive on the train tracks through town. \n#GroundhogDay #BillMurray #movie #moviescenes #movieclips \n\nWatch Groundhog Day Now: http://AAN.SonyPictures.c..."
+      }
+    },
+    {
+      "id": "classic-movie-47",
+      "label": "Groundhog Day",
+      "date": 1993,
+      "youtube": "https://www.youtube.com/watch?v=wY6FYz7_vf4",
+      "tooltip": {
+        "description": "Phil (Bill Murray) wakes to find it is Groundhog Day yet again and questions everyone around him.\n#GroundhogDay #BillMurray #movie #moviescenes #movieclips \n\nWatch Groundhog Day Now: http://AAN.SonyPi..."
+      }
+    },
+    {
+      "id": "classic-movie-48",
+      "label": "Rudy",
+      "date": 1993,
+      "youtube": "https://www.youtube.com/watch?v=cUceXxdq9Ww",
+      "tooltip": {
+        "description": "Rudy (Sean Astin) takes part in his first Notre Dame football practice.\n#Rudy #movie #moviescenes #movieclips \n\n\nWatch Rudy Now: http://AAN.SonyPictures.com/Rudy\n\nAll his life, people have told Rudy h..."
+      }
+    },
+    {
+      "id": "classic-movie-49",
+      "label": "Rudy",
+      "date": 1993,
+      "youtube": "https://www.youtube.com/watch?v=vlrOiN6FsWU",
+      "tooltip": {
+        "description": "Rudy (Sean Astin) gets one last crack at tackling his coach.\n#Rudy #movie #moviescenes #movieclips \n\n\nWatch Rudy Now: http://AAN.SonyPictures.com/Rudy\n\nAll his life, people have told Rudy he's not goo..."
+      }
+    },
+    {
+      "id": "classic-movie-50",
+      "label": "Rudy",
+      "date": 1993,
+      "youtube": "https://www.youtube.com/watch?v=ZrrcWL5G71Q",
+      "tooltip": {
+        "description": "Rudy (Sean Astin) introduces himself to the Notre Dame coach.\n#Rudy #movie #moviescenes #movieclips \n\n\nWatch Rudy Now: http://AAN.SonyPictures.com/Rudy\n\nAll his life, people have told Rudy he's not go..."
+      }
+    },
+    {
+      "id": "classic-movie-51",
+      "label": "Groundhog Day",
+      "date": 1993,
+      "youtube": "https://www.youtube.com/watch?v=rLcq99Wxatw",
+      "tooltip": {
+        "description": "Phil (Bill Murray) carves an ice sculpture of Rita (Andie MacDowell) and tells her that no matter what happens, even if he is trapped in the loop forever, he is finally happy because he loves her. \n\nW..."
+      }
+    },
+    {
+      "id": "classic-movie-52",
+      "label": "Groundhog Day",
+      "date": 1993,
+      "youtube": "https://www.youtube.com/watch?v=AN0giXSieRg",
+      "tooltip": {
+        "description": "Phil (Bill Murray), wakes up again to \"I Got You Babe\" and the familiar radio banter at the Cherry Street Inn. He grows increasingly depressed and desperate within the time loop, and resorts to variou..."
+      }
+    },
+    {
+      "id": "classic-movie-53",
+      "label": "Groundhog Day",
+      "date": 1993,
+      "youtube": "https://www.youtube.com/watch?v=8YawKzARhHw",
+      "tooltip": {
+        "description": "Rita (Andie MacDowell) hears Phil's (Bill Murray) beautiful piano playing and stories of his good deeds from the townsfolk. Impressed by his apparent transformation, she successfully bids for him at a..."
+      }
+    },
+    {
+      "id": "classic-movie-54",
+      "label": "Legends of the Fall",
+      "date": 1994,
+      "youtube": "https://www.youtube.com/watch?v=yamTrKIA4OI",
+      "tooltip": {
+        "description": "Tristan (Brad Pitt) goes to visit Susannah (Julia Ormond) after a long time away.\n#LegendsOfTheFall #BradPitt #movie #moviescenes #movieclips \n\n\nWatch Legends Of The Fall Now: http://AAN.SonyPictures...."
+      }
+    },
+    {
+      "id": "classic-movie-55",
+      "label": "Legends of the Fall",
+      "date": 1994,
+      "youtube": "https://www.youtube.com/watch?v=ilAtLGC80z4",
+      "tooltip": {
+        "description": "Isabel (Karina Lombard) is accidentally killed by an officer and Tristan (Brad Pitt) loses control.\n#LegendsOfTheFall #BradPitt #movie #moviescenes #movieclips \n\nWatch Legends Of The Fall Now: http://..."
+      }
+    },
+    {
+      "id": "classic-movie-56",
+      "label": "Legends of the Fall",
+      "date": 1994,
+      "youtube": "https://www.youtube.com/watch?v=xoIYs5aBJSU",
+      "tooltip": {
+        "description": "Tristan (Brad Pitt) returns to the ranch to find his father a different man.\n#LegendsOfTheFall #BradPitt #movie #moviescenes #movieclips \n\n\nWatch Legends Of The Fall Now: http://AAN.SonyPictures.com/L..."
+      }
+    },
+    {
+      "id": "classic-movie-60",
+      "label": "The Net",
+      "date": 1995,
+      "youtube": "https://www.youtube.com/watch?v=ec7mqGHWaus",
+      "tooltip": {
+        "description": "Angela (Sandra Bullock) flees from the cops, maintaining her innocence.\n#TheNet #movie #movieclips \n\nWatch the full movie! https://play.google.com/store/movies/details/The_Net_1995?id=As4gzzCQJ84\n\nSan..."
+      }
+    },
+    {
+      "id": "classic-movie-61",
+      "label": "The Net",
+      "date": 1995,
+      "youtube": "https://www.youtube.com/watch?v=fPy3uVedLLY",
+      "tooltip": {
+        "description": "Angela (Sandra Bullock) is arrested after trying to run away from the police on the highway.\n#TheNet #movie #movieclips \n\nWatch the full movie! https://play.google.com/store/movies/details/The_Net_199..."
+      }
+    },
+    {
+      "id": "classic-movie-62",
+      "label": "The Net",
+      "date": 1995,
+      "youtube": "https://www.youtube.com/watch?v=Jw7nH3dWleA",
+      "tooltip": {
+        "description": "Angela (Sandra Bullock) is forced to fight for her life.\n#TheNet #movie #movieclips \n\nWatch the full movie! https://play.google.com/store/movies/details/The_Net_1995?id=As4gzzCQJ84\n\nSandra Bullock, De..."
+      }
+    },
+    {
+      "id": "classic-movie-63",
+      "label": "Matilda",
+      "date": 1996,
+      "youtube": "https://www.youtube.com/watch?v=YDrQ16Dsiiw",
+      "tooltip": {
+        "description": "After being blamed for stealing Trunchbull's (Pam Ferris) cake, Bruce (Jimmy Karz) is forced to eat an entire chocolate cake. \n#Matilda #movieclips #moviescenes #movie \n\nWatch Matilda Now: http://AAN...."
+      }
+    },
+    {
+      "id": "classic-movie-64",
+      "label": "Matilda",
+      "date": 1996,
+      "youtube": "https://www.youtube.com/watch?v=3Ch1_yI9pK8",
+      "tooltip": {
+        "description": "The terror of Trunchbull (Pam Ferris) is on full display during Matilda's (Mara Wilson) first day at school. \n#Matilda #movieclips #moviescenes #movie \n\nWatch Matilda Now: http://AAN.SonyPictures.com/..."
+      }
+    },
+    {
+      "id": "classic-movie-65",
+      "label": "Matilda",
+      "date": 1996,
+      "youtube": "https://www.youtube.com/watch?v=XbebnWvk4OI",
+      "tooltip": {
+        "description": "Matilda (Mara Wilson) finally discovers how to control her powers. \n#Matilda #movieclips #moviescenes #movie \n\nWatch Matilda Now: http://AAN.SonyPictures.com/Matilda\nSome of the links in above are aff..."
+      }
+    },
+    {
+      "id": "classic-movie-66",
+      "label": "Matilda",
+      "date": 1996,
+      "youtube": "https://www.youtube.com/watch?v=bEd27IM4BxQ",
+      "tooltip": {
+        "description": "Trunchbull (Pam Ferris) attacks the class at random in a rage, but Matilda (Mara Wilson) protects them. The Crunchem Hall students witness the situation and organize a food fight to force Trunchbull o..."
+      }
+    },
+    {
+      "id": "classic-movie-67",
+      "label": "Matilda",
+      "date": 1996,
+      "youtube": "https://www.youtube.com/watch?v=s57ZsZdh-Ig",
+      "tooltip": {
+        "description": "While Miss Honey (Embeth Davidtz) rescues Matilda (Mara Wilson), Lavender puts a newt in Trunchbull's (Pam Ferris) water jug, who drinks the water. Trunchbull accuses Matilda, who in anger at the inju..."
+      }
+    },
+    {
+      "id": "classic-movie-68",
+      "label": "Matilda",
+      "date": 1996,
+      "youtube": "https://www.youtube.com/watch?v=qVIEa3nCPBI",
+      "tooltip": {
+        "description": "Matilda (Mara Wilson) and Miss Honey (Embeth Davidtz) sneak into Trunchbull's house to retrieve some of Miss Honey's belongings, but narrowly escape when Trunchbull (Pam Ferris) unexpectedly returns e..."
+      }
+    },
+    {
+      "id": "classic-movie-69",
+      "label": "Men in Black",
+      "date": 1997,
+      "youtube": "https://www.youtube.com/watch?v=A03Z7VJTEJY",
+      "tooltip": {
+        "description": "Agent J (Will Smith) chases a Cephalapoid through the streets.\n#WillSmith #MIB #movie #moviescenes #movieclips \n\n\nWatch Men In Black Now: http://AAN.SonyPictures.com/MenInBlack\nSome of the links in ab..."
+      }
+    },
+    {
+      "id": "classic-movie-70",
+      "label": "Men in Black",
+      "date": 1997,
+      "youtube": "https://www.youtube.com/watch?v=jRwk9OuUQ6g",
+      "tooltip": {
+        "description": "Agent K (Tommy Lee Jones) loses his patience with Jeebs. \n#WillSmith #MIB #movie #moviescenes #movieclips \n\nWatch Men In Black Now: http://AAN.SonyPictures.com/MenInBlack\nSome of the links in above ar..."
+      }
+    },
+    {
+      "id": "classic-movie-72",
+      "label": "Donnie Brasco",
+      "date": 1997,
+      "youtube": "https://www.youtube.com/watch?v=SA-gXKq1oz0",
+      "tooltip": {
+        "description": "Donnie (Johnny Depp) and Lefty (Al Pacino) collect evidence and visit some bars.\n\nWatch the full movie! https://play.google.com/store/movies/details/Donnie_Brasco?id=WLfjB3bCMxU\n\nPosing as jewel broke..."
+      }
+    },
+    {
+      "id": "classic-movie-73",
+      "label": "Donnie Brasco",
+      "date": 1997,
+      "youtube": "https://www.youtube.com/watch?v=dN-T8yGWWgo",
+      "tooltip": {
+        "description": "Lefty (Al Pacino) tells Donnie (Johnny Depp) his expectations for him.\n\nWatch the full movie! https://play.google.com/store/movies/details/Donnie_Brasco?id=WLfjB3bCMxU\n\nPosing as jewel broker Donnie B..."
+      }
+    },
+    {
+      "id": "classic-movie-74",
+      "label": "Donnie Brasco",
+      "date": 1997,
+      "youtube": "https://www.youtube.com/watch?v=oVCtzDnZluA",
+      "tooltip": {
+        "description": "Lefty (Al Pacino) goes to the airfield to collect a captive lion.\n\nWatch the full movie! https://play.google.com/store/movies/details/Donnie_Brasco?id=WLfjB3bCMxU\n\nPosing as jewel broker Donnie Brasco..."
+      }
+    },
+    {
+      "id": "classic-movie-75",
+      "label": "Men In Black II",
+      "date": 1997,
+      "youtube": "https://www.youtube.com/watch?v=0z1GKBcgE_M",
+      "tooltip": {
+        "description": "Agent J (Will Smith) and his new partner Agent T (Patrick Warburton), go to a mission where they need to extract Jeff, a large worm living in the New York subway system. \n\nWatch Men in Black II Now: h..."
+      }
+    },
+    {
+      "id": "classic-movie-76",
+      "label": "Men In Black II",
+      "date": 1997,
+      "youtube": "https://www.youtube.com/watch?v=R918KXoIwnw",
+      "tooltip": {
+        "description": "To save Earth and Zartha, Laura (Rosario Dawson) reluctantly leaves Earth, much to J's (Will Smith) dismay. Serleena returns to capture Laura again, but J and K manage to destroy her for good.\n\nWatch ..."
+      }
+    },
+    {
+      "id": "classic-movie-77",
+      "label": "Men In Black II",
+      "date": 1997,
+      "youtube": "https://www.youtube.com/watch?v=pZ1rEFbP_mw",
+      "tooltip": {
+        "description": "To stop Serleena, Agent J (Will Smith) must convince Agent K (Tommy Lee Jones) to reunite with the MIB and find what Serleena is seeking before Earth is destroyed.\n\nWatch Men in Black II Now: http://A..."
+      }
+    },
+    {
+      "id": "classic-movie-78",
+      "label": "Crouching Tiger, Hidden Dragon",
+      "date": 2000,
+      "youtube": "https://www.youtube.com/watch?v=Yq9ygem5rOE",
+      "tooltip": {
+        "description": "The poisoned Li Mu Bai (Chow Yun-Fat) shows his undying love for Shu Lien (Michelle Yeoh), and Jen Yu (Zhang Ziyi) leaves the village.\n#MichelleYeoh #CrouchingTigerHiddenDragon #movie #movieclips \n\nWa..."
+      }
+    },
+    {
+      "id": "classic-movie-79",
+      "label": "Crouching Tiger, Hidden Dragon",
+      "date": 2000,
+      "youtube": "https://www.youtube.com/watch?v=wF4N1UDD0_E",
+      "tooltip": {
+        "description": "Jade Fox (Cheng Pei-pei) is struck down by Li Mu Bai (Chow Yun-fat) but poisons him in the process.\n#MichelleYeoh #CrouchingTigerHiddenDragon #movie #movieclips \n\nWatch Crouching Tiger, Hidden Dragon ..."
+      }
+    },
+    {
+      "id": "classic-movie-80",
+      "label": "Crouching Tiger, Hidden Dragon",
+      "date": 2000,
+      "youtube": "https://www.youtube.com/watch?v=Oxs-e6mVsFU",
+      "tooltip": {
+        "description": "Li Mu Bai (Chow Yun-fat) explains what he saw during his meditations.\n#MichelleYeoh #CrouchingTigerHiddenDragon #movie #movieclips \n\nWatch Crouching Tiger, Hidden Dragon Now: http://AAN.SonyPictures.c..."
+      }
+    },
+    {
+      "id": "classic-movie-81",
+      "label": "Crouching Tiger, Hidden Dragon",
+      "date": 2000,
+      "youtube": "https://www.youtube.com/watch?v=GtTCGunmaYs",
+      "tooltip": {
+        "description": "Watch the first 10 minutes of the iconic Ang Lee classic film.\n#MichelleYeoh #CrouchingTigerHiddenDragon #movie #movieclips \n\nWatch Crouching Tiger, Hidden Dragon Now: http://AAN.SonyPictures.com/Crou..."
+      }
+    },
+    {
+      "id": "classic-movie-82",
+      "label": "A Knight's Tale",
+      "date": 2001,
+      "youtube": "https://www.youtube.com/watch?v=8JAogqu0580",
+      "tooltip": {
+        "description": "William (Heath Ledger) straps in to joust against Colville (James Purefoy).\n#AKnightsTale #HeathLedger #movie #movieclips #moviescenes\n\nWatch A Knight's Tale Now: http://AAN.SonyPictures.com/AKnightsT..."
+      }
+    },
+    {
+      "id": "classic-movie-83",
+      "label": "A Knight's Tale",
+      "date": 2001,
+      "youtube": "https://www.youtube.com/watch?v=LFh7L0F_xVU",
+      "tooltip": {
+        "description": "William (Heath Ledger) is persuaded to show off a dance from his country.\n#AKnightsTale #HeathLedger #movie #movieclips #moviescenes\n\nWatch A Knight's Tale Now: http://AAN.SonyPictures.com/AKnightsTal..."
+      }
+    },
+    {
+      "id": "classic-movie-84",
+      "label": "A Knight's Tale",
+      "date": 2001,
+      "youtube": "https://www.youtube.com/watch?v=TxStVxHYZzE",
+      "tooltip": {
+        "description": "Roland (Mark Addy) thinks on his feet when asked about William's (Heath Ledger) wardrobe. \n#AKnightsTale #HeathLedger #movie #movieclips #moviescenes\n\nWatch A Knight's Tale Now: http://AAN.SonyPicture..."
+      }
+    },
+    {
+      "id": "classic-movie-85",
+      "label": "Sam Crashes the Excavator | Moon",
+      "date": 2009,
+      "youtube": "https://www.youtube.com/watch?v=5sytFAy83i4",
+      "tooltip": {
+        "description": "Sam (Sam Rockwell) suffers an accident when excavating on the moon's surface.\n\nWatch the full movie! https://play.google.com/store/movies/details/Moon?id=E-E13MP3o54&hl=en&gl=US\n\nSam Bell is nearing t..."
+      }
+    },
+    {
+      "id": "classic-movie-86",
+      "label": "Sam Questions His Humanity | Moon",
+      "date": 2009,
+      "youtube": "https://www.youtube.com/watch?v=Eo1gZB_lZGo",
+      "tooltip": {
+        "description": "Sam (Sam Rockwell) talks to his clone, wondering if he is a human at all.\n\nWatch the full movie! https://play.google.com/store/movies/details/Moon?id=E-E13MP3o54&hl=en&gl=US\n\nSam Bell is nearing the c..."
+      }
+    },
+    {
+      "id": "classic-movie-87",
+      "label": "Gerty Urges Sam Not to Leave | Moon",
+      "date": 2009,
+      "youtube": "https://www.youtube.com/watch?v=cFVH3fn7-bM",
+      "tooltip": {
+        "description": "Gerty (Kevin Spacey) urges Sam (Sam Rockwell) to stay inside the station.\n\nWatch the full movie! https://play.google.com/store/movies/details/Moon?id=E-E13MP3o54&hl=en&gl=US\n\nSam Bell is nearing the c..."
+      }
+    }
+  ]
+}

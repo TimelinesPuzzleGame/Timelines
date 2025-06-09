@@ -1,0 +1,390 @@
+{
+  "slug": "gibboanx-test-35",
+  "topic": "Gibboanx Test Puzzle 35",
+  "category": "Entertainment",
+  "subcategory": "Movies/TV",
+  "hideDates": false,
+  "showTooltips": true,
+  "variantSystem": {
+    "enabled": true,
+    "totalScenes": 10,
+    "selectionStrategy": "random_per_round"
+  },
+  "cards": [
+    {
+      "id": "gibboanx-test-35-1",
+      "label": "Manhattan Melodrama",
+      "date": 1934,
+      "year": 1934,
+      "youtube": "https://www.youtube.com/watch?v=lGOa-y3ZojI&t=0s&end=179s",
+      "duration": 179,
+      "variants": [
+        {
+          "id": "lGOa-y3ZojI-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=lGOa-y3ZojI&t=0s&end=179s",
+          "sceneDescription": "Manhattan Melodrama - Part 1 (0:00 - 2:59)",
+          "startTime": 0,
+          "endTime": 179
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Manhattan Melodrama (1934) - Quality Score: 40/100",
+        "genre": "Classic Film",
+        "crawlerScore": 40,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 0,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:40:56.699Z"
+      },
+      "movie": "Manhattan Melodrama"
+    },
+    {
+      "id": "gibboanx-test-35-2",
+      "label": "Boyhood",
+      "date": 2014,
+      "year": 2014,
+      "youtube": "https://www.youtube.com/watch?v=xC9op4L9ZGw&t=0s&end=54s",
+      "duration": 54,
+      "variants": [
+        {
+          "id": "xC9op4L9ZGw-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=xC9op4L9ZGw&t=0s&end=54s",
+          "sceneDescription": "Boyhood - Full Scene (0:00 - 0:54)",
+          "startTime": 0,
+          "endTime": 54
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Boyhood (2014) - Quality Score: 40/100",
+        "genre": "Classic Film",
+        "crawlerScore": 40,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 0,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:40:56.699Z"
+      },
+      "movie": "Boyhood"
+    },
+    {
+      "id": "gibboanx-test-35-3",
+      "label": "Terms of Endearment",
+      "date": 1983,
+      "year": 1983,
+      "youtube": "https://www.youtube.com/watch?v=A1AIroyiLEM&t=0s&end=38s",
+      "duration": 38,
+      "variants": [
+        {
+          "id": "A1AIroyiLEM-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=A1AIroyiLEM&t=0s&end=38s",
+          "sceneDescription": "Terms of Endearment - Full Scene (0:00 - 0:38)",
+          "startTime": 0,
+          "endTime": 38
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Terms of Endearment (1983) - Quality Score: 35/100",
+        "genre": "Classic Film",
+        "crawlerScore": 35,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 0,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:40:56.699Z"
+      },
+      "movie": "Terms of Endearment"
+    },
+    {
+      "id": "gibboanx-test-35-4",
+      "label": "The Master",
+      "date": 2012,
+      "year": 2012,
+      "youtube": "https://www.youtube.com/watch?v=Iw54-yDc6Jg&t=0s&end=120s",
+      "duration": 302,
+      "variants": [
+        {
+          "id": "Iw54-yDc6Jg-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=Iw54-yDc6Jg&t=0s&end=120s",
+          "sceneDescription": "The Master - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "Iw54-yDc6Jg-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=Iw54-yDc6Jg&t=120s&end=240s",
+          "sceneDescription": "The Master - Part 2 (2:00 - 4:00)",
+          "startTime": 120,
+          "endTime": 240
+        },
+        {
+          "id": "Iw54-yDc6Jg-variant-2",
+          "youtube": "https://www.youtube.com/watch?v=Iw54-yDc6Jg&t=240s&end=302s",
+          "sceneDescription": "The Master - Part 3 (4:00 - 5:02)",
+          "startTime": 240,
+          "endTime": 302
+        }
+      ],
+      "variantCount": 3,
+      "tooltip": {
+        "description": "The Master (2012) - Quality Score: 45/100",
+        "genre": "Classic Film",
+        "crawlerScore": 45,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:40:56.699Z"
+      },
+      "movie": "The Master"
+    },
+    {
+      "id": "gibboanx-test-35-5",
+      "label": "How to Train Your Dragon 2",
+      "date": 2014,
+      "year": 2014,
+      "youtube": "https://www.youtube.com/watch?v=atnRlbbC4vU&t=0s&end=143s",
+      "duration": 143,
+      "variants": [
+        {
+          "id": "atnRlbbC4vU-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=atnRlbbC4vU&t=0s&end=143s",
+          "sceneDescription": "How to Train Your Dragon 2 - Part 1 (0:00 - 2:23)",
+          "startTime": 0,
+          "endTime": 143
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "How to Train Your Dragon 2 (2014) - Quality Score: 55/100",
+        "genre": "Classic Film",
+        "crawlerScore": 55,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 0,
+          "resolutionQuality": 10,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:40:56.699Z"
+      },
+      "movie": "How to Train Your Dragon 2"
+    },
+    {
+      "id": "gibboanx-test-35-6",
+      "label": "What We Do in the Shadows",
+      "date": 2014,
+      "year": 2014,
+      "youtube": "https://www.youtube.com/watch?v=tGa73NrtRfs&t=0s&end=80s",
+      "duration": 80,
+      "variants": [
+        {
+          "id": "tGa73NrtRfs-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=tGa73NrtRfs&t=0s&end=80s",
+          "sceneDescription": "What We Do in the Shadows - Full Scene (0:00 - 1:20)",
+          "startTime": 0,
+          "endTime": 80
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "What We Do in the Shadows (2014) - Quality Score: 35/100",
+        "genre": "Classic Film",
+        "crawlerScore": 35,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 0,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:40:56.699Z"
+      },
+      "movie": "What We Do in the Shadows"
+    },
+    {
+      "id": "gibboanx-test-35-7",
+      "label": "Wayne's World 2",
+      "date": 1993,
+      "year": 1993,
+      "youtube": "https://www.youtube.com/watch?v=ReT3s0siI_Q&t=0s&end=120s",
+      "duration": 199,
+      "variants": [
+        {
+          "id": "ReT3s0siI_Q-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=ReT3s0siI_Q&t=0s&end=120s",
+          "sceneDescription": "Wayne's World 2 - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "ReT3s0siI_Q-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=ReT3s0siI_Q&t=120s&end=199s",
+          "sceneDescription": "Wayne's World 2 - Part 2 (2:00 - 3:19)",
+          "startTime": 120,
+          "endTime": 199
+        }
+      ],
+      "variantCount": 2,
+      "tooltip": {
+        "description": "Wayne's World 2 (1993) - Quality Score: 35/100",
+        "genre": "Classic Film",
+        "crawlerScore": 35,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 0,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:40:56.699Z"
+      },
+      "movie": "Wayne's World 2"
+    },
+    {
+      "id": "gibboanx-test-35-8",
+      "label": "The Warriors",
+      "date": 1979,
+      "year": 1979,
+      "youtube": "https://www.youtube.com/watch?v=YeEbtiruH2Q&t=0s&end=68s",
+      "duration": 68,
+      "variants": [
+        {
+          "id": "YeEbtiruH2Q-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=YeEbtiruH2Q&t=0s&end=68s",
+          "sceneDescription": "The Warriors - Full Scene (0:00 - 1:08)",
+          "startTime": 0,
+          "endTime": 68
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "The Warriors (1979) - Quality Score: 40/100",
+        "genre": "Classic Film",
+        "crawlerScore": 40,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 0,
+          "resolutionQuality": 0,
+          "popularityFactor": 10,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:40:56.699Z"
+      },
+      "movie": "The Warriors"
+    },
+    {
+      "id": "gibboanx-test-35-9",
+      "label": "The Castle",
+      "date": 1997,
+      "year": 1997,
+      "youtube": "https://www.youtube.com/watch?v=Aax_zyDG61w&t=0s&end=120s",
+      "duration": 346,
+      "variants": [
+        {
+          "id": "Aax_zyDG61w-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=Aax_zyDG61w&t=0s&end=120s",
+          "sceneDescription": "The Castle - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "Aax_zyDG61w-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=Aax_zyDG61w&t=120s&end=240s",
+          "sceneDescription": "The Castle - Part 2 (2:00 - 4:00)",
+          "startTime": 120,
+          "endTime": 240
+        },
+        {
+          "id": "Aax_zyDG61w-variant-2",
+          "youtube": "https://www.youtube.com/watch?v=Aax_zyDG61w&t=240s&end=346s",
+          "sceneDescription": "The Castle - Part 3 (4:00 - 5:46)",
+          "startTime": 240,
+          "endTime": 346
+        }
+      ],
+      "variantCount": 3,
+      "tooltip": {
+        "description": "The Castle (1997) - Quality Score: 35/100",
+        "genre": "Classic Film",
+        "crawlerScore": 35,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 0,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:40:56.699Z"
+      },
+      "movie": "The Castle"
+    },
+    {
+      "id": "gibboanx-test-35-10",
+      "label": "Home Alone 2: Lost in New York",
+      "date": 1992,
+      "year": 1992,
+      "youtube": "https://www.youtube.com/watch?v=-IlBrWQChls&t=0s&end=163s",
+      "duration": 163,
+      "variants": [
+        {
+          "id": "-IlBrWQChls-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=-IlBrWQChls&t=0s&end=163s",
+          "sceneDescription": "Home Alone 2: Lost in New York - Part 1 (0:00 - 2:43)",
+          "startTime": 0,
+          "endTime": 163
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Home Alone 2: Lost in New York (1992) - Quality Score: 55/100",
+        "genre": "Classic Film",
+        "crawlerScore": 55,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 20,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:40:56.699Z"
+      },
+      "movie": "Home Alone 2: Lost in New York"
+    }
+  ]
+}

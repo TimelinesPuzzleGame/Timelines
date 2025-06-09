@@ -1,0 +1,211 @@
+{
+  "slug": "romantic-comedies",
+  "topic": "Romantic Comedies",
+  "category": "Entertainment",
+  "subcategory": "Movies/TV",
+  "hideDates": false,
+  "showTooltips": true,
+  "showImageOnPlace": true,
+  "description": "A collection of romantic comedy scenes from classic to modern films.",
+  "variantSystem": {
+    "enabled": true,
+    "totalMovies": 12,
+    "totalScenes": 12,
+    "moviesWithVariants": 0,
+    "selectionStrategy": "random_per_round"
+  },
+  "cards": [
+    {
+      "id": "y6120QOlsfU",
+      "label": "His Girl Friday",
+      "date": 1940,
+      "year": 1940,
+      "youtube": "https://www.youtube.com/watch?v=y6120QOlsfU",
+      "tooltip": {
+        "description": "Romantic comedy scene",
+        "genre": "Romantic Comedy",
+        "verified": true,
+        "embeddable": true,
+        "tmdbFixed": true,
+        "tmdbId": 3085,
+        "movieTitle": "His Girl Friday"
+      }
+    },
+    {
+      "id": "rEWaqUVac3M",
+      "label": "Casablanca",
+      "date": 1943,
+      "year": 1943,
+      "youtube": "https://www.youtube.com/watch?v=rEWaqUVac3M",
+      "tooltip": {
+        "description": "Romantic comedy scene",
+        "genre": "Romantic Comedy",
+        "verified": true,
+        "embeddable": true,
+        "tmdbFixed": true,
+        "tmdbId": 289,
+        "movieTitle": "Casablanca"
+      }
+    },
+    {
+      "id": "fcZXfoB2f70",
+      "label": "Sabrina",
+      "date": 1954,
+      "year": 1954,
+      "youtube": "https://www.youtube.com/watch?v=fcZXfoB2f70",
+      "tooltip": {
+        "description": "Romantic comedy scene",
+        "genre": "Romantic Comedy",
+        "verified": true,
+        "embeddable": true,
+        "tmdbFixed": true,
+        "tmdbId": 6620,
+        "movieTitle": "Sabrina"
+      }
+    },
+    {
+      "id": "4oiLfTnrC40",
+      "label": "The Seven Year Itch",
+      "date": 1955,
+      "year": 1955,
+      "youtube": "https://www.youtube.com/watch?v=4oiLfTnrC40",
+      "tooltip": {
+        "description": "Romantic comedy scene",
+        "genre": "Romantic Comedy",
+        "verified": true,
+        "embeddable": true,
+        "tmdbFixed": true,
+        "tmdbId": 10653,
+        "movieTitle": "The Seven Year Itch"
+      }
+    },
+    {
+      "id": "xvFZjo5PgG0",
+      "label": "The Apartment",
+      "date": 1960,
+      "year": 1960,
+      "youtube": "https://www.youtube.com/watch?v=xvFZjo5PgG0",
+      "tooltip": {
+        "description": "Romantic comedy scene",
+        "genre": "Romantic Comedy",
+        "verified": true,
+        "embeddable": true,
+        "tmdbFixed": true,
+        "tmdbId": 284,
+        "movieTitle": "The Apartment"
+      }
+    },
+    {
+      "id": "jNQXAC9IVRw",
+      "label": "The Odd Couple",
+      "date": 1968,
+      "year": 1968,
+      "youtube": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
+      "tooltip": {
+        "description": "Romantic comedy scene",
+        "genre": "Romantic Comedy",
+        "verified": true,
+        "embeddable": true,
+        "tmdbFixed": true,
+        "tmdbId": 11356,
+        "movieTitle": "The Odd Couple"
+      }
+    },
+    {
+      "id": "ojydNb3Lrrs",
+      "label": "Pretty Woman",
+      "date": 1990,
+      "year": 1990,
+      "youtube": "https://www.youtube.com/watch?v=ojydNb3Lrrs",
+      "tooltip": {
+        "description": "Romantic comedy scene",
+        "genre": "Romantic Comedy",
+        "verified": true,
+        "embeddable": true,
+        "tmdbFixed": true,
+        "tmdbId": 114,
+        "movieTitle": "Pretty Woman"
+      }
+    },
+    {
+      "id": "PsD0NpFSADM",
+      "label": "(500) Days of Summer",
+      "date": 2009,
+      "year": 2009,
+      "youtube": "https://www.youtube.com/watch?v=PsD0NpFSADM",
+      "tooltip": {
+        "description": "Romantic comedy scene",
+        "genre": "Romantic Comedy",
+        "verified": true,
+        "embeddable": true,
+        "tmdbFixed": true,
+        "tmdbId": 19913,
+        "movieTitle": "(500) Days of Summer"
+      }
+    },
+    {
+      "id": "ne6p6MfLBxc",
+      "label": "Her",
+      "date": 2013,
+      "year": 2013,
+      "youtube": "https://www.youtube.com/watch?v=ne6p6MfLBxc",
+      "tooltip": {
+        "description": "Romantic comedy scene",
+        "genre": "Romantic Comedy",
+        "verified": true,
+        "embeddable": true,
+        "tmdbFixed": true,
+        "tmdbId": 152601,
+        "movieTitle": "Her"
+      }
+    },
+    {
+      "id": "9ItBvH5J6ss",
+      "label": "The Fault in Our Stars",
+      "date": 2014,
+      "year": 2014,
+      "youtube": "https://www.youtube.com/watch?v=9ItBvH5J6ss",
+      "tooltip": {
+        "description": "Romantic comedy scene",
+        "genre": "Romantic Comedy",
+        "verified": true,
+        "embeddable": true,
+        "tmdbFixed": true,
+        "tmdbId": 222935,
+        "movieTitle": "The Fault in Our Stars"
+      }
+    },
+    {
+      "id": "FUS_Q7FsfqU",
+      "label": "The Longest Ride",
+      "date": 2015,
+      "year": 2015,
+      "youtube": "https://www.youtube.com/watch?v=FUS_Q7FsfqU",
+      "tooltip": {
+        "description": "Romantic comedy scene",
+        "genre": "Romantic Comedy",
+        "verified": true,
+        "embeddable": true,
+        "tmdbFixed": true,
+        "tmdbId": 228205,
+        "movieTitle": "The Longest Ride"
+      }
+    },
+    {
+      "id": "ZQ-YX-5bAs0",
+      "label": "Crazy Rich Asians",
+      "date": 2018,
+      "year": 2018,
+      "youtube": "https://www.youtube.com/watch?v=ZQ-YX-5bAs0",
+      "tooltip": {
+        "description": "Romantic comedy scene",
+        "genre": "Romantic Comedy",
+        "verified": true,
+        "embeddable": true,
+        "tmdbFixed": true,
+        "tmdbId": 455207,
+        "movieTitle": "Crazy Rich Asians"
+      }
+    }
+  ]
+}

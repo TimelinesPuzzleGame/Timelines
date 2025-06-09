@@ -1,0 +1,335 @@
+{
+  "slug": "gibboanx-test-5",
+  "topic": "Gibboanx Test Puzzle 5",
+  "category": "Entertainment",
+  "subcategory": "Movies/TV",
+  "hideDates": false,
+  "showTooltips": true,
+  "variantSystem": {
+    "enabled": true,
+    "totalScenes": 9,
+    "selectionStrategy": "random_per_round"
+  },
+  "cards": [
+    {
+      "id": "gibboanx-test-5-1",
+      "label": "Risky Business",
+      "date": 1983,
+      "year": 1983,
+      "youtube": "https://www.youtube.com/watch?v=G2UVsyVLLcE&t=0s&end=105s",
+      "duration": 105,
+      "variants": [
+        {
+          "id": "G2UVsyVLLcE-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=G2UVsyVLLcE&t=0s&end=105s",
+          "sceneDescription": "Risky Business - Full Scene (0:00 - 1:45)",
+          "startTime": 0,
+          "endTime": 105
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Risky Business (1983) - Quality Score: 50/100",
+        "genre": "Classic Film",
+        "crawlerScore": 50,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 10,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T20:37:00.807Z"
+      },
+      "movie": "Risky Business"
+    },
+    {
+      "id": "gibboanx-test-5-2",
+      "label": "Role Models",
+      "date": 2008,
+      "year": 2008,
+      "youtube": "https://www.youtube.com/watch?v=TLUwDRGIZBM&t=0s&end=104s",
+      "duration": 104,
+      "variants": [
+        {
+          "id": "TLUwDRGIZBM-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=TLUwDRGIZBM&t=0s&end=104s",
+          "sceneDescription": "Role Models - Full Scene (0:00 - 1:44)",
+          "startTime": 0,
+          "endTime": 104
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Role Models (2008) - Quality Score: 45/100",
+        "genre": "Classic Film",
+        "crawlerScore": 45,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 0,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T20:37:00.807Z"
+      },
+      "movie": "Role Models"
+    },
+    {
+      "id": "gibboanx-test-5-3",
+      "label": "Serenity",
+      "date": 2005,
+      "year": 2005,
+      "youtube": "https://www.youtube.com/watch?v=U-NVs68X_S4&t=0s&end=122s",
+      "duration": 122,
+      "variants": [
+        {
+          "id": "U-NVs68X_S4-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=U-NVs68X_S4&t=0s&end=122s",
+          "sceneDescription": "Serenity - Part 1 (0:00 - 2:02)",
+          "startTime": 0,
+          "endTime": 122
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Serenity (2005) - Quality Score: 35/100",
+        "genre": "Classic Film",
+        "crawlerScore": 35,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 0,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T20:37:00.807Z"
+      },
+      "movie": "Serenity"
+    },
+    {
+      "id": "gibboanx-test-5-4",
+      "label": "Sin City",
+      "date": 2005,
+      "year": 2005,
+      "youtube": "https://www.youtube.com/watch?v=AAEJedBQk7s&t=0s&end=64s",
+      "duration": 64,
+      "variants": [
+        {
+          "id": "AAEJedBQk7s-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=AAEJedBQk7s&t=0s&end=64s",
+          "sceneDescription": "Sin City - Full Scene (0:00 - 1:04)",
+          "startTime": 0,
+          "endTime": 64
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Sin City (2005) - Quality Score: 35/100",
+        "genre": "Classic Film",
+        "crawlerScore": 35,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 0,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T20:37:00.807Z"
+      },
+      "movie": "Sin City"
+    },
+    {
+      "id": "gibboanx-test-5-5",
+      "label": "South Park: Bigger, Longer & Uncut",
+      "date": 1999,
+      "year": 1999,
+      "youtube": "https://www.youtube.com/watch?v=zsAOunxcfi8&t=0s&end=120s",
+      "duration": 258,
+      "variants": [
+        {
+          "id": "zsAOunxcfi8-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=zsAOunxcfi8&t=0s&end=120s",
+          "sceneDescription": "South Park: Bigger, Longer & Uncut - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "zsAOunxcfi8-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=zsAOunxcfi8&t=120s&end=258s",
+          "sceneDescription": "South Park: Bigger, Longer & Uncut - Part 2 (2:00 - 4:18)",
+          "startTime": 120,
+          "endTime": 258
+        }
+      ],
+      "variantCount": 2,
+      "tooltip": {
+        "description": "South Park: Bigger, Longer & Uncut (1999) - Quality Score: 35/100",
+        "genre": "Classic Film",
+        "crawlerScore": 35,
+        "breakdown": {
+          "titleRelevance": 20,
+          "sceneIndicators": 10,
+          "resolutionQuality": 10,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T20:37:00.807Z"
+      },
+      "movie": "South Park: Bigger, Longer & Uncut"
+    },
+    {
+      "id": "gibboanx-test-5-6",
+      "label": "Taxi to the Dark Side",
+      "date": 2007,
+      "year": 2007,
+      "youtube": "https://www.youtube.com/watch?v=KYLWFJqRXEs&t=0s&end=157s",
+      "duration": 157,
+      "variants": [
+        {
+          "id": "KYLWFJqRXEs-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=KYLWFJqRXEs&t=0s&end=157s",
+          "sceneDescription": "Taxi to the Dark Side - Part 1 (0:00 - 2:37)",
+          "startTime": 0,
+          "endTime": 157
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Taxi to the Dark Side (2007) - Quality Score: 35/100",
+        "genre": "Classic Film",
+        "crawlerScore": 35,
+        "breakdown": {
+          "titleRelevance": 20,
+          "sceneIndicators": 10,
+          "resolutionQuality": 10,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T20:37:00.807Z"
+      },
+      "movie": "Taxi to the Dark Side"
+    },
+    {
+      "id": "gibboanx-test-5-7",
+      "label": "Synecdoche, New York",
+      "date": 2008,
+      "year": 2008,
+      "youtube": "https://www.youtube.com/watch?v=EHeyI28UQqQ&t=0s&end=87s",
+      "duration": 87,
+      "variants": [
+        {
+          "id": "EHeyI28UQqQ-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=EHeyI28UQqQ&t=0s&end=87s",
+          "sceneDescription": "Synecdoche, New York - Full Scene (0:00 - 1:27)",
+          "startTime": 0,
+          "endTime": 87
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Synecdoche, New York (2008) - Quality Score: 35/100",
+        "genre": "Classic Film",
+        "crawlerScore": 35,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 0,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T20:37:00.807Z"
+      },
+      "movie": "Synecdoche, New York"
+    },
+    {
+      "id": "gibboanx-test-5-8",
+      "label": "Team America: World Police",
+      "date": 2004,
+      "year": 2004,
+      "youtube": "https://www.youtube.com/watch?v=Xi8mTM-z9Oc&t=0s&end=95s",
+      "duration": 95,
+      "variants": [
+        {
+          "id": "Xi8mTM-z9Oc-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=Xi8mTM-z9Oc&t=0s&end=95s",
+          "sceneDescription": "Team America: World Police - Full Scene (0:00 - 1:35)",
+          "startTime": 0,
+          "endTime": 95
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Team America: World Police (2004) - Quality Score: 45/100",
+        "genre": "Classic Film",
+        "crawlerScore": 45,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T20:37:00.807Z"
+      },
+      "movie": "Team America: World Police"
+    },
+    {
+      "id": "gibboanx-test-5-9",
+      "label": "The Butcher Boy",
+      "date": 1997,
+      "year": 1997,
+      "youtube": "https://www.youtube.com/watch?v=dqxvetCriTg&t=0s&end=120s",
+      "duration": 256,
+      "variants": [
+        {
+          "id": "dqxvetCriTg-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=dqxvetCriTg&t=0s&end=120s",
+          "sceneDescription": "The Butcher Boy - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "dqxvetCriTg-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=dqxvetCriTg&t=120s&end=256s",
+          "sceneDescription": "The Butcher Boy - Part 2 (2:00 - 4:16)",
+          "startTime": 120,
+          "endTime": 256
+        }
+      ],
+      "variantCount": 2,
+      "tooltip": {
+        "description": "The Butcher Boy (1997) - Quality Score: 40/100",
+        "genre": "Classic Film",
+        "crawlerScore": 40,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 0,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T20:37:00.807Z"
+      },
+      "movie": "The Butcher Boy"
+    }
+  ]
+}

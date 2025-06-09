@@ -1,0 +1,411 @@
+{
+  "slug": "gibboanx-test-13",
+  "topic": "Gibboanx Test Puzzle 13",
+  "category": "Entertainment",
+  "subcategory": "Movies/TV",
+  "hideDates": false,
+  "showTooltips": true,
+  "variantSystem": {
+    "enabled": true,
+    "totalScenes": 10,
+    "selectionStrategy": "random_per_round"
+  },
+  "cards": [
+    {
+      "id": "gibboanx-test-13-1",
+      "label": "I Love You Phillip Morris",
+      "date": 2009,
+      "year": 2009,
+      "youtube": "https://www.youtube.com/watch?v=h4t7iIVUpQw&t=0s&end=30s",
+      "duration": 30,
+      "variants": [
+        {
+          "id": "h4t7iIVUpQw-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=h4t7iIVUpQw&t=0s&end=30s",
+          "sceneDescription": "I Love You Phillip Morris - Full Scene (0:00 - 0:30)",
+          "startTime": 0,
+          "endTime": 30
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "I Love You Phillip Morris (2009) - Quality Score: 52/100",
+        "genre": "Classic Film",
+        "crawlerScore": 52,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 20,
+          "resolutionQuality": 0,
+          "popularityFactor": 2,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:18:33.265Z"
+      },
+      "movie": "I Love You Phillip Morris"
+    },
+    {
+      "id": "gibboanx-test-13-2",
+      "label": "Rio Bravo",
+      "date": 1959,
+      "year": 1959,
+      "youtube": "https://www.youtube.com/watch?v=TfvrwGfba6I&t=0s&end=120s",
+      "duration": 368,
+      "variants": [
+        {
+          "id": "TfvrwGfba6I-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=TfvrwGfba6I&t=0s&end=120s",
+          "sceneDescription": "Rio Bravo - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "TfvrwGfba6I-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=TfvrwGfba6I&t=120s&end=240s",
+          "sceneDescription": "Rio Bravo - Part 2 (2:00 - 4:00)",
+          "startTime": 120,
+          "endTime": 240
+        },
+        {
+          "id": "TfvrwGfba6I-variant-2",
+          "youtube": "https://www.youtube.com/watch?v=TfvrwGfba6I&t=240s&end=368s",
+          "sceneDescription": "Rio Bravo - Part 3 (4:00 - 6:08)",
+          "startTime": 240,
+          "endTime": 368
+        }
+      ],
+      "variantCount": 3,
+      "tooltip": {
+        "description": "Rio Bravo (1959) - Quality Score: 45/100",
+        "genre": "Classic Film",
+        "crawlerScore": 45,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:18:33.265Z"
+      },
+      "movie": "Rio Bravo"
+    },
+    {
+      "id": "gibboanx-test-13-3",
+      "label": "Kind Hearts and Coronets",
+      "date": 1949,
+      "year": 1949,
+      "youtube": "https://www.youtube.com/watch?v=DAA41TwZz1w&t=0s&end=120s",
+      "duration": 222,
+      "variants": [
+        {
+          "id": "DAA41TwZz1w-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=DAA41TwZz1w&t=0s&end=120s",
+          "sceneDescription": "Kind Hearts and Coronets - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "DAA41TwZz1w-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=DAA41TwZz1w&t=120s&end=222s",
+          "sceneDescription": "Kind Hearts and Coronets - Part 2 (2:00 - 3:42)",
+          "startTime": 120,
+          "endTime": 222
+        }
+      ],
+      "variantCount": 2,
+      "tooltip": {
+        "description": "Kind Hearts and Coronets (1949) - Quality Score: 42/100",
+        "genre": "Classic Film",
+        "crawlerScore": 42,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 2,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:18:33.265Z"
+      },
+      "movie": "Kind Hearts and Coronets"
+    },
+    {
+      "id": "gibboanx-test-13-4",
+      "label": "Choke",
+      "date": 2008,
+      "year": 2008,
+      "youtube": "https://www.youtube.com/watch?v=rrR9fZIkl8Y&t=0s&end=45s",
+      "duration": 45,
+      "variants": [
+        {
+          "id": "rrR9fZIkl8Y-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=rrR9fZIkl8Y&t=0s&end=45s",
+          "sceneDescription": "Choke - Full Scene (0:00 - 0:45)",
+          "startTime": 0,
+          "endTime": 45
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Choke (2008) - Quality Score: 42/100",
+        "genre": "Classic Film",
+        "crawlerScore": 42,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 2,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:18:33.265Z"
+      },
+      "movie": "Choke"
+    },
+    {
+      "id": "gibboanx-test-13-5",
+      "label": "Body Heat",
+      "date": 1981,
+      "year": 1981,
+      "youtube": "https://www.youtube.com/watch?v=RNrdomld0sA&t=0s&end=120s",
+      "duration": 203,
+      "variants": [
+        {
+          "id": "RNrdomld0sA-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=RNrdomld0sA&t=0s&end=120s",
+          "sceneDescription": "Body Heat - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "RNrdomld0sA-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=RNrdomld0sA&t=120s&end=203s",
+          "sceneDescription": "Body Heat - Part 2 (2:00 - 3:23)",
+          "startTime": 120,
+          "endTime": 203
+        }
+      ],
+      "variantCount": 2,
+      "tooltip": {
+        "description": "Body Heat (1981) - Quality Score: 40/100",
+        "genre": "Classic Film",
+        "crawlerScore": 40,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 0,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:18:33.265Z"
+      },
+      "movie": "Body Heat"
+    },
+    {
+      "id": "gibboanx-test-13-6",
+      "label": "The Big Red One",
+      "date": 1980,
+      "year": 1980,
+      "youtube": "https://www.youtube.com/watch?v=GvBvIG13NY8&t=0s&end=63s",
+      "duration": 63,
+      "variants": [
+        {
+          "id": "GvBvIG13NY8-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=GvBvIG13NY8&t=0s&end=63s",
+          "sceneDescription": "The Big Red One - Full Scene (0:00 - 1:03)",
+          "startTime": 0,
+          "endTime": 63
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "The Big Red One (1980) - Quality Score: 40/100",
+        "genre": "Classic Film",
+        "crawlerScore": 40,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 0,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:18:33.265Z"
+      },
+      "movie": "The Big Red One"
+    },
+    {
+      "id": "gibboanx-test-13-7",
+      "label": "The Rover",
+      "date": 2014,
+      "year": 2014,
+      "youtube": "https://www.youtube.com/watch?v=6_5rouEoTuY&t=0s&end=179s",
+      "duration": 179,
+      "variants": [
+        {
+          "id": "6_5rouEoTuY-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=6_5rouEoTuY&t=0s&end=179s",
+          "sceneDescription": "The Rover - Part 1 (0:00 - 2:59)",
+          "startTime": 0,
+          "endTime": 179
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "The Rover (2014) - Quality Score: 42/100",
+        "genre": "Classic Film",
+        "crawlerScore": 42,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 2,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:18:33.265Z"
+      },
+      "movie": "The Rover"
+    },
+    {
+      "id": "gibboanx-test-13-8",
+      "label": "The Contender",
+      "date": 2000,
+      "year": 2000,
+      "youtube": "https://www.youtube.com/watch?v=zReLTMukEOU&t=0s&end=57s",
+      "duration": 57,
+      "variants": [
+        {
+          "id": "zReLTMukEOU-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=zReLTMukEOU&t=0s&end=57s",
+          "sceneDescription": "The Contender - Full Scene (0:00 - 0:57)",
+          "startTime": 0,
+          "endTime": 57
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "The Contender (2000) - Quality Score: 42/100",
+        "genre": "Classic Film",
+        "crawlerScore": 42,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 2,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:18:33.265Z"
+      },
+      "movie": "The Contender"
+    },
+    {
+      "id": "gibboanx-test-13-9",
+      "label": "Shaolin Soccer",
+      "date": 2001,
+      "year": 2001,
+      "youtube": "https://www.youtube.com/watch?v=p9X7V0LKxwY&t=0s&end=120s",
+      "duration": 604,
+      "variants": [
+        {
+          "id": "p9X7V0LKxwY-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=p9X7V0LKxwY&t=0s&end=120s",
+          "sceneDescription": "Shaolin Soccer - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "p9X7V0LKxwY-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=p9X7V0LKxwY&t=120s&end=240s",
+          "sceneDescription": "Shaolin Soccer - Part 2 (2:00 - 4:00)",
+          "startTime": 120,
+          "endTime": 240
+        },
+        {
+          "id": "p9X7V0LKxwY-variant-2",
+          "youtube": "https://www.youtube.com/watch?v=p9X7V0LKxwY&t=240s&end=360s",
+          "sceneDescription": "Shaolin Soccer - Part 3 (4:00 - 6:00)",
+          "startTime": 240,
+          "endTime": 360
+        },
+        {
+          "id": "p9X7V0LKxwY-variant-3",
+          "youtube": "https://www.youtube.com/watch?v=p9X7V0LKxwY&t=360s&end=480s",
+          "sceneDescription": "Shaolin Soccer - Part 4 (6:00 - 8:00)",
+          "startTime": 360,
+          "endTime": 480
+        },
+        {
+          "id": "p9X7V0LKxwY-variant-4",
+          "youtube": "https://www.youtube.com/watch?v=p9X7V0LKxwY&t=480s&end=604s",
+          "sceneDescription": "Shaolin Soccer - Part 5 (8:00 - 10:04)",
+          "startTime": 480,
+          "endTime": 604
+        }
+      ],
+      "variantCount": 5,
+      "tooltip": {
+        "description": "Shaolin Soccer (2001) - Quality Score: 50/100",
+        "genre": "Classic Film",
+        "crawlerScore": 50,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 0,
+          "resolutionQuality": 10,
+          "popularityFactor": 10,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:18:33.265Z"
+      },
+      "movie": "Shaolin Soccer"
+    },
+    {
+      "id": "gibboanx-test-13-10",
+      "label": "The Road Warrior",
+      "date": 1981,
+      "year": 1981,
+      "youtube": "https://www.youtube.com/watch?v=y75h8_QyOlg&t=0s&end=173s",
+      "duration": 173,
+      "variants": [
+        {
+          "id": "y75h8_QyOlg-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=y75h8_QyOlg&t=0s&end=173s",
+          "sceneDescription": "The Road Warrior - Part 1 (0:00 - 2:53)",
+          "startTime": 0,
+          "endTime": 173
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "The Road Warrior (1981) - Quality Score: 40/100",
+        "genre": "Classic Film",
+        "crawlerScore": 40,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 0,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:18:33.265Z"
+      },
+      "movie": "The Road Warrior"
+    }
+  ]
+}

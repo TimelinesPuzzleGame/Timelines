@@ -1,0 +1,329 @@
+{
+  "slug": "gibboanx-test-8",
+  "topic": "Gibboanx Test Puzzle 8",
+  "category": "Entertainment",
+  "subcategory": "Movies/TV",
+  "hideDates": false,
+  "showTooltips": true,
+  "variantSystem": {
+    "enabled": true,
+    "totalScenes": 8,
+    "selectionStrategy": "random_per_round"
+  },
+  "cards": [
+    {
+      "id": "gibboanx-test-8-2",
+      "label": "Buffalo '66",
+      "date": 1998,
+      "year": 1998,
+      "youtube": "https://www.youtube.com/watch?v=MqLAxMbLTy4&t=0s&end=120s",
+      "duration": 217,
+      "variants": [
+        {
+          "id": "MqLAxMbLTy4-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=MqLAxMbLTy4&t=0s&end=120s",
+          "sceneDescription": "Buffalo '66 - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "MqLAxMbLTy4-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=MqLAxMbLTy4&t=120s&end=217s",
+          "sceneDescription": "Buffalo '66 - Part 2 (2:00 - 3:37)",
+          "startTime": 120,
+          "endTime": 217
+        }
+      ],
+      "variantCount": 2,
+      "tooltip": {
+        "description": "Buffalo '66 (1998) - Quality Score: 45/100",
+        "genre": "Classic Film",
+        "crawlerScore": 45,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 0,
+          "resolutionQuality": 10,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T20:45:20.210Z"
+      },
+      "movie": "Buffalo '66"
+    },
+    {
+      "id": "gibboanx-test-8-3",
+      "label": "Eden Lake",
+      "date": 2008,
+      "year": 2008,
+      "youtube": "https://www.youtube.com/watch?v=coO7s--Fvc8&t=0s&end=47s",
+      "duration": 47,
+      "variants": [
+        {
+          "id": "coO7s--Fvc8-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=coO7s--Fvc8&t=0s&end=47s",
+          "sceneDescription": "Eden Lake - Full Scene (0:00 - 0:47)",
+          "startTime": 0,
+          "endTime": 47
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Eden Lake (2008) - Quality Score: 42/100",
+        "genre": "Classic Film",
+        "crawlerScore": 42,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 2,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T20:45:20.210Z"
+      },
+      "movie": "Eden Lake"
+    },
+    {
+      "id": "gibboanx-test-8-4",
+      "label": "Fish Tank",
+      "date": 2009,
+      "year": 2009,
+      "youtube": "https://www.youtube.com/watch?v=UoofjmU6RW4&t=0s&end=143s",
+      "duration": 143,
+      "variants": [
+        {
+          "id": "UoofjmU6RW4-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=UoofjmU6RW4&t=0s&end=143s",
+          "sceneDescription": "Fish Tank - Part 1 (0:00 - 2:23)",
+          "startTime": 0,
+          "endTime": 143
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Fish Tank (2009) - Quality Score: 42/100",
+        "genre": "Classic Film",
+        "crawlerScore": 42,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 2,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T20:45:20.210Z"
+      },
+      "movie": "Fish Tank"
+    },
+    {
+      "id": "gibboanx-test-8-5",
+      "label": "Interview with the Vampire",
+      "date": 1994,
+      "year": 1994,
+      "youtube": "https://www.youtube.com/watch?v=WI_c--ZFzl4&t=0s&end=107s",
+      "duration": 107,
+      "variants": [
+        {
+          "id": "WI_c--ZFzl4-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=WI_c--ZFzl4&t=0s&end=107s",
+          "sceneDescription": "Interview with the Vampire - Full Scene (0:00 - 1:47)",
+          "startTime": 0,
+          "endTime": 107
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Interview with the Vampire (1994) - Quality Score: 40/100",
+        "genre": "Classic Film",
+        "crawlerScore": 40,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 0,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T20:45:20.210Z"
+      },
+      "movie": "Interview with the Vampire"
+    },
+    {
+      "id": "gibboanx-test-8-6",
+      "label": "Jackass Number Two",
+      "date": 2006,
+      "year": 2006,
+      "youtube": "https://www.youtube.com/watch?v=GnurdU8--Lw&t=0s&end=120s",
+      "duration": 192,
+      "variants": [
+        {
+          "id": "GnurdU8--Lw-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=GnurdU8--Lw&t=0s&end=120s",
+          "sceneDescription": "Jackass Number Two - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "GnurdU8--Lw-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=GnurdU8--Lw&t=120s&end=192s",
+          "sceneDescription": "Jackass Number Two - Part 2 (2:00 - 3:12)",
+          "startTime": 120,
+          "endTime": 192
+        }
+      ],
+      "variantCount": 2,
+      "tooltip": {
+        "description": "Jackass Number Two (2006) - Quality Score: 40/100",
+        "genre": "Classic Film",
+        "crawlerScore": 40,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 0,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T20:45:20.210Z"
+      },
+      "movie": "Jackass Number Two"
+    },
+    {
+      "id": "gibboanx-test-8-7",
+      "label": "Lords of Dogtown",
+      "date": 2005,
+      "year": 2005,
+      "youtube": "https://www.youtube.com/watch?v=Hd-gwkiAbpg&t=0s&end=120s",
+      "duration": 214,
+      "variants": [
+        {
+          "id": "Hd-gwkiAbpg-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=Hd-gwkiAbpg&t=0s&end=120s",
+          "sceneDescription": "Lords of Dogtown - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "Hd-gwkiAbpg-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=Hd-gwkiAbpg&t=120s&end=214s",
+          "sceneDescription": "Lords of Dogtown - Part 2 (2:00 - 3:34)",
+          "startTime": 120,
+          "endTime": 214
+        }
+      ],
+      "variantCount": 2,
+      "tooltip": {
+        "description": "Lords of Dogtown (2005) - Quality Score: 45/100",
+        "genre": "Classic Film",
+        "crawlerScore": 45,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T20:45:20.210Z"
+      },
+      "movie": "Lords of Dogtown"
+    },
+    {
+      "id": "gibboanx-test-8-9",
+      "label": "Night of the Living Dead",
+      "date": 1968,
+      "year": 1968,
+      "youtube": "https://www.youtube.com/watch?v=gWocHshxmZE&t=0s&end=120s",
+      "duration": 253,
+      "variants": [
+        {
+          "id": "gWocHshxmZE-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=gWocHshxmZE&t=0s&end=120s",
+          "sceneDescription": "Night of the Living Dead - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "gWocHshxmZE-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=gWocHshxmZE&t=120s&end=253s",
+          "sceneDescription": "Night of the Living Dead - Part 2 (2:00 - 4:13)",
+          "startTime": 120,
+          "endTime": 253
+        }
+      ],
+      "variantCount": 2,
+      "tooltip": {
+        "description": "Night of the Living Dead (1968) - Quality Score: 50/100",
+        "genre": "Classic Film",
+        "crawlerScore": 50,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 0,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T20:45:20.210Z"
+      },
+      "movie": "Night of the Living Dead"
+    },
+    {
+      "id": "gibboanx-test-8-10",
+      "label": "Nymphomaniac: Vol. I",
+      "date": 2013,
+      "year": 2013,
+      "youtube": "https://www.youtube.com/watch?v=l30dMGGvzO4&t=0s&end=120s",
+      "duration": 364,
+      "variants": [
+        {
+          "id": "l30dMGGvzO4-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=l30dMGGvzO4&t=0s&end=120s",
+          "sceneDescription": "Nymphomaniac: Vol. I - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "l30dMGGvzO4-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=l30dMGGvzO4&t=120s&end=240s",
+          "sceneDescription": "Nymphomaniac: Vol. I - Part 2 (2:00 - 4:00)",
+          "startTime": 120,
+          "endTime": 240
+        },
+        {
+          "id": "l30dMGGvzO4-variant-2",
+          "youtube": "https://www.youtube.com/watch?v=l30dMGGvzO4&t=240s&end=364s",
+          "sceneDescription": "Nymphomaniac: Vol. I - Part 3 (4:00 - 6:04)",
+          "startTime": 240,
+          "endTime": 364
+        }
+      ],
+      "variantCount": 3,
+      "tooltip": {
+        "description": "Nymphomaniac: Vol. I (2013) - Quality Score: 45/100",
+        "genre": "Classic Film",
+        "crawlerScore": 45,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 0,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T20:45:20.210Z"
+      },
+      "movie": "Nymphomaniac: Vol. I"
+    }
+  ]
+}

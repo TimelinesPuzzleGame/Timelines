@@ -1,0 +1,90 @@
+{
+  "slug": "user-1747608168000",
+  "topic": "Blink 182",
+  "category": "Entertainment",
+  "subcategory": "Music",
+  "showTooltips": false,
+  "hideDates": false,
+  "cards": [
+    {
+      "label": "Dammit – Blink 182",
+      "date": 1997,
+      "id": "ugc-1747608167889-0",
+      "deezer": {
+        "trackId": 127354201
+      }
+    },
+    {
+      "label": "What's My Age Again? – Blink 182",
+      "date": 1999,
+      "id": "ugc-1747608167922-1",
+      "deezer": {
+        "trackId": 552496552
+      }
+    },
+    {
+      "label": "All the Small Things – Blink 182",
+      "date": 1999,
+      "id": "ugc-1747608167997-2",
+      "deezer": {
+        "trackId": 127354207
+      }
+    },
+    {
+      "label": "Adam's Song – Blink 182",
+      "date": 2000,
+      "id": "ugc-1747608167879-3",
+      "deezer": {
+        "trackId": 127354209
+      }
+    },
+    {
+      "label": "First Date – Blink 182",
+      "date": 2001,
+      "id": "ugc-1747608167841-4",
+      "deezer": {
+        "trackId": 125173830
+      }
+    },
+    {
+      "label": "Feeling This – Blink 182",
+      "date": 2003,
+      "id": "ugc-1747608167850-5",
+      "deezer": {
+        "trackId": 127673043
+      }
+    },
+    {
+      "label": "I Miss You – Blink 182",
+      "date": 2003,
+      "id": "ugc-1747608167951-6",
+      "deezer": {
+        "trackId": 127673047
+      }
+    },
+    {
+      "label": "Down – Blink 182",
+      "date": 2004,
+      "id": "ugc-1747608167922-7",
+      "deezer": {
+        "trackId": 127673055
+      }
+    },
+    {
+      "label": "Always – Blink 182",
+      "date": 2004,
+      "id": "ugc-1747608167845-8",
+      "deezer": {
+        "trackId": 127673063
+      }
+    },
+    {
+      "label": "Up All Night – Blink 182",
+      "date": 2011,
+      "id": "ugc-1747608167864-9",
+      "deezer": {
+        "trackId": 13787959
+      }
+    }
+  ]
+}

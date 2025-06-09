@@ -1,0 +1,399 @@
+{
+  "slug": "best-horror-scenes",
+  "topic": "Best Horror Scenes",
+  "category": "Entertainment",
+  "subcategory": "Movies/TV",
+  "showTooltips": true,
+  "cards": [
+    {
+      "id": "LjLamj-b0I8",
+      "label": "Psycho (1960) - Shower Scene",
+      "date": 1960,
+      "youtube": "https://www.youtube.com/watch?v=LjLamj-b0I8",
+      "tooltip": {
+        "description": "The iconic shower scene from Alfred Hitchcock's Psycho"
+      },
+      "year": 1960
+    },
+    {
+      "id": "CMbI7DmLCNI",
+      "label": "The Shining (1980) - Hotel Corridor Scene",
+      "date": 1980,
+      "youtube": "https://www.youtube.com/watch?v=CMbI7DmLCNI",
+      "tooltip": {
+        "description": "Iconic horror scene from Stanley Kubrick's The Shining"
+      },
+      "year": 1980
+    },
+    {
+      "id": "1s9Yln0YwCw",
+      "label": "The Exorcist (1973) - Head Spin Scene",
+      "date": 1973,
+      "youtube": "https://www.youtube.com/watch?v=1s9Yln0YwCw",
+      "tooltip": {
+        "description": "The terrifying head spinning scene"
+      },
+      "year": 1973
+    },
+    {
+      "id": "DLGrXGEMOSo",
+      "label": "The Texas Chain Saw Massacre (1974) - First Kill",
+      "date": 1974,
+      "youtube": "https://www.youtube.com/watch?v=DLGrXGEMOSo",
+      "tooltip": {
+        "description": "Leatherface's shocking first appearance"
+      },
+      "year": 1974
+    },
+    {
+      "id": "E3YGtQ40Qvs",
+      "label": "Jaws (1975) - First Attack",
+      "date": 1975,
+      "youtube": "https://www.youtube.com/watch?v=E3YGtQ40Qvs",
+      "tooltip": {
+        "description": "The opening beach attack that made people afraid of the water"
+      },
+      "year": 1975
+    },
+    {
+      "id": "0cVlTeIATBs",
+      "label": "Carrie (1976) - Prom Scene",
+      "date": 1976,
+      "youtube": "https://www.youtube.com/watch?v=0cVlTeIATBs",
+      "tooltip": {
+        "description": "The bloody prom night revenge"
+      },
+      "year": 1976
+    },
+    {
+      "id": "DGNVvPDNzXE",
+      "label": "Halloween (1978) - Michael Myers Stalking",
+      "date": 1978,
+      "youtube": "https://www.youtube.com/watch?v=DGNVvPDNzXE",
+      "tooltip": {
+        "description": "Michael Myers stalks Laurie Strode"
+      },
+      "year": 1978
+    },
+    {
+      "id": "AWm_mkbdpCA",
+      "label": "Dawn of the Dead (1978) - Mall Attack",
+      "date": 1978,
+      "youtube": "https://www.youtube.com/watch?v=AWm_mkbdpCA",
+      "tooltip": {
+        "description": "Zombies overrun the shopping mall"
+      },
+      "year": 1978
+    },
+    {
+      "id": "jEDaVHmw7r4",
+      "label": "Alien (1979) - Chestburster Scene",
+      "date": 1979,
+      "youtube": "https://www.youtube.com/watch?v=jEDaVHmw7r4",
+      "tooltip": {
+        "description": "The shocking dinner table scene"
+      },
+      "year": 1979
+    },
+    {
+      "id": "WryZ_RnGddU",
+      "label": "The Shining (1980) - Here's Johnny",
+      "date": 1980,
+      "youtube": "https://www.youtube.com/watch?v=WryZ_RnGddU",
+      "tooltip": {
+        "description": "Jack breaks through the bathroom door"
+      },
+      "year": 1980
+    },
+    {
+      "id": "aDV1PiIaVjI",
+      "label": "Friday the 13th (1980) - Final Jump Scare",
+      "date": 1980,
+      "youtube": "https://www.youtube.com/watch?v=aDV1PiIaVjI",
+      "tooltip": {
+        "description": "The shocking ending at the lake"
+      },
+      "year": 1980
+    },
+    {
+      "id": "0A80j2BuMaU",
+      "label": "Evil Dead (1981) - Tree Attack",
+      "date": 1981,
+      "youtube": "https://www.youtube.com/watch?v=0A80j2BuMaU",
+      "tooltip": {
+        "description": "The infamous forest scene"
+      },
+      "year": 1981
+    },
+    {
+      "id": "vgSn0SbQJQI",
+      "label": "The Thing (1982) - Dog Transformation",
+      "date": 1982,
+      "youtube": "https://www.youtube.com/watch?v=vgSn0SbQJQI",
+      "tooltip": {
+        "description": "The horrifying dog kennel scene"
+      },
+      "year": 1982
+    },
+    {
+      "id": "EsKoxi12jKI",
+      "label": "A Nightmare on Elm Street (1984) - Tina's Death",
+      "date": 1984,
+      "youtube": "https://www.youtube.com/watch?v=EsKoxi12jKI",
+      "tooltip": {
+        "description": "Freddy's first kill on the ceiling"
+      },
+      "year": 1984
+    },
+    {
+      "id": "lHya8HGuNSk",
+      "label": "Hellraiser (1987) - Cenobites Arrival",
+      "date": 1987,
+      "youtube": "https://www.youtube.com/watch?v=lHya8HGuNSk",
+      "tooltip": {
+        "description": "We have such sights to show you"
+      },
+      "year": 1987
+    },
+    {
+      "id": "bPDIwCYbg-k",
+      "label": "Child's Play (1988) - Chucky Comes Alive",
+      "date": 1988,
+      "youtube": "https://www.youtube.com/watch?v=bPDIwCYbg-k",
+      "tooltip": {
+        "description": "The doll reveals its true nature"
+      },
+      "year": 1988
+    },
+    {
+      "id": "szSncp5X5_I",
+      "label": "The Silence of the Lambs (1991) - Night Vision",
+      "date": 1991,
+      "youtube": "https://www.youtube.com/watch?v=szSncp5X5_I",
+      "tooltip": {
+        "description": "Buffalo Bill stalks Clarice in the dark"
+      },
+      "year": 1991
+    },
+    {
+      "id": "7Rcgq0fDDB0",
+      "label": "Candyman (1992) - Mirror Scene",
+      "date": 1992,
+      "youtube": "https://www.youtube.com/watch?v=7Rcgq0fDDB0",
+      "tooltip": {
+        "description": "Helen meets Candyman"
+      },
+      "year": 1992
+    },
+    {
+      "id": "G3lSvJ5RXKA",
+      "label": "Scream (1996) - Opening Kill",
+      "date": 1996,
+      "youtube": "https://www.youtube.com/watch?v=G3lSvJ5RXKA",
+      "tooltip": {
+        "description": "Drew Barrymore's iconic opening scene"
+      },
+      "year": 1996
+    },
+    {
+      "id": "OSqkRU8V2iA",
+      "label": "The Blair Witch Project (1999) - Final Scene",
+      "date": 1999,
+      "youtube": "https://www.youtube.com/watch?v=OSqkRU8V2iA",
+      "tooltip": {
+        "description": "The terrifying basement ending"
+      },
+      "year": 1999
+    },
+    {
+      "id": "ZekDtoTjpTM",
+      "label": "The Sixth Sense (1999) - I See Dead People",
+      "date": 1999,
+      "youtube": "https://www.youtube.com/watch?v=ZekDtoTjpTM",
+      "tooltip": {
+        "description": "Cole's revelation to Malcolm"
+      },
+      "year": 1999
+    },
+    {
+      "id": "meJckIFWrpQ",
+      "label": "The Ring (2002) - TV Crawl Scene",
+      "date": 2002,
+      "youtube": "https://www.youtube.com/watch?v=meJckIFWrpQ",
+      "tooltip": {
+        "description": "Samara crawls out of the TV"
+      },
+      "year": 2002
+    },
+    {
+      "id": "H6eLHcqYSpY",
+      "label": "28 Days Later (2002) - Church Scene",
+      "date": 2002,
+      "youtube": "https://www.youtube.com/watch?v=H6eLHcqYSpY",
+      "tooltip": {
+        "description": "First encounter with the infected"
+      },
+      "year": 2002
+    },
+    {
+      "id": "yrXU5iHvXwI",
+      "label": "Saw (2004) - Reverse Bear Trap",
+      "date": 2004,
+      "youtube": "https://www.youtube.com/watch?v=yrXU5iHvXwI",
+      "tooltip": {
+        "description": "Amanda's test"
+      },
+      "year": 2004
+    },
+    {
+      "id": "HzNvkNZpxZk",
+      "label": "The Descent (2005) - First Crawler",
+      "date": 2005,
+      "youtube": "https://www.youtube.com/watch?v=HzNvkNZpxZk",
+      "tooltip": {
+        "description": "The reveal of the cave creatures"
+      },
+      "year": 2005
+    },
+    {
+      "id": "sYueTQt7WV8",
+      "label": "Paranormal Activity (2007) - Bedroom Dragging",
+      "date": 2007,
+      "youtube": "https://www.youtube.com/watch?v=sYueTQt7WV8",
+      "tooltip": {
+        "description": "Katie is dragged from bed"
+      },
+      "year": 2007
+    },
+    {
+      "id": "MBv_YRLgCrM",
+      "label": "Let the Right One In (2008) - Pool Scene",
+      "date": 2008,
+      "youtube": "https://www.youtube.com/watch?v=MBv_YRLgCrM",
+      "tooltip": {
+        "description": "Eli saves Oskar"
+      },
+      "year": 2008
+    },
+    {
+      "id": "ub1q8pXb5F4",
+      "label": "Insidious (2010) - Demon Behind",
+      "date": 2010,
+      "youtube": "https://www.youtube.com/watch?v=ub1q8pXb5F4",
+      "tooltip": {
+        "description": "The red-faced demon appears"
+      },
+      "year": 2010
+    },
+    {
+      "id": "EjYaXKE8d1A",
+      "label": "Sinister (2012) - Lawn Mower",
+      "date": 2012,
+      "youtube": "https://www.youtube.com/watch?v=EjYaXKE8d1A",
+      "tooltip": {
+        "description": "The disturbing home movie"
+      },
+      "year": 2012
+    },
+    {
+      "id": "h6eYVZD9yqI",
+      "label": "The Conjuring (2013) - Hide and Clap",
+      "date": 2013,
+      "youtube": "https://www.youtube.com/watch?v=h6eYVZD9yqI",
+      "tooltip": {
+        "description": "The basement clapping game"
+      },
+      "year": 2013
+    },
+    {
+      "id": "sqjHnG7sMbw",
+      "label": "The Babadook (2014) - First Appearance",
+      "date": 2014,
+      "youtube": "https://www.youtube.com/watch?v=sqjHnG7sMbw",
+      "tooltip": {
+        "description": "The Babadook reveals itself"
+      },
+      "year": 2014
+    },
+    {
+      "id": "DzfpyUB60YY",
+      "label": "It Follows (2014) - Tall Man",
+      "date": 2014,
+      "youtube": "https://www.youtube.com/watch?v=DzfpyUB60YY",
+      "tooltip": {
+        "description": "The entity enters the house"
+      },
+      "year": 2014
+    },
+    {
+      "id": "uOVdNvr5vKs",
+      "label": "The Witch (2015) - Black Phillip",
+      "date": 2015,
+      "youtube": "https://www.youtube.com/watch?v=uOVdNvr5vKs",
+      "tooltip": {
+        "description": "Wouldst thou like to live deliciously?"
+      },
+      "year": 2015
+    },
+    {
+      "id": "VllcgXSIJkE",
+      "label": "Don't Breathe (2016) - Basement Reveal",
+      "date": 2016,
+      "youtube": "https://www.youtube.com/watch?v=VllcgXSIJkE",
+      "tooltip": {
+        "description": "The horrifying discovery"
+      },
+      "year": 2016
+    },
+    {
+      "id": "zH0gPSX1vTI",
+      "label": "Get Out (2017) - The Sunken Place",
+      "date": 2017,
+      "youtube": "https://www.youtube.com/watch?v=zH0gPSX1vTI",
+      "tooltip": {
+        "description": "Chris falls into the sunken place"
+      },
+      "year": 2017
+    },
+    {
+      "id": "FKFDkpHCQz0",
+      "label": "It (2017) - Georgie's Death",
+      "date": 2017,
+      "youtube": "https://www.youtube.com/watch?v=FKFDkpHCQz0",
+      "tooltip": {
+        "description": "Pennywise meets Georgie"
+      },
+      "year": 2017
+    },
+    {
+      "id": "v5DW4K8wqmM",
+      "label": "A Quiet Place (2018) - Nail Scene",
+      "date": 2018,
+      "youtube": "https://www.youtube.com/watch?v=v5DW4K8wqmM",
+      "tooltip": {
+        "description": "Evelyn steps on the nail"
+      },
+      "year": 2018
+    },
+    {
+      "id": "ILXU_1QHqy4",
+      "label": "Hereditary (2018) - Car Scene",
+      "date": 2018,
+      "youtube": "https://www.youtube.com/watch?v=ILXU_1QHqy4",
+      "tooltip": {
+        "description": "The shocking accident"
+      },
+      "year": 2018
+    },
+    {
+      "id": "1Vnghdsjmd0",
+      "label": "Midsommar (2019) - Cliff Scene",
+      "date": 2019,
+      "youtube": "https://www.youtube.com/watch?v=1Vnghdsjmd0",
+      "tooltip": {
+        "description": "The Ättestupa ritual"
+      },
+      "year": 2019
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "slug": "iconic-movie-dance-scenes",
+  "topic": "Iconic Movie Dance Scenes",
+  "category": "Entertainment",
+  "subcategory": "Movies/TV",
+  "hideDates": false,
+  "cards": [
+    {
+      "id": "anchorsAweigh",
+      "label": "Anchors Aweigh – Gene Kelly and Jerry",
+      "date": 1945,
+      "youtube": "https://www.youtube.com/watch?v=Ddm8l1VlFgg&t=80s"
+    },
+     {
+      "id": "rockyHorrorPictureShow",
+      "label": "Rocky Horror Picture Show – Tim Curry and Susan Sarandon",
+      "date": 1975,
+      "youtube": "https://www.youtube.com/watch?v=YC1E8yVJIS4&t=53s"
+    },
+         {
+      "id": "titanic",
+      "label": "Titanic – Leonardo DiCaprio and Kate Winslet",
+      "date": 1997,
+      "youtube": "https://www.youtube.com/watch?v=vaU0o52Hy2g&t=124s"
+    },
+    {
+      "id": "houseParty",
+      "label": "House Party – Kid 'n Play",
+      "date": 1990,
+      "youtube": "https://www.youtube.com/watch?v=NLpzg-QLE-o&t=145s"
+    },
+     {
+      "id": "saturdayNightFever",
+      "label": "Saturday Night Fever – John Travolta",
+      "date": 1977,
+      "youtube": "https://www.youtube.com/watch?v=LUID0jSh2Ic&t=92s"
+    },
+         {
+      "id": "breakin",
+      "label": "Breakin' – Turbo and Ozone",
+      "date": 1984,
+      "youtube": "https://www.youtube.com/watch?v=yEoaN9qIxFs&t=37s"
+    },
+    {
+      "id": "austinpowers1",
+      "label": "Austin Powers Goldmember – Mike Myers",
+      "date": 2002,
+      "youtube": "https://www.youtube.com/watch?v=rXRzcRi2frU&t=1289s&end=1404s"
+    },
+    {
+      "id": "stormyWeather",
+      "label": "Stormy Weather – Cab Calloway and Nicholas Brothers",
+      "date": 1943,
+      "youtube": "https://www.youtube.com/watch?v=_8yGGtVKrD8&t=109s"
+    },
+        {
+      "id": "napoleonDynamite",
+      "label": "Napoleon Dynamite – Jon Heder",
+      "date": 2004,
+      "youtube": "https://www.youtube.com/watch?v=BiAwpYIkRmU&t=42s"
+    },
+    {
+      "id": "dirtyDancing",
+      "label": "Dirty Dancing – Patrick Swayze and Jennifer Grey",
+      "date": 1987,
+      "youtube": "https://www.youtube.com/watch?v=XINddkzfTzM&t=159s"
+    },
+    {
+      "id": "SingingInTheRain",
+      "label": "Singing in the Rain – Gene Kelly",
+      "date": 1952,
+      "youtube": "https://www.youtube.com/watch?v=gAI6hhsDNxc&t=96s"
+    }
+]
+}
+  
