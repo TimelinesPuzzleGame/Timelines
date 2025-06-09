@@ -1,0 +1,1340 @@
+{
+  "crawlDate": "2025-06-09T00:12:32.106Z",
+  "duration": 2.15795,
+  "searchCount": 59,
+  "videosAnalyzed": 874,
+  "moviesTargeted": 46,
+  "replacementsFound": 43,
+  "successRate": 93,
+  "apiKeysUsed": 25,
+  "replacements": [
+    {
+      "movieTitle": "Dirty Harry",
+      "movieYear": 1971,
+      "videoId": "Ub9Me_8Zmds",
+      "title": "Dirty Harry 4K | Madman on the Loose | Movie Clip | Warner Bros. Entertainment",
+      "channelTitle": "Warner Bros. Entertainment",
+      "description": "Dirty Harry starring Clint Eastwood follows the iconic character as he is assigned to pay extortion money to a serial murderer.",
+      "duration": 137,
+      "viewCount": 27513,
+      "qualityScore": 65,
+      "query": "\"Dirty Harry\" movie clip",
+      "embedTest": {
+        "success": true,
+        "title": "Dirty Harry 4K | Madman on the Loose | Movie Clip | Warner Bros. Entertainment",
+        "author": "Warner Bros. Entertainment",
+        "embeddable": true
+      }
+    },
+    {
+      "movieTitle": "The Shining (1980) - Hotel Corridor Scene",
+      "movieYear": 1980,
+      "videoId": "RigIpVXm2xA",
+      "title": "The Shining-Elevator scene",
+      "channelTitle": "SlaterCAST",
+      "description": "While searching for Danny, Wendy comes upon this horrific yet awesome scene. From Stanley Kubrick's \"The Shining\".",
+      "duration": 30,
+      "viewCount": 859864,
+      "qualityScore": 65,
+      "query": "\"The Shining (1980) - Hotel Corridor Scene\" scene clip",
+      "embedTest": {
+        "success": true,
+        "title": "The Shining-Elevator scene",
+        "author": "SlaterCAST",
+        "embeddable": true
+      }
+    },
+    {
+      "movieTitle": "48 Hrs.",
+      "movieYear": 1982,
+      "videoId": "sxOXTtD_suA",
+      "title": "48 Hrs. - Prison Escape Scene (1080p)",
+      "channelTitle": "Vee XXL",
+      "description": "All rights reserved to Paramount Pictures. R.I.P. Sonny Landham.",
+      "duration": 131,
+      "viewCount": 250857,
+      "qualityScore": 65,
+      "query": "\"48 Hrs.\" scene clip",
+      "embedTest": {
+        "success": true,
+        "title": "48 Hrs. - Prison Escape Scene (1080p)",
+        "author": "Vee XXL",
+        "embeddable": true
+      }
+    },
+    {
+      "movieTitle": "The Naked Gun: From the Files of Police Squad!",
+      "movieYear": 1988,
+      "videoId": "Kw7fbLQeG5k",
+      "title": "The Naked Gun Punch Up Scene",
+      "channelTitle": "tomtraveller",
+      "description": "",
+      "duration": 46,
+      "viewCount": 643811,
+      "qualityScore": 65,
+      "query": "\"The Naked Gun: From the Files of Police Squad!\" scene clip",
+      "embedTest": {
+        "success": true,
+        "title": "The Naked Gun Punch Up Scene",
+        "author": "tomtraveller",
+        "embeddable": true
+      }
+    },
+    {
+      "movieTitle": "The Naked Gun: From the Files of Police Squad!",
+      "movieYear": 1988,
+      "videoId": "Kw7fbLQeG5k",
+      "title": "The Naked Gun Punch Up Scene",
+      "channelTitle": "tomtraveller",
+      "description": "",
+      "duration": 46,
+      "viewCount": 643808,
+      "qualityScore": 65,
+      "query": "\"The Naked Gun: From the Files of Police Squad!\" scene clip",
+      "embedTest": {
+        "success": true,
+        "title": "The Naked Gun Punch Up Scene",
+        "author": "tomtraveller",
+        "embeddable": true
+      }
+    },
+    {
+      "movieTitle": "The Naked Gun: From the Files of Police Squad!",
+      "movieYear": 1988,
+      "videoId": "Kw7fbLQeG5k",
+      "title": "The Naked Gun Punch Up Scene",
+      "channelTitle": "tomtraveller",
+      "description": "",
+      "duration": 46,
+      "viewCount": 643811,
+      "qualityScore": 65,
+      "query": "\"The Naked Gun: From the Files of Police Squad!\" best scene",
+      "embedTest": {
+        "success": true,
+        "title": "The Naked Gun Punch Up Scene",
+        "author": "tomtraveller",
+        "embeddable": true
+      }
+    },
+    {
+      "movieTitle": "The Naked Gun: From the Files of Police Squad!",
+      "movieYear": 1988,
+      "videoId": "Kw7fbLQeG5k",
+      "title": "The Naked Gun Punch Up Scene",
+      "channelTitle": "tomtraveller",
+      "description": "",
+      "duration": 46,
+      "viewCount": 643811,
+      "qualityScore": 65,
+      "query": "\"The Naked Gun: From the Files of Police Squad!\" scene clip",
+      "embedTest": {
+        "success": true,
+        "title": "The Naked Gun Punch Up Scene",
+        "author": "tomtraveller",
+        "embeddable": true
+      }
+    },
+    {
+      "movieTitle": "The Naked Gun: From the Files of Police Squad!",
+      "movieYear": 1988,
+      "videoId": "Kw7fbLQeG5k",
+      "title": "The Naked Gun Punch Up Scene",
+      "channelTitle": "tomtraveller",
+      "description": "",
+      "duration": 46,
+      "viewCount": 643811,
+      "qualityScore": 65,
+      "query": "\"The Naked Gun: From the Files of Police Squad!\" scene clip",
+      "embedTest": {
+        "success": true,
+        "title": "The Naked Gun Punch Up Scene",
+        "author": "tomtraveller",
+        "embeddable": true
+      }
+    },
+    {
+      "movieTitle": "The Naked Gun: From the Files of Police Squad!",
+      "movieYear": 1988,
+      "videoId": "Kw7fbLQeG5k",
+      "title": "The Naked Gun Punch Up Scene",
+      "channelTitle": "tomtraveller",
+      "description": "",
+      "duration": 46,
+      "viewCount": 643811,
+      "qualityScore": 65,
+      "query": "\"The Naked Gun: From the Files of Police Squad!\" scene clip",
+      "embedTest": {
+        "success": true,
+        "title": "The Naked Gun Punch Up Scene",
+        "author": "tomtraveller",
+        "embeddable": true
+      }
+    },
+    {
+      "movieTitle": "The Naked Gun: From the Files of Police Squad!",
+      "movieYear": 1988,
+      "videoId": "Kw7fbLQeG5k",
+      "title": "The Naked Gun Punch Up Scene",
+      "channelTitle": "tomtraveller",
+      "description": "",
+      "duration": 46,
+      "viewCount": 643811,
+      "qualityScore": 65,
+      "query": "\"The Naked Gun: From the Files of Police Squad!\" movie clip",
+      "embedTest": {
+        "success": true,
+        "title": "The Naked Gun Punch Up Scene",
+        "author": "tomtraveller",
+        "embeddable": true
+      }
+    },
+    {
+      "movieTitle": "The Naked Gun: From the Files of Police Squad!",
+      "movieYear": 1988,
+      "videoId": "Kw7fbLQeG5k",
+      "title": "The Naked Gun Punch Up Scene",
+      "channelTitle": "tomtraveller",
+      "description": "",
+      "duration": 46,
+      "viewCount": 643811,
+      "qualityScore": 65,
+      "query": "\"The Naked Gun: From the Files of Police Squad!\" scene clip",
+      "embedTest": {
+        "success": true,
+        "title": "The Naked Gun Punch Up Scene",
+        "author": "tomtraveller",
+        "embeddable": true
+      }
+    },
+    {
+      "movieTitle": "The Naked Gun: From the Files of Police Squad!",
+      "movieYear": 1988,
+      "videoId": "Kw7fbLQeG5k",
+      "title": "The Naked Gun Punch Up Scene",
+      "channelTitle": "tomtraveller",
+      "description": "",
+      "duration": 46,
+      "viewCount": 643808,
+      "qualityScore": 65,
+      "query": "\"The Naked Gun: From the Files of Police Squad!\" scene clip",
+      "embedTest": {
+        "success": true,
+        "title": "The Naked Gun Punch Up Scene",
+        "author": "tomtraveller",
+        "embeddable": true
+      }
+    },
+    {
+      "movieTitle": "The Naked Gun: From the Files of Police Squad!",
+      "movieYear": 1988,
+      "videoId": "Kw7fbLQeG5k",
+      "title": "The Naked Gun Punch Up Scene",
+      "channelTitle": "tomtraveller",
+      "description": "",
+      "duration": 46,
+      "viewCount": 643811,
+      "qualityScore": 65,
+      "query": "\"The Naked Gun: From the Files of Police Squad!\" scene clip",
+      "embedTest": {
+        "success": true,
+        "title": "The Naked Gun Punch Up Scene",
+        "author": "tomtraveller",
+        "embeddable": true
+      }
+    },
+    {
+      "movieTitle": "The Naked Gun: From the Files of Police Squad!",
+      "movieYear": 1988,
+      "videoId": "Kw7fbLQeG5k",
+      "title": "The Naked Gun Punch Up Scene",
+      "channelTitle": "tomtraveller",
+      "description": "",
+      "duration": 46,
+      "viewCount": 643811,
+      "qualityScore": 65,
+      "query": "\"The Naked Gun: From the Files of Police Squad!\" scene clip",
+      "embedTest": {
+        "success": true,
+        "title": "The Naked Gun Punch Up Scene",
+        "author": "tomtraveller",
+        "embeddable": true
+      }
+    },
+    {
+      "movieTitle": "The Naked Gun: From the Files of Police Squad!",
+      "movieYear": 1988,
+      "videoId": "Kw7fbLQeG5k",
+      "title": "The Naked Gun Punch Up Scene",
+      "channelTitle": "tomtraveller",
+      "description": "",
+      "duration": 46,
+      "viewCount": 643811,
+      "qualityScore": 65,
+      "query": "\"The Naked Gun: From the Files of Police Squad!\" scene clip",
+      "embedTest": {
+        "success": true,
+        "title": "The Naked Gun Punch Up Scene",
+        "author": "tomtraveller",
+        "embeddable": true
+      }
+    },
+    {
+      "movieTitle": "Misery",
+      "movieYear": 1990,
+      "videoId": "USEFLLFhIZI",
+      "title": "The Best Scene in MISERY!",
+      "channelTitle": "Things Made Better By Farts",
+      "description": "Here is the best scene from Stephen King's Horror classic, Misery! James Caan and Kathy Bates are electric in this scene, and it's ...",
+      "duration": 75,
+      "viewCount": 592793,
+      "qualityScore": 75,
+      "query": "\"Misery\" scene clip",
+      "embedTest": {
+        "success": true,
+        "title": "The Best Scene in MISERY!",
+        "author": "Things Made Better By Farts",
+        "embeddable": true
+      }
+    },
+    {
+      "movieTitle": "The Naked Gun 2½: The Smell of Fear",
+      "movieYear": 1991,
+      "videoId": "gne8v9aj45w",
+      "title": "The Naked Gun 2½: The Smell Of Fear  - Rooftop Shootout Scene (1080p)",
+      "channelTitle": "Vee XXL",
+      "description": "All rights reserved to Paramount Pictures.",
+      "duration": 73,
+      "viewCount": 365814,
+      "qualityScore": 65,
+      "query": "\"The Naked Gun 2½: The Smell of Fear\" scene clip",
+      "embedTest": {
+        "success": true,
+        "title": "The Naked Gun 2½: The Smell Of Fear  - Rooftop Shootout Scene (1080p)",
+        "author": "Vee XXL",
+        "embeddable": true
+      }
+    },
+    {
+      "movieTitle": "The Naked Gun 2½: The Smell of Fear",
+      "movieYear": 1991,
+      "videoId": "gne8v9aj45w",
+      "title": "The Naked Gun 2½: The Smell Of Fear  - Rooftop Shootout Scene (1080p)",
+      "channelTitle": "Vee XXL",
+      "description": "All rights reserved to Paramount Pictures.",
+      "duration": 73,
+      "viewCount": 365814,
+      "qualityScore": 65,
+      "query": "\"The Naked Gun 2½: The Smell of Fear\" scene clip",
+      "embedTest": {
+        "success": true,
+        "title": "The Naked Gun 2½: The Smell Of Fear  - Rooftop Shootout Scene (1080p)",
+        "author": "Vee XXL",
+        "embeddable": true
+      }
+    },
+    {
+      "movieTitle": "The Naked Gun 2½: The Smell of Fear",
+      "movieYear": 1991,
+      "videoId": "gne8v9aj45w",
+      "title": "The Naked Gun 2½: The Smell Of Fear  - Rooftop Shootout Scene (1080p)",
+      "channelTitle": "Vee XXL",
+      "description": "All rights reserved to Paramount Pictures.",
+      "duration": 73,
+      "viewCount": 365814,
+      "qualityScore": 65,
+      "query": "\"The Naked Gun 2½: The Smell of Fear\" scene clip",
+      "embedTest": {
+        "success": true,
+        "title": "The Naked Gun 2½: The Smell Of Fear  - Rooftop Shootout Scene (1080p)",
+        "author": "Vee XXL",
+        "embeddable": true
+      }
+    },
+    {
+      "movieTitle": "The Naked Gun 2½: The Smell of Fear",
+      "movieYear": 1991,
+      "videoId": "gne8v9aj45w",
+      "title": "The Naked Gun 2½: The Smell Of Fear  - Rooftop Shootout Scene (1080p)",
+      "channelTitle": "Vee XXL",
+      "description": "All rights reserved to Paramount Pictures.",
+      "duration": 73,
+      "viewCount": 365814,
+      "qualityScore": 65,
+      "query": "\"The Naked Gun 2½: The Smell of Fear\" scene clip",
+      "embedTest": {
+        "success": true,
+        "title": "The Naked Gun 2½: The Smell Of Fear  - Rooftop Shootout Scene (1080p)",
+        "author": "Vee XXL",
+        "embeddable": true
+      }
+    },
+    {
+      "movieTitle": "The Naked Gun 2½: The Smell of Fear",
+      "movieYear": 1991,
+      "videoId": "gne8v9aj45w",
+      "title": "The Naked Gun 2½: The Smell Of Fear  - Rooftop Shootout Scene (1080p)",
+      "channelTitle": "Vee XXL",
+      "description": "All rights reserved to Paramount Pictures.",
+      "duration": 73,
+      "viewCount": 365814,
+      "qualityScore": 65,
+      "query": "\"The Naked Gun 2½: The Smell of Fear\" scene clip",
+      "embedTest": {
+        "success": true,
+        "title": "The Naked Gun 2½: The Smell Of Fear  - Rooftop Shootout Scene (1080p)",
+        "author": "Vee XXL",
+        "embeddable": true
+      }
+    },
+    {
+      "movieTitle": "The Naked Gun 2½: The Smell of Fear",
+      "movieYear": 1991,
+      "videoId": "gne8v9aj45w",
+      "title": "The Naked Gun 2½: The Smell Of Fear  - Rooftop Shootout Scene (1080p)",
+      "channelTitle": "Vee XXL",
+      "description": "All rights reserved to Paramount Pictures.",
+      "duration": 73,
+      "viewCount": 365814,
+      "qualityScore": 65,
+      "query": "\"The Naked Gun 2½: The Smell of Fear\" scene clip",
+      "embedTest": {
+        "success": true,
+        "title": "The Naked Gun 2½: The Smell Of Fear  - Rooftop Shootout Scene (1080p)",
+        "author": "Vee XXL",
+        "embeddable": true
+      }
+    },
+    {
+      "movieTitle": "The Naked Gun 2½: The Smell of Fear",
+      "movieYear": 1991,
+      "videoId": "gne8v9aj45w",
+      "title": "The Naked Gun 2½: The Smell Of Fear  - Rooftop Shootout Scene (1080p)",
+      "channelTitle": "Vee XXL",
+      "description": "All rights reserved to Paramount Pictures.",
+      "duration": 73,
+      "viewCount": 365814,
+      "qualityScore": 65,
+      "query": "\"The Naked Gun 2½: The Smell of Fear\" scene clip",
+      "embedTest": {
+        "success": true,
+        "title": "The Naked Gun 2½: The Smell Of Fear  - Rooftop Shootout Scene (1080p)",
+        "author": "Vee XXL",
+        "embeddable": true
+      }
+    },
+    {
+      "movieTitle": "The Silence of the Lambs",
+      "movieYear": 1991,
+      "videoId": "DontsLsgsLk",
+      "title": "Silence of the Lambs dance scene - SCARY!!!!",
+      "channelTitle": "Music and Monsters",
+      "description": "This is perhaps my favorite scene from Silence of the Lambs. I'm sure you will have nightmares.",
+      "duration": 106,
+      "viewCount": 718454,
+      "qualityScore": 65,
+      "query": "\"The Silence of the Lambs\" scene clip",
+      "embedTest": {
+        "success": true,
+        "title": "Silence of the Lambs dance scene - SCARY!!!!",
+        "author": "Music and Monsters",
+        "embeddable": true
+      }
+    },
+    {
+      "movieTitle": "Home Alone 2: Lost in New York",
+      "movieYear": 1992,
+      "videoId": "OOK3lltE3OU",
+      "title": "Donald Trump&#39;s Home Alone 2 Scene (unedited by CBC)",
+      "channelTitle": "RagingLoon",
+      "description": "Looks like CBC did this in 2014... https://twitter.com/gkozier/status/678704291767435264 ...",
+      "duration": 46,
+      "viewCount": 3127493,
+      "qualityScore": 70,
+      "query": "\"Home Alone 2: Lost in New York\" scene clip",
+      "embedTest": {
+        "success": true,
+        "title": "Donald Trump's Home Alone 2 Scene (unedited by CBC)",
+        "author": "RagingLoon",
+        "embeddable": true
+      }
+    },
+    {
+      "movieTitle": "Rudy",
+      "movieYear": 1993,
+      "videoId": "eYLTG8iU4N0",
+      "title": "Rudy - Locker Room Scene",
+      "channelTitle": "StJoesRams09",
+      "description": "Locker Room Scene and Prayer before Final game in the movie Rudy. Great Clip. Hope you enjoy it!",
+      "duration": 84,
+      "viewCount": 160030,
+      "qualityScore": 65,
+      "query": "\"Rudy\" scene clip",
+      "embedTest": {
+        "success": true,
+        "title": "Rudy - Locker Room Scene",
+        "author": "StJoesRams09",
+        "embeddable": true
+      }
+    },
+    {
+      "movieTitle": "Naked Gun 33⅓: The Final Insult",
+      "movieYear": 1994,
+      "videoId": "L3QkIruVNEI",
+      "title": "Naked Gun 33 1/3 (Opening) The Untouchables Stairway Shootout Scene High Definition",
+      "channelTitle": "Outside Insides",
+      "description": "Parody of The Untouchables Stairway Shootout at Union Station https://www.youtube.com/watch?v=eRJ539f5Ugc.",
+      "duration": 151,
+      "viewCount": 3541623,
+      "qualityScore": 70,
+      "query": "\"Naked Gun 33⅓: The Final Insult\" scene clip",
+      "embedTest": {
+        "success": true,
+        "title": "Naked Gun 33 1/3 (Opening) The Untouchables Stairway Shootout Scene High Definition",
+        "author": "Outside Insides",
+        "embeddable": true
+      }
+    },
+    {
+      "movieTitle": "Braveheart",
+      "movieYear": 1995,
+      "videoId": "iDVuQi4gdtk",
+      "title": "Braveheart &#39;&#39;Hold&#39;&#39; scene (HD)",
+      "channelTitle": "The movie scenes",
+      "description": "",
+      "duration": 121,
+      "viewCount": 621012,
+      "qualityScore": 65,
+      "query": "\"Braveheart\" scene clip",
+      "embedTest": {
+        "success": true,
+        "title": "Braveheart ''Hold'' scene (HD)",
+        "author": "The movie scenes",
+        "embeddable": true
+      }
+    },
+    {
+      "movieTitle": "Scream (1996) - Opening Kill",
+      "movieYear": 1996,
+      "videoId": "il11qNPVTVU",
+      "title": "the scene was so scary..😳 || scream 5 #shorts",
+      "channelTitle": "aedevii",
+      "description": "aftereffects #trending #viral #edit second channel: https://www.youtube.com/channel/UCH8Wx9sOsZ0ecjdT7_C6wAA my payhip ...",
+      "duration": 25,
+      "viewCount": 652908,
+      "qualityScore": 65,
+      "query": "\"Scream (1996) - Opening Kill\" best scene",
+      "embedTest": {
+        "success": true,
+        "title": "the scene was so scary..😳 || scream 5 #shorts",
+        "author": "aedevii",
+        "embeddable": true
+      }
+    },
+    {
+      "movieTitle": "The French Connection",
+      "movieYear": 1971,
+      "videoId": "G0IB0VvkeOk",
+      "title": "Kevin Costner: Gene Hackman Is The Best Actor I&#39;ve Worked With | The Rich Eisen Show | 1/5/17",
+      "channelTitle": "The Rich Eisen Show",
+      "description": "Kevin Costner and Rich Eisen discuss his film career and reveals his deep admiration for fellow actor Gene Hackman.",
+      "duration": 139,
+      "viewCount": 2413517,
+      "qualityScore": 65,
+      "query": "\"The French Connection\" famous scene",
+      "embedTest": {
+        "success": true,
+        "title": "Kevin Costner: Gene Hackman Is The Best Actor I've Worked With | The Rich Eisen Show | 1/5/17",
+        "author": "The Rich Eisen Show",
+        "embeddable": true
+      }
+    },
+    {
+      "movieTitle": "The Wicker Man",
+      "movieYear": 1973,
+      "videoId": "e6i2WRreARo",
+      "title": "Best Scenes From &quot;The Wicker Man&quot;",
+      "channelTitle": "enoonsti",
+      "description": "Start off the new year with some Wicker Man. Now available on DVD.",
+      "duration": 128,
+      "viewCount": 4723643,
+      "qualityScore": 80,
+      "query": "\"The Wicker Man\" scene clip",
+      "embedTest": {
+        "success": true,
+        "title": "Best Scenes From \"The Wicker Man\"",
+        "author": "enoonsti",
+        "embeddable": true
+      }
+    },
+    {
+      "movieTitle": "Raiders of the Lost Ark",
+      "movieYear": 1981,
+      "videoId": "7YyBtMxZgQs",
+      "title": "Indiana Jones - Arab Swordsman Scene",
+      "channelTitle": "Matthew Gates",
+      "description": "The Best Moment in Cinema History!",
+      "duration": 26,
+      "viewCount": 2704129,
+      "qualityScore": 70,
+      "query": "\"Raiders of the Lost Ark\" scene clip",
+      "embedTest": {
+        "success": true,
+        "title": "Indiana Jones - Arab Swordsman Scene",
+        "author": "Matthew Gates",
+        "embeddable": true
+      }
+    },
+    {
+      "movieTitle": "The Evil Dead",
+      "movieYear": 1981,
+      "videoId": "SOpcdJ_V5_M",
+      "title": "Evil Dead II Laughter Scene",
+      "channelTitle": "Emerson Jaskar",
+      "description": "Ashley snaps, lol.",
+      "duration": 136,
+      "viewCount": 1708948,
+      "qualityScore": 70,
+      "query": "The Evil Dead scene",
+      "embedTest": {
+        "success": true,
+        "title": "Evil Dead II Laughter Scene",
+        "author": "Emerson Jaskar",
+        "embeddable": true
+      }
+    },
+    {
+      "movieTitle": "The Evil Dead",
+      "movieYear": 1981,
+      "videoId": "tzv2EqTGG1w",
+      "title": "The Evil Dead (1981) - Killing the Zombies Scene | Movieclips",
+      "channelTitle": "Movieclips",
+      "description": "The Evil Dead - Killing the Zombies: Ash (Bruce Campbell) burns the Naturom Demonto. BUY THE MOVIE: ...",
+      "duration": 174,
+      "viewCount": 274194,
+      "qualityScore": 40,
+      "query": "\"The Evil Dead\" scene clip",
+      "embedTest": {
+        "success": true,
+        "title": "The Evil Dead (1981) - Killing the Zombies Scene | Movieclips",
+        "author": "Movieclips",
+        "embeddable": true
+      }
+    },
+    {
+      "movieTitle": "Indiana Jones and the Last Crusade",
+      "movieYear": 1989,
+      "videoId": "EiDpaM2r72A",
+      "title": "Indiana Jones Last Crusade - Marcus Brody scene",
+      "channelTitle": "Miguel",
+      "description": "Funny scene from Indiana Jones and the Last Crusade. Brilliant dialogues and great performances.",
+      "duration": 84,
+      "viewCount": 271143,
+      "qualityScore": 65,
+      "query": "\"Indiana Jones and the Last Crusade\" scene clip",
+      "embedTest": {
+        "success": true,
+        "title": "Indiana Jones Last Crusade - Marcus Brody scene",
+        "author": "Miguel",
+        "embeddable": true
+      }
+    },
+    {
+      "movieTitle": "Miller's Crossing",
+      "movieYear": 1990,
+      "videoId": "YPGELZlcJ2E",
+      "title": "Miller&#39;s Crossing Scene Re-shoot",
+      "channelTitle": "Zach Shpizner",
+      "description": "Reshoot on Pitzer College's campus of an epic scene from the Cohen bros. movie \"Miller's Crossing.\" Shot by students for fun/a ...",
+      "duration": 180,
+      "viewCount": 31318,
+      "qualityScore": 60,
+      "query": "\"Miller's Crossing\" scene clip",
+      "embedTest": {
+        "success": true,
+        "title": "Miller's Crossing Scene Re-shoot",
+        "author": "Zach Shpizner",
+        "embeddable": true
+      }
+    },
+    {
+      "movieTitle": "The Green Mile",
+      "movieYear": 1999,
+      "videoId": "axgqnQ1Gt_A",
+      "title": "Green Mile - Electric Chair Scene #shorts #greenmile #movie",
+      "channelTitle": "ADI YBANEZ",
+      "description": "Green Mile - Electric Chair Scene Subscribe: https://youtube.com/@adiybanez #shorts #greenmile #electricchair #movie ...",
+      "duration": 56,
+      "viewCount": 1500693,
+      "qualityScore": 70,
+      "query": "\"The Green Mile\" movie clip",
+      "embedTest": {
+        "success": true,
+        "title": "Green Mile - Electric Chair Scene #shorts #greenmile #movie",
+        "author": "ADI YBANEZ",
+        "embeddable": true
+      }
+    },
+    {
+      "movieTitle": "Go",
+      "movieYear": 1999,
+      "videoId": "_ZLAt3zwEpQ",
+      "title": "Harold &amp; Kumar Go to White Castle - Burger Shack Employee Scene (1/10) | Movieclips",
+      "channelTitle": "Movieclips",
+      "description": "Harold & Kumar Go to White Castle movie clips: http://j.mp/2iNA6A1 BUY THE MOVIE: http://bit.ly/2iUpmwP Don't miss the ...",
+      "duration": 157,
+      "viewCount": 1702021,
+      "qualityScore": 95,
+      "query": "\"Go\" best scene",
+      "embedTest": {
+        "success": true,
+        "title": "Harold & Kumar Go to White Castle - Burger Shack Employee Scene (1/10) | Movieclips",
+        "author": "Movieclips",
+        "embeddable": true
+      }
+    },
+    {
+      "movieTitle": "Gladiator",
+      "movieYear": 2000,
+      "videoId": "enGTk409iQk",
+      "title": "Gladiator - Wheat Field - scene",
+      "channelTitle": "Gilberto Marques Francisco",
+      "description": "Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for “fair use” for purposes such as criticism, ...",
+      "duration": 28,
+      "viewCount": 270134,
+      "qualityScore": 65,
+      "query": "\"Gladiator\" scene clip",
+      "embedTest": {
+        "success": true,
+        "title": "Gladiator - Wheat Field - scene",
+        "author": "Gilberto Marques Francisco",
+        "embeddable": true
+      }
+    },
+    {
+      "movieTitle": "Batman Begins",
+      "movieYear": 2005,
+      "videoId": "7zJ0DLJmXl8",
+      "title": "Batman The Dark Knight Trilogy Movie Clip | Mr. Reese&#39;s Plan | Warner Bros. Entertainment",
+      "channelTitle": "Warner Bros. Entertainment",
+      "description": "In this intense scene from The Dark Knight, Mr. Reese (Joshua Harto) stumbles upon a blueprint for the powerful surveillance ...",
+      "duration": 102,
+      "viewCount": 1703549,
+      "qualityScore": 75,
+      "query": "\"Batman Begins\" scene clip",
+      "embedTest": {
+        "success": true,
+        "title": "Batman The Dark Knight Trilogy Movie Clip | Mr. Reese's Plan | Warner Bros. Entertainment",
+        "author": "Warner Bros. Entertainment",
+        "embeddable": true
+      }
+    },
+    {
+      "movieTitle": "Kick-Ass",
+      "movieYear": 2010,
+      "videoId": "0D9MXImcfP0",
+      "title": "Kick Ass 2 | clip - Chris Hires Some Muscle",
+      "channelTitle": "Universal Pictures International Netherlands",
+      "description": "",
+      "duration": 106,
+      "viewCount": 280941,
+      "qualityScore": 70,
+      "query": "\"Kick-Ass\" scene clip",
+      "embedTest": {
+        "success": true,
+        "title": "Kick Ass 2 | clip - Chris Hires Some Muscle",
+        "author": "Universal Pictures International Netherlands",
+        "embeddable": true
+      }
+    },
+    {
+      "movieTitle": "Crazy, Stupid, Love.",
+      "movieYear": 2011,
+      "videoId": "5o_Kxx36cvg",
+      "title": "Crazy, Stupid, Love - Best Moment, Fight Scene",
+      "channelTitle": "Maxthunderer",
+      "description": "The most funny scene from the movie Crazy, Stupid, Love. (2011)",
+      "duration": 223,
+      "viewCount": 8632188,
+      "qualityScore": 70,
+      "query": "\"Crazy, Stupid, Love.\" movie clip",
+      "embedTest": {
+        "success": true,
+        "title": "Crazy, Stupid, Love - Best Moment, Fight Scene",
+        "author": "Maxthunderer",
+        "embeddable": true
+      }
+    },
+    {
+      "movieTitle": "The Hangover Part III",
+      "movieYear": 2013,
+      "videoId": "J1Z9__kwlM8",
+      "title": "The Hangover Part III/Best scene/Ken Jeong/Zach Galifianakis/Ed Helms/Bradley Cooper/John Goodman",
+      "channelTitle": "Eli D",
+      "description": "Two years after the events in Bangkok, Leslie Chow (Ken Jeong) escapes from a maximum security prison, using a riot as cover.",
+      "duration": 148,
+      "viewCount": 120927,
+      "qualityScore": 75,
+      "query": "\"The Hangover Part III\" scene clip",
+      "embedTest": {
+        "success": true,
+        "title": "The Hangover Part III/Best scene/Ken Jeong/Zach Galifianakis/Ed Helms/Bradley Cooper/John Goodman",
+        "author": "Eli D",
+        "embeddable": true
+      }
+    }
+  ],
+  "targetMovies": [
+    {
+      "title": "Dirty Harry",
+      "year": 1971,
+      "searchQueries": [
+        "\"Dirty Harry\" scene clip",
+        "\"Dirty Harry\" movie clip",
+        "\"Dirty Harry\" best scene",
+        "\"Dirty Harry\" famous scene",
+        "Dirty Harry scene",
+        "Dirty Harry clip"
+      ]
+    },
+    {
+      "title": "The Shining (1980) - Hotel Corridor Scene",
+      "year": 1980,
+      "searchQueries": [
+        "\"The Shining (1980) - Hotel Corridor Scene\" scene clip",
+        "\"The Shining (1980) - Hotel Corridor Scene\" movie clip",
+        "\"The Shining (1980) - Hotel Corridor Scene\" best scene",
+        "\"The Shining (1980) - Hotel Corridor Scene\" famous scene",
+        "The Shining (1980) - Hotel Corridor Scene scene",
+        "The Shining (1980) - Hotel Corridor Scene clip"
+      ]
+    },
+    {
+      "title": "48 Hrs.",
+      "year": 1982,
+      "searchQueries": [
+        "\"48 Hrs.\" scene clip",
+        "\"48 Hrs.\" movie clip",
+        "\"48 Hrs.\" best scene",
+        "\"48 Hrs.\" famous scene",
+        "48 Hrs. scene",
+        "48 Hrs. clip"
+      ]
+    },
+    {
+      "title": "The Naked Gun: From the Files of Police Squad!",
+      "year": 1988,
+      "searchQueries": [
+        "\"The Naked Gun: From the Files of Police Squad!\" scene clip",
+        "\"The Naked Gun: From the Files of Police Squad!\" movie clip",
+        "\"The Naked Gun: From the Files of Police Squad!\" best scene",
+        "\"The Naked Gun: From the Files of Police Squad!\" famous scene",
+        "The Naked Gun: From the Files of Police Squad! scene",
+        "The Naked Gun: From the Files of Police Squad! clip"
+      ]
+    },
+    {
+      "title": "The Naked Gun: From the Files of Police Squad!",
+      "year": 1988,
+      "searchQueries": [
+        "\"The Naked Gun: From the Files of Police Squad!\" scene clip",
+        "\"The Naked Gun: From the Files of Police Squad!\" movie clip",
+        "\"The Naked Gun: From the Files of Police Squad!\" best scene",
+        "\"The Naked Gun: From the Files of Police Squad!\" famous scene",
+        "The Naked Gun: From the Files of Police Squad! scene",
+        "The Naked Gun: From the Files of Police Squad! clip"
+      ]
+    },
+    {
+      "title": "The Naked Gun: From the Files of Police Squad!",
+      "year": 1988,
+      "searchQueries": [
+        "\"The Naked Gun: From the Files of Police Squad!\" scene clip",
+        "\"The Naked Gun: From the Files of Police Squad!\" movie clip",
+        "\"The Naked Gun: From the Files of Police Squad!\" best scene",
+        "\"The Naked Gun: From the Files of Police Squad!\" famous scene",
+        "The Naked Gun: From the Files of Police Squad! scene",
+        "The Naked Gun: From the Files of Police Squad! clip"
+      ]
+    },
+    {
+      "title": "The Naked Gun: From the Files of Police Squad!",
+      "year": 1988,
+      "searchQueries": [
+        "\"The Naked Gun: From the Files of Police Squad!\" scene clip",
+        "\"The Naked Gun: From the Files of Police Squad!\" movie clip",
+        "\"The Naked Gun: From the Files of Police Squad!\" best scene",
+        "\"The Naked Gun: From the Files of Police Squad!\" famous scene",
+        "The Naked Gun: From the Files of Police Squad! scene",
+        "The Naked Gun: From the Files of Police Squad! clip"
+      ]
+    },
+    {
+      "title": "The Naked Gun: From the Files of Police Squad!",
+      "year": 1988,
+      "searchQueries": [
+        "\"The Naked Gun: From the Files of Police Squad!\" scene clip",
+        "\"The Naked Gun: From the Files of Police Squad!\" movie clip",
+        "\"The Naked Gun: From the Files of Police Squad!\" best scene",
+        "\"The Naked Gun: From the Files of Police Squad!\" famous scene",
+        "The Naked Gun: From the Files of Police Squad! scene",
+        "The Naked Gun: From the Files of Police Squad! clip"
+      ]
+    },
+    {
+      "title": "The Naked Gun: From the Files of Police Squad!",
+      "year": 1988,
+      "searchQueries": [
+        "\"The Naked Gun: From the Files of Police Squad!\" scene clip",
+        "\"The Naked Gun: From the Files of Police Squad!\" movie clip",
+        "\"The Naked Gun: From the Files of Police Squad!\" best scene",
+        "\"The Naked Gun: From the Files of Police Squad!\" famous scene",
+        "The Naked Gun: From the Files of Police Squad! scene",
+        "The Naked Gun: From the Files of Police Squad! clip"
+      ]
+    },
+    {
+      "title": "The Naked Gun: From the Files of Police Squad!",
+      "year": 1988,
+      "searchQueries": [
+        "\"The Naked Gun: From the Files of Police Squad!\" scene clip",
+        "\"The Naked Gun: From the Files of Police Squad!\" movie clip",
+        "\"The Naked Gun: From the Files of Police Squad!\" best scene",
+        "\"The Naked Gun: From the Files of Police Squad!\" famous scene",
+        "The Naked Gun: From the Files of Police Squad! scene",
+        "The Naked Gun: From the Files of Police Squad! clip"
+      ]
+    },
+    {
+      "title": "The Naked Gun: From the Files of Police Squad!",
+      "year": 1988,
+      "searchQueries": [
+        "\"The Naked Gun: From the Files of Police Squad!\" scene clip",
+        "\"The Naked Gun: From the Files of Police Squad!\" movie clip",
+        "\"The Naked Gun: From the Files of Police Squad!\" best scene",
+        "\"The Naked Gun: From the Files of Police Squad!\" famous scene",
+        "The Naked Gun: From the Files of Police Squad! scene",
+        "The Naked Gun: From the Files of Police Squad! clip"
+      ]
+    },
+    {
+      "title": "The Naked Gun: From the Files of Police Squad!",
+      "year": 1988,
+      "searchQueries": [
+        "\"The Naked Gun: From the Files of Police Squad!\" scene clip",
+        "\"The Naked Gun: From the Files of Police Squad!\" movie clip",
+        "\"The Naked Gun: From the Files of Police Squad!\" best scene",
+        "\"The Naked Gun: From the Files of Police Squad!\" famous scene",
+        "The Naked Gun: From the Files of Police Squad! scene",
+        "The Naked Gun: From the Files of Police Squad! clip"
+      ]
+    },
+    {
+      "title": "The Naked Gun: From the Files of Police Squad!",
+      "year": 1988,
+      "searchQueries": [
+        "\"The Naked Gun: From the Files of Police Squad!\" scene clip",
+        "\"The Naked Gun: From the Files of Police Squad!\" movie clip",
+        "\"The Naked Gun: From the Files of Police Squad!\" best scene",
+        "\"The Naked Gun: From the Files of Police Squad!\" famous scene",
+        "The Naked Gun: From the Files of Police Squad! scene",
+        "The Naked Gun: From the Files of Police Squad! clip"
+      ]
+    },
+    {
+      "title": "The Naked Gun: From the Files of Police Squad!",
+      "year": 1988,
+      "searchQueries": [
+        "\"The Naked Gun: From the Files of Police Squad!\" scene clip",
+        "\"The Naked Gun: From the Files of Police Squad!\" movie clip",
+        "\"The Naked Gun: From the Files of Police Squad!\" best scene",
+        "\"The Naked Gun: From the Files of Police Squad!\" famous scene",
+        "The Naked Gun: From the Files of Police Squad! scene",
+        "The Naked Gun: From the Files of Police Squad! clip"
+      ]
+    },
+    {
+      "title": "The Naked Gun: From the Files of Police Squad!",
+      "year": 1988,
+      "searchQueries": [
+        "\"The Naked Gun: From the Files of Police Squad!\" scene clip",
+        "\"The Naked Gun: From the Files of Police Squad!\" movie clip",
+        "\"The Naked Gun: From the Files of Police Squad!\" best scene",
+        "\"The Naked Gun: From the Files of Police Squad!\" famous scene",
+        "The Naked Gun: From the Files of Police Squad! scene",
+        "The Naked Gun: From the Files of Police Squad! clip"
+      ]
+    },
+    {
+      "title": "Misery",
+      "year": 1990,
+      "searchQueries": [
+        "\"Misery\" scene clip",
+        "\"Misery\" movie clip",
+        "\"Misery\" best scene",
+        "\"Misery\" famous scene",
+        "Misery scene",
+        "Misery clip"
+      ]
+    },
+    {
+      "title": "The Naked Gun 2½: The Smell of Fear",
+      "year": 1991,
+      "searchQueries": [
+        "\"The Naked Gun 2½: The Smell of Fear\" scene clip",
+        "\"The Naked Gun 2½: The Smell of Fear\" movie clip",
+        "\"The Naked Gun 2½: The Smell of Fear\" best scene",
+        "\"The Naked Gun 2½: The Smell of Fear\" famous scene",
+        "The Naked Gun 2½: The Smell of Fear scene",
+        "The Naked Gun 2½: The Smell of Fear clip"
+      ]
+    },
+    {
+      "title": "The Naked Gun 2½: The Smell of Fear",
+      "year": 1991,
+      "searchQueries": [
+        "\"The Naked Gun 2½: The Smell of Fear\" scene clip",
+        "\"The Naked Gun 2½: The Smell of Fear\" movie clip",
+        "\"The Naked Gun 2½: The Smell of Fear\" best scene",
+        "\"The Naked Gun 2½: The Smell of Fear\" famous scene",
+        "The Naked Gun 2½: The Smell of Fear scene",
+        "The Naked Gun 2½: The Smell of Fear clip"
+      ]
+    },
+    {
+      "title": "The Naked Gun 2½: The Smell of Fear",
+      "year": 1991,
+      "searchQueries": [
+        "\"The Naked Gun 2½: The Smell of Fear\" scene clip",
+        "\"The Naked Gun 2½: The Smell of Fear\" movie clip",
+        "\"The Naked Gun 2½: The Smell of Fear\" best scene",
+        "\"The Naked Gun 2½: The Smell of Fear\" famous scene",
+        "The Naked Gun 2½: The Smell of Fear scene",
+        "The Naked Gun 2½: The Smell of Fear clip"
+      ]
+    },
+    {
+      "title": "The Naked Gun 2½: The Smell of Fear",
+      "year": 1991,
+      "searchQueries": [
+        "\"The Naked Gun 2½: The Smell of Fear\" scene clip",
+        "\"The Naked Gun 2½: The Smell of Fear\" movie clip",
+        "\"The Naked Gun 2½: The Smell of Fear\" best scene",
+        "\"The Naked Gun 2½: The Smell of Fear\" famous scene",
+        "The Naked Gun 2½: The Smell of Fear scene",
+        "The Naked Gun 2½: The Smell of Fear clip"
+      ]
+    },
+    {
+      "title": "The Naked Gun 2½: The Smell of Fear",
+      "year": 1991,
+      "searchQueries": [
+        "\"The Naked Gun 2½: The Smell of Fear\" scene clip",
+        "\"The Naked Gun 2½: The Smell of Fear\" movie clip",
+        "\"The Naked Gun 2½: The Smell of Fear\" best scene",
+        "\"The Naked Gun 2½: The Smell of Fear\" famous scene",
+        "The Naked Gun 2½: The Smell of Fear scene",
+        "The Naked Gun 2½: The Smell of Fear clip"
+      ]
+    },
+    {
+      "title": "The Naked Gun 2½: The Smell of Fear",
+      "year": 1991,
+      "searchQueries": [
+        "\"The Naked Gun 2½: The Smell of Fear\" scene clip",
+        "\"The Naked Gun 2½: The Smell of Fear\" movie clip",
+        "\"The Naked Gun 2½: The Smell of Fear\" best scene",
+        "\"The Naked Gun 2½: The Smell of Fear\" famous scene",
+        "The Naked Gun 2½: The Smell of Fear scene",
+        "The Naked Gun 2½: The Smell of Fear clip"
+      ]
+    },
+    {
+      "title": "The Naked Gun 2½: The Smell of Fear",
+      "year": 1991,
+      "searchQueries": [
+        "\"The Naked Gun 2½: The Smell of Fear\" scene clip",
+        "\"The Naked Gun 2½: The Smell of Fear\" movie clip",
+        "\"The Naked Gun 2½: The Smell of Fear\" best scene",
+        "\"The Naked Gun 2½: The Smell of Fear\" famous scene",
+        "The Naked Gun 2½: The Smell of Fear scene",
+        "The Naked Gun 2½: The Smell of Fear clip"
+      ]
+    },
+    {
+      "title": "The Silence of the Lambs",
+      "year": 1991,
+      "searchQueries": [
+        "\"The Silence of the Lambs\" scene clip",
+        "\"The Silence of the Lambs\" movie clip",
+        "\"The Silence of the Lambs\" best scene",
+        "\"The Silence of the Lambs\" famous scene",
+        "The Silence of the Lambs scene",
+        "The Silence of the Lambs clip"
+      ]
+    },
+    {
+      "title": "Home Alone 2: Lost in New York",
+      "year": 1992,
+      "searchQueries": [
+        "\"Home Alone 2: Lost in New York\" scene clip",
+        "\"Home Alone 2: Lost in New York\" movie clip",
+        "\"Home Alone 2: Lost in New York\" best scene",
+        "\"Home Alone 2: Lost in New York\" famous scene",
+        "Home Alone 2: Lost in New York scene",
+        "Home Alone 2: Lost in New York clip"
+      ]
+    },
+    {
+      "title": "Rudy",
+      "year": 1993,
+      "searchQueries": [
+        "\"Rudy\" scene clip",
+        "\"Rudy\" movie clip",
+        "\"Rudy\" best scene",
+        "\"Rudy\" famous scene",
+        "Rudy scene",
+        "Rudy clip"
+      ]
+    },
+    {
+      "title": "Naked Gun 33⅓: The Final Insult",
+      "year": 1994,
+      "searchQueries": [
+        "\"Naked Gun 33⅓: The Final Insult\" scene clip",
+        "\"Naked Gun 33⅓: The Final Insult\" movie clip",
+        "\"Naked Gun 33⅓: The Final Insult\" best scene",
+        "\"Naked Gun 33⅓: The Final Insult\" famous scene",
+        "Naked Gun 33⅓: The Final Insult scene",
+        "Naked Gun 33⅓: The Final Insult clip"
+      ]
+    },
+    {
+      "title": "Braveheart",
+      "year": 1995,
+      "searchQueries": [
+        "\"Braveheart\" scene clip",
+        "\"Braveheart\" movie clip",
+        "\"Braveheart\" best scene",
+        "\"Braveheart\" famous scene",
+        "Braveheart scene",
+        "Braveheart clip"
+      ]
+    },
+    {
+      "title": "Scream (1996) - Opening Kill",
+      "year": 1996,
+      "searchQueries": [
+        "\"Scream (1996) - Opening Kill\" scene clip",
+        "\"Scream (1996) - Opening Kill\" movie clip",
+        "\"Scream (1996) - Opening Kill\" best scene",
+        "\"Scream (1996) - Opening Kill\" famous scene",
+        "Scream (1996) - Opening Kill scene",
+        "Scream (1996) - Opening Kill clip"
+      ]
+    },
+    {
+      "title": "The French Connection",
+      "year": 1971,
+      "searchQueries": [
+        "\"The French Connection\" scene clip",
+        "\"The French Connection\" movie clip",
+        "\"The French Connection\" best scene",
+        "\"The French Connection\" famous scene",
+        "The French Connection scene",
+        "The French Connection clip"
+      ]
+    },
+    {
+      "title": "The Wicker Man",
+      "year": 1973,
+      "searchQueries": [
+        "\"The Wicker Man\" scene clip",
+        "\"The Wicker Man\" movie clip",
+        "\"The Wicker Man\" best scene",
+        "\"The Wicker Man\" famous scene",
+        "The Wicker Man scene",
+        "The Wicker Man clip"
+      ]
+    },
+    {
+      "title": "Raiders of the Lost Ark",
+      "year": 1981,
+      "searchQueries": [
+        "\"Raiders of the Lost Ark\" scene clip",
+        "\"Raiders of the Lost Ark\" movie clip",
+        "\"Raiders of the Lost Ark\" best scene",
+        "\"Raiders of the Lost Ark\" famous scene",
+        "Raiders of the Lost Ark scene",
+        "Raiders of the Lost Ark clip"
+      ]
+    },
+    {
+      "title": "The Evil Dead",
+      "year": 1981,
+      "searchQueries": [
+        "\"The Evil Dead\" scene clip",
+        "\"The Evil Dead\" movie clip",
+        "\"The Evil Dead\" best scene",
+        "\"The Evil Dead\" famous scene",
+        "The Evil Dead scene",
+        "The Evil Dead clip"
+      ]
+    },
+    {
+      "title": "The Evil Dead",
+      "year": 1981,
+      "searchQueries": [
+        "\"The Evil Dead\" scene clip",
+        "\"The Evil Dead\" movie clip",
+        "\"The Evil Dead\" best scene",
+        "\"The Evil Dead\" famous scene",
+        "The Evil Dead scene",
+        "The Evil Dead clip"
+      ]
+    },
+    {
+      "title": "The Thing",
+      "year": 1982,
+      "searchQueries": [
+        "\"The Thing\" scene clip",
+        "\"The Thing\" movie clip",
+        "\"The Thing\" best scene",
+        "\"The Thing\" famous scene",
+        "The Thing scene",
+        "The Thing clip"
+      ]
+    },
+    {
+      "title": "Blue Velvet",
+      "year": 1986,
+      "searchQueries": [
+        "\"Blue Velvet\" scene clip",
+        "\"Blue Velvet\" movie clip",
+        "\"Blue Velvet\" best scene",
+        "\"Blue Velvet\" famous scene",
+        "Blue Velvet scene",
+        "Blue Velvet clip"
+      ]
+    },
+    {
+      "title": "Die Hard",
+      "year": 1988,
+      "searchQueries": [
+        "\"Die Hard\" scene clip",
+        "\"Die Hard\" movie clip",
+        "\"Die Hard\" best scene",
+        "\"Die Hard\" famous scene",
+        "Die Hard scene",
+        "Die Hard clip"
+      ]
+    },
+    {
+      "title": "Indiana Jones and the Last Crusade",
+      "year": 1989,
+      "searchQueries": [
+        "\"Indiana Jones and the Last Crusade\" scene clip",
+        "\"Indiana Jones and the Last Crusade\" movie clip",
+        "\"Indiana Jones and the Last Crusade\" best scene",
+        "\"Indiana Jones and the Last Crusade\" famous scene",
+        "Indiana Jones and the Last Crusade scene",
+        "Indiana Jones and the Last Crusade clip"
+      ]
+    },
+    {
+      "title": "Miller's Crossing",
+      "year": 1990,
+      "searchQueries": [
+        "\"Miller's Crossing\" scene clip",
+        "\"Miller's Crossing\" movie clip",
+        "\"Miller's Crossing\" best scene",
+        "\"Miller's Crossing\" famous scene",
+        "Miller's Crossing scene",
+        "Miller's Crossing clip"
+      ]
+    },
+    {
+      "title": "The Green Mile",
+      "year": 1999,
+      "searchQueries": [
+        "\"The Green Mile\" scene clip",
+        "\"The Green Mile\" movie clip",
+        "\"The Green Mile\" best scene",
+        "\"The Green Mile\" famous scene",
+        "The Green Mile scene",
+        "The Green Mile clip"
+      ]
+    },
+    {
+      "title": "Go",
+      "year": 1999,
+      "searchQueries": [
+        "\"Go\" scene clip",
+        "\"Go\" movie clip",
+        "\"Go\" best scene",
+        "\"Go\" famous scene",
+        "Go scene",
+        "Go clip"
+      ]
+    },
+    {
+      "title": "Gladiator",
+      "year": 2000,
+      "searchQueries": [
+        "\"Gladiator\" scene clip",
+        "\"Gladiator\" movie clip",
+        "\"Gladiator\" best scene",
+        "\"Gladiator\" famous scene",
+        "Gladiator scene",
+        "Gladiator clip"
+      ]
+    },
+    {
+      "title": "Batman Begins",
+      "year": 2005,
+      "searchQueries": [
+        "\"Batman Begins\" scene clip",
+        "\"Batman Begins\" movie clip",
+        "\"Batman Begins\" best scene",
+        "\"Batman Begins\" famous scene",
+        "Batman Begins scene",
+        "Batman Begins clip"
+      ]
+    },
+    {
+      "title": "Kick-Ass",
+      "year": 2010,
+      "searchQueries": [
+        "\"Kick-Ass\" scene clip",
+        "\"Kick-Ass\" movie clip",
+        "\"Kick-Ass\" best scene",
+        "\"Kick-Ass\" famous scene",
+        "Kick-Ass scene",
+        "Kick-Ass clip"
+      ]
+    },
+    {
+      "title": "Crazy, Stupid, Love.",
+      "year": 2011,
+      "searchQueries": [
+        "\"Crazy, Stupid, Love.\" scene clip",
+        "\"Crazy, Stupid, Love.\" movie clip",
+        "\"Crazy, Stupid, Love.\" best scene",
+        "\"Crazy, Stupid, Love.\" famous scene",
+        "Crazy, Stupid, Love. scene",
+        "Crazy, Stupid, Love. clip"
+      ]
+    },
+    {
+      "title": "The Hangover Part III",
+      "year": 2013,
+      "searchQueries": [
+        "\"The Hangover Part III\" scene clip",
+        "\"The Hangover Part III\" movie clip",
+        "\"The Hangover Part III\" best scene",
+        "\"The Hangover Part III\" famous scene",
+        "The Hangover Part III scene",
+        "The Hangover Part III clip"
+      ]
+    }
+  ]
+}
