@@ -1,5 +1,5 @@
 // components/TimelinePuzzleGame.tsx
-import React, { useState } from "react";
+import React, { useState, useEffect, useMemo } from "react";
 import { EventCard, PartyGameState } from "../lib/types";
 import YouTubeClipPlayer from "./YouTubeClipPlayer";
 import FormattedDate from "./FormattedDate";
@@ -54,6 +54,7 @@ engine,
   const [lastPlacedIndex, setLastPlacedIndex] = useState<number>(0);
   const [feedback, setFeedback] = useState<boolean | null>(null);
   const [singlePlayerJustPlaced, setSinglePlayerJustPlaced] = useState<{cardId: string, correct: boolean} | null>(null);
+  const [isDragging, setIsDragging] = useState(false); // Track drag state to fix iframe interference
   
 
   const [teamTurn, setTeamTurn] = useState<number>(0);
@@ -89,44 +90,48 @@ engine,
     }
   })();
 
-  // Enhanced YouTube parameter extraction with randomization
-  let youTubeStart = 0;
-  let youTubeEnd = 0;
-  
-  if (selectedCard?.youtube) {
-    try {
-      const u = new URL(selectedCard.youtube);
-      
-      // Check if this is the randomized music videos puzzle
-      const isRandomizedPuzzle = puzzle?.slug === "best-music-videos-randomized";
-      
-      if (isRandomizedPuzzle && selectedCard.duration && selectedCard.duration >= 45) {
-        // Generate random 45-second segment
-        const maxStartTime = selectedCard.duration - 45;
-        const randomStart = Math.floor(Math.random() * maxStartTime);
-        youTubeStart = randomStart;
-        youTubeEnd = randomStart + 45;
+  // Enhanced YouTube parameter extraction with randomization (MEMOIZED to prevent re-randomization on mouseover)
+  const { youTubeStart, youTubeEnd } = useMemo(() => {
+    let start = 0;
+    let end = 0;
+    
+    if (selectedCard?.youtube) {
+      try {
+        const u = new URL(selectedCard.youtube);
         
-        console.log(`🎲 Randomized segment for "${selectedCard.label}": ${youTubeStart}s-${youTubeEnd}s (total: ${selectedCard.duration}s)`);
-      } else if (isRandomizedPuzzle && selectedCard.duration && selectedCard.duration < 45) {
-        // For videos shorter than 45 seconds, play entire video 
-        youTubeStart = 0;
-        youTubeEnd = 0; // Let it play to natural end
+        // Check if this is the randomized music videos puzzle
+        const isRandomizedPuzzle = puzzle?.slug === "best-music-videos-randomized";
         
-        console.log(`🎵 Playing full video for "${selectedCard.label}": ${selectedCard.duration}s (shorter than 45s)`);
-      } else {
-        // Standard behavior for non-randomized puzzles or missing duration data
-        const t = u.searchParams.get("t") || u.searchParams.get("start");
-        if (t) youTubeStart = parseInt(t.replace(/\D/g, ""), 10) || 0;
-        const end = u.searchParams.get("end");
-        if (end) youTubeEnd = parseInt(end.replace(/\D/g, ""), 10) || 0;
+        if (isRandomizedPuzzle && selectedCard.duration && selectedCard.duration >= 45) {
+          // Generate random 45-second segment (ONLY ONCE per card selection)
+          const maxStartTime = selectedCard.duration - 45;
+          const randomStart = Math.floor(Math.random() * maxStartTime);
+          start = randomStart;
+          end = randomStart + 45;
+          
+          console.log(`🎲 Randomized segment for "${selectedCard.label}": ${start}s-${end}s (total: ${selectedCard.duration}s)`);
+        } else if (isRandomizedPuzzle && selectedCard.duration && selectedCard.duration < 45) {
+          // For videos shorter than 45 seconds, play entire video 
+          start = 0;
+          end = 0; // Let it play to natural end
+          
+          console.log(`🎵 Playing full video for "${selectedCard.label}": ${selectedCard.duration}s (shorter than 45s)`);
+        } else {
+          // Standard behavior for non-randomized puzzles or missing duration data
+          const t = u.searchParams.get("t") || u.searchParams.get("start");
+          if (t) start = parseInt(t.replace(/\D/g, ""), 10) || 0;
+          const endParam = u.searchParams.get("end");
+          if (endParam) end = parseInt(endParam.replace(/\D/g, ""), 10) || 0;
+        }
+      } catch {
+        // Fallback to no timing parameters
+        start = 0;
+        end = 0;
       }
-    } catch {
-      // Fallback to no timing parameters
-      youTubeStart = 0;
-      youTubeEnd = 0;
     }
-  }
+    
+    return { youTubeStart: start, youTubeEnd: end };
+  }, [selectedCard?.id, selectedCard?.youtube, selectedCard?.duration, puzzle?.slug]); // Only recalculate when card actually changes
 
   // Calculate the visual timeline cards early so it can be used in drag handlers
   const preAnchor = (timeline ?? []).filter((p) => p?.card?.date !== undefined && p.card.date < anchorCard.date);
@@ -255,10 +260,12 @@ const handlePlace = (attemptedIndex: number) => {
   const onDragStart = (e: React.DragEvent<HTMLDivElement>) => {
     e.dataTransfer.setData("text/plain", "");
     e.dataTransfer.effectAllowed = "move";
+    setIsDragging(true);
   };
 
   const onTimelineDragOver = (e: React.DragEvent<HTMLDivElement>) => {
     e.preventDefault();
+    e.dataTransfer.dropEffect = "move"; // Fix: Signal valid drop zone to browser
     const rect = e.currentTarget.getBoundingClientRect();
     const x = e.clientX - rect.left;
     
@@ -293,7 +300,12 @@ const handlePlace = (attemptedIndex: number) => {
 
   const onTimelineDrop = (e: React.DragEvent<HTMLDivElement>) => {
     e.preventDefault();
+    setIsDragging(false); // Fix: Re-enable iframe pointer events after drop
     if (hoveredIndex !== null) handlePlace(hoveredIndex);
+  };
+
+  const onDragEnd = (e: React.DragEvent<HTMLDivElement>) => {
+    setIsDragging(false); // Fix: Re-enable iframe pointer events if drag ends without drop
   };
 
   // Determine if the just-placed card was correct
@@ -371,7 +383,7 @@ const handlePlace = (attemptedIndex: number) => {
   return (
     <div className="bg-gray-50 p-[min(0.5vw,2px)] pb-0 pt-2 w-full relative">
       <div className="mb-0 flex flex-col items-center relative">
-        <div draggable={!locked} onDragStart={!locked ? onDragStart : undefined} className="relative inline-block">
+        <div draggable={!locked} onDragStart={!locked ? onDragStart : undefined} onDragEnd={!locked ? onDragEnd : undefined} className="relative inline-block">
           <div
             className={`${
               videoId ? "w-[min(90vw,calc(100vh*1.6))] max-w-[1400px]" : selectedCard?.deezer?.trackId ? "w-[60vw] max-w-[800px]" : "w-[20vw] min-w-[280px]"
@@ -406,7 +418,7 @@ const handlePlace = (attemptedIndex: number) => {
             </div>
 
             {videoId ? (
-              <div className="mt-1 mb-1 w-full relative">
+              <div className="mt-1 mb-1 w-full relative" style={{ pointerEvents: isDragging ? 'none' : 'auto' }}>
                 <YouTubeClipPlayer
                   key={`youtube-${selectedCard.id}-${videoId}`}
                   videoId={videoId}
@@ -420,6 +432,7 @@ const handlePlace = (attemptedIndex: number) => {
                 src={`https://widget.deezer.com/widget/dark/track/${selectedCard.deezer.trackId}`}
                 allow="autoplay; clipboard-write"
                 className="rounded w-full h-20 mt-0 shadow"
+                style={{ pointerEvents: isDragging ? 'none' : 'auto' }}
               />
             ) : selectedCard?.image ? (
               <img
