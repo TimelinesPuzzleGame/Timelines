@@ -1,0 +1,370 @@
+
+
+
+
+Timelines Game Ramp-Up Doc
+
+This document contains everything ChatGPT needs to know to resume helping with the design, content, and development of the game Timelines.
+
+I've been developing a video game called Timelines with help from chatgpt. I'm starting a new thread because the previous one has slowed down too much. I’m going to share a bunch of information aimed at ramping up this new thread. When I tell you I'm done with the "brain dump" then I'll want you to analyze all of it and ask me any questions that would help you come up to speed so that you can help me continue to develop the game (mainly coding and content creation): 
+
+🧭 Core Concept Timelines 
+
+is a web-based puzzle game inspired by the board game Hitster, where players must arrange events chronologically. Each puzzle presents a themed set of events (or images), and the player must correctly place them along a timeline. It blends historical facts, pop culture, and internet-era knowledge into fast, addictive gameplay. 
+
+🎯 Vision
+
+Make players feel smart and surprised and to teach them interesting facts. 
+
+Enable social sharing and word-of-mouth virality through clever, visual puzzles. 
+
+Serve as a daily brain-boosting ritual like Wordle, with expansion potential into multiplayer or themed packs. 
+
+Empower players to make and easily share their own great puzzles (UGP and Surprise Me)
+
+🎨 Tone & Style 
+
+Smart, accessible, and internet-savvy — like the tone of New York Times Games or Mental Floss. 
+
+Headlines should read like punchy clickbait (in the best way), evoking curiosity, recognition/nostalgia and emotion. 
+
+Puzzles can optionally use images or youtube videos and optionally have tooltips for more information. When using images/vidoes they should use iconic, instantly recognizable imagery that connects emotionally with players. 
+
+🧩 What Makes a Great Puzzle Topic? 
+
+The best puzzles: 
+
+Tap into shared cultural memory (e.g., “Oscar Best Picture Winners,” “Pop Punk Anthems,” “Famous Firsts in Tech”). 
+
+Contain both well-known and surprising entries — a mix of ”I knew that!” and “Wait, that actually happened then?” 
+
+Have chronological variation: the farther apart events are, the easier the puzzle; tight clusters increase difficulty. 
+
+Support strong visuals when possible (for image-based puzzles). 
+
+Can be explained in 1–2 sentences (e.g., for accessibility and mobile-friendly UI). 
+
+The best cards in a given puzzle give a very interesting fact (sound or image) that the player can a. Learn something from and/or find humorous b. Use all sorts of context clues to narrow down the time window and then use specific knowledge to narrow down further.  
+
+Screenshot of a basic, text-based puzzle: 
+
+
+
+
+
+
+
+Key Features: 
+
+
+
+
+
+Singleplayer mode. This is the mode that the game loads into. The player is served 10 cards and must get as many right as possible. 
+
+Party Mode: this is local coop where teams compete against each other. The rule set is pretty much identical to Hitster. 
+
+Music-based Puzzles: There’s also support for music based puzzles where the draggable card (ie the card that the player needs to add to the Timeline) plays a 30 second preview clip from Deezer’s library.  
+
+Embedded Youtube videos: Videos can bring certain topics to life in a way that words just cant (ex. Iconic Dances in Film, Fastest KO’s in UFC History, etc):
+
+Each draggable card plays a YouTube video.
+
+Supports both single-clip puzzles (e.g. 10 different videos) and multi-clip puzzles using the same video with different timestamps.
+
+Automatically parses YouTube start and end times from URLs.
+
+Auto-stops videos once dropped.
+
+Card size dynamically adjusts for video playback.
+
+User Generated Puzzles: Players can enter a topic and the game will use ChatGPT to craft a real-time puzzle based on the user’s input. The user can then save the puzzle:
+
+- Added logic to interpret nuanced prompts and optionally extract a title from the user’s wording.
+
+- GPT also determines appropriate category and subcategory from the prompt (within constraints).
+
+- Errors gracefully handled and retry logic implemented.
+
+Surprise Me button per subcategory: Clicking “Surprise Me” under any subcategory will create new “random” real-time puzzle in that subcategory:
+
+GPT is called with that category/subcategory locked in.
+
+GPT returns a fresh puzzle each time with high replayability and thematic relevance.
+
+Each subcategory has its own prompt for ChatGPT.
+
+Player can save these puzzles as well.
+
+Music Scaling Support (Phase 1)
+
+Built a system to crawl Deezer’s public API using a keyword bank.
+
+Collected ~61,000 songs with previews.
+
+Used to expand content base and increase variety in GPT-generated puzzles.
+
+Have to figure out exactly what the next step is to actually use it.
+
+
+
+
+
+🧠 PUZZLE DESIGN PRINCIPLES
+
+Each puzzle = 10 chronological cards
+
+Cards use a label and date
+
+Optional: tooltip (for description + quote)
+
+Each card should:
+
+Be recognizable, visual, or emotional
+
+Trigger personal memory or cultural resonance
+
+Blend easy + medium + 1-2 "surprising" entries
+
+Card examples:
+
+"Apple unveils the iPhone" (2007)
+
+"Googoosh’s breakout film Bita hits theaters" (1972)
+
+"Shrek becomes the first Best Animated Feature Oscar winner" (2001)
+
+
+
+💡 PUZZLE CATEGORIES (SO FAR)
+
+History
+
+Arts
+
+Entertainment
+
+Sports
+
+
+
+💡 PUZZLE TYPES (SO FAR)
+
+Current Events
+
+Music-Based (Deezer embed)
+
+Image-Based
+
+Video-based (YouTube)
+
+Fictional Timelines (e.g. Star Wars, Lord of the Rings). These puzzles are more about the sequence of events rather than specific years, so hide the date for these.
+
+
+
+💡 Examples of Existing Puzzle Titles
+
+History
+
+Cold War
+
+Major Economic Events (Modern History)
+
+Major Inventions (Past 2000 Years)
+
+Modern Pop Culture
+
+Panic over Progress
+
+True Crime
+
+Arts
+
+Paintings
+
+Entertainment
+
+Back to the Future
+
+Coldest Rap Diss Tracks o.a.t.
+
+Diddy: Life, Career & Controversy
+
+Harry Potter
+
+Hip-Hop History in 50 Songs
+
+Hit 
+
+Songs (1920s–2020s)
+
+Hit Songs with Previews (Deezer)
+
+Horror Films
+
+Lord of the Rings
+
+Major Video Game Releases
+
+Milestones in Video Game Mechanics
+
+The Kingkiller Chronicles
+
+Sports
+
+Brazil Football
+
+NBA
+
+Current Events
+
+Celebrity Apologies: How Soon is Too Soon?
+
+Lively vs Baldoni
+
+
+
+🔧 TECHNICAL DETAILS
+
+Puzzle Storage & Structure
+
+Puzzles are stored as .json files in the /lib directory.
+
+The gameData.ts file acts as the central hub, importing, organizing, and serving all puzzles.
+
+Puzzles can be:
+
+Static: Pre-authored .json files (e.g., ufcSubmissions.json, iconicMovieDanceScenes.json)
+
+Surprise Me: Dynamically generated from category-based GPT prompts
+
+User Generated (UGP): Generated from a player’s full natural language prompt via /api/generate
+
+Puzzle Schema
+
+Defined in types.ts:
+
+Each Puzzle has a slug, topic, category, subcategory, and a cards array.
+
+Each Card (EventCard) includes:
+
+id, label, date
+
+Optional: tooltip with description and quote
+
+Optional: image, youtube, deezer, spotify
+
+YouTube supports ?t= and &start= timestamps; &end= is also honored.
+
+Media Support
+
+YouTube:
+
+Dragging a card with a YouTube URL plays the clip inline using an <iframe>.
+
+YouTube videos respect start and end timestamps parsed from the URL.
+
+Video stops when the card is placed on the timeline.
+
+Custom layout styling ensures aspect ratios are preserved; card width adapts to media width.
+
+Deezer:
+
+Deezer track IDs are embedded via iframe widgets (via lib/deezer.ts and deezer-enrich.js).
+
+Both Surprise Me and UGP can return songs with valid 30-second previews.
+
+Music puzzles are filtered to require only valid preview tracks.
+
+Images:
+
+Card objects can include static image URLs (e.g., for paintings.json).
+
+GPT Integration
+
+Uses OpenAI’s chat.completions.create endpoint via the openai npm package.
+
+GPT prompt logic is modularized in lib/systemPrompt.ts and lib/prompts.ts.
+
+Surprise Me flows call /api/surprise; UGP flows call /api/generate.
+
+GPT responses are parsed, validated (via zod schemas), enriched (e.g., Wikipedia or Deezer), and then displayed.
+
+Planned/Not Implemented: UGP Advanced Prompt Features
+
+Players can enter detailed prompts like:
+
+"Create a puzzle about Taylor Swift. Call it Swift Through the Eras."
+
+GPT extracts the puzzle topic, proposed title, and classifies category/subcategory.
+
+If no title is explicitly given, GPT generates one based on prompt.
+
+Category/subcategory selection is constrained to predefined values in gameData.ts.
+
+Puzzle Validation
+
+Puzzle and card schemas validated via zod in both generate.ts and surprise.ts.
+
+Auto-deduplication and trimming of previewless songs happens before saving.
+
+System fails gracefully with fallback messages if GPT returns invalid or non-parsable JSON.
+
+Backend Features
+
+/api/save-puzzle.ts enables persistent storage of Surprise Me or UGP puzzles.
+
+Auto-generates slugs
+
+Auto-appends valid puzzles to gameData.ts
+
+Revalidates puzzle schema before save
+
+Persistent Content Crawling
+
+deezer-crawler.js is a local Node.js script that scrapes the Deezer API across hundreds of keywords to build a database of tracks with 30s previews.
+
+Stored in data/all_deezer_tracks_with_preview.json
+
+Auto-pagination and deduplication
+
+Meant for deep content curation to power future playlists or music puzzles at scale
+
+________________________________________
+
+🖥 UI & Rendering
+
+Core Interface
+
+index.tsx handles all rendering via React (w/ TypeScript).
+
+Cards are drag-and-drop capable via framer-motion.
+
+Timeline is horizontal and scroll-free (cards scale responsively).
+
+Timeline shows: anchor card, correct/incorrect coloring (green/red/gray), tooltips (if enabled).
+
+UI automatically reveals audio/video previews on draggable cards.
+
+Design Language
+
+Tailwind CSS powered
+
+Responsive styling via w-96, h-96, mt-2, etc.
+
+Minimalist, modern theme with strong use of color to denote state
+
+Timeline indicators include vertical lines and placement pips
+
+Timeline and drag areas are always visible on screen
+
+Tooltips
+
+Optional per puzzle
+
+Defined per card (tooltip.description, tooltip.quote)
+
+Renders only when showTooltips is true
+
+
+

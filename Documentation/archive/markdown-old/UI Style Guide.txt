@@ -1,0 +1,180 @@
+
+
+
+
+
+
+Party Mode Style Guide
+
+All measurements use Tailwind with viewport-relative (vw) sizing and clamps to maintain legibility across devices.
+
+
+
+1. Layout Container
+
+<div className="min-h-screen p-[3vw] relative flex flex-col items-center"> … </div>
+
+min-h-screen ensures full-viewport height
+
+p-[3vw] dynamic padding around all sides
+
+relative flex flex-col items-center centers content vertically and horizontally
+
+
+
+2. Back Button
+
+<button
+
+  onClick={() => setStep("names")}
+
+  className="absolute top-[2vw] right-[2vw] px-[1vw] py-[.5vw] bg-red-100 text-red-600 rounded text-[clamp(1rem,6vw,3rem)]"
+
+>
+
+  Back
+
+</button>
+
+Positioned: absolute top-[2vw] right-[2vw]
+
+Size: px-[1vw] py-[.5vw]
+
+Colors: bg-red-100 default, text text-red-600
+
+Typography: text-[clamp(1rem,6vw,3rem)]
+
+
+
+3. Title
+
+<h1 className="text-[clamp(2rem,8vw,18rem)] font-bold mb-[4vw]">
+
+  Select a Category
+
+</h1>
+
+Font size: text-[clamp(2rem,8vw,18rem)]
+
+Weight: font-bold
+
+Margin bottom: mb-[4vw]
+
+
+
+4. Category Buttons
+
+<div className="flex flex-nowrap justify-center gap-[2vw] mb-[6vw] overflow-x-auto">
+
+  {CATS.map(cat => (
+
+    <button
+
+      key={cat}
+
+      className={
+
+        `flex-shrink-0 w-[18vw] h-[10vw] rounded-xl ` +
+
+        `text-[clamp(1rem,4vw,9rem)] font-semibold transition-all outline-none focus:outline-none ` +
+
+        (selectedCategory === cat
+
+          ? "bg-green-100 text-black"
+
+          : "bg-gray-200 text-gray-800 hover:bg-purple-100")
+
+      }
+
+    >
+
+      {cat}
+
+    </button>
+
+  ))}
+
+</div>
+
+Wrapper: flex flex-nowrap justify-center gap-[2vw] overflow-x-auto
+
+Button size: w-[18vw] h-[10vw] flex-shrink-0
+
+Font size: text-[clamp(1rem,4vw,9rem)]
+
+Default: bg-gray-200 text-gray-800
+
+Selected: bg-green-100 text-black
+
+Hover: hover:bg-purple-100
+
+Accessibility: outline-none focus:outline-none transition-all
+
+
+
+5. Pick Subcategory Toggle
+
+<label className="inline-flex items-center space-x-[2vw] mb-[6vw] text-[clamp(1rem,3vw,6rem)]">
+
+  <input type="checkbox" className="h-[3vw] w-[3vw]" />
+
+  <span>Pick a Specific Topic</span>
+
+</label>
+
+Layout: inline-flex items-center
+
+Checkbox: h-[3vw] w-[3vw]
+
+Label font: text-[clamp(1rem,3vw,6rem)]
+
+
+
+6. Start Button
+
+<button
+
+  onClick={…}
+
+  disabled={!selectedCategory}
+
+  className={
+
+    `mt-[1vw] w-[12.5vw] py-[0.5vw] rounded-xl font-bold text-white transition-all outline-none focus:outline-none text-[clamp(1.5rem,4vw,6rem)] ` +
+
+    (selectedCategory
+
+      ? "bg-blue-500 hover:bg-blue-700"
+
+      : "bg-blue-500 opacity-50 cursor-not-allowed")
+
+  }
+
+>
+
+  Start
+
+</button>
+
+Width: w-[12.5vw], Height via py-[0.5vw]
+
+Font size: text-[clamp(1.5rem,4vw,6rem)]
+
+Default: bg-blue-500, hover hover:bg-blue-700
+
+Disabled: opacity-50 cursor-not-allowed
+
+
+
+Usage Across Screens:
+
+Follow these patterns for any future setup or dialog pages.
+
+All font-sizes, spacings, and interactive states should replicate this guide.
+
+
+
+Last updated: based on your final category-selection pass.
+
+
+

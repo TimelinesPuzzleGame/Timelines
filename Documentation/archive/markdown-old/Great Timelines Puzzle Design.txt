@@ -1,0 +1,112 @@
+Great Puzzle Design
+
+What Makes a Great Timelines Puzzle
+
+This document defines the qualities, structure, tone, and psychological design behind what makes a great Timelines puzzle. It is intended to guide puzzle generation (via GPT or manually), help with quality control, and inform future features like editing, rating, and surfacing user-generated puzzles.
+
+
+
+🔹 Core Design Goals
+
+A great Timelines puzzle should:
+
+Make players feel smart and surprised
+
+Evoke nostalgia, emotional memory, or cultural recognition
+
+Spark delight, curiosity, or learning (even in failure)
+
+Feel cohesive as a set, not just a random assortment
+
+Reward both casual players and subject-matter enthusiasts
+
+
+
+✏️ Puzzle Format
+
+Each puzzle consists of 10 chronological cards. Each card includes:
+
+label: short, compelling headline (required)
+
+date: year (required, integer)
+
+tooltip.description: short context paragraph (optional)
+
+tooltip.quote: direct quote (optional)
+
+media: Deezer trackId, image, or video embed (optional)
+
+
+
+✨ What Makes a Card Great
+
+A great card is one or more of the following:
+
+Recognizable: "The iPhone is unveiled"
+
+Emotionally loaded: "Googoosh performs after decades in exile"
+
+Culturally sticky: "The Macarena takes over the world"
+
+Unexpected but true: "The fork sparks controversy in France"
+
+Useful as a clue: lets the player reason about when it happened
+
+Label Style:
+
+Use headline-style language, not academic phrasing
+
+Embrace pop tone where appropriate ("Barbie debuts," not "Mattel releases the Barbie doll")
+
+Use real-world terms ("The Beatles go full psychedelic")
+
+Avoid passive voice, dry syntax, or encyclopedia tone
+
+
+
+🧐 Difficulty Balance
+
+A great puzzle should:
+
+Contain 10 cards, always
+
+The date needs to be precisely defined. For example we should never say something like “the golden age of cinema in America” because that spans many years. An acceptable card would be “[Movie Name] helps usher in golden age of Cinema in US” because it gets the same point across but ties the event to a particular date. We may want to add date ranges at some point in the future (but would need to be careful not to create too much overlap in a given puzzle).
+
+
+
+Have a balance of difficulty:
+
+Easy: 4–5 cards the average player can confidently place
+
+Medium: 3–4 cards that require reasoning
+
+Hard: 1–2 cards that surprise or challenge the player
+
+Avoid clustering all dates within the same decade (unless thematically appropriate)
+
+Easy Cards:
+
+Highly recognizable cultural touchstones
+
+Often associated with major milestones, e.g. moon landing, iPhone, Titanic
+
+Medium Cards:
+
+Familiar but more specific, e.g. "Shrek wins first Best Animated Feature Oscar"
+
+Things that require triangulation (e.g. did it come before or after X?)
+
+Hard Cards:
+
+Less-known but delightful facts, e.g. "The printing press is banned by the Pope"
+
+Useful to teach players something unexpected
+
+
+
+📚 Types of Thematic Cohesion
+
+Great puzzles feel like a mini-documentary, a highlight reel, or a timeline of cultural drift. Cohesion can be based on:
+
+
+

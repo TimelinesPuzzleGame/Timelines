@@ -1,0 +1,122 @@
+Timelines File Structure & Architecture Overview (May 28, 2025)
+
+Root Files
+
+• .env.local
+
+• .gitignore
+
+• README.md
+
+• tailwind.config.js
+
+• tsconfig.json
+
+• package.json
+
+• package-lock.json
+
+• postcss.config.js
+
+• next.config.js
+
+• yarn.lock
+
+• next-env.d.ts
+
+Top-Level Folders
+
+.next/: Generated build and runtime cache files (build-manifest.json, server, static, etc.)
+
+components/:
+
+Shared React components (e.g., CardTooltip.tsx).
+
+TimelinePuzzleGame.tsx: Now supports both singleplayer and party mode via gameMode prop.
+
+Renders draggable card and timeline slots
+
+Accepts anchorCard, currentCard, timeline, and onTimelineChange
+
+Calls engine.recordPlacement(...) in party mode path
+
+
+
+data/
+
+• all_deezer_tracks_with_preview.json – Main JSON dataset of all Deezer tracks with previews.
+
+• deezer_keyword_seeds.json – Seed keywords used for Deezer crawler expansion.
+
+lib/
+
+puzzles/: All puzzle files go here.
+
+deezer.ts: Deezer-related logic for searching and previewing tracks.
+
+gameData.ts: Main registry of all loaded and hardcoded puzzles.
+
+gameLogic.ts: Handles timeline validation, placement, and correctness.
+
+prompts.ts: Client-side generation helpers for UGP.
+
+savePuzzle.ts: Handles client-initiated puzzle saves.
+
+systemPrompt.ts: Master system prompt for Surprise Me puzzles.
+
+types.ts: Shared TypeScript types across the app (Puzzle, Card, etc.). Includes PlacedCard, Team, and enhancements for party state.
+
+node_modules/: Installed node packages.
+
+PartyGameEngine
+
+Orchestrates per-team decks, anchor cards, turn order, scoring
+
+Isolated from singleplayer logic to preserve sandboxed control flow.
+
+
+
+pages/
+
+api/: API routes (e.g., generate.ts, surprise.ts).
+
+_app.tsx: Custom App component.
+
+index.tsx: Main singleplayer game interface. Unchanged in layout, but now uses shared components like TimelinePuzzleGame.tsx.
+
+ party.tsx
+
+Manages step state & renders screens
+
+Initializes PartyGameEngine on play
+
+Maintains engine, gameState, currentCard, teamTurn
+
+Handles onTimelineChange to record placement, update UI, and switch turns
+
+
+
+public/
+
+• favicon.ico
+
+• vercel.svg – Static assets.
+
+scripts/
+
+fetchDeezerTracks.ts: Utility to fetch tracks with preview clips.
+
+deezer-crawler.js: Node script that crawls Deezer’s search API using keyword seeds.
+
+deezer-enrich.js: Adds Deezer metadata to a puzzle.
+
+deezerPreviewTool.js: Tool to preview or inspect Deezer search results.
+
+styles/: Tailwind/global CSS (not shown but likely included).
+
+
+
+
+
+
+

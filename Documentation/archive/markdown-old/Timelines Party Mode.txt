@@ -1,0 +1,108 @@
+
+
+Multiplayer
+
+
+
+Timelines will offer many different forms of multiplayer over time: competitive, coop, real-time, asynchronous, etc. The one we’re going to start with is party mode. This mode is meant for players to gather around the same screen and discuss/debate placement in person. I’d like this version to be fun for people to stream to an audience as well. 
+
+
+
+Here’s how it goes: 
+
+
+
+
+
+A button in the top right corner will lead players into the mode from the main screen of the game.
+
+
+
+The next screen is “Choose players”. Unselected buttons look like the 2 and the 4, if you hover over a non-selected button the font changes to black. If you click it becomes “selected” and turns green with black font (the following select category buttons will work the same way:
+
+
+
+
+
+
+
+Depending on the number of players selected. The teams will then be asked to name themselves. These fields should start pre-populated with Team 1, Team 2, Team 3 so the player doesn’t HAVE to enter names if they don’t want to: 
+
+
+
+
+
+
+
+Then they will be asked to select a category. If “Pick Subcategory” is unchecked when they click start, the game will pull a random puzzle from the chosen category. If “pick subcategory” is checked, The “Start” button changes to “Next” and the next screen will show a list of all the available puzzles in that category in big chunky low contrast buttons (so it’s easy for people not sitting close to the screen to read). After choosing a subcategory, the player clicks start and the game begins. 
+
+
+
+
+
+
+
+The rules of Party mode are different than single player. The game works just like Hitster: first team to 10 cards on their timeline wins the game. Incorrect cards are “discarded”. Here are some more specifics: 
+
+
+
+
+
+
+
+
+
+First of all each team gets their own timeline. 
+
+
+
+The score/turn indicator in the top left side of the screen shows who’s Turn it is by placing that team at the top, growing the font for the team name to grab attention (like a title). We need some sort of bounce or movement that draws attention to the team names during a turn change. 
+
+
+
+At game start, we pick 10 random cards from the puzzle for each team. There can be no overlap of cards (which means this mode can only use puzzles that have at least 10 unique cards * the number of teams in the game). For each team’s turn in addition to updating the turn/score indicator, we display their unique timeline (starting with their unique anchor card and placeable card). 
+
+
+
+The game starts with 10 “Empty” pips underneath each team name (this conveys the total number of points required to win the game) . 
+
+
+
+Turn ends after a team places a card. If they get it wrong, the red card (and “incorrect” red box/text) shows up in the correct position for a 2-3 seconds, but then fades out and the turn switches to the next team. 
+
+
+
+If they get it right, the green card stays on the timeline and one of the empty pips turns green. 
+
+We need a clear, ideally “celebratory” action with motion to show that a player gained a point (represented by the filled in green pips under the team name). At the least we should have a bounce, similar to the bounce that occurs when the player places a card. 
+
+
+
+It is important to note that this scoring is different than singleplayer (where the player gets 10 cards total and the incorrect cards show up on the timeline).
+
+
+
+The first team to get to 10 cards in their timeline wins. 
+
+
+
+
+
+
+
+We need a simple results screen when a time wins that shows how many each team got right versus wrong. The Rematch button restarts the game with the same parameters (but with new random cards of course). The Finish button take the player back to the main screen of the game (currently singleplayer). The New Category button keeps team number and names and jumps straight to the Category Selection part of the flow so that the same group of people can play a different category. 
+
+
+
+For phase 1 of development of multiplayer, I stand up the most basic version of party mode. As my CTO I want you to tell me the best way to architect and implement this. I only have the following requirements: 
+
+We do this as modularly as possible. Ideally the changes we make to add this mode would cause the least possible amount of disruption or change to the rest of the code base. (I want to be able to play the core game during the development of this mode as regularly as possible, so I don’t want the game down and being unable to run for long stretches. 
+
+Even though the scoring/end condition will be different, it’s extremely important that the game shares the core look and basic functionality across multi- and single- player modes. If I want to update shared aspects of the game (like iterating on layout, animation of cards, new/changed UI elements, etc) I don’t want to have to do it for both single and multiplayer.
+
+I’d prefer to take an iterative approach to development, starting with the very core of the experience: We could drop players directly into the start of a party game (skipping all the screens in between) with a set number of teams (2 at first) and a preselected category (music), and allow them to play a full round that shows a results screen and drops them back off at the single player menu. Then layer in all upfront choices after its up and we can see how it feels. 
+
+I’m now going to share a brief spec for the mode. I want you to analyze it and ask me any questions necessary to gain a complete understanding of what I want so that we can make the development process as smooth and quick as possible. Do you understand?
+
+
+
