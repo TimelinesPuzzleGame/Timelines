@@ -1,0 +1,61 @@
+{
+  "topic": "Variant Test 2",
+  "videoSources": [
+    {
+      "videoId": "saa98l0yDYQ",
+      "title": "Bambi",
+      "year": 2021,
+      "date": 2021,
+      "youtube": "https://www.youtube.com/watch?v=saa98l0yDYQ",
+      "label": "Bambi (2021)"
+    },
+    {
+      "videoId": "rEWaqUVac3M",
+      "title": "Casablanca",
+      "year": 2010,
+      "date": 2010,
+      "youtube": "https://www.youtube.com/watch?v=rEWaqUVac3M",
+      "label": "Casablanca (2010)"
+    },
+    {
+      "videoId": "-wI4jJq98tU",
+      "title": "Singin' in the Rain",
+      "year": 2009,
+      "date": 2009,
+      "youtube": "https://www.youtube.com/watch?v=-wI4jJq98tU",
+      "label": "Singin' in the Rain (2009)"
+    },
+    {
+      "videoId": "g9CR_tib0CA",
+      "title": "High Noon",
+      "year": 2008,
+      "date": 2008,
+      "youtube": "https://www.youtube.com/watch?v=g9CR_tib0CA",
+      "label": "High Noon (2008)"
+    },
+    {
+      "videoId": "uBiewQrpBBA",
+      "title": "On the Waterfront",
+      "year": 2022,
+      "date": 2022,
+      "youtube": "https://www.youtube.com/watch?v=uBiewQrpBBA",
+      "label": "On the Waterfront (2022)"
+    },
+    {
+      "videoId": "auccmqO45a8",
+      "title": "The Night of the Hunter",
+      "year": 2007,
+      "date": 2007,
+      "youtube": "https://www.youtube.com/watch?v=auccmqO45a8",
+      "label": "The Night of the Hunter (2007)"
+    },
+    {
+      "videoId": "0jxVnlRdelU",
+      "title": "12 Angry Men",
+      "year": 2006,
+      "date": 2006,
+      "youtube": "https://www.youtube.com/watch?v=0jxVnlRdelU",
+      "label": "12 Angry Men (2006)"
+    }
+  ]
+}

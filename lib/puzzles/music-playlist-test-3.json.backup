@@ -1,0 +1,74 @@
+// This file has been merged into greatest-music-videos-all-time-expanded.json
+// Original content:
+/*
+{
+  "slug": "music-playlist-test-3",
+  "topic": "Music Playlist Test 3",
+  "category": "Entertainment",
+  "subcategory": "Music",
+  "description": "Music videos and performances from 2010-2019. Features real YouTube video titles with verified release dates and no date spoilers.",
+  "hideDates": false,
+  "cards": [
+    {
+      "id": 18,
+      "label": "Travis Scott - SICKO MODE ft. Drake",
+      "date": 2018,
+      "youtube": "https://www.youtube.com/watch?v=6ONRf7h3Mdk"
+    },
+    {
+      "id": 23,
+      "label": "DaBaby - BOP on Broadway (Hip Hop Musical)",
+      "date": 2019,
+      "youtube": "https://www.youtube.com/watch?v=28hYUZMufDg"
+    },
+    {
+      "id": 24,
+      "label": "Ciara - Body Party",
+      "date": 2013,
+      "youtube": "https://www.youtube.com/watch?v=B9rSBcoX9ak"
+    },
+    {
+      "id": 25,
+      "label": "Robyn - Call Your Girlfriend",
+      "date": 2011,
+      "youtube": "https://www.youtube.com/watch?v=F6ImxY6hnfA"
+    },
+    {
+      "id": 26,
+      "label": "Iggy Azalea - Fancy ft. Charli XCX",
+      "date": 2014,
+      "youtube": "https://www.youtube.com/watch?v=O-zpOMYRi0w"
+    },
+    {
+      "id": 27,
+      "label": "Miley Cyrus - We Can't Stop",
+      "date": 2013,
+      "youtube": "https://www.youtube.com/watch?v=LrUvu1mlWco"
+    },
+    {
+      "id": 21,
+      "label": "Katy Perry - California Gurls ft. Snoop Dogg",
+      "date": 2010,
+      "youtube": "https://www.youtube.com/watch?v=F57P9C4SAW4"
+    },
+    {
+      "id": 22,
+      "label": "Taylor Swift - Blank Space",
+      "date": 2014,
+      "youtube": "https://www.youtube.com/watch?v=e-ORhEE9VVg"
+    },
+    {
+      "id": 19,
+      "label": "Ariana Grande - thank u, next",
+      "date": 2018,
+      "youtube": "https://www.youtube.com/watch?v=gl1aHhXnN1k"
+    },
+    {
+      "id": 20,
+      "label": "Billie Eilish - bad guy",
+      "date": 2019,
+      "youtube": "https://www.youtube.com/watch?v=DyDfgMOUjCI"
+    }
+  ]
+}
+*/

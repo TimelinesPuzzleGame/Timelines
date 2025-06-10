@@ -1,0 +1,74 @@
+// This file has been merged into greatest-music-videos-all-time-expanded.json
+// Original content:
+/*
+{
+  "slug": "music-playlist-test-11",
+  "topic": "Music Playlist Test 11",
+  "category": "Entertainment",
+  "subcategory": "Music",
+  "description": "Music videos and performances from 1983-2010. Features real YouTube video titles with verified release dates and no date spoilers.",
+  "hideDates": false,
+  "cards": [
+    {
+      "id": 109,
+      "label": "Culture Club - Karma Chameleon",
+      "date": 1983,
+      "youtube": "https://www.youtube.com/watch?v=JmcA9LIIXWw"
+    },
+    {
+      "id": 111,
+      "label": "R.E.M. - Losing My Religion",
+      "date": 1991,
+      "youtube": "https://www.youtube.com/watch?v=xwtdhWltSIg"
+    },
+    {
+      "id": 104,
+      "label": "Bon Jovi - Livin' On A Prayer",
+      "date": 1986,
+      "youtube": "https://www.youtube.com/watch?v=lDK9QqIzhwk"
+    },
+    {
+      "id": 110,
+      "label": "Guns N' Roses - Paradise City",
+      "date": 1987,
+      "youtube": "https://www.youtube.com/watch?v=Rbm6GXllBiw"
+    },
+    {
+      "id": 114,
+      "label": "AC/DC - Thunderstruck",
+      "date": 1990,
+      "youtube": "https://www.youtube.com/watch?v=v2AC41dglnM"
+    },
+    {
+      "id": 105,
+      "label": "Dirty Dancing - Time of my Life (Final Dance) - High Quality",
+      "date": 2010,
+      "youtube": "https://www.youtube.com/watch?v=WpmILPAcRQo"
+    },
+    {
+      "id": 107,
+      "label": "Europe - The Final Countdown",
+      "date": 1986,
+      "youtube": "https://www.youtube.com/watch?v=9jK-NcRmVcw"
+    },
+    {
+      "id": 108,
+      "label": "Rick Astley - Never Gonna Give You Up",
+      "date": 1987,
+      "youtube": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+    },
+    {
+      "id": 112,
+      "label": "Survivor - Eye Of The Tiger",
+      "date": 1982,
+      "youtube": "https://www.youtube.com/watch?v=btPJPFnesV4"
+    },
+    {
+      "id": 117,
+      "label": "Bonnie Tyler - Total Eclipse of the Heart (Turn Around)",
+      "date": 1983,
+      "youtube": "https://www.youtube.com/watch?v=lcOxhH8N3Bo"
+    }
+  ]
+}
+*/

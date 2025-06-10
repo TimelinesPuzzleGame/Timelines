@@ -1,0 +1,74 @@
+// This file has been merged into greatest-music-videos-all-time-expanded.json
+// Original content:
+/*
+{
+  "slug": "music-playlist-test-17",
+  "topic": "Music Playlist Test 17",
+  "category": "Entertainment",
+  "subcategory": "Music",
+  "description": "Music videos and performances from 1982-2010. Features real YouTube video titles with verified release dates and no date spoilers.",
+  "hideDates": false,
+  "cards": [
+    {
+      "id": 185,
+      "label": "Culture Club - Do You Really Want To Hurt Me",
+      "date": 1982,
+      "youtube": "https://www.youtube.com/watch?v=2nXGPZaTKik"
+    },
+    {
+      "id": 177,
+      "label": "Twisted Sister - I Wanna Rock",
+      "date": 1985,
+      "youtube": "https://www.youtube.com/watch?v=SRwrg0db_zY"
+    },
+    {
+      "id": 172,
+      "label": "Irene Cara - Flashdance What A Feeling",
+      "date": 2010,
+      "youtube": "https://www.youtube.com/watch?v=ILWSp0m9G2U"
+    },
+    {
+      "id": 175,
+      "label": "Tina Turner - The Best",
+      "date": 2010,
+      "youtube": "https://www.youtube.com/watch?v=GC5E8ie2pdM"
+    },
+    {
+      "id": 176,
+      "label": "Pet Shop Boys - West End Girls",
+      "date": 2010,
+      "youtube": "https://www.youtube.com/watch?v=p3j2NYZ8FKs"
+    },
+    {
+      "id": 179,
+      "label": "Robert Palmer - Addicted To Love",
+      "date": 2010,
+      "youtube": "https://www.youtube.com/watch?v=XcATvu5f9vE"
+    },
+    {
+      "id": 180,
+      "label": "Clash - Rock the Casbah",
+      "date": 2010,
+      "youtube": "https://www.youtube.com/watch?v=bJ9r8LMU9bQ"
+    },
+    {
+      "id": 182,
+      "label": "Kim Carnes - Bette Davis Eyes",
+      "date": 1981,
+      "youtube": "https://www.youtube.com/watch?v=EPOIS5taqA8"
+    },
+    {
+      "id": 184,
+      "label": "Taylor Dayne - Tell It to My Heart",
+      "date": 1987,
+      "youtube": "https://www.youtube.com/watch?v=Ud6sU3AclT4"
+    },
+    {
+      "id": 186,
+      "label": "Bobby Brown - Every Little Step",
+      "date": 1989,
+      "youtube": "https://www.youtube.com/watch?v=P0FKzPfsxA4"
+    }
+  ]
+}
+*/

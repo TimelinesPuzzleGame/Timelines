@@ -1,0 +1,74 @@
+// This file has been merged into greatest-music-videos-all-time-expanded.json
+// Original content:
+/*
+{
+  "slug": "music-playlist-test-4",
+  "topic": "Music Playlist Test 4",
+  "category": "Entertainment",
+  "subcategory": "Music",
+  "description": "Music videos and performances from 2010-2015. Features real YouTube video titles with verified release dates and no date spoilers.",
+  "hideDates": false,
+  "cards": [
+    {
+      "id": 28,
+      "label": "Bobby Shmurda - Hot N*gga",
+      "date": 2014,
+      "youtube": "https://www.youtube.com/watch?v=vJwKKKd2ZYE"
+    },
+    {
+      "id": 29,
+      "label": "Perfume Genius - 'Queen'",
+      "date": 2014,
+      "youtube": "https://www.youtube.com/watch?v=Z7OSSUwPVM4"
+    },
+    {
+      "id": 30,
+      "label": "[MV] ORANGE - CARAMEL(오렌지캬라멜) _ My Copycat(나처럼 해봐요)",
+      "date": 2010,
+      "youtube": "https://www.youtube.com/watch?v=rqSF_9Zf0n4"
+    },
+    {
+      "id": 31,
+      "label": "AZEALIA BANKS - 212 FT. LAZY JAY",
+      "date": 2011,
+      "youtube": "https://www.youtube.com/watch?v=i3Jv9fNPjgk"
+    },
+    {
+      "id": 32,
+      "label": "Carly Rae Jepsen - Call Me Maybe",
+      "date": 2012,
+      "youtube": "https://www.youtube.com/watch?v=fWNaR-rxAic"
+    },
+    {
+      "id": 36,
+      "label": "Ke$ha - Blow",
+      "date": 2011,
+      "youtube": "https://www.youtube.com/watch?v=CFWX0hWCbng"
+    },
+    {
+      "id": 38,
+      "label": "Toby Keith - Red Solo Cup (Unedited Version)",
+      "date": 2011,
+      "youtube": "https://www.youtube.com/watch?v=BKZqGJONH68"
+    },
+    {
+      "id": 33,
+      "label": "Kanye West - Runaway (Full-length Film)",
+      "date": 2010,
+      "youtube": "https://www.youtube.com/watch?v=Jg5wkZ-dJXA"
+    },
+    {
+      "id": 35,
+      "label": "Jay Rock, Kendrick Lamar, Future, James Blake - King's Dead",
+      "date": 2018,
+      "youtube": "https://www.youtube.com/watch?v=VwAnsAUYnw4"
+    },
+    {
+      "id": 37,
+      "label": "Drake - Hotline Bling",
+      "date": 2015,
+      "youtube": "https://www.youtube.com/watch?v=uxpDa-c-4Mc"
+    }
+  ]
+}
+*/

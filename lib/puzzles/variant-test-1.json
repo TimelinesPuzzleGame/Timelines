@@ -1,0 +1,85 @@
+{
+  "topic": "Variant Test 1",
+  "videoSources": [
+    {
+      "videoId": "268ZUL4dnn8",
+      "title": "The General",
+      "year": 2018,
+      "date": 2018,
+      "youtube": "https://www.youtube.com/watch?v=268ZUL4dnn8",
+      "label": "The General (2018)"
+    },
+    {
+      "videoId": "vEt5MqYD_3s",
+      "title": "It Happened One Night",
+      "year": 2019,
+      "date": 2019,
+      "youtube": "https://www.youtube.com/watch?v=vEt5MqYD_3s",
+      "label": "It Happened One Night (2019)"
+    },
+    {
+      "videoId": "17MyPrAEQ28",
+      "title": "Mr. Smith Goes to Washington",
+      "year": 2017,
+      "date": 2017,
+      "youtube": "https://www.youtube.com/watch?v=17MyPrAEQ28",
+      "label": "Mr. Smith Goes to Washington (2017)"
+    },
+    {
+      "videoId": "aopdD9Cu-So",
+      "title": "The Wizard of Oz",
+      "year": 2016,
+      "date": 2016,
+      "youtube": "https://www.youtube.com/watch?v=aopdD9Cu-So",
+      "label": "The Wizard of Oz (2016)"
+    },
+    {
+      "videoId": "lrhNPS4nbmQ",
+      "title": "Gone with the Wind",
+      "year": 2015,
+      "date": 2015,
+      "youtube": "https://www.youtube.com/watch?v=lrhNPS4nbmQ",
+      "label": "Gone with the Wind (2015)"
+    },
+    {
+      "videoId": "-Ot948zIr0s",
+      "title": "The Philadelphia Story",
+      "year": 2014,
+      "date": 2014,
+      "youtube": "https://www.youtube.com/watch?v=-Ot948zIr0s",
+      "label": "The Philadelphia Story (2014)"
+    },
+    {
+      "videoId": "m8lzyaMZ-mA",
+      "title": "His Girl Friday",
+      "year": 2013,
+      "date": 2013,
+      "youtube": "https://www.youtube.com/watch?v=m8lzyaMZ-mA",
+      "label": "His Girl Friday (2013)"
+    },
+    {
+      "videoId": "W7WmhkO_GWI",
+      "title": "Sullivan's Travels",
+      "year": 2020,
+      "date": 2020,
+      "youtube": "https://www.youtube.com/watch?v=W7WmhkO_GWI",
+      "label": "Sullivan's Travels (2020)"
+    },
+    {
+      "videoId": "sGuNGXmQZSE",
+      "title": "The Maltese Falcon",
+      "year": 2012,
+      "date": 2012,
+      "youtube": "https://www.youtube.com/watch?v=sGuNGXmQZSE",
+      "label": "The Maltese Falcon (2012)"
+    },
+    {
+      "videoId": "z9OUZNicTGU",
+      "title": "Citizen Kane",
+      "year": 2011,
+      "date": 2011,
+      "youtube": "https://www.youtube.com/watch?v=z9OUZNicTGU",
+      "label": "Citizen Kane (2011)"
+    }
+  ]
+}

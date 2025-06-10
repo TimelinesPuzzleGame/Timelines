@@ -1,0 +1,404 @@
+{
+  "slug": "gibboanx-test-15",
+  "topic": "Gibboanx Test Puzzle 15",
+  "category": "Entertainment",
+  "subcategory": "Movies/TV",
+  "hideDates": false,
+  "showTooltips": true,
+  "variantSystem": {
+    "enabled": true,
+    "totalScenes": 10,
+    "selectionStrategy": "random_per_round"
+  },
+  "cards": [
+    {
+      "id": "gibboanx-test-15-1",
+      "label": "Lethal Weapon",
+      "date": 1987,
+      "year": 1987,
+      "youtube": "https://www.youtube.com/watch?v=bvAvNfCbQJk&t=0s&end=120s",
+      "duration": 182,
+      "variants": [
+        {
+          "id": "bvAvNfCbQJk-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=bvAvNfCbQJk&t=0s&end=120s",
+          "sceneDescription": "Lethal Weapon - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "bvAvNfCbQJk-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=bvAvNfCbQJk&t=120s&end=182s",
+          "sceneDescription": "Lethal Weapon - Part 2 (2:00 - 3:02)",
+          "startTime": 120,
+          "endTime": 182
+        }
+      ],
+      "variantCount": 2,
+      "tooltip": {
+        "description": "Lethal Weapon (1987) - Quality Score: 40/100",
+        "genre": "Classic Film",
+        "crawlerScore": 40,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 0,
+          "resolutionQuality": 0,
+          "popularityFactor": 10,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:20:53.570Z"
+      },
+      "movie": "Lethal Weapon"
+    },
+    {
+      "id": "gibboanx-test-15-2",
+      "label": "Stranger Than Fiction",
+      "date": 2006,
+      "year": 2006,
+      "youtube": "https://www.youtube.com/watch?v=Mmq0bEWINSo&t=0s&end=138s",
+      "duration": 138,
+      "variants": [
+        {
+          "id": "Mmq0bEWINSo-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=Mmq0bEWINSo&t=0s&end=138s",
+          "sceneDescription": "Stranger Than Fiction - Part 1 (0:00 - 2:18)",
+          "startTime": 0,
+          "endTime": 138
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Stranger Than Fiction (2006) - Quality Score: 35/100",
+        "genre": "Classic Film",
+        "crawlerScore": 35,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 0,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:20:53.570Z"
+      },
+      "movie": "Stranger Than Fiction"
+    },
+    {
+      "id": "gibboanx-test-15-3",
+      "label": "Into the Abyss",
+      "date": 2011,
+      "year": 2011,
+      "youtube": "https://www.youtube.com/watch?v=TRT4rZMlTGc&t=0s&end=78s",
+      "duration": 78,
+      "variants": [
+        {
+          "id": "TRT4rZMlTGc-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=TRT4rZMlTGc&t=0s&end=78s",
+          "sceneDescription": "Into the Abyss - Full Scene (0:00 - 1:18)",
+          "startTime": 0,
+          "endTime": 78
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Into the Abyss (2011) - Quality Score: 45/100",
+        "genre": "Classic Film",
+        "crawlerScore": 45,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:20:53.570Z"
+      },
+      "movie": "Into the Abyss"
+    },
+    {
+      "id": "gibboanx-test-15-4",
+      "label": "The Muppets",
+      "date": 2011,
+      "year": 2011,
+      "youtube": "https://www.youtube.com/watch?v=loIA_BquX_I&t=0s&end=120s",
+      "duration": 276,
+      "variants": [
+        {
+          "id": "loIA_BquX_I-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=loIA_BquX_I&t=0s&end=120s",
+          "sceneDescription": "The Muppets - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "loIA_BquX_I-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=loIA_BquX_I&t=120s&end=276s",
+          "sceneDescription": "The Muppets - Part 2 (2:00 - 4:36)",
+          "startTime": 120,
+          "endTime": 276
+        }
+      ],
+      "variantCount": 2,
+      "tooltip": {
+        "description": "The Muppets (2011) - Quality Score: 55/100",
+        "genre": "Classic Film",
+        "crawlerScore": 55,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 10,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:20:53.570Z"
+      },
+      "movie": "The Muppets"
+    },
+    {
+      "id": "gibboanx-test-15-5",
+      "label": "Dead Man Walking",
+      "date": 1995,
+      "year": 1995,
+      "youtube": "https://www.youtube.com/watch?v=ih8z1jMnPbc&t=0s&end=120s",
+      "duration": 597,
+      "variants": [
+        {
+          "id": "ih8z1jMnPbc-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=ih8z1jMnPbc&t=0s&end=120s",
+          "sceneDescription": "Dead Man Walking - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "ih8z1jMnPbc-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=ih8z1jMnPbc&t=120s&end=240s",
+          "sceneDescription": "Dead Man Walking - Part 2 (2:00 - 4:00)",
+          "startTime": 120,
+          "endTime": 240
+        },
+        {
+          "id": "ih8z1jMnPbc-variant-2",
+          "youtube": "https://www.youtube.com/watch?v=ih8z1jMnPbc&t=240s&end=360s",
+          "sceneDescription": "Dead Man Walking - Part 3 (4:00 - 6:00)",
+          "startTime": 240,
+          "endTime": 360
+        },
+        {
+          "id": "ih8z1jMnPbc-variant-3",
+          "youtube": "https://www.youtube.com/watch?v=ih8z1jMnPbc&t=360s&end=480s",
+          "sceneDescription": "Dead Man Walking - Part 4 (6:00 - 8:00)",
+          "startTime": 360,
+          "endTime": 480
+        },
+        {
+          "id": "ih8z1jMnPbc-variant-4",
+          "youtube": "https://www.youtube.com/watch?v=ih8z1jMnPbc&t=480s&end=597s",
+          "sceneDescription": "Dead Man Walking - Part 5 (8:00 - 9:57)",
+          "startTime": 480,
+          "endTime": 597
+        }
+      ],
+      "variantCount": 5,
+      "tooltip": {
+        "description": "Dead Man Walking (1995) - Quality Score: 45/100",
+        "genre": "Classic Film",
+        "crawlerScore": 45,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:20:53.570Z"
+      },
+      "movie": "Dead Man Walking"
+    },
+    {
+      "id": "gibboanx-test-15-6",
+      "label": "Infernal Affairs",
+      "date": 2002,
+      "year": 2002,
+      "youtube": "https://www.youtube.com/watch?v=vKIPOV1nIAc&t=0s&end=116s",
+      "duration": 116,
+      "variants": [
+        {
+          "id": "vKIPOV1nIAc-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=vKIPOV1nIAc&t=0s&end=116s",
+          "sceneDescription": "Infernal Affairs - Full Scene (0:00 - 1:56)",
+          "startTime": 0,
+          "endTime": 116
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Infernal Affairs (2002) - Quality Score: 45/100",
+        "genre": "Classic Film",
+        "crawlerScore": 45,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:20:53.570Z"
+      },
+      "movie": "Infernal Affairs"
+    },
+    {
+      "id": "gibboanx-test-15-7",
+      "label": "The Way of the Gun",
+      "date": 2000,
+      "year": 2000,
+      "youtube": "https://www.youtube.com/watch?v=g1Km6511oAc&t=0s&end=120s",
+      "duration": 285,
+      "variants": [
+        {
+          "id": "g1Km6511oAc-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=g1Km6511oAc&t=0s&end=120s",
+          "sceneDescription": "The Way of the Gun - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "g1Km6511oAc-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=g1Km6511oAc&t=120s&end=285s",
+          "sceneDescription": "The Way of the Gun - Part 2 (2:00 - 4:45)",
+          "startTime": 120,
+          "endTime": 285
+        }
+      ],
+      "variantCount": 2,
+      "tooltip": {
+        "description": "The Way of the Gun (2000) - Quality Score: 42/100",
+        "genre": "Classic Film",
+        "crawlerScore": 42,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 2,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:20:53.570Z"
+      },
+      "movie": "The Way of the Gun"
+    },
+    {
+      "id": "gibboanx-test-15-8",
+      "label": "Brüno",
+      "date": 2009,
+      "year": 2009,
+      "youtube": "https://www.youtube.com/watch?v=4VYwgMYExDY&t=0s&end=38s",
+      "duration": 38,
+      "variants": [
+        {
+          "id": "4VYwgMYExDY-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=4VYwgMYExDY&t=0s&end=38s",
+          "sceneDescription": "Brüno - Full Scene (0:00 - 0:38)",
+          "startTime": 0,
+          "endTime": 38
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Brüno (2009) - Quality Score: 42/100",
+        "genre": "Classic Film",
+        "crawlerScore": 42,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 2,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:20:53.570Z"
+      },
+      "movie": "Brüno"
+    },
+    {
+      "id": "gibboanx-test-15-9",
+      "label": "Atonement",
+      "date": 2007,
+      "year": 2007,
+      "youtube": "https://www.youtube.com/watch?v=IkF3M_FE4MM&t=0s&end=125s",
+      "duration": 125,
+      "variants": [
+        {
+          "id": "IkF3M_FE4MM-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=IkF3M_FE4MM&t=0s&end=125s",
+          "sceneDescription": "Atonement - Part 1 (0:00 - 2:05)",
+          "startTime": 0,
+          "endTime": 125
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Atonement (2007) - Quality Score: 50/100",
+        "genre": "Classic Film",
+        "crawlerScore": 50,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 10,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:20:53.570Z"
+      },
+      "movie": "Atonement"
+    },
+    {
+      "id": "gibboanx-test-15-10",
+      "label": "The Intouchables",
+      "date": 2011,
+      "year": 2011,
+      "youtube": "https://www.youtube.com/watch?v=rNIiO6_o8Gs&t=0s&end=110s",
+      "duration": 110,
+      "variants": [
+        {
+          "id": "rNIiO6_o8Gs-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=rNIiO6_o8Gs&t=0s&end=110s",
+          "sceneDescription": "The Intouchables - Full Scene (0:00 - 1:50)",
+          "startTime": 0,
+          "endTime": 110
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "The Intouchables (2011) - Quality Score: 60/100",
+        "genre": "Classic Film",
+        "crawlerScore": 60,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 10,
+          "popularityFactor": 10,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:20:53.570Z"
+      },
+      "movie": "The Intouchables"
+    }
+  ]
+}

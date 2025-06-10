@@ -1,0 +1,446 @@
+{
+  "slug": "gibboanx-test-22",
+  "topic": "Gibboanx Test Puzzle 22",
+  "category": "Entertainment",
+  "subcategory": "Movies/TV",
+  "hideDates": false,
+  "showTooltips": true,
+  "variantSystem": {
+    "enabled": true,
+    "totalScenes": 10,
+    "selectionStrategy": "random_per_round"
+  },
+  "cards": [
+    {
+      "id": "gibboanx-test-22-1",
+      "label": "Spirited Away",
+      "date": 2001,
+      "year": 2001,
+      "youtube": "https://www.youtube.com/watch?v=W5szC4XgR1s&t=0s&end=101s",
+      "duration": 101,
+      "variants": [
+        {
+          "id": "W5szC4XgR1s-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=W5szC4XgR1s&t=0s&end=101s",
+          "sceneDescription": "Spirited Away - Full Scene (0:00 - 1:41)",
+          "startTime": 0,
+          "endTime": 101
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Spirited Away (2001) - Quality Score: 35/100",
+        "genre": "Classic Film",
+        "crawlerScore": 35,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 0,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:27:30.053Z"
+      },
+      "movie": "Spirited Away"
+    },
+    {
+      "id": "gibboanx-test-22-2",
+      "label": "Neds",
+      "date": 2010,
+      "year": 2010,
+      "youtube": "https://www.youtube.com/watch?v=Tq_0Vc0hot4&t=0s&end=119s",
+      "duration": 119,
+      "variants": [
+        {
+          "id": "Tq_0Vc0hot4-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=Tq_0Vc0hot4&t=0s&end=119s",
+          "sceneDescription": "Neds - Full Scene (0:00 - 1:59)",
+          "startTime": 0,
+          "endTime": 119
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Neds (2010) - Quality Score: 35/100",
+        "genre": "Classic Film",
+        "crawlerScore": 35,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 0,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:27:30.053Z"
+      },
+      "movie": "Neds"
+    },
+    {
+      "id": "gibboanx-test-22-3",
+      "label": "Michael",
+      "date": 2011,
+      "year": 2011,
+      "youtube": "https://www.youtube.com/watch?v=xWpA-2-KdDo&t=0s&end=120s",
+      "duration": 229,
+      "variants": [
+        {
+          "id": "xWpA-2-KdDo-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=xWpA-2-KdDo&t=0s&end=120s",
+          "sceneDescription": "Michael - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "xWpA-2-KdDo-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=xWpA-2-KdDo&t=120s&end=229s",
+          "sceneDescription": "Michael - Part 2 (2:00 - 3:49)",
+          "startTime": 120,
+          "endTime": 229
+        }
+      ],
+      "variantCount": 2,
+      "tooltip": {
+        "description": "Michael (2011) - Quality Score: 45/100",
+        "genre": "Classic Film",
+        "crawlerScore": 45,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:27:30.053Z"
+      },
+      "movie": "Michael"
+    },
+    {
+      "id": "gibboanx-test-22-4",
+      "label": "Three Identical Strangers",
+      "date": 2018,
+      "year": 2018,
+      "youtube": "https://www.youtube.com/watch?v=FWSY4K8-BQc&t=0s&end=120s",
+      "duration": 571,
+      "variants": [
+        {
+          "id": "FWSY4K8-BQc-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=FWSY4K8-BQc&t=0s&end=120s",
+          "sceneDescription": "Three Identical Strangers - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "FWSY4K8-BQc-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=FWSY4K8-BQc&t=120s&end=240s",
+          "sceneDescription": "Three Identical Strangers - Part 2 (2:00 - 4:00)",
+          "startTime": 120,
+          "endTime": 240
+        },
+        {
+          "id": "FWSY4K8-BQc-variant-2",
+          "youtube": "https://www.youtube.com/watch?v=FWSY4K8-BQc&t=240s&end=360s",
+          "sceneDescription": "Three Identical Strangers - Part 3 (4:00 - 6:00)",
+          "startTime": 240,
+          "endTime": 360
+        },
+        {
+          "id": "FWSY4K8-BQc-variant-3",
+          "youtube": "https://www.youtube.com/watch?v=FWSY4K8-BQc&t=360s&end=480s",
+          "sceneDescription": "Three Identical Strangers - Part 4 (6:00 - 8:00)",
+          "startTime": 360,
+          "endTime": 480
+        },
+        {
+          "id": "FWSY4K8-BQc-variant-4",
+          "youtube": "https://www.youtube.com/watch?v=FWSY4K8-BQc&t=480s&end=571s",
+          "sceneDescription": "Three Identical Strangers - Part 5 (8:00 - 9:31)",
+          "startTime": 480,
+          "endTime": 571
+        }
+      ],
+      "variantCount": 5,
+      "tooltip": {
+        "description": "Three Identical Strangers (2018) - Quality Score: 45/100",
+        "genre": "Classic Film",
+        "crawlerScore": 45,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 0,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:27:30.053Z"
+      },
+      "movie": "Three Identical Strangers"
+    },
+    {
+      "id": "gibboanx-test-22-5",
+      "label": "State of Play",
+      "date": 2009,
+      "year": 2009,
+      "youtube": "https://www.youtube.com/watch?v=ZYbvdYXYkF8&t=0s&end=40s",
+      "duration": 40,
+      "variants": [
+        {
+          "id": "ZYbvdYXYkF8-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=ZYbvdYXYkF8&t=0s&end=40s",
+          "sceneDescription": "State of Play - Full Scene (0:00 - 0:40)",
+          "startTime": 0,
+          "endTime": 40
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "State of Play (2009) - Quality Score: 40/100",
+        "genre": "Classic Film",
+        "crawlerScore": 40,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 0,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:27:30.053Z"
+      },
+      "movie": "State of Play"
+    },
+    {
+      "id": "gibboanx-test-22-6",
+      "label": "The Wackness",
+      "date": 2008,
+      "year": 2008,
+      "youtube": "https://www.youtube.com/watch?v=THWluTDhcks&t=0s&end=107s",
+      "duration": 107,
+      "variants": [
+        {
+          "id": "THWluTDhcks-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=THWluTDhcks&t=0s&end=107s",
+          "sceneDescription": "The Wackness - Full Scene (0:00 - 1:47)",
+          "startTime": 0,
+          "endTime": 107
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "The Wackness (2008) - Quality Score: 42/100",
+        "genre": "Classic Film",
+        "crawlerScore": 42,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 2,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:27:30.053Z"
+      },
+      "movie": "The Wackness"
+    },
+    {
+      "id": "gibboanx-test-22-7",
+      "label": "Dirty Rotten Scoundrels",
+      "date": 1988,
+      "year": 1988,
+      "youtube": "https://www.youtube.com/watch?v=UWtsw7EwmoU&t=0s&end=120s",
+      "duration": 452,
+      "variants": [
+        {
+          "id": "UWtsw7EwmoU-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=UWtsw7EwmoU&t=0s&end=120s",
+          "sceneDescription": "Dirty Rotten Scoundrels - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "UWtsw7EwmoU-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=UWtsw7EwmoU&t=120s&end=240s",
+          "sceneDescription": "Dirty Rotten Scoundrels - Part 2 (2:00 - 4:00)",
+          "startTime": 120,
+          "endTime": 240
+        },
+        {
+          "id": "UWtsw7EwmoU-variant-2",
+          "youtube": "https://www.youtube.com/watch?v=UWtsw7EwmoU&t=240s&end=360s",
+          "sceneDescription": "Dirty Rotten Scoundrels - Part 3 (4:00 - 6:00)",
+          "startTime": 240,
+          "endTime": 360
+        },
+        {
+          "id": "UWtsw7EwmoU-variant-3",
+          "youtube": "https://www.youtube.com/watch?v=UWtsw7EwmoU&t=360s&end=452s",
+          "sceneDescription": "Dirty Rotten Scoundrels - Part 4 (6:00 - 7:32)",
+          "startTime": 360,
+          "endTime": 452
+        }
+      ],
+      "variantCount": 4,
+      "tooltip": {
+        "description": "Dirty Rotten Scoundrels (1988) - Quality Score: 52/100",
+        "genre": "Classic Film",
+        "crawlerScore": 52,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 20,
+          "resolutionQuality": 0,
+          "popularityFactor": 2,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:27:30.053Z"
+      },
+      "movie": "Dirty Rotten Scoundrels"
+    },
+    {
+      "id": "gibboanx-test-22-8",
+      "label": "Julia's Eyes",
+      "date": 2010,
+      "year": 2010,
+      "youtube": "https://www.youtube.com/watch?v=8bWl4aXZ0u4&t=0s&end=120s",
+      "duration": 522,
+      "variants": [
+        {
+          "id": "8bWl4aXZ0u4-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=8bWl4aXZ0u4&t=0s&end=120s",
+          "sceneDescription": "Julia's Eyes - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "8bWl4aXZ0u4-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=8bWl4aXZ0u4&t=120s&end=240s",
+          "sceneDescription": "Julia's Eyes - Part 2 (2:00 - 4:00)",
+          "startTime": 120,
+          "endTime": 240
+        },
+        {
+          "id": "8bWl4aXZ0u4-variant-2",
+          "youtube": "https://www.youtube.com/watch?v=8bWl4aXZ0u4&t=240s&end=360s",
+          "sceneDescription": "Julia's Eyes - Part 3 (4:00 - 6:00)",
+          "startTime": 240,
+          "endTime": 360
+        },
+        {
+          "id": "8bWl4aXZ0u4-variant-3",
+          "youtube": "https://www.youtube.com/watch?v=8bWl4aXZ0u4&t=360s&end=522s",
+          "sceneDescription": "Julia's Eyes - Part 4 (6:00 - 8:42)",
+          "startTime": 360,
+          "endTime": 522
+        }
+      ],
+      "variantCount": 4,
+      "tooltip": {
+        "description": "Julia's Eyes (2010) - Quality Score: 40/100",
+        "genre": "Classic Film",
+        "crawlerScore": 40,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 0,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:27:30.053Z"
+      },
+      "movie": "Julia's Eyes"
+    },
+    {
+      "id": "gibboanx-test-22-9",
+      "label": "Jackass 3D",
+      "date": 2010,
+      "year": 2010,
+      "youtube": "https://www.youtube.com/watch?v=nnWtt8MLSC8&t=0s&end=120s",
+      "duration": 191,
+      "variants": [
+        {
+          "id": "nnWtt8MLSC8-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=nnWtt8MLSC8&t=0s&end=120s",
+          "sceneDescription": "Jackass 3D - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "nnWtt8MLSC8-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=nnWtt8MLSC8&t=120s&end=191s",
+          "sceneDescription": "Jackass 3D - Part 2 (2:00 - 3:11)",
+          "startTime": 120,
+          "endTime": 191
+        }
+      ],
+      "variantCount": 2,
+      "tooltip": {
+        "description": "Jackass 3D (2010) - Quality Score: 45/100",
+        "genre": "Classic Film",
+        "crawlerScore": 45,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:27:30.053Z"
+      },
+      "movie": "Jackass 3D"
+    },
+    {
+      "id": "gibboanx-test-22-10",
+      "label": "Stake Land",
+      "date": 2010,
+      "year": 2010,
+      "youtube": "https://www.youtube.com/watch?v=q92Y5p-HfQg&t=0s&end=120s",
+      "duration": 282,
+      "variants": [
+        {
+          "id": "q92Y5p-HfQg-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=q92Y5p-HfQg&t=0s&end=120s",
+          "sceneDescription": "Stake Land - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "q92Y5p-HfQg-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=q92Y5p-HfQg&t=120s&end=282s",
+          "sceneDescription": "Stake Land - Part 2 (2:00 - 4:42)",
+          "startTime": 120,
+          "endTime": 282
+        }
+      ],
+      "variantCount": 2,
+      "tooltip": {
+        "description": "Stake Land (2010) - Quality Score: 40/100",
+        "genre": "Classic Film",
+        "crawlerScore": 40,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 0,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:27:30.053Z"
+      },
+      "movie": "Stake Land"
+    }
+  ]
+}

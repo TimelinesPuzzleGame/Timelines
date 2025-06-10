@@ -1,0 +1,58 @@
+{
+  "slug": "music-video-test-4",
+  "topic": "Music Video Test 4",
+  "category": "Entertainment",
+  "subcategory": "Music",
+  "description": "Classic music videos and performances from 1976-1979. Features real YouTube video titles with verified release dates and no date spoilers.",
+  "hideDates": false,
+  "cards": [
+    {
+      "id": 37,
+      "label": "Wild Cherry - Play That Funky Music",
+      "date": 1976,
+      "youtube": "https://www.youtube.com/watch?v=BHcYFxU4fMo"
+    },
+    {
+      "id": 36,
+      "label": "KC & The Sunshine Band - Keep It Comin' Love",
+      "date": 1977,
+      "youtube": "https://www.youtube.com/watch?v=dc_pjiCJl3s"
+    },
+    {
+      "id": 38,
+      "label": "Donna Summer - I Feel Love",
+      "date": 1977,
+      "youtube": "https://www.youtube.com/watch?v=f0h8Pjf4vNM"
+    },
+    {
+      "id": 33,
+      "label": "The Clash - Tommy Gun",
+      "date": 1978,
+      "youtube": "https://www.youtube.com/watch?v=bFHEuKkTa5k"
+    },
+    {
+      "id": 34,
+      "label": "Kenny Rogers - The Gambler",
+      "date": 1978,
+      "youtube": "https://www.youtube.com/watch?v=7hx4gdlfamo"
+    },
+    {
+      "id": 31,
+      "label": "AC/DC - Highway to Hell",
+      "date": 1979,
+      "youtube": "https://www.youtube.com/watch?v=l482T0yNkeo"
+    },
+    {
+      "id": 32,
+      "label": "Madness - One Step Beyond",
+      "date": 1979,
+      "youtube": "https://www.youtube.com/watch?v=SOJSM46nWwo"
+    },
+    {
+      "id": 35,
+      "label": "Teddy Pendergrass - Turn Off the Lights",
+      "date": 1979,
+      "youtube": "https://www.youtube.com/watch?v=PK4wofMj5-k"
+    }
+  ]
+}

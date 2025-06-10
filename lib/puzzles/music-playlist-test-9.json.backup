@@ -1,0 +1,74 @@
+// This file has been merged into greatest-music-videos-all-time-expanded.json
+// Original content:
+/*
+{
+  "slug": "music-playlist-test-9",
+  "topic": "Music Playlist Test 9",
+  "category": "Entertainment",
+  "subcategory": "Music",
+  "description": "Music videos and performances from 2010-2015. Features real YouTube video titles with verified release dates and no date spoilers.",
+  "hideDates": false,
+  "cards": [
+    {
+      "id": 81,
+      "label": "Jonas Brothers - Sucker",
+      "date": 2019,
+      "youtube": "https://www.youtube.com/watch?v=CnAmeh0-E-U"
+    },
+    {
+      "id": 82,
+      "label": "Fiona Apple - Every Single Night",
+      "date": 2012,
+      "youtube": "https://www.youtube.com/watch?v=bIlLq4BqGdg"
+    },
+    {
+      "id": 83,
+      "label": "BAD BUNNY - CARO | X100PRE",
+      "date": 2018,
+      "youtube": "https://www.youtube.com/watch?v=bg64AFnRnkc"
+    },
+    {
+      "id": 84,
+      "label": "TODD TERJE - Delorean Dynamite (for sale)",
+      "date": 2012,
+      "youtube": "https://www.youtube.com/watch?v=U9H5WTTOUfg"
+    },
+    {
+      "id": 85,
+      "label": "Alex G - Gretel",
+      "date": 2019,
+      "youtube": "https://www.youtube.com/watch?v=HcO-NPtj5BI"
+    },
+    {
+      "id": 86,
+      "label": "Megan Thee Stallion - Big Ole Freak",
+      "date": 2018,
+      "youtube": "https://www.youtube.com/watch?v=oBYf6gpVvRA"
+    },
+    {
+      "id": 89,
+      "label": "Brothers Osborne - It Ain’t My Fault",
+      "date": 2010,
+      "youtube": "https://www.youtube.com/watch?v=E5RDEXpc8OY"
+    },
+    {
+      "id": 91,
+      "label": "FIDLAR - 40oz. On Repeat",
+      "date": 2013,
+      "youtube": "https://www.youtube.com/watch?v=iJy8VgB83OQ"
+    },
+    {
+      "id": 88,
+      "label": "Mark Ronson - Uptown Funk ft. Bruno Mars",
+      "date": 2014,
+      "youtube": "https://www.youtube.com/watch?v=OPf0YbXqDm0"
+    },
+    {
+      "id": 90,
+      "label": "Ed Sheeran - Castle On The Hill",
+      "date": 2017,
+      "youtube": "https://www.youtube.com/watch?v=K0ibBPhiaG0"
+    }
+  ]
+}
+*/

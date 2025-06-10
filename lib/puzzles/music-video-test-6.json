@@ -1,0 +1,28 @@
+{
+  "slug": "music-video-test-6",
+  "topic": "Music Video Test 6",
+  "category": "Entertainment",
+  "subcategory": "Music",
+  "description": "Classic music videos and performances from 1968-1978. Features real YouTube video titles with verified release dates and no date spoilers.",
+  "hideDates": false,
+  "cards": [
+    {
+      "id": 53,
+      "label": "Jose Feliciano - Light My Fire",
+      "date": 1968,
+      "youtube": "https://www.youtube.com/watch?v=C45mye89Kgs"
+    },
+    {
+      "id": 54,
+      "label": "Unknown Artist - Simon & Garfunkel-Mrs. Robinson.mp4",
+      "date": 1968,
+      "youtube": "https://www.youtube.com/watch?v=Gz-1wFAeWSM"
+    },
+    {
+      "id": 51,
+      "label": "The Who - Who Are You",
+      "date": 1978,
+      "youtube": "https://www.youtube.com/watch?v=PNbBDrceCy8"
+    }
+  ]
+}

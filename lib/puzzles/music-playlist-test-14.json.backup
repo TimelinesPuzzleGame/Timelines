@@ -1,0 +1,74 @@
+// This file has been merged into greatest-music-videos-all-time-expanded.json
+// Original content:
+/*
+{
+  "slug": "music-playlist-test-14",
+  "topic": "Music Playlist Test 14",
+  "category": "Entertainment",
+  "subcategory": "Music",
+  "description": "Music videos and performances from 1975-2010. Features real YouTube video titles with verified release dates and no date spoilers.",
+  "hideDates": false,
+  "cards": [
+    {
+      "id": 139,
+      "label": "Elton John - Sacrifice",
+      "date": 1989,
+      "youtube": "https://www.youtube.com/watch?v=NrLkTZrPZA4"
+    },
+    {
+      "id": 142,
+      "label": "AC/DC - Hells Bells",
+      "date": 1980,
+      "youtube": "https://www.youtube.com/watch?v=etAIpkdhU9Q"
+    },
+    {
+      "id": 140,
+      "label": "Whitesnake - Is This Love",
+      "date": 1987,
+      "youtube": "https://www.youtube.com/watch?v=GOJk0HW_hJw"
+    },
+    {
+      "id": 141,
+      "label": "Blondie - Heart Of Glass",
+      "date": 1978,
+      "youtube": "https://www.youtube.com/watch?v=WGU_4-5RaxU"
+    },
+    {
+      "id": 138,
+      "label": "Bon Jovi - Wanted Dead Or Alive",
+      "date": 1986,
+      "youtube": "https://www.youtube.com/watch?v=SRvCvsRp5ho"
+    },
+    {
+      "id": 144,
+      "label": "Bryan Adams - Summer Of 69",
+      "date": 1984,
+      "youtube": "https://www.youtube.com/watch?v=9f06QZCVUHg"
+    },
+    {
+      "id": 145,
+      "label": "Bruce Springsteen - Dancing In the Dark",
+      "date": 1984,
+      "youtube": "https://www.youtube.com/watch?v=129kuDCQtHs"
+    },
+    {
+      "id": 146,
+      "label": "Baltimora - Tarzan Boy",
+      "date": 1985,
+      "youtube": "https://www.youtube.com/watch?v=_r0n9Dv6XnY"
+    },
+    {
+      "id": 149,
+      "label": "Men At Work - Down Under",
+      "date": 1981,
+      "youtube": "https://www.youtube.com/watch?v=XfR9iY5y94s"
+    },
+    {
+      "id": 150,
+      "label": "Human League - Don't You Want Me",
+      "date": 1981,
+      "youtube": "https://www.youtube.com/watch?v=uPudE8nDog0"
+    }
+  ]
+}
+*/

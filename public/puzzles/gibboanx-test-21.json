@@ -1,0 +1,425 @@
+{
+  "slug": "gibboanx-test-21",
+  "topic": "Gibboanx Test Puzzle 21",
+  "category": "Entertainment",
+  "subcategory": "Movies/TV",
+  "hideDates": false,
+  "showTooltips": true,
+  "variantSystem": {
+    "enabled": true,
+    "totalScenes": 10,
+    "selectionStrategy": "random_per_round"
+  },
+  "cards": [
+    {
+      "id": "gibboanx-test-21-1",
+      "label": "The Funeral",
+      "date": 1996,
+      "year": 1996,
+      "youtube": "https://www.youtube.com/watch?v=W0F8OPI2oE0&t=0s&end=121s",
+      "duration": 121,
+      "variants": [
+        {
+          "id": "W0F8OPI2oE0-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=W0F8OPI2oE0&t=0s&end=121s",
+          "sceneDescription": "The Funeral - Part 1 (0:00 - 2:01)",
+          "startTime": 0,
+          "endTime": 121
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "The Funeral (1996) - Quality Score: 52/100",
+        "genre": "Classic Film",
+        "crawlerScore": 52,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 20,
+          "resolutionQuality": 0,
+          "popularityFactor": 2,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:26:45.299Z"
+      },
+      "movie": "The Funeral"
+    },
+    {
+      "id": "gibboanx-test-21-2",
+      "label": "The Devil's Advocate",
+      "date": 1997,
+      "year": 1997,
+      "youtube": "https://www.youtube.com/watch?v=pDaELkYEC_g&t=0s&end=128s",
+      "duration": 128,
+      "variants": [
+        {
+          "id": "pDaELkYEC_g-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=pDaELkYEC_g&t=0s&end=128s",
+          "sceneDescription": "The Devil's Advocate - Part 1 (0:00 - 2:08)",
+          "startTime": 0,
+          "endTime": 128
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "The Devil's Advocate (1997) - Quality Score: 45/100",
+        "genre": "Classic Film",
+        "crawlerScore": 45,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:26:45.299Z"
+      },
+      "movie": "The Devil's Advocate"
+    },
+    {
+      "id": "gibboanx-test-21-3",
+      "label": "The Player",
+      "date": 1992,
+      "year": 1992,
+      "youtube": "https://www.youtube.com/watch?v=T3lKJxjmmkU&t=0s&end=73s",
+      "duration": 73,
+      "variants": [
+        {
+          "id": "T3lKJxjmmkU-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=T3lKJxjmmkU&t=0s&end=73s",
+          "sceneDescription": "The Player - Full Scene (0:00 - 1:13)",
+          "startTime": 0,
+          "endTime": 73
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "The Player (1992) - Quality Score: 40/100",
+        "genre": "Classic Film",
+        "crawlerScore": 40,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 0,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:26:45.299Z"
+      },
+      "movie": "The Player"
+    },
+    {
+      "id": "gibboanx-test-21-4",
+      "label": "Thank You for Smoking",
+      "date": 2005,
+      "year": 2005,
+      "youtube": "https://www.youtube.com/watch?v=ywiOO1CWVWw&t=0s&end=137s",
+      "duration": 137,
+      "variants": [
+        {
+          "id": "ywiOO1CWVWw-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=ywiOO1CWVWw&t=0s&end=137s",
+          "sceneDescription": "Thank You for Smoking - Part 1 (0:00 - 2:17)",
+          "startTime": 0,
+          "endTime": 137
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Thank You for Smoking (2005) - Quality Score: 45/100",
+        "genre": "Classic Film",
+        "crawlerScore": 45,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:26:45.299Z"
+      },
+      "movie": "Thank You for Smoking"
+    },
+    {
+      "id": "gibboanx-test-21-5",
+      "label": "Seven Psychopaths",
+      "date": 2012,
+      "year": 2012,
+      "youtube": "https://www.youtube.com/watch?v=63O1AcGHAhA&t=0s&end=120s",
+      "duration": 480,
+      "variants": [
+        {
+          "id": "63O1AcGHAhA-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=63O1AcGHAhA&t=0s&end=120s",
+          "sceneDescription": "Seven Psychopaths - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "63O1AcGHAhA-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=63O1AcGHAhA&t=120s&end=240s",
+          "sceneDescription": "Seven Psychopaths - Part 2 (2:00 - 4:00)",
+          "startTime": 120,
+          "endTime": 240
+        },
+        {
+          "id": "63O1AcGHAhA-variant-2",
+          "youtube": "https://www.youtube.com/watch?v=63O1AcGHAhA&t=240s&end=360s",
+          "sceneDescription": "Seven Psychopaths - Part 3 (4:00 - 6:00)",
+          "startTime": 240,
+          "endTime": 360
+        },
+        {
+          "id": "63O1AcGHAhA-variant-3",
+          "youtube": "https://www.youtube.com/watch?v=63O1AcGHAhA&t=360s&end=480s",
+          "sceneDescription": "Seven Psychopaths - Part 4 (6:00 - 8:00)",
+          "startTime": 360,
+          "endTime": 480
+        }
+      ],
+      "variantCount": 4,
+      "tooltip": {
+        "description": "Seven Psychopaths (2012) - Quality Score: 45/100",
+        "genre": "Classic Film",
+        "crawlerScore": 45,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:26:45.299Z"
+      },
+      "movie": "Seven Psychopaths"
+    },
+    {
+      "id": "gibboanx-test-21-6",
+      "label": "Skyfall",
+      "date": 2012,
+      "year": 2012,
+      "youtube": "https://www.youtube.com/watch?v=mGhAT72J2I4&t=0s&end=120s",
+      "duration": 416,
+      "variants": [
+        {
+          "id": "mGhAT72J2I4-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=mGhAT72J2I4&t=0s&end=120s",
+          "sceneDescription": "Skyfall - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "mGhAT72J2I4-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=mGhAT72J2I4&t=120s&end=240s",
+          "sceneDescription": "Skyfall - Part 2 (2:00 - 4:00)",
+          "startTime": 120,
+          "endTime": 240
+        },
+        {
+          "id": "mGhAT72J2I4-variant-2",
+          "youtube": "https://www.youtube.com/watch?v=mGhAT72J2I4&t=240s&end=416s",
+          "sceneDescription": "Skyfall - Part 3 (4:00 - 6:56)",
+          "startTime": 240,
+          "endTime": 416
+        }
+      ],
+      "variantCount": 3,
+      "tooltip": {
+        "description": "Skyfall (2012) - Quality Score: 50/100",
+        "genre": "Classic Film",
+        "crawlerScore": 50,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 0,
+          "resolutionQuality": 0,
+          "popularityFactor": 10,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:26:45.299Z"
+      },
+      "movie": "Skyfall"
+    },
+    {
+      "id": "gibboanx-test-21-7",
+      "label": "Starred Up",
+      "date": 2013,
+      "year": 2013,
+      "youtube": "https://www.youtube.com/watch?v=3_YpoYwCwdk&t=0s&end=51s",
+      "duration": 51,
+      "variants": [
+        {
+          "id": "3_YpoYwCwdk-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=3_YpoYwCwdk&t=0s&end=51s",
+          "sceneDescription": "Starred Up - Full Scene (0:00 - 0:51)",
+          "startTime": 0,
+          "endTime": 51
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Starred Up (2013) - Quality Score: 42/100",
+        "genre": "Classic Film",
+        "crawlerScore": 42,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 2,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:26:45.299Z"
+      },
+      "movie": "Starred Up"
+    },
+    {
+      "id": "gibboanx-test-21-8",
+      "label": "Paddington",
+      "date": 2014,
+      "year": 2014,
+      "youtube": "https://www.youtube.com/watch?v=nvb6tvZOYIo&t=0s&end=134s",
+      "duration": 134,
+      "variants": [
+        {
+          "id": "nvb6tvZOYIo-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=nvb6tvZOYIo&t=0s&end=134s",
+          "sceneDescription": "Paddington - Part 1 (0:00 - 2:14)",
+          "startTime": 0,
+          "endTime": 134
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Paddington (2014) - Quality Score: 50/100",
+        "genre": "Classic Film",
+        "crawlerScore": 50,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 0,
+          "resolutionQuality": 10,
+          "popularityFactor": 10,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:26:45.299Z"
+      },
+      "movie": "Paddington"
+    },
+    {
+      "id": "gibboanx-test-21-9",
+      "label": "Joe",
+      "date": 2013,
+      "year": 2013,
+      "youtube": "https://www.youtube.com/watch?v=w6F-lFC94U0&t=0s&end=120s",
+      "duration": 190,
+      "variants": [
+        {
+          "id": "w6F-lFC94U0-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=w6F-lFC94U0&t=0s&end=120s",
+          "sceneDescription": "Joe - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "w6F-lFC94U0-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=w6F-lFC94U0&t=120s&end=190s",
+          "sceneDescription": "Joe - Part 2 (2:00 - 3:10)",
+          "startTime": 120,
+          "endTime": 190
+        }
+      ],
+      "variantCount": 2,
+      "tooltip": {
+        "description": "Joe (2013) - Quality Score: 35/100",
+        "genre": "Classic Film",
+        "crawlerScore": 35,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 0,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:26:45.299Z"
+      },
+      "movie": "Joe"
+    },
+    {
+      "id": "gibboanx-test-21-10",
+      "label": "Bloody Sunday",
+      "date": 2002,
+      "year": 2002,
+      "youtube": "https://www.youtube.com/watch?v=9EJF7NEDAbA&t=0s&end=120s",
+      "duration": 547,
+      "variants": [
+        {
+          "id": "9EJF7NEDAbA-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=9EJF7NEDAbA&t=0s&end=120s",
+          "sceneDescription": "Bloody Sunday - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "9EJF7NEDAbA-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=9EJF7NEDAbA&t=120s&end=240s",
+          "sceneDescription": "Bloody Sunday - Part 2 (2:00 - 4:00)",
+          "startTime": 120,
+          "endTime": 240
+        },
+        {
+          "id": "9EJF7NEDAbA-variant-2",
+          "youtube": "https://www.youtube.com/watch?v=9EJF7NEDAbA&t=240s&end=360s",
+          "sceneDescription": "Bloody Sunday - Part 3 (4:00 - 6:00)",
+          "startTime": 240,
+          "endTime": 360
+        },
+        {
+          "id": "9EJF7NEDAbA-variant-3",
+          "youtube": "https://www.youtube.com/watch?v=9EJF7NEDAbA&t=360s&end=480s",
+          "sceneDescription": "Bloody Sunday - Part 4 (6:00 - 8:00)",
+          "startTime": 360,
+          "endTime": 480
+        },
+        {
+          "id": "9EJF7NEDAbA-variant-4",
+          "youtube": "https://www.youtube.com/watch?v=9EJF7NEDAbA&t=480s&end=547s",
+          "sceneDescription": "Bloody Sunday - Part 5 (8:00 - 9:07)",
+          "startTime": 480,
+          "endTime": 547
+        }
+      ],
+      "variantCount": 5,
+      "tooltip": {
+        "description": "Bloody Sunday (2002) - Quality Score: 45/100",
+        "genre": "Classic Film",
+        "crawlerScore": 45,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:26:45.299Z"
+      },
+      "movie": "Bloody Sunday"
+    }
+  ]
+}

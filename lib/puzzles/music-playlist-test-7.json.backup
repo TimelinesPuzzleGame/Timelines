@@ -1,0 +1,74 @@
+// This file has been merged into greatest-music-videos-all-time-expanded.json
+// Original content:
+/*
+{
+  "slug": "music-playlist-test-7",
+  "topic": "Music Playlist Test 7",
+  "category": "Entertainment",
+  "subcategory": "Music",
+  "description": "Music videos and performances from 2010-2016. Features real YouTube video titles with verified release dates and no date spoilers.",
+  "hideDates": false,
+  "cards": [
+    {
+      "id": 59,
+      "label": "Mitski - Your Best American Girl",
+      "date": 2016,
+      "youtube": "https://www.youtube.com/watch?v=u_hDHm9MD0I"
+    },
+    {
+      "id": 60,
+      "label": "ASAP Rocky - \"Peso\"",
+      "date": 2011,
+      "youtube": "https://www.youtube.com/watch?v=ob3ktDxAjWI"
+    },
+    {
+      "id": 61,
+      "label": "ANOHNI - Drone Bomb Me",
+      "date": 2016,
+      "youtube": "https://www.youtube.com/watch?v=aUEoic7ro_o"
+    },
+    {
+      "id": 63,
+      "label": "Skrillex - First Of The Year (Equinox)",
+      "date": 2011,
+      "youtube": "https://www.youtube.com/watch?v=2cXDgFwE13g"
+    },
+    {
+      "id": 64,
+      "label": "SOPHIE - It's Okay To Cry",
+      "date": 2017,
+      "youtube": "https://www.youtube.com/watch?v=m_S0qCeA-pc"
+    },
+    {
+      "id": 69,
+      "label": "Charli XCX - Boys",
+      "date": 2017,
+      "youtube": "https://www.youtube.com/watch?v=mPRy1B4t5YA"
+    },
+    {
+      "id": 70,
+      "label": "Janelle Monáe - PYNK",
+      "date": 2018,
+      "youtube": "https://www.youtube.com/watch?v=PaYvlVR_BEc"
+    },
+    {
+      "id": 65,
+      "label": "Bruno Mars - Finesse (Remix) (feat. Cardi B)",
+      "date": 2018,
+      "youtube": "https://www.youtube.com/watch?v=LsoLEjrDogU"
+    },
+    {
+      "id": 67,
+      "label": "Kendrick Lamar - i",
+      "date": 2014,
+      "youtube": "https://www.youtube.com/watch?v=8aShfolR6w8"
+    },
+    {
+      "id": 68,
+      "label": "BTS (방탄소년단) - '피 땀 눈물 (Blood Sweat & Tears)' Official MV",
+      "date": 2016,
+      "youtube": "https://www.youtube.com/watch?v=hmE9f-TEutc"
+    }
+  ]
+}
+*/

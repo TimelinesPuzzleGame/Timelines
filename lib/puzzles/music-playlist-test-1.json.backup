@@ -1,0 +1,74 @@
+// This file has been merged into greatest-music-videos-all-time-expanded.json
+// Original content:
+/*
+{
+  "slug": "music-playlist-test-1",
+  "topic": "Music Playlist Test 1",
+  "category": "Entertainment",
+  "subcategory": "Music",
+  "description": "Music videos and performances from 1975-2015. Features real YouTube video titles with verified release dates and no date spoilers.",
+  "hideDates": false,
+  "cards": [
+    {
+      "id": 66,
+      "label": "David Bowie - Lazarus (Video)",
+      "date": 2016,
+      "youtube": "https://www.youtube.com/watch?v=y-JqH1M4Ya8"
+    },
+    {
+      "id": 12,
+      "label": "Tyler The Creator - Yonkers",
+      "date": 2011,
+      "youtube": "https://www.youtube.com/watch?v=XSbZidsgMfw"
+    },
+    {
+      "id": 87,
+      "label": "MARINA AND THE DIAMONDS - HOW TO BE A HEARTBREAKER | ♡ ELECTRA HEART PART 7 ♡",
+      "date": 2012,
+      "youtube": "https://www.youtube.com/watch?v=vKNcuTWzTVw"
+    },
+    {
+      "id": 1,
+      "label": "Beyoncé - Formation",
+      "date": 2016,
+      "youtube": "https://www.youtube.com/watch?v=WDZJPJV__bQ"
+    },
+    {
+      "id": 2,
+      "label": "M.I.A. - \"Bad Girls\"",
+      "date": 2012,
+      "youtube": "https://www.youtube.com/watch?v=2uYs0gJD-LE"
+    },
+    {
+      "id": 95,
+      "label": "Chance the Rapper - Same Drugs",
+      "date": 2016,
+      "youtube": "https://www.youtube.com/watch?v=be37-T72DNk"
+    },
+    {
+      "id": 3,
+      "label": "Rihanna - We Found Love ft. Calvin Harris",
+      "date": 2011,
+      "youtube": "https://www.youtube.com/watch?v=tg00YEETFzg"
+    },
+    {
+      "id": 4,
+      "label": "JAY Z, Kanye West - Otis ft. Otis Redding",
+      "date": 2011,
+      "youtube": "https://www.youtube.com/watch?v=BoEKWtgJQAU"
+    },
+    {
+      "id": 5,
+      "label": "Lady Gaga - Telephone ft. Beyoncé",
+      "date": 2010,
+      "youtube": "https://www.youtube.com/watch?v=EVBsypHzF3U"
+    },
+    {
+      "id": 6,
+      "label": "Drake - HYFR (Hell Ya Fucking Right) (Explicit) ft. Lil Wayne",
+      "date": 2012,
+      "youtube": "https://www.youtube.com/watch?v=0KCWqnldEag"
+    }
+  ]
+}
+*/

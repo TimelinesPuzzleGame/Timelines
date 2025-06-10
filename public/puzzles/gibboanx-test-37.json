@@ -1,0 +1,397 @@
+{
+  "slug": "gibboanx-test-37",
+  "topic": "Gibboanx Test Puzzle 37",
+  "category": "Entertainment",
+  "subcategory": "Movies/TV",
+  "hideDates": false,
+  "showTooltips": true,
+  "variantSystem": {
+    "enabled": true,
+    "totalScenes": 10,
+    "selectionStrategy": "random_per_round"
+  },
+  "cards": [
+    {
+      "id": "gibboanx-test-37-1",
+      "label": "Fast Five",
+      "date": 2011,
+      "year": 2011,
+      "youtube": "https://www.youtube.com/watch?v=EwrhfIOLB3k&t=0s&end=120s",
+      "duration": 196,
+      "variants": [
+        {
+          "id": "EwrhfIOLB3k-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=EwrhfIOLB3k&t=0s&end=120s",
+          "sceneDescription": "Fast Five - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "EwrhfIOLB3k-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=EwrhfIOLB3k&t=120s&end=196s",
+          "sceneDescription": "Fast Five - Part 2 (2:00 - 3:16)",
+          "startTime": 120,
+          "endTime": 196
+        }
+      ],
+      "variantCount": 2,
+      "tooltip": {
+        "description": "Fast Five (2011) - Quality Score: 50/100",
+        "genre": "Classic Film",
+        "crawlerScore": 50,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 10,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:43:22.921Z"
+      },
+      "movie": "Fast Five"
+    },
+    {
+      "id": "gibboanx-test-37-2",
+      "label": "Shut Up and Play the Hits",
+      "date": 2012,
+      "year": 2012,
+      "youtube": "https://www.youtube.com/watch?v=kAOv9hdhuAQ&t=0s&end=129s",
+      "duration": 129,
+      "variants": [
+        {
+          "id": "kAOv9hdhuAQ-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=kAOv9hdhuAQ&t=0s&end=129s",
+          "sceneDescription": "Shut Up and Play the Hits - Part 1 (0:00 - 2:09)",
+          "startTime": 0,
+          "endTime": 129
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Shut Up and Play the Hits (2012) - Quality Score: 40/100",
+        "genre": "Classic Film",
+        "crawlerScore": 40,
+        "breakdown": {
+          "titleRelevance": 20,
+          "sceneIndicators": 20,
+          "resolutionQuality": 0,
+          "popularityFactor": 10,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:43:22.921Z"
+      },
+      "movie": "Shut Up and Play the Hits"
+    },
+    {
+      "id": "gibboanx-test-37-3",
+      "label": "Bobby Fischer Against the World",
+      "date": 2011,
+      "year": 2011,
+      "youtube": "https://www.youtube.com/watch?v=UzO8h-83qqM&t=0s&end=79s",
+      "duration": 79,
+      "variants": [
+        {
+          "id": "UzO8h-83qqM-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=UzO8h-83qqM&t=0s&end=79s",
+          "sceneDescription": "Bobby Fischer Against the World - Full Scene (0:00 - 1:19)",
+          "startTime": 0,
+          "endTime": 79
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Bobby Fischer Against the World (2011) - Quality Score: 42/100",
+        "genre": "Classic Film",
+        "crawlerScore": 42,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 2,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:43:22.921Z"
+      },
+      "movie": "Bobby Fischer Against the World"
+    },
+    {
+      "id": "gibboanx-test-37-4",
+      "label": "Southern Comfort",
+      "date": 1981,
+      "year": 1981,
+      "youtube": "https://www.youtube.com/watch?v=a7_NNNPgyrU&t=0s&end=120s",
+      "duration": 289,
+      "variants": [
+        {
+          "id": "a7_NNNPgyrU-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=a7_NNNPgyrU&t=0s&end=120s",
+          "sceneDescription": "Southern Comfort - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "a7_NNNPgyrU-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=a7_NNNPgyrU&t=120s&end=289s",
+          "sceneDescription": "Southern Comfort - Part 2 (2:00 - 4:49)",
+          "startTime": 120,
+          "endTime": 289
+        }
+      ],
+      "variantCount": 2,
+      "tooltip": {
+        "description": "Southern Comfort (1981) - Quality Score: 45/100",
+        "genre": "Classic Film",
+        "crawlerScore": 45,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:43:22.921Z"
+      },
+      "movie": "Southern Comfort"
+    },
+    {
+      "id": "gibboanx-test-37-5",
+      "label": "Rocky II",
+      "date": 1979,
+      "year": 1979,
+      "youtube": "https://www.youtube.com/watch?v=l7sMr89BHVk&t=0s&end=51s",
+      "duration": 51,
+      "variants": [
+        {
+          "id": "l7sMr89BHVk-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=l7sMr89BHVk&t=0s&end=51s",
+          "sceneDescription": "Rocky II - Full Scene (0:00 - 0:51)",
+          "startTime": 0,
+          "endTime": 51
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Rocky II (1979) - Quality Score: 45/100",
+        "genre": "Classic Film",
+        "crawlerScore": 45,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 0,
+          "resolutionQuality": 10,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:43:22.921Z"
+      },
+      "movie": "Rocky II"
+    },
+    {
+      "id": "gibboanx-test-37-6",
+      "label": "Time Bandits",
+      "date": 1981,
+      "year": 1981,
+      "youtube": "https://www.youtube.com/watch?v=Vh17LbB8pU8&t=0s&end=167s",
+      "duration": 167,
+      "variants": [
+        {
+          "id": "Vh17LbB8pU8-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=Vh17LbB8pU8&t=0s&end=167s",
+          "sceneDescription": "Time Bandits - Part 1 (0:00 - 2:47)",
+          "startTime": 0,
+          "endTime": 167
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Time Bandits (1981) - Quality Score: 35/100",
+        "genre": "Classic Film",
+        "crawlerScore": 35,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 0,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:43:22.921Z"
+      },
+      "movie": "Time Bandits"
+    },
+    {
+      "id": "gibboanx-test-37-7",
+      "label": "Jungle Fever",
+      "date": 1991,
+      "year": 1991,
+      "youtube": "https://www.youtube.com/watch?v=wTA3qGQouaU&t=0s&end=120s",
+      "duration": 181,
+      "variants": [
+        {
+          "id": "wTA3qGQouaU-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=wTA3qGQouaU&t=0s&end=120s",
+          "sceneDescription": "Jungle Fever - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "wTA3qGQouaU-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=wTA3qGQouaU&t=120s&end=181s",
+          "sceneDescription": "Jungle Fever - Part 2 (2:00 - 3:01)",
+          "startTime": 120,
+          "endTime": 181
+        }
+      ],
+      "variantCount": 2,
+      "tooltip": {
+        "description": "Jungle Fever (1991) - Quality Score: 35/100",
+        "genre": "Classic Film",
+        "crawlerScore": 35,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 0,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:43:22.921Z"
+      },
+      "movie": "Jungle Fever"
+    },
+    {
+      "id": "gibboanx-test-37-8",
+      "label": "Down Terrace",
+      "date": 2009,
+      "year": 2009,
+      "youtube": "https://www.youtube.com/watch?v=i_9FMkrgKpg&t=0s&end=120s",
+      "duration": 262,
+      "variants": [
+        {
+          "id": "i_9FMkrgKpg-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=i_9FMkrgKpg&t=0s&end=120s",
+          "sceneDescription": "Down Terrace - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "i_9FMkrgKpg-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=i_9FMkrgKpg&t=120s&end=262s",
+          "sceneDescription": "Down Terrace - Part 2 (2:00 - 4:22)",
+          "startTime": 120,
+          "endTime": 262
+        }
+      ],
+      "variantCount": 2,
+      "tooltip": {
+        "description": "Down Terrace (2009) - Quality Score: 40/100",
+        "genre": "Classic Film",
+        "crawlerScore": 40,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 0,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:43:22.921Z"
+      },
+      "movie": "Down Terrace"
+    },
+    {
+      "id": "gibboanx-test-37-9",
+      "label": "Play It Again",
+      "date": null,
+      "year": null,
+      "youtube": "https://www.youtube.com/watch?v=w3ruUJSgtzY&t=0s&end=120s",
+      "duration": 264,
+      "variants": [
+        {
+          "id": "w3ruUJSgtzY-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=w3ruUJSgtzY&t=0s&end=120s",
+          "sceneDescription": "Play It Again - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "w3ruUJSgtzY-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=w3ruUJSgtzY&t=120s&end=264s",
+          "sceneDescription": "Play It Again - Part 2 (2:00 - 4:24)",
+          "startTime": 120,
+          "endTime": 264
+        }
+      ],
+      "variantCount": 2,
+      "tooltip": {
+        "description": "Play It Again (NaN) - Quality Score: 55/100",
+        "genre": "Classic Film",
+        "crawlerScore": 55,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 10,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:43:22.921Z"
+      },
+      "movie": "Play It Again"
+    },
+    {
+      "id": "gibboanx-test-37-10",
+      "label": "Midnight in Paris",
+      "date": 2011,
+      "year": 2011,
+      "youtube": "https://www.youtube.com/watch?v=cXxw6tpM970&t=0s&end=120s",
+      "duration": 268,
+      "variants": [
+        {
+          "id": "cXxw6tpM970-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=cXxw6tpM970&t=0s&end=120s",
+          "sceneDescription": "Midnight in Paris - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "cXxw6tpM970-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=cXxw6tpM970&t=120s&end=268s",
+          "sceneDescription": "Midnight in Paris - Part 2 (2:00 - 4:28)",
+          "startTime": 120,
+          "endTime": 268
+        }
+      ],
+      "variantCount": 2,
+      "tooltip": {
+        "description": "Midnight in Paris (2011) - Quality Score: 35/100",
+        "genre": "Classic Film",
+        "crawlerScore": 35,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 0,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:43:22.921Z"
+      },
+      "movie": "Midnight in Paris"
+    }
+  ]
+}

@@ -1,0 +1,418 @@
+{
+  "slug": "gibboanx-test-25",
+  "topic": "Gibboanx Test Puzzle 25",
+  "category": "Entertainment",
+  "subcategory": "Movies/TV",
+  "hideDates": false,
+  "showTooltips": true,
+  "variantSystem": {
+    "enabled": true,
+    "totalScenes": 10,
+    "selectionStrategy": "random_per_round"
+  },
+  "cards": [
+    {
+      "id": "gibboanx-test-25-1",
+      "label": "Westworld",
+      "date": 1973,
+      "year": 1973,
+      "youtube": "https://www.youtube.com/watch?v=8RwNqorvjtg&t=0s&end=157s",
+      "duration": 157,
+      "variants": [
+        {
+          "id": "8RwNqorvjtg-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=8RwNqorvjtg&t=0s&end=157s",
+          "sceneDescription": "Westworld - Part 1 (0:00 - 2:37)",
+          "startTime": 0,
+          "endTime": 157
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Westworld (1973) - Quality Score: 50/100",
+        "genre": "Classic Film",
+        "crawlerScore": 50,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 10,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:30:15.118Z"
+      },
+      "movie": "Westworld"
+    },
+    {
+      "id": "gibboanx-test-25-2",
+      "label": "The Hateful Eight",
+      "date": 2015,
+      "year": 2015,
+      "youtube": "https://www.youtube.com/watch?v=5R9QGb5BeAA&t=0s&end=120s",
+      "duration": 274,
+      "variants": [
+        {
+          "id": "5R9QGb5BeAA-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=5R9QGb5BeAA&t=0s&end=120s",
+          "sceneDescription": "The Hateful Eight - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "5R9QGb5BeAA-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=5R9QGb5BeAA&t=120s&end=274s",
+          "sceneDescription": "The Hateful Eight - Part 2 (2:00 - 4:34)",
+          "startTime": 120,
+          "endTime": 274
+        }
+      ],
+      "variantCount": 2,
+      "tooltip": {
+        "description": "The Hateful Eight (2015) - Quality Score: 35/100",
+        "genre": "Classic Film",
+        "crawlerScore": 35,
+        "breakdown": {
+          "titleRelevance": 20,
+          "sceneIndicators": 20,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:30:15.119Z"
+      },
+      "movie": "The Hateful Eight"
+    },
+    {
+      "id": "gibboanx-test-25-3",
+      "label": "Room",
+      "date": 2015,
+      "year": 2015,
+      "youtube": "https://www.youtube.com/watch?v=HG10OcX5VLQ&t=0s&end=75s",
+      "duration": 75,
+      "variants": [
+        {
+          "id": "HG10OcX5VLQ-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=HG10OcX5VLQ&t=0s&end=75s",
+          "sceneDescription": "Room - Full Scene (0:00 - 1:15)",
+          "startTime": 0,
+          "endTime": 75
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Room (2015) - Quality Score: 55/100",
+        "genre": "Classic Film",
+        "crawlerScore": 55,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 10,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:30:15.119Z"
+      },
+      "movie": "Room"
+    },
+    {
+      "id": "gibboanx-test-25-4",
+      "label": "The Nice Guys",
+      "date": 2016,
+      "year": 2016,
+      "youtube": "https://www.youtube.com/watch?v=V9MkKjIFgb0&t=0s&end=120s",
+      "duration": 530,
+      "variants": [
+        {
+          "id": "V9MkKjIFgb0-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=V9MkKjIFgb0&t=0s&end=120s",
+          "sceneDescription": "The Nice Guys - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "V9MkKjIFgb0-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=V9MkKjIFgb0&t=120s&end=240s",
+          "sceneDescription": "The Nice Guys - Part 2 (2:00 - 4:00)",
+          "startTime": 120,
+          "endTime": 240
+        },
+        {
+          "id": "V9MkKjIFgb0-variant-2",
+          "youtube": "https://www.youtube.com/watch?v=V9MkKjIFgb0&t=240s&end=360s",
+          "sceneDescription": "The Nice Guys - Part 3 (4:00 - 6:00)",
+          "startTime": 240,
+          "endTime": 360
+        },
+        {
+          "id": "V9MkKjIFgb0-variant-3",
+          "youtube": "https://www.youtube.com/watch?v=V9MkKjIFgb0&t=360s&end=530s",
+          "sceneDescription": "The Nice Guys - Part 4 (6:00 - 8:50)",
+          "startTime": 360,
+          "endTime": 530
+        }
+      ],
+      "variantCount": 4,
+      "tooltip": {
+        "description": "The Nice Guys (2016) - Quality Score: 55/100",
+        "genre": "Classic Film",
+        "crawlerScore": 55,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 20,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:30:15.119Z"
+      },
+      "movie": "The Nice Guys"
+    },
+    {
+      "id": "gibboanx-test-25-5",
+      "label": "Hell or High Water",
+      "date": 2016,
+      "year": 2016,
+      "youtube": "https://www.youtube.com/watch?v=g2JJeUgwpjo&t=0s&end=120s",
+      "duration": 353,
+      "variants": [
+        {
+          "id": "g2JJeUgwpjo-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=g2JJeUgwpjo&t=0s&end=120s",
+          "sceneDescription": "Hell or High Water - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "g2JJeUgwpjo-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=g2JJeUgwpjo&t=120s&end=240s",
+          "sceneDescription": "Hell or High Water - Part 2 (2:00 - 4:00)",
+          "startTime": 120,
+          "endTime": 240
+        },
+        {
+          "id": "g2JJeUgwpjo-variant-2",
+          "youtube": "https://www.youtube.com/watch?v=g2JJeUgwpjo&t=240s&end=353s",
+          "sceneDescription": "Hell or High Water - Part 3 (4:00 - 5:53)",
+          "startTime": 240,
+          "endTime": 353
+        }
+      ],
+      "variantCount": 3,
+      "tooltip": {
+        "description": "Hell or High Water (2016) - Quality Score: 45/100",
+        "genre": "Classic Film",
+        "crawlerScore": 45,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:30:15.119Z"
+      },
+      "movie": "Hell or High Water"
+    },
+    {
+      "id": "gibboanx-test-25-6",
+      "label": "Nocturnal Animals",
+      "date": 2016,
+      "year": 2016,
+      "youtube": "https://www.youtube.com/watch?v=FlycfET3Yjo&t=0s&end=120s",
+      "duration": 244,
+      "variants": [
+        {
+          "id": "FlycfET3Yjo-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=FlycfET3Yjo&t=0s&end=120s",
+          "sceneDescription": "Nocturnal Animals - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "FlycfET3Yjo-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=FlycfET3Yjo&t=120s&end=244s",
+          "sceneDescription": "Nocturnal Animals - Part 2 (2:00 - 4:04)",
+          "startTime": 120,
+          "endTime": 244
+        }
+      ],
+      "variantCount": 2,
+      "tooltip": {
+        "description": "Nocturnal Animals (2016) - Quality Score: 42/100",
+        "genre": "Classic Film",
+        "crawlerScore": 42,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 2,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:30:15.119Z"
+      },
+      "movie": "Nocturnal Animals"
+    },
+    {
+      "id": "gibboanx-test-25-7",
+      "label": "Tenet",
+      "date": 2020,
+      "year": 2020,
+      "youtube": "https://www.youtube.com/watch?v=gbO6X_aCxDE&t=0s&end=120s",
+      "duration": 291,
+      "variants": [
+        {
+          "id": "gbO6X_aCxDE-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=gbO6X_aCxDE&t=0s&end=120s",
+          "sceneDescription": "Tenet - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "gbO6X_aCxDE-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=gbO6X_aCxDE&t=120s&end=291s",
+          "sceneDescription": "Tenet - Part 2 (2:00 - 4:51)",
+          "startTime": 120,
+          "endTime": 291
+        }
+      ],
+      "variantCount": 2,
+      "tooltip": {
+        "description": "Tenet (2020) - Quality Score: 60/100",
+        "genre": "Classic Film",
+        "crawlerScore": 60,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 10,
+          "popularityFactor": 10,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:30:15.119Z"
+      },
+      "movie": "Tenet"
+    },
+    {
+      "id": "gibboanx-test-25-8",
+      "label": "The Loved Ones",
+      "date": 2009,
+      "year": 2009,
+      "youtube": "https://www.youtube.com/watch?v=a0kcOhNBLAQ&t=0s&end=125s",
+      "duration": 125,
+      "variants": [
+        {
+          "id": "a0kcOhNBLAQ-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=a0kcOhNBLAQ&t=0s&end=125s",
+          "sceneDescription": "The Loved Ones - Part 1 (0:00 - 2:05)",
+          "startTime": 0,
+          "endTime": 125
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "The Loved Ones (2009) - Quality Score: 42/100",
+        "genre": "Classic Film",
+        "crawlerScore": 42,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 2,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:30:15.119Z"
+      },
+      "movie": "The Loved Ones"
+    },
+    {
+      "id": "gibboanx-test-25-9",
+      "label": "Badlands",
+      "date": 1973,
+      "year": 1973,
+      "youtube": "https://www.youtube.com/watch?v=DYqWIC4DM34&t=0s&end=120s",
+      "duration": 243,
+      "variants": [
+        {
+          "id": "DYqWIC4DM34-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=DYqWIC4DM34&t=0s&end=120s",
+          "sceneDescription": "Badlands - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "DYqWIC4DM34-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=DYqWIC4DM34&t=120s&end=243s",
+          "sceneDescription": "Badlands - Part 2 (2:00 - 4:03)",
+          "startTime": 120,
+          "endTime": 243
+        }
+      ],
+      "variantCount": 2,
+      "tooltip": {
+        "description": "Badlands (1973) - Quality Score: 35/100",
+        "genre": "Classic Film",
+        "crawlerScore": 35,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 0,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:30:15.119Z"
+      },
+      "movie": "Badlands"
+    },
+    {
+      "id": "gibboanx-test-25-10",
+      "label": "Bowfinger",
+      "date": 1999,
+      "year": 1999,
+      "youtube": "https://www.youtube.com/watch?v=fwEpfsUcpeQ&t=0s&end=21s",
+      "duration": 21,
+      "variants": [
+        {
+          "id": "fwEpfsUcpeQ-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=fwEpfsUcpeQ&t=0s&end=21s",
+          "sceneDescription": "Bowfinger - Full Scene (0:00 - 0:21)",
+          "startTime": 0,
+          "endTime": 21
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Bowfinger (1999) - Quality Score: 35/100",
+        "genre": "Classic Film",
+        "crawlerScore": 35,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 0,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:30:15.119Z"
+      },
+      "movie": "Bowfinger"
+    }
+  ]
+}

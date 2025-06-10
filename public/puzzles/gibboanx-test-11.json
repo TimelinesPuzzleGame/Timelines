@@ -1,0 +1,404 @@
+{
+  "slug": "gibboanx-test-11",
+  "topic": "Gibboanx Test Puzzle 11",
+  "category": "Entertainment",
+  "subcategory": "Movies/TV",
+  "hideDates": false,
+  "showTooltips": true,
+  "variantSystem": {
+    "enabled": true,
+    "totalScenes": 10,
+    "selectionStrategy": "random_per_round"
+  },
+  "cards": [
+    {
+      "id": "gibboanx-test-11-1",
+      "label": "Splice",
+      "date": 2009,
+      "year": 2009,
+      "youtube": "https://www.youtube.com/watch?v=44jmGgZe6QQ&t=0s&end=105s",
+      "duration": 105,
+      "variants": [
+        {
+          "id": "44jmGgZe6QQ-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=44jmGgZe6QQ&t=0s&end=105s",
+          "sceneDescription": "Splice - Full Scene (0:00 - 1:45)",
+          "startTime": 0,
+          "endTime": 105
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Splice (2009) - Quality Score: 50/100",
+        "genre": "Classic Film",
+        "crawlerScore": 50,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 10,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:16:26.841Z"
+      },
+      "movie": "Splice"
+    },
+    {
+      "id": "gibboanx-test-11-2",
+      "label": "The Firm",
+      "date": 1989,
+      "year": 1989,
+      "youtube": "https://www.youtube.com/watch?v=sMPbtwSnzfU&t=0s&end=120s",
+      "duration": 278,
+      "variants": [
+        {
+          "id": "sMPbtwSnzfU-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=sMPbtwSnzfU&t=0s&end=120s",
+          "sceneDescription": "The Firm - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "sMPbtwSnzfU-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=sMPbtwSnzfU&t=120s&end=278s",
+          "sceneDescription": "The Firm - Part 2 (2:00 - 4:38)",
+          "startTime": 120,
+          "endTime": 278
+        }
+      ],
+      "variantCount": 2,
+      "tooltip": {
+        "description": "The Firm (1989) - Quality Score: 52/100",
+        "genre": "Classic Film",
+        "crawlerScore": 52,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 2,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:16:26.841Z"
+      },
+      "movie": "The Firm"
+    },
+    {
+      "id": "gibboanx-test-11-3",
+      "label": "Blood Simple",
+      "date": 1984,
+      "year": 1984,
+      "youtube": "https://www.youtube.com/watch?v=OV3B3LD9now&t=0s&end=120s",
+      "duration": 274,
+      "variants": [
+        {
+          "id": "OV3B3LD9now-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=OV3B3LD9now&t=0s&end=120s",
+          "sceneDescription": "Blood Simple - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "OV3B3LD9now-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=OV3B3LD9now&t=120s&end=274s",
+          "sceneDescription": "Blood Simple - Part 2 (2:00 - 4:34)",
+          "startTime": 120,
+          "endTime": 274
+        }
+      ],
+      "variantCount": 2,
+      "tooltip": {
+        "description": "Blood Simple (1984) - Quality Score: 40/100",
+        "genre": "Classic Film",
+        "crawlerScore": 40,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 0,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:16:26.841Z"
+      },
+      "movie": "Blood Simple"
+    },
+    {
+      "id": "gibboanx-test-11-4",
+      "label": "The Guest",
+      "date": 2014,
+      "year": 2014,
+      "youtube": "https://www.youtube.com/watch?v=-heBAy_dp9w&t=0s&end=120s",
+      "duration": 364,
+      "variants": [
+        {
+          "id": "-heBAy_dp9w-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=-heBAy_dp9w&t=0s&end=120s",
+          "sceneDescription": "The Guest - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "-heBAy_dp9w-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=-heBAy_dp9w&t=120s&end=240s",
+          "sceneDescription": "The Guest - Part 2 (2:00 - 4:00)",
+          "startTime": 120,
+          "endTime": 240
+        },
+        {
+          "id": "-heBAy_dp9w-variant-2",
+          "youtube": "https://www.youtube.com/watch?v=-heBAy_dp9w&t=240s&end=364s",
+          "sceneDescription": "The Guest - Part 3 (4:00 - 6:04)",
+          "startTime": 240,
+          "endTime": 364
+        }
+      ],
+      "variantCount": 3,
+      "tooltip": {
+        "description": "The Guest (2014) - Quality Score: 50/100",
+        "genre": "Classic Film",
+        "crawlerScore": 50,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 10,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:16:26.841Z"
+      },
+      "movie": "The Guest"
+    },
+    {
+      "id": "gibboanx-test-11-5",
+      "label": "Next Goal Wins",
+      "date": 2014,
+      "year": 2014,
+      "youtube": "https://www.youtube.com/watch?v=Wy7qakTF7V4&t=0s&end=61s",
+      "duration": 61,
+      "variants": [
+        {
+          "id": "Wy7qakTF7V4-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=Wy7qakTF7V4&t=0s&end=61s",
+          "sceneDescription": "Next Goal Wins - Full Scene (0:00 - 1:01)",
+          "startTime": 0,
+          "endTime": 61
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Next Goal Wins (2014) - Quality Score: 40/100",
+        "genre": "Classic Film",
+        "crawlerScore": 40,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 0,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:16:26.841Z"
+      },
+      "movie": "Next Goal Wins"
+    },
+    {
+      "id": "gibboanx-test-11-6",
+      "label": "Taxi",
+      "date": 1998,
+      "year": 1998,
+      "youtube": "https://www.youtube.com/watch?v=MVHq4NeQVkU&t=0s&end=120s",
+      "duration": 361,
+      "variants": [
+        {
+          "id": "MVHq4NeQVkU-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=MVHq4NeQVkU&t=0s&end=120s",
+          "sceneDescription": "Taxi - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "MVHq4NeQVkU-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=MVHq4NeQVkU&t=120s&end=240s",
+          "sceneDescription": "Taxi - Part 2 (2:00 - 4:00)",
+          "startTime": 120,
+          "endTime": 240
+        },
+        {
+          "id": "MVHq4NeQVkU-variant-2",
+          "youtube": "https://www.youtube.com/watch?v=MVHq4NeQVkU&t=240s&end=361s",
+          "sceneDescription": "Taxi - Part 3 (4:00 - 6:01)",
+          "startTime": 240,
+          "endTime": 361
+        }
+      ],
+      "variantCount": 3,
+      "tooltip": {
+        "description": "Taxi (1998) - Quality Score: 55/100",
+        "genre": "Classic Film",
+        "crawlerScore": 55,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:16:26.841Z"
+      },
+      "movie": "Taxi"
+    },
+    {
+      "id": "gibboanx-test-11-7",
+      "label": "Secretary",
+      "date": 2002,
+      "year": 2002,
+      "youtube": "https://www.youtube.com/watch?v=b8caoCblt18&t=0s&end=101s",
+      "duration": 101,
+      "variants": [
+        {
+          "id": "b8caoCblt18-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=b8caoCblt18&t=0s&end=101s",
+          "sceneDescription": "Secretary - Full Scene (0:00 - 1:41)",
+          "startTime": 0,
+          "endTime": 101
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Secretary (2002) - Quality Score: 45/100",
+        "genre": "Classic Film",
+        "crawlerScore": 45,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 0,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:16:26.841Z"
+      },
+      "movie": "Secretary"
+    },
+    {
+      "id": "gibboanx-test-11-8",
+      "label": "Garden State",
+      "date": 2004,
+      "year": 2004,
+      "youtube": "https://www.youtube.com/watch?v=Ziwr4f5eR0M&t=0s&end=84s",
+      "duration": 84,
+      "variants": [
+        {
+          "id": "Ziwr4f5eR0M-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=Ziwr4f5eR0M&t=0s&end=84s",
+          "sceneDescription": "Garden State - Full Scene (0:00 - 1:24)",
+          "startTime": 0,
+          "endTime": 84
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Garden State (2004) - Quality Score: 45/100",
+        "genre": "Classic Film",
+        "crawlerScore": 45,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:16:26.841Z"
+      },
+      "movie": "Garden State"
+    },
+    {
+      "id": "gibboanx-test-11-9",
+      "label": "Frost/Nixon",
+      "date": 2008,
+      "year": 2008,
+      "youtube": "https://www.youtube.com/watch?v=XF3l0DxogZY&t=0s&end=120s",
+      "duration": 236,
+      "variants": [
+        {
+          "id": "XF3l0DxogZY-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=XF3l0DxogZY&t=0s&end=120s",
+          "sceneDescription": "Frost/Nixon - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "XF3l0DxogZY-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=XF3l0DxogZY&t=120s&end=236s",
+          "sceneDescription": "Frost/Nixon - Part 2 (2:00 - 3:56)",
+          "startTime": 120,
+          "endTime": 236
+        }
+      ],
+      "variantCount": 2,
+      "tooltip": {
+        "description": "Frost/Nixon (2008) - Quality Score: 40/100",
+        "genre": "Classic Film",
+        "crawlerScore": 40,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 0,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:16:26.841Z"
+      },
+      "movie": "Frost/Nixon"
+    },
+    {
+      "id": "gibboanx-test-11-10",
+      "label": "Tell No One",
+      "date": 2006,
+      "year": 2006,
+      "youtube": "https://www.youtube.com/watch?v=h2XXf8G-pTA&t=0s&end=34s",
+      "duration": 34,
+      "variants": [
+        {
+          "id": "h2XXf8G-pTA-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=h2XXf8G-pTA&t=0s&end=34s",
+          "sceneDescription": "Tell No One - Full Scene (0:00 - 0:34)",
+          "startTime": 0,
+          "endTime": 34
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Tell No One (2006) - Quality Score: 40/100",
+        "genre": "Classic Film",
+        "crawlerScore": 40,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 0,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:16:26.841Z"
+      },
+      "movie": "Tell No One"
+    }
+  ]
+}

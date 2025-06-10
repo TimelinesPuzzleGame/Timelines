@@ -1,0 +1,397 @@
+{
+  "slug": "gibboanx-test-20",
+  "topic": "Gibboanx Test Puzzle 20",
+  "category": "Entertainment",
+  "subcategory": "Movies/TV",
+  "hideDates": false,
+  "showTooltips": true,
+  "variantSystem": {
+    "enabled": true,
+    "totalScenes": 10,
+    "selectionStrategy": "random_per_round"
+  },
+  "cards": [
+    {
+      "id": "gibboanx-test-20-1",
+      "label": "Gimme Shelter",
+      "date": 1970,
+      "year": 1970,
+      "youtube": "https://www.youtube.com/watch?v=ChONufP0FEs&t=0s&end=173s",
+      "duration": 173,
+      "variants": [
+        {
+          "id": "ChONufP0FEs-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=ChONufP0FEs&t=0s&end=173s",
+          "sceneDescription": "Gimme Shelter - Part 1 (0:00 - 2:53)",
+          "startTime": 0,
+          "endTime": 173
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Gimme Shelter (1970) - Quality Score: 40/100",
+        "genre": "Classic Film",
+        "crawlerScore": 40,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 0,
+          "resolutionQuality": 0,
+          "popularityFactor": 10,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:26:06.704Z"
+      },
+      "movie": "Gimme Shelter"
+    },
+    {
+      "id": "gibboanx-test-20-2",
+      "label": "Frenzy",
+      "date": 1972,
+      "year": 1972,
+      "youtube": "https://www.youtube.com/watch?v=LQIYEshY908&t=0s&end=119s",
+      "duration": 119,
+      "variants": [
+        {
+          "id": "LQIYEshY908-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=LQIYEshY908&t=0s&end=119s",
+          "sceneDescription": "Frenzy - Full Scene (0:00 - 1:59)",
+          "startTime": 0,
+          "endTime": 119
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Frenzy (1972) - Quality Score: 40/100",
+        "genre": "Classic Film",
+        "crawlerScore": 40,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 0,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:26:06.704Z"
+      },
+      "movie": "Frenzy"
+    },
+    {
+      "id": "gibboanx-test-20-3",
+      "label": "Amadeus",
+      "date": 1984,
+      "year": 1984,
+      "youtube": "https://www.youtube.com/watch?v=tI7xtD3bMD0&t=0s&end=120s",
+      "duration": 578,
+      "variants": [
+        {
+          "id": "tI7xtD3bMD0-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=tI7xtD3bMD0&t=0s&end=120s",
+          "sceneDescription": "Amadeus - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "tI7xtD3bMD0-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=tI7xtD3bMD0&t=120s&end=240s",
+          "sceneDescription": "Amadeus - Part 2 (2:00 - 4:00)",
+          "startTime": 120,
+          "endTime": 240
+        },
+        {
+          "id": "tI7xtD3bMD0-variant-2",
+          "youtube": "https://www.youtube.com/watch?v=tI7xtD3bMD0&t=240s&end=360s",
+          "sceneDescription": "Amadeus - Part 3 (4:00 - 6:00)",
+          "startTime": 240,
+          "endTime": 360
+        },
+        {
+          "id": "tI7xtD3bMD0-variant-3",
+          "youtube": "https://www.youtube.com/watch?v=tI7xtD3bMD0&t=360s&end=480s",
+          "sceneDescription": "Amadeus - Part 4 (6:00 - 8:00)",
+          "startTime": 360,
+          "endTime": 480
+        },
+        {
+          "id": "tI7xtD3bMD0-variant-4",
+          "youtube": "https://www.youtube.com/watch?v=tI7xtD3bMD0&t=480s&end=578s",
+          "sceneDescription": "Amadeus - Part 5 (8:00 - 9:38)",
+          "startTime": 480,
+          "endTime": 578
+        }
+      ],
+      "variantCount": 5,
+      "tooltip": {
+        "description": "Amadeus (1984) - Quality Score: 45/100",
+        "genre": "Classic Film",
+        "crawlerScore": 45,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 0,
+          "resolutionQuality": 10,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:26:06.704Z"
+      },
+      "movie": "Amadeus"
+    },
+    {
+      "id": "gibboanx-test-20-4",
+      "label": "A Separation",
+      "date": 2011,
+      "year": 2011,
+      "youtube": "https://www.youtube.com/watch?v=PrdtfPXAQcg&t=0s&end=166s",
+      "duration": 166,
+      "variants": [
+        {
+          "id": "PrdtfPXAQcg-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=PrdtfPXAQcg&t=0s&end=166s",
+          "sceneDescription": "A Separation - Part 1 (0:00 - 2:46)",
+          "startTime": 0,
+          "endTime": 166
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "A Separation (2011) - Quality Score: 50/100",
+        "genre": "Classic Film",
+        "crawlerScore": 50,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 20,
+          "resolutionQuality": 0,
+          "popularityFactor": 0,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:26:06.704Z"
+      },
+      "movie": "A Separation"
+    },
+    {
+      "id": "gibboanx-test-20-5",
+      "label": "Dallas Buyers Club",
+      "date": 2013,
+      "year": 2013,
+      "youtube": "https://www.youtube.com/watch?v=C5y7PcGHiaE&t=0s&end=124s",
+      "duration": 124,
+      "variants": [
+        {
+          "id": "C5y7PcGHiaE-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=C5y7PcGHiaE&t=0s&end=124s",
+          "sceneDescription": "Dallas Buyers Club - Part 1 (0:00 - 2:04)",
+          "startTime": 0,
+          "endTime": 124
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Dallas Buyers Club (2013) - Quality Score: 35/100",
+        "genre": "Classic Film",
+        "crawlerScore": 35,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 0,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:26:06.704Z"
+      },
+      "movie": "Dallas Buyers Club"
+    },
+    {
+      "id": "gibboanx-test-20-6",
+      "label": "Die Hard with a Vengeance",
+      "date": 1995,
+      "year": 1995,
+      "youtube": "https://www.youtube.com/watch?v=_dPHjsyQL54&t=0s&end=173s",
+      "duration": 173,
+      "variants": [
+        {
+          "id": "_dPHjsyQL54-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=_dPHjsyQL54&t=0s&end=173s",
+          "sceneDescription": "Die Hard with a Vengeance - Part 1 (0:00 - 2:53)",
+          "startTime": 0,
+          "endTime": 173
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Die Hard with a Vengeance (1995) - Quality Score: 55/100",
+        "genre": "Classic Film",
+        "crawlerScore": 55,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 10,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:26:06.704Z"
+      },
+      "movie": "Die Hard with a Vengeance"
+    },
+    {
+      "id": "gibboanx-test-20-7",
+      "label": "Freeway",
+      "date": 1996,
+      "year": 1996,
+      "youtube": "https://www.youtube.com/watch?v=UUo7mjW2D3M&t=0s&end=89s",
+      "duration": 89,
+      "variants": [
+        {
+          "id": "UUo7mjW2D3M-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=UUo7mjW2D3M&t=0s&end=89s",
+          "sceneDescription": "Freeway - Full Scene (0:00 - 1:29)",
+          "startTime": 0,
+          "endTime": 89
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Freeway (1996) - Quality Score: 45/100",
+        "genre": "Classic Film",
+        "crawlerScore": 45,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:26:06.704Z"
+      },
+      "movie": "Freeway"
+    },
+    {
+      "id": "gibboanx-test-20-8",
+      "label": "The Fog of War",
+      "date": 2003,
+      "year": 2003,
+      "youtube": "https://www.youtube.com/watch?v=SfPwR00HXM0&t=0s&end=120s",
+      "duration": 364,
+      "variants": [
+        {
+          "id": "SfPwR00HXM0-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=SfPwR00HXM0&t=0s&end=120s",
+          "sceneDescription": "The Fog of War - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "SfPwR00HXM0-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=SfPwR00HXM0&t=120s&end=240s",
+          "sceneDescription": "The Fog of War - Part 2 (2:00 - 4:00)",
+          "startTime": 120,
+          "endTime": 240
+        },
+        {
+          "id": "SfPwR00HXM0-variant-2",
+          "youtube": "https://www.youtube.com/watch?v=SfPwR00HXM0&t=240s&end=364s",
+          "sceneDescription": "The Fog of War - Part 3 (4:00 - 6:04)",
+          "startTime": 240,
+          "endTime": 364
+        }
+      ],
+      "variantCount": 3,
+      "tooltip": {
+        "description": "The Fog of War (2003) - Quality Score: 45/100",
+        "genre": "Classic Film",
+        "crawlerScore": 45,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:26:06.704Z"
+      },
+      "movie": "The Fog of War"
+    },
+    {
+      "id": "gibboanx-test-20-9",
+      "label": "Carlos",
+      "date": 2010,
+      "year": 2010,
+      "youtube": "https://www.youtube.com/watch?v=4apBWNi2-8M&t=0s&end=140s",
+      "duration": 140,
+      "variants": [
+        {
+          "id": "4apBWNi2-8M-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=4apBWNi2-8M&t=0s&end=140s",
+          "sceneDescription": "Carlos - Part 1 (0:00 - 2:20)",
+          "startTime": 0,
+          "endTime": 140
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Carlos (2010) - Quality Score: 40/100",
+        "genre": "Classic Film",
+        "crawlerScore": 40,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 0,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:26:06.704Z"
+      },
+      "movie": "Carlos"
+    },
+    {
+      "id": "gibboanx-test-20-10",
+      "label": "For a Few Dollars More",
+      "date": 1965,
+      "year": 1965,
+      "youtube": "https://www.youtube.com/watch?v=EuFMPI4CJTE&t=0s&end=118s",
+      "duration": 118,
+      "variants": [
+        {
+          "id": "EuFMPI4CJTE-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=EuFMPI4CJTE&t=0s&end=118s",
+          "sceneDescription": "For a Few Dollars More - Full Scene (0:00 - 1:58)",
+          "startTime": 0,
+          "endTime": 118
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "For a Few Dollars More (1965) - Quality Score: 40/100",
+        "genre": "Classic Film",
+        "crawlerScore": 40,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 0,
+          "resolutionQuality": 0,
+          "popularityFactor": 10,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:26:06.704Z"
+      },
+      "movie": "For a Few Dollars More"
+    }
+  ]
+}

@@ -1,0 +1,453 @@
+{
+  "slug": "gibboanx-test-32",
+  "topic": "Gibboanx Test Puzzle 32",
+  "category": "Entertainment",
+  "subcategory": "Movies/TV",
+  "hideDates": false,
+  "showTooltips": true,
+  "variantSystem": {
+    "enabled": true,
+    "totalScenes": 10,
+    "selectionStrategy": "random_per_round"
+  },
+  "cards": [
+    {
+      "id": "gibboanx-test-32-1",
+      "label": "Rear Window",
+      "date": 1954,
+      "year": 1954,
+      "youtube": "https://www.youtube.com/watch?v=D2lQ7SgkLiU&t=0s&end=120s",
+      "duration": 364,
+      "variants": [
+        {
+          "id": "D2lQ7SgkLiU-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=D2lQ7SgkLiU&t=0s&end=120s",
+          "sceneDescription": "Rear Window - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "D2lQ7SgkLiU-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=D2lQ7SgkLiU&t=120s&end=240s",
+          "sceneDescription": "Rear Window - Part 2 (2:00 - 4:00)",
+          "startTime": 120,
+          "endTime": 240
+        },
+        {
+          "id": "D2lQ7SgkLiU-variant-2",
+          "youtube": "https://www.youtube.com/watch?v=D2lQ7SgkLiU&t=240s&end=364s",
+          "sceneDescription": "Rear Window - Part 3 (4:00 - 6:04)",
+          "startTime": 240,
+          "endTime": 364
+        }
+      ],
+      "variantCount": 3,
+      "tooltip": {
+        "description": "Rear Window (1954) - Quality Score: 40/100",
+        "genre": "Classic Film",
+        "crawlerScore": 40,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 0,
+          "resolutionQuality": 0,
+          "popularityFactor": 10,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:37:41.974Z"
+      },
+      "movie": "Rear Window"
+    },
+    {
+      "id": "gibboanx-test-32-2",
+      "label": "Being There",
+      "date": 1979,
+      "year": 1979,
+      "youtube": "https://www.youtube.com/watch?v=J38YRxjXC1U&t=0s&end=120s",
+      "duration": 316,
+      "variants": [
+        {
+          "id": "J38YRxjXC1U-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=J38YRxjXC1U&t=0s&end=120s",
+          "sceneDescription": "Being There - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "J38YRxjXC1U-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=J38YRxjXC1U&t=120s&end=240s",
+          "sceneDescription": "Being There - Part 2 (2:00 - 4:00)",
+          "startTime": 120,
+          "endTime": 240
+        },
+        {
+          "id": "J38YRxjXC1U-variant-2",
+          "youtube": "https://www.youtube.com/watch?v=J38YRxjXC1U&t=240s&end=316s",
+          "sceneDescription": "Being There - Part 3 (4:00 - 5:16)",
+          "startTime": 240,
+          "endTime": 316
+        }
+      ],
+      "variantCount": 3,
+      "tooltip": {
+        "description": "Being There (1979) - Quality Score: 35/100",
+        "genre": "Classic Film",
+        "crawlerScore": 35,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 0,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:37:41.974Z"
+      },
+      "movie": "Being There"
+    },
+    {
+      "id": "gibboanx-test-32-3",
+      "label": "Fear and Loathing in Las Vegas",
+      "date": 1998,
+      "year": 1998,
+      "youtube": "https://www.youtube.com/watch?v=lNsv4RYFt5U&t=0s&end=106s",
+      "duration": 106,
+      "variants": [
+        {
+          "id": "lNsv4RYFt5U-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=lNsv4RYFt5U&t=0s&end=106s",
+          "sceneDescription": "Fear and Loathing in Las Vegas - Full Scene (0:00 - 1:46)",
+          "startTime": 0,
+          "endTime": 106
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Fear and Loathing in Las Vegas (1998) - Quality Score: 60/100",
+        "genre": "Classic Film",
+        "crawlerScore": 60,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 10,
+          "popularityFactor": 10,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:37:41.974Z"
+      },
+      "movie": "Fear and Loathing in Las Vegas"
+    },
+    {
+      "id": "gibboanx-test-32-4",
+      "label": "Rope",
+      "date": 1948,
+      "year": 1948,
+      "youtube": "https://www.youtube.com/watch?v=wCU6eNU6cck&t=0s&end=120s",
+      "duration": 261,
+      "variants": [
+        {
+          "id": "wCU6eNU6cck-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=wCU6eNU6cck&t=0s&end=120s",
+          "sceneDescription": "Rope - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "wCU6eNU6cck-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=wCU6eNU6cck&t=120s&end=261s",
+          "sceneDescription": "Rope - Part 2 (2:00 - 4:21)",
+          "startTime": 120,
+          "endTime": 261
+        }
+      ],
+      "variantCount": 2,
+      "tooltip": {
+        "description": "Rope (1948) - Quality Score: 42/100",
+        "genre": "Classic Film",
+        "crawlerScore": 42,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 2,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:37:41.974Z"
+      },
+      "movie": "Rope"
+    },
+    {
+      "id": "gibboanx-test-32-5",
+      "label": "Wayne's World",
+      "date": 1992,
+      "year": 1992,
+      "youtube": "https://www.youtube.com/watch?v=thyJOnasHVE&t=0s&end=120s",
+      "duration": 210,
+      "variants": [
+        {
+          "id": "thyJOnasHVE-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=thyJOnasHVE&t=0s&end=120s",
+          "sceneDescription": "Wayne's World - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "thyJOnasHVE-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=thyJOnasHVE&t=120s&end=210s",
+          "sceneDescription": "Wayne's World - Part 2 (2:00 - 3:30)",
+          "startTime": 120,
+          "endTime": 210
+        }
+      ],
+      "variantCount": 2,
+      "tooltip": {
+        "description": "Wayne's World (1992) - Quality Score: 50/100",
+        "genre": "Classic Film",
+        "crawlerScore": 50,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 0,
+          "resolutionQuality": 10,
+          "popularityFactor": 10,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:37:41.974Z"
+      },
+      "movie": "Wayne's World"
+    },
+    {
+      "id": "gibboanx-test-32-6",
+      "label": "Old School",
+      "date": 2003,
+      "year": 2003,
+      "youtube": "https://www.youtube.com/watch?v=I4C-t18-Vvs&t=0s&end=82s",
+      "duration": 82,
+      "variants": [
+        {
+          "id": "I4C-t18-Vvs-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=I4C-t18-Vvs&t=0s&end=82s",
+          "sceneDescription": "Old School - Full Scene (0:00 - 1:22)",
+          "startTime": 0,
+          "endTime": 82
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Old School (2003) - Quality Score: 45/100",
+        "genre": "Classic Film",
+        "crawlerScore": 45,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:37:41.974Z"
+      },
+      "movie": "Old School"
+    },
+    {
+      "id": "gibboanx-test-32-7",
+      "label": "Top Five",
+      "date": 2014,
+      "year": 2014,
+      "youtube": "https://www.youtube.com/watch?v=HrL-TqAVNEs&t=0s&end=105s",
+      "duration": 105,
+      "variants": [
+        {
+          "id": "HrL-TqAVNEs-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=HrL-TqAVNEs&t=0s&end=105s",
+          "sceneDescription": "Top Five - Full Scene (0:00 - 1:45)",
+          "startTime": 0,
+          "endTime": 105
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Top Five (2014) - Quality Score: 40/100",
+        "genre": "Classic Film",
+        "crawlerScore": 40,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 0,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:37:41.974Z"
+      },
+      "movie": "Top Five"
+    },
+    {
+      "id": "gibboanx-test-32-8",
+      "label": "All About Eve",
+      "date": 1950,
+      "year": 1950,
+      "youtube": "https://www.youtube.com/watch?v=gQmdub_P3ho&t=0s&end=135s",
+      "duration": 135,
+      "variants": [
+        {
+          "id": "gQmdub_P3ho-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=gQmdub_P3ho&t=0s&end=135s",
+          "sceneDescription": "All About Eve - Part 1 (0:00 - 2:15)",
+          "startTime": 0,
+          "endTime": 135
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "All About Eve (1950) - Quality Score: 42/100",
+        "genre": "Classic Film",
+        "crawlerScore": 42,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 2,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:37:41.974Z"
+      },
+      "movie": "All About Eve"
+    },
+    {
+      "id": "gibboanx-test-32-9",
+      "label": "Scum",
+      "date": 1979,
+      "year": 1979,
+      "youtube": "https://www.youtube.com/watch?v=D0cNl1hYZE0&t=0s&end=120s",
+      "duration": 248,
+      "variants": [
+        {
+          "id": "D0cNl1hYZE0-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=D0cNl1hYZE0&t=0s&end=120s",
+          "sceneDescription": "Scum - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "D0cNl1hYZE0-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=D0cNl1hYZE0&t=120s&end=248s",
+          "sceneDescription": "Scum - Part 2 (2:00 - 4:08)",
+          "startTime": 120,
+          "endTime": 248
+        }
+      ],
+      "variantCount": 2,
+      "tooltip": {
+        "description": "Scum (1979) - Quality Score: 50/100",
+        "genre": "Classic Film",
+        "crawlerScore": 50,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 20,
+          "resolutionQuality": 0,
+          "popularityFactor": 0,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:37:41.974Z"
+      },
+      "movie": "Scum"
+    },
+    {
+      "id": "gibboanx-test-32-10",
+      "label": "Steve Jobs",
+      "date": 2015,
+      "year": 2015,
+      "youtube": "https://www.youtube.com/watch?v=uvsuAZFem88&t=0s&end=120s",
+      "duration": 900,
+      "variants": [
+        {
+          "id": "uvsuAZFem88-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=uvsuAZFem88&t=0s&end=120s",
+          "sceneDescription": "Steve Jobs - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "uvsuAZFem88-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=uvsuAZFem88&t=120s&end=240s",
+          "sceneDescription": "Steve Jobs - Part 2 (2:00 - 4:00)",
+          "startTime": 120,
+          "endTime": 240
+        },
+        {
+          "id": "uvsuAZFem88-variant-2",
+          "youtube": "https://www.youtube.com/watch?v=uvsuAZFem88&t=240s&end=360s",
+          "sceneDescription": "Steve Jobs - Part 3 (4:00 - 6:00)",
+          "startTime": 240,
+          "endTime": 360
+        },
+        {
+          "id": "uvsuAZFem88-variant-3",
+          "youtube": "https://www.youtube.com/watch?v=uvsuAZFem88&t=360s&end=480s",
+          "sceneDescription": "Steve Jobs - Part 4 (6:00 - 8:00)",
+          "startTime": 360,
+          "endTime": 480
+        },
+        {
+          "id": "uvsuAZFem88-variant-4",
+          "youtube": "https://www.youtube.com/watch?v=uvsuAZFem88&t=480s&end=600s",
+          "sceneDescription": "Steve Jobs - Part 5 (8:00 - 10:00)",
+          "startTime": 480,
+          "endTime": 600
+        },
+        {
+          "id": "uvsuAZFem88-variant-5",
+          "youtube": "https://www.youtube.com/watch?v=uvsuAZFem88&t=600s&end=720s",
+          "sceneDescription": "Steve Jobs - Part 6 (10:00 - 12:00)",
+          "startTime": 600,
+          "endTime": 720
+        },
+        {
+          "id": "uvsuAZFem88-variant-6",
+          "youtube": "https://www.youtube.com/watch?v=uvsuAZFem88&t=720s&end=840s",
+          "sceneDescription": "Steve Jobs - Part 7 (12:00 - 14:00)",
+          "startTime": 720,
+          "endTime": 840
+        },
+        {
+          "id": "uvsuAZFem88-variant-7",
+          "youtube": "https://www.youtube.com/watch?v=uvsuAZFem88&t=840s&end=900s",
+          "sceneDescription": "Steve Jobs - Part 8 (14:00 - 15:00)",
+          "startTime": 840,
+          "endTime": 900
+        }
+      ],
+      "variantCount": 8,
+      "tooltip": {
+        "description": "Steve Jobs (2015) - Quality Score: 50/100",
+        "genre": "Classic Film",
+        "crawlerScore": 50,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 10,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:37:41.974Z"
+      },
+      "movie": "Steve Jobs"
+    }
+  ]
+}

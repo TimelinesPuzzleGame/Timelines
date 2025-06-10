@@ -1,0 +1,74 @@
+// This file has been merged into greatest-music-videos-all-time-expanded.json
+// Original content:
+/*
+{
+  "slug": "music-playlist-test-5",
+  "topic": "Music Playlist Test 5",
+  "category": "Entertainment",
+  "subcategory": "Music",
+  "description": "Music videos and performances from 2010-2015. Features real YouTube video titles with verified release dates and no date spoilers.",
+  "hideDates": false,
+  "cards": [
+    {
+      "id": 42,
+      "label": "Adele - Rolling in the Deep",
+      "date": 2010,
+      "youtube": "https://www.youtube.com/watch?v=rYEDA3JcQqw"
+    },
+    {
+      "id": 43,
+      "label": "Rebecca Black - Friday",
+      "date": 2011,
+      "youtube": "https://www.youtube.com/watch?v=kfVsfOSbJY0"
+    },
+    {
+      "id": 44,
+      "label": "FKA twigs - Papi Pacify",
+      "date": 2013,
+      "youtube": "https://www.youtube.com/watch?v=OydK91JjFOw"
+    },
+    {
+      "id": 45,
+      "label": "DJ Snake, Lil Jon - Turn Down for What",
+      "date": 2013,
+      "youtube": "https://www.youtube.com/watch?v=HMUDVMiITOU"
+    },
+    {
+      "id": 47,
+      "label": "Beyoncé - 7/11",
+      "date": 2014,
+      "youtube": "https://www.youtube.com/watch?v=k4YRWT_Aldo"
+    },
+    {
+      "id": 48,
+      "label": "Oneohtrix Point Never - Boring Angel",
+      "date": 2018,
+      "youtube": "https://www.youtube.com/watch?v=qmlJveN9IkI"
+    },
+    {
+      "id": 40,
+      "label": "Gotye - Somebody That I Used To Know (feat. Kimbra)",
+      "date": 2011,
+      "youtube": "https://www.youtube.com/watch?v=8UVNT4wvIGY"
+    },
+    {
+      "id": 46,
+      "label": "BIGBANG - FANTASTIC BABY M/V",
+      "date": 2012,
+      "youtube": "https://www.youtube.com/watch?v=AAbokV76tkU"
+    },
+    {
+      "id": 39,
+      "label": "Justin Bieber - Sorry (PURPOSE : The Movement)",
+      "date": 2015,
+      "youtube": "https://www.youtube.com/watch?v=fRh_vgS2dFE"
+    },
+    {
+      "id": 41,
+      "label": "Dua Lipa - New Rules",
+      "date": 2017,
+      "youtube": "https://www.youtube.com/watch?v=k2qgadSvNyU"
+    }
+  ]
+}
+*/

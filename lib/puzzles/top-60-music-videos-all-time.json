@@ -1,0 +1,712 @@
+{
+  "topic": "67 Greatest Music Videos of All Time",
+  "description": "The most iconic and influential music videos according to Top40Weekly - from Michael Jackson's Thriller to modern classics Enhanced with iconic 1970s music videos that pioneered the format before MTV. Enhanced with iconic 1970s music videos that pioneered the format before MTV.",
+  "source": "https://top40weekly.com/best-music-videos-of-all-time/",
+  "videoSources": [
+    {
+      "title": "Michael Jackson - Thriller",
+      "artist": "Michael Jackson",
+      "song": "Thriller",
+      "rank": 1,
+      "year": 1983,
+      "date": 1983,
+      "youtube": "https://www.youtube.com/results?search_query=Michael%20Jackson%20Thriller%20official%20music%20video",
+      "label": "#1: Michael Jackson - Thriller (1983)"
+    },
+    {
+      "title": "Beyoncé - Single Ladies (Put a Ring on It)",
+      "artist": "Beyoncé",
+      "song": "Single Ladies (Put a Ring on It)",
+      "rank": 2,
+      "year": 2008,
+      "date": 2008,
+      "youtube": "https://www.youtube.com/results?search_query=Beyonc%C3%A9%20Single%20Ladies%20(Put%20a%20Ring%20on%20It)%20official%20music%20video",
+      "label": "#2: Beyoncé - Single Ladies (Put a Ring on It) (2008)"
+    },
+    {
+      "title": "Nirvana - Smells Like Teen Spirit",
+      "artist": "Nirvana",
+      "song": "Smells Like Teen Spirit",
+      "rank": 3,
+      "year": 1991,
+      "date": 1991,
+      "youtube": "https://www.youtube.com/results?search_query=Nirvana%20Smells%20Like%20Teen%20Spirit%20official%20music%20video",
+      "label": "#3: Nirvana - Smells Like Teen Spirit (1991)"
+    },
+    {
+      "title": "Lady Gaga - Bad Romance",
+      "artist": "Lady Gaga",
+      "song": "Bad Romance",
+      "rank": 4,
+      "year": 2009,
+      "date": 2009,
+      "youtube": "https://www.youtube.com/results?search_query=Lady%20Gaga%20Bad%20Romance%20official%20music%20video",
+      "label": "#4: Lady Gaga - Bad Romance (2009)"
+    },
+    {
+      "title": "Britney Spears - ...Baby One More Time",
+      "artist": "Britney Spears",
+      "song": "...Baby One More Time",
+      "rank": 5,
+      "year": 1998,
+      "date": 1998,
+      "youtube": "https://www.youtube.com/results?search_query=Britney%20Spears%20...Baby%20One%20More%20Time%20official%20music%20video",
+      "label": "#5: Britney Spears - ...Baby One More Time (1998)"
+    },
+    {
+      "title": "Madonna - Vogue",
+      "artist": "Madonna",
+      "song": "Vogue",
+      "rank": 6,
+      "year": 1990,
+      "date": 1990,
+      "youtube": "https://www.youtube.com/results?search_query=Madonna%20Vogue%20official%20music%20video",
+      "label": "#6: Madonna - Vogue (1990)"
+    },
+    {
+      "title": "A-ha - Take On Me",
+      "artist": "A-ha",
+      "song": "Take On Me",
+      "rank": 7,
+      "year": 1985,
+      "date": 1985,
+      "youtube": "https://www.youtube.com/results?search_query=A-ha%20Take%20On%20Me%20official%20music%20video",
+      "label": "#7: A-ha - Take On Me (1985)"
+    },
+    {
+      "title": "OK Go - Here It Goes Again",
+      "artist": "OK Go",
+      "song": "Here It Goes Again",
+      "rank": 8,
+      "year": 2006,
+      "date": 2006,
+      "youtube": "https://www.youtube.com/results?search_query=OK%20Go%20Here%20It%20Goes%20Again%20official%20music%20video",
+      "label": "#8: OK Go - Here It Goes Again (2006)"
+    },
+    {
+      "title": "Sinéad O'Connor - Nothing Compares 2 U",
+      "artist": "Sinéad O'Connor",
+      "song": "Nothing Compares 2 U",
+      "rank": 9,
+      "year": 1990,
+      "date": 1990,
+      "youtube": "https://www.youtube.com/results?search_query=Sin%C3%A9ad%20O'Connor%20Nothing%20Compares%202%20U%20official%20music%20video",
+      "label": "#9: Sinéad O'Connor - Nothing Compares 2 U (1990)"
+    },
+    {
+      "title": "Guns N' Roses - November Rain",
+      "artist": "Guns N' Roses",
+      "song": "November Rain",
+      "rank": 10,
+      "year": 1992,
+      "date": 1992,
+      "youtube": "https://www.youtube.com/results?search_query=Guns%20N'%20Roses%20November%20Rain%20official%20music%20video",
+      "label": "#10: Guns N' Roses - November Rain (1992)"
+    },
+    {
+      "title": "Peter Gabriel - Sledgehammer",
+      "artist": "Peter Gabriel",
+      "song": "Sledgehammer",
+      "rank": 11,
+      "year": 1986,
+      "date": 1986,
+      "youtube": "https://www.youtube.com/results?search_query=Peter%20Gabriel%20Sledgehammer%20official%20music%20video",
+      "label": "#11: Peter Gabriel - Sledgehammer (1986)"
+    },
+    {
+      "title": "Radiohead - Paranoid Android",
+      "artist": "Radiohead",
+      "song": "Paranoid Android",
+      "rank": 12,
+      "year": 1997,
+      "date": 1997,
+      "youtube": "https://www.youtube.com/results?search_query=Radiohead%20Paranoid%20Android%20official%20music%20video",
+      "label": "#12: Radiohead - Paranoid Android (1997)"
+    },
+    {
+      "title": "Missy Elliott - Work It",
+      "artist": "Missy Elliott",
+      "song": "Work It",
+      "rank": 13,
+      "year": 2002,
+      "date": 2002,
+      "youtube": "https://www.youtube.com/results?search_query=Missy%20Elliott%20Work%20It%20official%20music%20video",
+      "label": "#13: Missy Elliott - Work It (2002)"
+    },
+    {
+      "title": "Eminem - Lose Yourself",
+      "artist": "Eminem",
+      "song": "Lose Yourself",
+      "rank": 14,
+      "year": 2002,
+      "date": 2002,
+      "youtube": "https://www.youtube.com/results?search_query=Eminem%20Lose%20Yourself%20official%20music%20video",
+      "label": "#14: Eminem - Lose Yourself (2002)"
+    },
+    {
+      "title": "Kanye West - Stronger",
+      "artist": "Kanye West",
+      "song": "Stronger",
+      "rank": 15,
+      "year": 2007,
+      "date": 2007,
+      "youtube": "https://www.youtube.com/results?search_query=Kanye%20West%20Stronger%20official%20music%20video",
+      "label": "#15: Kanye West - Stronger (2007)"
+    },
+    {
+      "title": "Björk - All Is Full of Love",
+      "artist": "Björk",
+      "song": "All Is Full of Love",
+      "rank": 16,
+      "year": 1999,
+      "date": 1999,
+      "youtube": "https://www.youtube.com/results?search_query=Bj%C3%B6rk%20All%20Is%20Full%20of%20Love%20official%20music%20video",
+      "label": "#16: Björk - All Is Full of Love (1999)"
+    },
+    {
+      "title": "Nine Inch Nails - Closer",
+      "artist": "Nine Inch Nails",
+      "song": "Closer",
+      "rank": 17,
+      "year": 1994,
+      "date": 1994,
+      "youtube": "https://www.youtube.com/results?search_query=Nine%20Inch%20Nails%20Closer%20official%20music%20video",
+      "label": "#17: Nine Inch Nails - Closer (1994)"
+    },
+    {
+      "title": "Fatboy Slim - The Rockafeller Skank",
+      "artist": "Fatboy Slim",
+      "song": "The Rockafeller Skank",
+      "rank": 18,
+      "year": 1998,
+      "date": 1998,
+      "youtube": "https://www.youtube.com/results?search_query=Fatboy%20Slim%20The%20Rockafeller%20Skank%20official%20music%20video",
+      "label": "#18: Fatboy Slim - The Rockafeller Skank (1998)"
+    },
+    {
+      "title": "Daft Punk - Around the World",
+      "artist": "Daft Punk",
+      "song": "Around the World",
+      "rank": 19,
+      "year": 1997,
+      "date": 1997,
+      "youtube": "https://www.youtube.com/results?search_query=Daft%20Punk%20Around%20the%20World%20official%20music%20video",
+      "label": "#19: Daft Punk - Around the World (1997)"
+    },
+    {
+      "title": "Outkast - Hey Ya!",
+      "artist": "Outkast",
+      "song": "Hey Ya!",
+      "rank": 20,
+      "year": 2003,
+      "date": 2003,
+      "youtube": "https://www.youtube.com/results?search_query=Outkast%20Hey%20Ya!%20official%20music%20video",
+      "label": "#20: Outkast - Hey Ya! (2003)"
+    },
+    {
+      "title": "The White Stripes - Seven Nation Army",
+      "artist": "The White Stripes",
+      "song": "Seven Nation Army",
+      "rank": 21,
+      "year": 2003,
+      "date": 2003,
+      "youtube": "https://www.youtube.com/results?search_query=The%20White%20Stripes%20Seven%20Nation%20Army%20official%20music%20video",
+      "label": "#21: The White Stripes - Seven Nation Army (2003)"
+    },
+    {
+      "title": "Alanis Morissette - Ironic",
+      "artist": "Alanis Morissette",
+      "song": "Ironic",
+      "rank": 22,
+      "year": 1996,
+      "date": 1996,
+      "youtube": "https://www.youtube.com/results?search_query=Alanis%20Morissette%20Ironic%20official%20music%20video",
+      "label": "#22: Alanis Morissette - Ironic (1996)"
+    },
+    {
+      "title": "Christina Aguilera - Dirrty",
+      "artist": "Christina Aguilera",
+      "song": "Dirrty",
+      "rank": 23,
+      "year": 2002,
+      "date": 2002,
+      "youtube": "https://www.youtube.com/results?search_query=Christina%20Aguilera%20Dirrty%20official%20music%20video",
+      "label": "#23: Christina Aguilera - Dirrty (2002)"
+    },
+    {
+      "title": "Justin Timberlake - Cry Me a River",
+      "artist": "Justin Timberlake",
+      "song": "Cry Me a River",
+      "rank": 24,
+      "year": 2002,
+      "date": 2002,
+      "youtube": "https://www.youtube.com/results?search_query=Justin%20Timberlake%20Cry%20Me%20a%20River%20official%20music%20video",
+      "label": "#24: Justin Timberlake - Cry Me a River (2002)"
+    },
+    {
+      "title": "Foo Fighters - Everlong",
+      "artist": "Foo Fighters",
+      "song": "Everlong",
+      "rank": 25,
+      "year": 1997,
+      "date": 1997,
+      "youtube": "https://www.youtube.com/results?search_query=Foo%20Fighters%20Everlong%20official%20music%20video",
+      "label": "#25: Foo Fighters - Everlong (1997)"
+    },
+    {
+      "title": "Childish Gambino - This Is America",
+      "artist": "Childish Gambino",
+      "song": "This Is America",
+      "rank": 26,
+      "year": 2018,
+      "date": 2018,
+      "youtube": "https://www.youtube.com/results?search_query=Childish%20Gambino%20This%20Is%20America%20official%20music%20video",
+      "label": "#26: Childish Gambino - This Is America (2018)"
+    },
+    {
+      "title": "Lorde - Royals",
+      "artist": "Lorde",
+      "song": "Royals",
+      "rank": 27,
+      "year": 2013,
+      "date": 2013,
+      "youtube": "https://www.youtube.com/results?search_query=Lorde%20Royals%20official%20music%20video",
+      "label": "#27: Lorde - Royals (2013)"
+    },
+    {
+      "title": "Pharrell Williams - Happy",
+      "artist": "Pharrell Williams",
+      "song": "Happy",
+      "rank": 28,
+      "year": 2013,
+      "date": 2013,
+      "youtube": "https://www.youtube.com/results?search_query=Pharrell%20Williams%20Happy%20official%20music%20video",
+      "label": "#28: Pharrell Williams - Happy (2013)"
+    },
+    {
+      "title": "Adele - Rolling in the Deep",
+      "artist": "Adele",
+      "song": "Rolling in the Deep",
+      "rank": 29,
+      "year": 2010,
+      "date": 2010,
+      "youtube": "https://www.youtube.com/results?search_query=Adele%20Rolling%20in%20the%20Deep%20official%20music%20video",
+      "label": "#29: Adele - Rolling in the Deep (2010)"
+    },
+    {
+      "title": "Gotye - Somebody That I Used to Know",
+      "artist": "Gotye",
+      "song": "Somebody That I Used to Know",
+      "rank": 30,
+      "year": 2011,
+      "date": 2011,
+      "youtube": "https://www.youtube.com/results?search_query=Gotye%20Somebody%20That%20I%20Used%20to%20Know%20official%20music%20video",
+      "label": "#30: Gotye - Somebody That I Used to Know (2011)"
+    },
+    {
+      "title": "Red Hot Chili Peppers - Under the Bridge",
+      "artist": "Red Hot Chili Peppers",
+      "song": "Under the Bridge",
+      "rank": 31,
+      "year": 1991,
+      "date": 1991,
+      "youtube": "https://www.youtube.com/results?search_query=Red%20Hot%20Chili%20Peppers%20Under%20the%20Bridge%20official%20music%20video",
+      "label": "#31: Red Hot Chili Peppers - Under the Bridge (1991)"
+    },
+    {
+      "title": "Smashing Pumpkins - Tonight, Tonight",
+      "artist": "Smashing Pumpkins",
+      "song": "Tonight, Tonight",
+      "rank": 32,
+      "year": 1996,
+      "date": 1996,
+      "youtube": "https://www.youtube.com/results?search_query=Smashing%20Pumpkins%20Tonight%2C%20Tonight%20official%20music%20video",
+      "label": "#32: Smashing Pumpkins - Tonight, Tonight (1996)"
+    },
+    {
+      "title": "Radiohead - Karma Police",
+      "artist": "Radiohead",
+      "song": "Karma Police",
+      "rank": 33,
+      "year": 1997,
+      "date": 1997,
+      "youtube": "https://www.youtube.com/results?search_query=Radiohead%20Karma%20Police%20official%20music%20video",
+      "label": "#33: Radiohead - Karma Police (1997)"
+    },
+    {
+      "title": "The Prodigy - Firestarter",
+      "artist": "The Prodigy",
+      "song": "Firestarter",
+      "rank": 34,
+      "year": 1996,
+      "date": 1996,
+      "youtube": "https://www.youtube.com/results?search_query=The%20Prodigy%20Firestarter%20official%20music%20video",
+      "label": "#34: The Prodigy - Firestarter (1996)"
+    },
+    {
+      "title": "Massive Attack - Teardrop",
+      "artist": "Massive Attack",
+      "song": "Teardrop",
+      "rank": 35,
+      "year": 1997,
+      "date": 1997,
+      "youtube": "https://www.youtube.com/results?search_query=Massive%20Attack%20Teardrop%20official%20music%20video",
+      "label": "#35: Massive Attack - Teardrop (1997)"
+    },
+    {
+      "title": "Aphex Twin - Come to Daddy",
+      "artist": "Aphex Twin",
+      "song": "Come to Daddy",
+      "rank": 36,
+      "year": 1997,
+      "date": 1997,
+      "youtube": "https://www.youtube.com/results?search_query=Aphex%20Twin%20Come%20to%20Daddy%20official%20music%20video",
+      "label": "#36: Aphex Twin - Come to Daddy (1997)"
+    },
+    {
+      "title": "Beastie Boys - Sabotage",
+      "artist": "Beastie Boys",
+      "song": "Sabotage",
+      "rank": 37,
+      "year": 1994,
+      "date": 1994,
+      "youtube": "https://www.youtube.com/results?search_query=Beastie%20Boys%20Sabotage%20official%20music%20video",
+      "label": "#37: Beastie Boys - Sabotage (1994)"
+    },
+    {
+      "title": "R.E.M. - Losing My Religion",
+      "artist": "R.E.M.",
+      "song": "Losing My Religion",
+      "rank": 38,
+      "year": 1991,
+      "date": 1991,
+      "youtube": "https://www.youtube.com/results?search_query=R.E.M.%20Losing%20My%20Religion%20official%20music%20video",
+      "label": "#38: R.E.M. - Losing My Religion (1991)"
+    },
+    {
+      "title": "Soundgarden - Black Hole Sun",
+      "artist": "Soundgarden",
+      "song": "Black Hole Sun",
+      "rank": 39,
+      "year": 1994,
+      "date": 1994,
+      "youtube": "https://www.youtube.com/results?search_query=Soundgarden%20Black%20Hole%20Sun%20official%20music%20video",
+      "label": "#39: Soundgarden - Black Hole Sun (1994)"
+    },
+    {
+      "title": "Alice in Chains - Man in the Box",
+      "artist": "Alice in Chains",
+      "song": "Man in the Box",
+      "rank": 40,
+      "year": 1990,
+      "date": 1990,
+      "youtube": "https://www.youtube.com/results?search_query=Alice%20in%20Chains%20Man%20in%20the%20Box%20official%20music%20video",
+      "label": "#40: Alice in Chains - Man in the Box (1990)"
+    },
+    {
+      "title": "Tool - Schism",
+      "artist": "Tool",
+      "song": "Schism",
+      "rank": 41,
+      "year": 2001,
+      "date": 2001,
+      "youtube": "https://www.youtube.com/results?search_query=Tool%20Schism%20official%20music%20video",
+      "label": "#41: Tool - Schism (2001)"
+    },
+    {
+      "title": "Metallica - Enter Sandman",
+      "artist": "Metallica",
+      "song": "Enter Sandman",
+      "rank": 42,
+      "year": 1991,
+      "date": 1991,
+      "youtube": "https://www.youtube.com/results?search_query=Metallica%20Enter%20Sandman%20official%20music%20video",
+      "label": "#42: Metallica - Enter Sandman (1991)"
+    },
+    {
+      "title": "Korn - Freak on a Leash",
+      "artist": "Korn",
+      "song": "Freak on a Leash",
+      "rank": 43,
+      "year": 1998,
+      "date": 1998,
+      "youtube": "https://www.youtube.com/results?search_query=Korn%20Freak%20on%20a%20Leash%20official%20music%20video",
+      "label": "#43: Korn - Freak on a Leash (1998)"
+    },
+    {
+      "title": "Limp Bizkit - Break Stuff",
+      "artist": "Limp Bizkit",
+      "song": "Break Stuff",
+      "rank": 44,
+      "year": 1999,
+      "date": 1999,
+      "youtube": "https://www.youtube.com/results?search_query=Limp%20Bizkit%20Break%20Stuff%20official%20music%20video",
+      "label": "#44: Limp Bizkit - Break Stuff (1999)"
+    },
+    {
+      "title": "Linkin Park - In the End",
+      "artist": "Linkin Park",
+      "song": "In the End",
+      "rank": 45,
+      "year": 2001,
+      "date": 2001,
+      "youtube": "https://www.youtube.com/results?search_query=Linkin%20Park%20In%20the%20End%20official%20music%20video",
+      "label": "#45: Linkin Park - In the End (2001)"
+    },
+    {
+      "title": "System of a Down - Chop Suey!",
+      "artist": "System of a Down",
+      "song": "Chop Suey!",
+      "rank": 46,
+      "year": 2001,
+      "date": 2001,
+      "youtube": "https://www.youtube.com/results?search_query=System%20of%20a%20Down%20Chop%20Suey!%20official%20music%20video",
+      "label": "#46: System of a Down - Chop Suey! (2001)"
+    },
+    {
+      "title": "Rage Against the Machine - Killing in the Name",
+      "artist": "Rage Against the Machine",
+      "song": "Killing in the Name",
+      "rank": 47,
+      "year": 1992,
+      "date": 1992,
+      "youtube": "https://www.youtube.com/results?search_query=Rage%20Against%20the%20Machine%20Killing%20in%20the%20Name%20official%20music%20video",
+      "label": "#47: Rage Against the Machine - Killing in the Name (1992)"
+    },
+    {
+      "title": "Jane's Addiction - Jane Says",
+      "artist": "Jane's Addiction",
+      "song": "Jane Says",
+      "rank": 48,
+      "year": 1990,
+      "date": 1990,
+      "youtube": "https://www.youtube.com/results?search_query=Jane's%20Addiction%20Jane%20Says%20official%20music%20video",
+      "label": "#48: Jane's Addiction - Jane Says (1990)"
+    },
+    {
+      "title": "Pearl Jam - Jeremy",
+      "artist": "Pearl Jam",
+      "song": "Jeremy",
+      "rank": 49,
+      "year": 1991,
+      "date": 1991,
+      "youtube": "https://www.youtube.com/results?search_query=Pearl%20Jam%20Jeremy%20official%20music%20video",
+      "label": "#49: Pearl Jam - Jeremy (1991)"
+    },
+    {
+      "title": "Stone Temple Pilots - Interstate Love Song",
+      "artist": "Stone Temple Pilots",
+      "song": "Interstate Love Song",
+      "rank": 50,
+      "year": 1994,
+      "date": 1994,
+      "youtube": "https://www.youtube.com/results?search_query=Stone%20Temple%20Pilots%20Interstate%20Love%20Song%20official%20music%20video",
+      "label": "#50: Stone Temple Pilots - Interstate Love Song (1994)"
+    },
+    {
+      "title": "Weezer - Buddy Holly",
+      "artist": "Weezer",
+      "song": "Buddy Holly",
+      "rank": 51,
+      "year": 1994,
+      "date": 1994,
+      "youtube": "https://www.youtube.com/results?search_query=Weezer%20Buddy%20Holly%20official%20music%20video",
+      "label": "#51: Weezer - Buddy Holly (1994)"
+    },
+    {
+      "title": "Beck - Loser",
+      "artist": "Beck",
+      "song": "Loser",
+      "rank": 52,
+      "year": 1993,
+      "date": 1993,
+      "youtube": "https://www.youtube.com/results?search_query=Beck%20Loser%20official%20music%20video",
+      "label": "#52: Beck - Loser (1993)"
+    },
+    {
+      "title": "Blind Melon - No Rain",
+      "artist": "Blind Melon",
+      "song": "No Rain",
+      "rank": 53,
+      "year": 1992,
+      "date": 1992,
+      "youtube": "https://www.youtube.com/results?search_query=Blind%20Melon%20No%20Rain%20official%20music%20video",
+      "label": "#53: Blind Melon - No Rain (1992)"
+    },
+    {
+      "title": "Sublime - Santeria",
+      "artist": "Sublime",
+      "song": "Santeria",
+      "rank": 54,
+      "year": 1996,
+      "date": 1996,
+      "youtube": "https://www.youtube.com/results?search_query=Sublime%20Santeria%20official%20music%20video",
+      "label": "#54: Sublime - Santeria (1996)"
+    },
+    {
+      "title": "Bush - Glycerine",
+      "artist": "Bush",
+      "song": "Glycerine",
+      "rank": 55,
+      "year": 1994,
+      "date": 1994,
+      "youtube": "https://www.youtube.com/results?search_query=Bush%20Glycerine%20official%20music%20video",
+      "label": "#55: Bush - Glycerine (1994)"
+    },
+    {
+      "title": "Collective Soul - Shine",
+      "artist": "Collective Soul",
+      "song": "Shine",
+      "rank": 56,
+      "year": 1993,
+      "date": 1993,
+      "youtube": "https://www.youtube.com/results?search_query=Collective%20Soul%20Shine%20official%20music%20video",
+      "label": "#56: Collective Soul - Shine (1993)"
+    },
+    {
+      "title": "Live - Lightning Crashes",
+      "artist": "Live",
+      "song": "Lightning Crashes",
+      "rank": 57,
+      "year": 1994,
+      "date": 1994,
+      "youtube": "https://www.youtube.com/results?search_query=Live%20Lightning%20Crashes%20official%20music%20video",
+      "label": "#57: Live - Lightning Crashes (1994)"
+    },
+    {
+      "title": "Candlebox - Far Behind",
+      "artist": "Candlebox",
+      "song": "Far Behind",
+      "rank": 58,
+      "year": 1993,
+      "date": 1993,
+      "youtube": "https://www.youtube.com/results?search_query=Candlebox%20Far%20Behind%20official%20music%20video",
+      "label": "#58: Candlebox - Far Behind (1993)"
+    },
+    {
+      "title": "Toadies - Possum Kingdom",
+      "artist": "Toadies",
+      "song": "Possum Kingdom",
+      "rank": 59,
+      "year": 1994,
+      "date": 1994,
+      "youtube": "https://www.youtube.com/results?search_query=Toadies%20Possum%20Kingdom%20official%20music%20video",
+      "label": "#59: Toadies - Possum Kingdom (1994)"
+    },
+    {
+      "title": "Local H - Bound for the Floor",
+      "artist": "Local H",
+      "song": "Bound for the Floor",
+      "rank": 60,
+      "year": 1996,
+      "date": 1996,
+      "youtube": "https://www.youtube.com/results?search_query=Local%20H%20Bound%20for%20the%20Floor%20official%20music%20video",
+      "label": "#60: Local H - Bound for the Floor (1996)"
+    },
+    {
+      "title": "Blondie - Heart of Glass",
+      "artist": "Blondie",
+      "song": "Heart of Glass",
+      "rank": 61,
+      "year": 1978,
+      "date": 1978,
+      "youtube": "https://www.youtube.com/results?search_query=Blondie%20Heart%20of%20Glass%20official%20music%20video",
+      "label": "#61: Blondie - Heart of Glass (1978)",
+      "description": "Simple but effective - panning across nighttime cityscape with Debbie Harry's iconic bored-chic stares under mirrorball glow",
+      "era": "1970s",
+      "source": "American Songwriter - 7 Iconic Music Videos of the 1970s"
+    },
+    {
+      "title": "Paul McCartney and Wings - Silly Love Songs",
+      "artist": "Paul McCartney and Wings",
+      "song": "Silly Love Songs",
+      "rank": 62,
+      "year": 1976,
+      "date": 1976,
+      "youtube": "https://www.youtube.com/results?search_query=Paul%20McCartney%20and%20Wings%20Silly%20Love%20Songs%20official%20music%20video",
+      "label": "#62: Paul McCartney and Wings - Silly Love Songs (1976)",
+      "description": "Intimate behind-the-scenes footage flashing between on and off stage clips",
+      "era": "1970s",
+      "source": "American Songwriter - 7 Iconic Music Videos of the 1970s"
+    },
+    {
+      "title": "Gloria Gaynor - I Will Survive",
+      "artist": "Gloria Gaynor",
+      "song": "I Will Survive",
+      "rank": 63,
+      "year": 1979,
+      "date": 1979,
+      "youtube": "https://www.youtube.com/results?search_query=Gloria%20Gaynor%20I%20Will%20Survive%20official%20music%20video",
+      "label": "#63: Gloria Gaynor - I Will Survive (1979)",
+      "description": "Focuses on Gaynor's shadowy face with roller-disco dancer grooving to the classic - very '70s",
+      "era": "1970s",
+      "source": "American Songwriter - 7 Iconic Music Videos of the 1970s"
+    },
+    {
+      "title": "David Bowie - Life on Mars?",
+      "artist": "David Bowie",
+      "song": "Life on Mars?",
+      "rank": 64,
+      "year": 1973,
+      "date": 1973,
+      "youtube": "https://www.youtube.com/results?search_query=David%20Bowie%20Life%20on%20Mars%3F%20official%20music%20video",
+      "label": "#64: David Bowie - Life on Mars? (1973)",
+      "description": "Iconic Bowie in blue suit and matching eyeshadow with flaming orange mullet - unforgettably alien",
+      "era": "1970s",
+      "source": "American Songwriter - 7 Iconic Music Videos of the 1970s"
+    },
+    {
+      "title": "Bee Gees - Stayin' Alive",
+      "artist": "Bee Gees",
+      "song": "Stayin' Alive",
+      "rank": 65,
+      "year": 1977,
+      "date": 1977,
+      "youtube": "https://www.youtube.com/results?search_query=Bee%20Gees%20Stayin'%20Alive%20official%20music%20video",
+      "label": "#65: Bee Gees - Stayin' Alive (1977)",
+      "description": "The Gibb brothers power walking through deserted streets - corny but lovable disco accompaniment",
+      "era": "1970s",
+      "source": "American Songwriter - 7 Iconic Music Videos of the 1970s"
+    },
+    {
+      "title": "Queen - Bohemian Rhapsody",
+      "artist": "Queen",
+      "song": "Bohemian Rhapsody",
+      "rank": 66,
+      "year": 1975,
+      "date": 1975,
+      "youtube": "https://www.youtube.com/results?search_query=Queen%20Bohemian%20Rhapsody%20official%20music%20video",
+      "label": "#66: Queen - Bohemian Rhapsody (1975)",
+      "description": "Theatrical mini-film opening on haunting visages, dissolving into brilliant stage performance",
+      "era": "1970s",
+      "source": "American Songwriter - 7 Iconic Music Videos of the 1970s"
+    },
+    {
+      "title": "ABBA - Mamma Mia",
+      "artist": "ABBA",
+      "song": "Mamma Mia",
+      "rank": 67,
+      "year": 1974,
+      "date": 1974,
+      "youtube": "https://www.youtube.com/results?search_query=ABBA%20Mamma%20Mia%20official%20music%20video",
+      "label": "#67: ABBA - Mamma Mia (1974)",
+      "description": "Glimmering pop power with kooky camera angles and close-ups - toned down but punchy ABBA",
+      "era": "1970s",
+      "source": "American Songwriter - 7 Iconic Music Videos of the 1970s"
+    }
+  ],
+  "sources": [
+    "https://top40weekly.com/best-music-videos-of-all-time/",
+    "https://americansongwriter.com/7-iconic-music-videos-of-the-1970s/"
+  ],
+  "lastUpdated": "2025-06-09T21:57:16.454Z",
+  "stats": {
+    "totalVideos": 67,
+    "by1970s": 7,
+    "by1980s": 3,
+    "by1990s": 39,
+    "by2000s": 13,
+    "by2010s": 5,
+    "by2020s": 0
+  }
+}

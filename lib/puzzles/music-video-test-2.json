@@ -1,0 +1,70 @@
+{
+  "slug": "music-video-test-2",
+  "topic": "Music Video Test 2",
+  "category": "Entertainment",
+  "subcategory": "Music",
+  "description": "Classic music videos and performances from 1963-1968. Features real YouTube video titles with verified release dates and no date spoilers.",
+  "hideDates": false,
+  "cards": [
+    {
+      "id": 17,
+      "label": "The Beatles - I Want To Hold Your Hand/",
+      "date": 1963,
+      "youtube": "https://www.youtube.com/watch?v=otrH5hxJ2GE"
+    },
+    {
+      "id": 18,
+      "label": "The Beatles - This Boy",
+      "date": 1963,
+      "youtube": "https://www.youtube.com/watch?v=lW5D7HpYhBU"
+    },
+    {
+      "id": 16,
+      "label": "The Beatles - Words Of Love",
+      "date": 1964,
+      "youtube": "https://www.youtube.com/watch?v=r5nARZKS-AY"
+    },
+    {
+      "id": 19,
+      "label": "the Beach Boys - California Girls",
+      "date": 1965,
+      "youtube": "https://www.youtube.com/watch?v=DJ1UqDnY7as"
+    },
+    {
+      "id": 12,
+      "label": "The Beatles - Paperback Writer",
+      "date": 1966,
+      "youtube": "https://www.youtube.com/watch?v=yYvkICbTZIQ"
+    },
+    {
+      "id": 20,
+      "label": "The Beach boys - Sloop John B",
+      "date": 1966,
+      "youtube": "https://www.youtube.com/watch?v=09dQmeB_NgU"
+    },
+    {
+      "id": 11,
+      "label": "The Beatles - Hello, Goodbye",
+      "date": 1967,
+      "youtube": "https://www.youtube.com/watch?v=rblYSKz_VnI"
+    },
+    {
+      "id": 14,
+      "label": "The Beatles - Penny Lane",
+      "date": 1967,
+      "youtube": "https://www.youtube.com/watch?v=S-rB0pHI9fU"
+    },
+    {
+      "id": 15,
+      "label": "The Beatles - Strawberry Fields Forever",
+      "date": 1967,
+      "youtube": "https://www.youtube.com/watch?v=HtUH9z_Oey8"
+    },
+    {
+      "id": 13,
+      "label": "The Beatles - Revolution",
+      "date": 1968,
+      "youtube": "https://www.youtube.com/watch?v=BGLGzRXY5Bw"
+    }
+  ]
+}

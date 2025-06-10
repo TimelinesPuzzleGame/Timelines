@@ -1,0 +1,74 @@
+// This file has been merged into greatest-music-videos-all-time-expanded.json
+// Original content:
+/*
+{
+  "slug": "music-playlist-test-6",
+  "topic": "Music Playlist Test 6",
+  "category": "Entertainment",
+  "subcategory": "Music",
+  "description": "Music videos and performances from 2010-2018. Features real YouTube video titles with verified release dates and no date spoilers.",
+  "hideDates": false,
+  "cards": [
+    {
+      "id": 49,
+      "label": "ROSALÍA - MALAMENTE  (Cap.1: Augurio)",
+      "date": 2018,
+      "youtube": "https://www.youtube.com/watch?v=Rht7rBHuXW8"
+    },
+    {
+      "id": 51,
+      "label": "JAY - Z - The Story of O.J.",
+      "date": 2017,
+      "youtube": "https://www.youtube.com/watch?v=RM7lw0Ovzq0"
+    },
+    {
+      "id": 52,
+      "label": "Flying Lotus - Never Catch Me ft. Kendrick Lamar",
+      "date": 2014,
+      "youtube": "https://www.youtube.com/watch?v=2lXD0vv-ds8"
+    },
+    {
+      "id": 53,
+      "label": "Best Coast - Our Deal (Music Video)",
+      "date": 2012,
+      "youtube": "https://www.youtube.com/watch?v=fvUtidZkqw4"
+    },
+    {
+      "id": 54,
+      "label": "Young Thug - Wyclef Jean",
+      "date": 2016,
+      "youtube": "https://www.youtube.com/watch?v=_9L3j-lVLwk"
+    },
+    {
+      "id": 55,
+      "label": "Nicki Minaj - Stupid Hoe (Explicit)",
+      "date": 2012,
+      "youtube": "https://www.youtube.com/watch?v=T6j4f8cHBIM"
+    },
+    {
+      "id": 56,
+      "label": "Troye Sivan - My My My!",
+      "date": 2018,
+      "youtube": "https://www.youtube.com/watch?v=k5TqNsr6YuQ"
+    },
+    {
+      "id": 57,
+      "label": "Ozuna - Se Preparó (Video Oficial) | Odisea",
+      "date": 2017,
+      "youtube": "https://www.youtube.com/watch?v=KWGrPNqz4uc"
+    },
+    {
+      "id": 58,
+      "label": "CARTERS - APESHIT",
+      "date": 2018,
+      "youtube": "https://www.youtube.com/watch?v=kbMqWXnpXcA"
+    },
+    {
+      "id": 50,
+      "label": "Juice WRLD - Lucid Dreams",
+      "date": 2018,
+      "youtube": "https://www.youtube.com/watch?v=mzB1VGEGcSU"
+    }
+  ]
+}
+*/

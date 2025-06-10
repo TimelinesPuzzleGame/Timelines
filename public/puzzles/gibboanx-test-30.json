@@ -1,0 +1,432 @@
+{
+  "slug": "gibboanx-test-30",
+  "topic": "Gibboanx Test Puzzle 30",
+  "category": "Entertainment",
+  "subcategory": "Movies/TV",
+  "hideDates": false,
+  "showTooltips": true,
+  "variantSystem": {
+    "enabled": true,
+    "totalScenes": 10,
+    "selectionStrategy": "random_per_round"
+  },
+  "cards": [
+    {
+      "id": "gibboanx-test-30-1",
+      "label": "After Hours",
+      "date": 1985,
+      "year": 1985,
+      "youtube": "https://www.youtube.com/watch?v=vpZ7C0jU8n8&t=0s&end=120s",
+      "duration": 432,
+      "variants": [
+        {
+          "id": "vpZ7C0jU8n8-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=vpZ7C0jU8n8&t=0s&end=120s",
+          "sceneDescription": "After Hours - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "vpZ7C0jU8n8-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=vpZ7C0jU8n8&t=120s&end=240s",
+          "sceneDescription": "After Hours - Part 2 (2:00 - 4:00)",
+          "startTime": 120,
+          "endTime": 240
+        },
+        {
+          "id": "vpZ7C0jU8n8-variant-2",
+          "youtube": "https://www.youtube.com/watch?v=vpZ7C0jU8n8&t=240s&end=360s",
+          "sceneDescription": "After Hours - Part 3 (4:00 - 6:00)",
+          "startTime": 240,
+          "endTime": 360
+        },
+        {
+          "id": "vpZ7C0jU8n8-variant-3",
+          "youtube": "https://www.youtube.com/watch?v=vpZ7C0jU8n8&t=360s&end=432s",
+          "sceneDescription": "After Hours - Part 4 (6:00 - 7:12)",
+          "startTime": 360,
+          "endTime": 432
+        }
+      ],
+      "variantCount": 4,
+      "tooltip": {
+        "description": "After Hours (1985) - Quality Score: 40/100",
+        "genre": "Classic Film",
+        "crawlerScore": 40,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 0,
+          "resolutionQuality": 0,
+          "popularityFactor": 10,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:35:15.675Z"
+      },
+      "movie": "After Hours"
+    },
+    {
+      "id": "gibboanx-test-30-2",
+      "label": "Man on the Moon",
+      "date": 1999,
+      "year": 1999,
+      "youtube": "https://www.youtube.com/watch?v=0Gfq8tKSAYA&t=0s&end=120s",
+      "duration": 296,
+      "variants": [
+        {
+          "id": "0Gfq8tKSAYA-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=0Gfq8tKSAYA&t=0s&end=120s",
+          "sceneDescription": "Man on the Moon - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "0Gfq8tKSAYA-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=0Gfq8tKSAYA&t=120s&end=296s",
+          "sceneDescription": "Man on the Moon - Part 2 (2:00 - 4:56)",
+          "startTime": 120,
+          "endTime": 296
+        }
+      ],
+      "variantCount": 2,
+      "tooltip": {
+        "description": "Man on the Moon (1999) - Quality Score: 45/100",
+        "genre": "Classic Film",
+        "crawlerScore": 45,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:35:15.675Z"
+      },
+      "movie": "Man on the Moon"
+    },
+    {
+      "id": "gibboanx-test-30-3",
+      "label": "Troll Hunter",
+      "date": 2010,
+      "year": 2010,
+      "youtube": "https://www.youtube.com/watch?v=ReXj717GqXo&t=0s&end=32s",
+      "duration": 32,
+      "variants": [
+        {
+          "id": "ReXj717GqXo-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=ReXj717GqXo&t=0s&end=32s",
+          "sceneDescription": "Troll Hunter - Full Scene (0:00 - 0:32)",
+          "startTime": 0,
+          "endTime": 32
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Troll Hunter (2010) - Quality Score: 35/100",
+        "genre": "Classic Film",
+        "crawlerScore": 35,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 0,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:35:15.675Z"
+      },
+      "movie": "Troll Hunter"
+    },
+    {
+      "id": "gibboanx-test-30-4",
+      "label": "Monument Ave.",
+      "date": 1998,
+      "year": 1998,
+      "youtube": "https://www.youtube.com/watch?v=ijwKT-pZ2yk&t=0s&end=168s",
+      "duration": 168,
+      "variants": [
+        {
+          "id": "ijwKT-pZ2yk-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=ijwKT-pZ2yk&t=0s&end=168s",
+          "sceneDescription": "Monument Ave. - Part 1 (0:00 - 2:48)",
+          "startTime": 0,
+          "endTime": 168
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Monument Ave. (1998) - Quality Score: 42/100",
+        "genre": "Classic Film",
+        "crawlerScore": 42,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 2,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:35:15.675Z"
+      },
+      "movie": "Monument Ave."
+    },
+    {
+      "id": "gibboanx-test-30-5",
+      "label": "Heavenly Creatures",
+      "date": 1994,
+      "year": 1994,
+      "youtube": "https://www.youtube.com/watch?v=zBXCSSdb-B4&t=0s&end=31s",
+      "duration": 31,
+      "variants": [
+        {
+          "id": "zBXCSSdb-B4-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=zBXCSSdb-B4&t=0s&end=31s",
+          "sceneDescription": "Heavenly Creatures - Full Scene (0:00 - 0:31)",
+          "startTime": 0,
+          "endTime": 31
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Heavenly Creatures (1994) - Quality Score: 42/100",
+        "genre": "Classic Film",
+        "crawlerScore": 42,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 2,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:35:15.675Z"
+      },
+      "movie": "Heavenly Creatures"
+    },
+    {
+      "id": "gibboanx-test-30-6",
+      "label": "Monsoon Wedding",
+      "date": 2001,
+      "year": 2001,
+      "youtube": "https://www.youtube.com/watch?v=AUtVoPxEHTI&t=0s&end=120s",
+      "duration": 825,
+      "variants": [
+        {
+          "id": "AUtVoPxEHTI-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=AUtVoPxEHTI&t=0s&end=120s",
+          "sceneDescription": "Monsoon Wedding - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "AUtVoPxEHTI-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=AUtVoPxEHTI&t=120s&end=240s",
+          "sceneDescription": "Monsoon Wedding - Part 2 (2:00 - 4:00)",
+          "startTime": 120,
+          "endTime": 240
+        },
+        {
+          "id": "AUtVoPxEHTI-variant-2",
+          "youtube": "https://www.youtube.com/watch?v=AUtVoPxEHTI&t=240s&end=360s",
+          "sceneDescription": "Monsoon Wedding - Part 3 (4:00 - 6:00)",
+          "startTime": 240,
+          "endTime": 360
+        },
+        {
+          "id": "AUtVoPxEHTI-variant-3",
+          "youtube": "https://www.youtube.com/watch?v=AUtVoPxEHTI&t=360s&end=480s",
+          "sceneDescription": "Monsoon Wedding - Part 4 (6:00 - 8:00)",
+          "startTime": 360,
+          "endTime": 480
+        },
+        {
+          "id": "AUtVoPxEHTI-variant-4",
+          "youtube": "https://www.youtube.com/watch?v=AUtVoPxEHTI&t=480s&end=600s",
+          "sceneDescription": "Monsoon Wedding - Part 5 (8:00 - 10:00)",
+          "startTime": 480,
+          "endTime": 600
+        },
+        {
+          "id": "AUtVoPxEHTI-variant-5",
+          "youtube": "https://www.youtube.com/watch?v=AUtVoPxEHTI&t=600s&end=720s",
+          "sceneDescription": "Monsoon Wedding - Part 6 (10:00 - 12:00)",
+          "startTime": 600,
+          "endTime": 720
+        },
+        {
+          "id": "AUtVoPxEHTI-variant-6",
+          "youtube": "https://www.youtube.com/watch?v=AUtVoPxEHTI&t=720s&end=825s",
+          "sceneDescription": "Monsoon Wedding - Part 7 (12:00 - 13:45)",
+          "startTime": 720,
+          "endTime": 825
+        }
+      ],
+      "variantCount": 7,
+      "tooltip": {
+        "description": "Monsoon Wedding (2001) - Quality Score: 40/100",
+        "genre": "Classic Film",
+        "crawlerScore": 40,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 0,
+          "resolutionQuality": 0,
+          "popularityFactor": 10,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:35:15.675Z"
+      },
+      "movie": "Monsoon Wedding"
+    },
+    {
+      "id": "gibboanx-test-30-7",
+      "label": "The Sweet Hereafter",
+      "date": 1997,
+      "year": 1997,
+      "youtube": "https://www.youtube.com/watch?v=DFRkHAhnFu0&t=0s&end=59s",
+      "duration": 59,
+      "variants": [
+        {
+          "id": "DFRkHAhnFu0-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=DFRkHAhnFu0&t=0s&end=59s",
+          "sceneDescription": "The Sweet Hereafter - Full Scene (0:00 - 0:59)",
+          "startTime": 0,
+          "endTime": 59
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "The Sweet Hereafter (1997) - Quality Score: 40/100",
+        "genre": "Classic Film",
+        "crawlerScore": 40,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 0,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:35:15.675Z"
+      },
+      "movie": "The Sweet Hereafter"
+    },
+    {
+      "id": "gibboanx-test-30-8",
+      "label": "Cube",
+      "date": 1997,
+      "year": 1997,
+      "youtube": "https://www.youtube.com/watch?v=zs-sPYVKZmw&t=0s&end=39s",
+      "duration": 39,
+      "variants": [
+        {
+          "id": "zs-sPYVKZmw-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=zs-sPYVKZmw&t=0s&end=39s",
+          "sceneDescription": "Cube - Full Scene (0:00 - 0:39)",
+          "startTime": 0,
+          "endTime": 39
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Cube (1997) - Quality Score: 45/100",
+        "genre": "Classic Film",
+        "crawlerScore": 45,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:35:15.675Z"
+      },
+      "movie": "Cube"
+    },
+    {
+      "id": "gibboanx-test-30-9",
+      "label": "Breaking the Waves",
+      "date": 1996,
+      "year": 1996,
+      "youtube": "https://www.youtube.com/watch?v=ueqj7jh6TjQ&t=0s&end=92s",
+      "duration": 92,
+      "variants": [
+        {
+          "id": "ueqj7jh6TjQ-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=ueqj7jh6TjQ&t=0s&end=92s",
+          "sceneDescription": "Breaking the Waves - Full Scene (0:00 - 1:32)",
+          "startTime": 0,
+          "endTime": 92
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Breaking the Waves (1996) - Quality Score: 40/100",
+        "genre": "Classic Film",
+        "crawlerScore": 40,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 0,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:35:15.675Z"
+      },
+      "movie": "Breaking the Waves"
+    },
+    {
+      "id": "gibboanx-test-30-10",
+      "label": "The Man with Two Brains",
+      "date": 1983,
+      "year": 1983,
+      "youtube": "https://www.youtube.com/watch?v=9DhWbs1gLUU&t=0s&end=120s",
+      "duration": 215,
+      "variants": [
+        {
+          "id": "9DhWbs1gLUU-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=9DhWbs1gLUU&t=0s&end=120s",
+          "sceneDescription": "The Man with Two Brains - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "9DhWbs1gLUU-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=9DhWbs1gLUU&t=120s&end=215s",
+          "sceneDescription": "The Man with Two Brains - Part 2 (2:00 - 3:35)",
+          "startTime": 120,
+          "endTime": 215
+        }
+      ],
+      "variantCount": 2,
+      "tooltip": {
+        "description": "The Man with Two Brains (1983) - Quality Score: 35/100",
+        "genre": "Classic Film",
+        "crawlerScore": 35,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 0,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:35:15.675Z"
+      },
+      "movie": "The Man with Two Brains"
+    }
+  ]
+}

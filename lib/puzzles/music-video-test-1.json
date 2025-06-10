@@ -1,0 +1,58 @@
+{
+  "slug": "music-video-test-1",
+  "topic": "Music Video Test 1",
+  "category": "Entertainment",
+  "subcategory": "Music",
+  "description": "Classic music videos and performances from 1954-1975. Features real YouTube video titles with verified release dates and no date spoilers.",
+  "hideDates": false,
+  "cards": [
+    {
+      "id": 1,
+      "label": "Unknown Artist - Bill Haley ＆ His Comets- Rock Around The Clock",
+      "date": 1954,
+      "youtube": "https://www.youtube.com/watch?v=zju6KbP_1xY"
+    },
+    {
+      "id": 3,
+      "label": "Little richard - tutti frutti",
+      "date": 1955,
+      "youtube": "https://www.youtube.com/watch?v=TqL_pinZVp8"
+    },
+    {
+      "id": 2,
+      "label": "Unknown Artist - Elvis Presley \"Don't Be Cruel\" on The Ed Sullivan Show",
+      "date": 1956,
+      "youtube": "https://www.youtube.com/watch?v=COFHGFZxtnY"
+    },
+    {
+      "id": 4,
+      "label": "BUDDY HOLLY - Peggy sue - Vidéo clip",
+      "date": 1957,
+      "youtube": "https://www.youtube.com/watch?v=ku5UeUT7yIQ"
+    },
+    {
+      "id": 8,
+      "label": "Peter, Paul and Mary - Blowing in the Wind",
+      "date": 1963,
+      "youtube": "https://www.youtube.com/watch?v=Ld6fAO4idaI"
+    },
+    {
+      "id": 9,
+      "label": "The Beatles - Hey Bulldog",
+      "date": 1969,
+      "youtube": "https://www.youtube.com/watch?v=M4vbJQ-MrKo"
+    },
+    {
+      "id": 10,
+      "label": "The Beatles - Don't Let Me Down",
+      "date": 1969,
+      "youtube": "https://www.youtube.com/watch?v=NCtzkaL2t_Y"
+    },
+    {
+      "id": 7,
+      "label": "The Frankie Valli & The Four Seasons - Who Loves You",
+      "date": 1975,
+      "youtube": "https://www.youtube.com/watch?v=-KtYgOM62fk"
+    }
+  ]
+}

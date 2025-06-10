@@ -1,0 +1,74 @@
+// This file has been merged into greatest-music-videos-all-time-expanded.json
+// Original content:
+/*
+{
+  "slug": "music-playlist-test-16",
+  "topic": "Music Playlist Test 16",
+  "category": "Entertainment",
+  "subcategory": "Music",
+  "description": "Music videos and performances from 1985-2010. Features real YouTube video titles with verified release dates and no date spoilers.",
+  "hideDates": false,
+  "cards": [
+    {
+      "id": 162,
+      "label": "U2 - Pride (In The Name Of Love)",
+      "date": 1985,
+      "youtube": "https://www.youtube.com/watch?v=LHcP4MWABGY"
+    },
+    {
+      "id": 170,
+      "label": "Foreigner - 'I Want To Know What Love Is'",
+      "date": 1985,
+      "youtube": "https://www.youtube.com/watch?v=raNGeq3_DtM"
+    },
+    {
+      "id": 163,
+      "label": "Bryan Adams - Summer Of '69",
+      "date": 2010,
+      "youtube": "https://www.youtube.com/watch?v=eFjjO_lhf9c"
+    },
+    {
+      "id": 164,
+      "label": "Simply Red - If You Don't Know Me By Now",
+      "date": 2010,
+      "youtube": "https://www.youtube.com/watch?v=zTcu7MCtuTs"
+    },
+    {
+      "id": 165,
+      "label": "Europe - Carrie",
+      "date": 2010,
+      "youtube": "https://www.youtube.com/watch?v=KmWE9UBFwtY"
+    },
+    {
+      "id": 166,
+      "label": "Air Supply - All Out Of Love",
+      "date": 2010,
+      "youtube": "https://www.youtube.com/watch?v=JWdZEumNRmI"
+    },
+    {
+      "id": 167,
+      "label": "Patrick Hernandez - Born to Be Alive - Official Video (Clip Officiel)",
+      "date": 2010,
+      "youtube": "https://www.youtube.com/watch?v=9UaJAnnipkY"
+    },
+    {
+      "id": 168,
+      "label": "RUN DMC - It's Tricky",
+      "date": 2010,
+      "youtube": "https://www.youtube.com/watch?v=l-O5IHVhWj0"
+    },
+    {
+      "id": 169,
+      "label": "RUN DMC - Walk This Way ft. Aerosmith",
+      "date": 2010,
+      "youtube": "https://www.youtube.com/watch?v=4B_UYYPb-Gk"
+    },
+    {
+      "id": 171,
+      "label": "\"Weird Al\" Yankovic - Fat",
+      "date": 2010,
+      "youtube": "https://www.youtube.com/watch?v=t2mU6USTBRE"
+    }
+  ]
+}
+*/

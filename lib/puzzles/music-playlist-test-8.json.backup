@@ -1,0 +1,74 @@
+// This file has been merged into greatest-music-videos-all-time-expanded.json
+// Original content:
+/*
+{
+  "slug": "music-playlist-test-8",
+  "topic": "Music Playlist Test 8",
+  "category": "Entertainment",
+  "subcategory": "Music",
+  "description": "Music videos and performances from 2010-2015. Features real YouTube video titles with verified release dates and no date spoilers.",
+  "hideDates": false,
+  "cards": [
+    {
+      "id": 71,
+      "label": "Cardi B, Bad Bunny & J Balvin - I Like It",
+      "date": 2018,
+      "youtube": "https://www.youtube.com/watch?v=xTlNMmZKwpA"
+    },
+    {
+      "id": 72,
+      "label": "Residente - Desencuentro ft. Soko",
+      "date": 2017,
+      "youtube": "https://www.youtube.com/watch?v=5xGqUompVVQ"
+    },
+    {
+      "id": 73,
+      "label": "Lizzo - Juice",
+      "date": 2019,
+      "youtube": "https://www.youtube.com/watch?v=XaCrQL_8eMY"
+    },
+    {
+      "id": 74,
+      "label": "Jenny Hval - Conceptual Romance",
+      "date": 2015,
+      "youtube": "https://www.youtube.com/watch?v=EY7eLAVrfK4"
+    },
+    {
+      "id": 75,
+      "label": "Avicii - Silhouettes",
+      "date": 2012,
+      "youtube": "https://www.youtube.com/watch?v=6VJBBUqr1wM"
+    },
+    {
+      "id": 76,
+      "label": "Solange - Don't Touch My Hair (Video) ft. Sampha",
+      "date": 2016,
+      "youtube": "https://www.youtube.com/watch?v=YTtrnDbOQAU"
+    },
+    {
+      "id": 77,
+      "label": "Scissor Sisters - Let's Have A Kiki - Instructional Video",
+      "date": 2012,
+      "youtube": "https://www.youtube.com/watch?v=eGCD4xb-Tr8"
+    },
+    {
+      "id": 78,
+      "label": "Grimes - Kill V. Maim",
+      "date": 2015,
+      "youtube": "https://www.youtube.com/watch?v=c2EJMd7ZN7w"
+    },
+    {
+      "id": 80,
+      "label": "Beyoncé - Countdown",
+      "date": 2011,
+      "youtube": "https://www.youtube.com/watch?v=2XY3AvVgDns"
+    },
+    {
+      "id": 79,
+      "label": "Frank Ocean - Pyramids",
+      "date": 2012,
+      "youtube": "https://www.youtube.com/watch?v=tQQzUYwijdw"
+    }
+  ]
+}
+*/

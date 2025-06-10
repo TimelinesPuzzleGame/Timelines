@@ -1,0 +1,83 @@
+{
+  "slug": "bttf-puzzle",
+  "topic": "Back to the Future Test Puzzle",
+  "category": "Entertainment",
+  "subcategory": "Movies/TV",
+  "hideDates": false,
+  "showTooltips": true,
+  "variantSystem": {
+    "enabled": true,
+    "totalScenes": 2,
+    "selectionStrategy": "random_per_round"
+  },
+  "cards": [
+    {
+      "id": "bttf-back-to-the-future-part-ii",
+      "label": "Back to the Future Part II",
+      "date": 1989,
+      "year": 1989,
+      "youtube": "https://www.youtube.com/watch?v=124-bZmfbPQ&t=0s&end=35s",
+      "duration": 35,
+      "variants": [
+        {
+          "id": "124-bZmfbPQ-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=124-bZmfbPQ&t=0s&end=35s",
+          "sceneDescription": "Back to the Future Part II - Full Scene (0:00 - 0:35)",
+          "startTime": 0,
+          "endTime": 35
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Back to the Future Part II (1989) - Quality Score: 80/100",
+        "genre": "Classic Film",
+        "crawlerScore": 80,
+        "breakdown": {
+          "titleRelevance": 32,
+          "sceneIndicators": 16,
+          "resolutionQuality": 16,
+          "popularityFactor": 16,
+          "penalties": 0
+        },
+        "source": "bttf-targeted-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T22:50:02.927Z"
+      },
+      "movie": "Back to the Future Part II"
+    },
+    {
+      "id": "bttf-back-to-the-future-part-iii",
+      "label": "Back to the Future Part III",
+      "date": 1990,
+      "year": 1990,
+      "youtube": "https://www.youtube.com/watch?v=2RYb7GHWuL4&t=0s&end=70s",
+      "duration": 70,
+      "variants": [
+        {
+          "id": "2RYb7GHWuL4-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=2RYb7GHWuL4&t=0s&end=70s",
+          "sceneDescription": "Back to the Future Part III - Full Scene (0:00 - 1:10)",
+          "startTime": 0,
+          "endTime": 70
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Back to the Future Part III (1990) - Quality Score: 80/100",
+        "genre": "Classic Film",
+        "crawlerScore": 80,
+        "breakdown": {
+          "titleRelevance": 32,
+          "sceneIndicators": 16,
+          "resolutionQuality": 16,
+          "popularityFactor": 16,
+          "penalties": 0
+        },
+        "source": "bttf-targeted-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T22:50:13.015Z"
+      },
+      "movie": "Back to the Future Part III"
+    }
+  ]
+}

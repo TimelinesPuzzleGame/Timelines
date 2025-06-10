@@ -1,0 +1,390 @@
+{
+  "slug": "gibboanx-test-16",
+  "topic": "Gibboanx Test Puzzle 16",
+  "category": "Entertainment",
+  "subcategory": "Movies/TV",
+  "hideDates": false,
+  "showTooltips": true,
+  "variantSystem": {
+    "enabled": true,
+    "totalScenes": 10,
+    "selectionStrategy": "random_per_round"
+  },
+  "cards": [
+    {
+      "id": "gibboanx-test-16-1",
+      "label": "Pirates of the Caribbean: Dead Man's Chest",
+      "date": 2006,
+      "year": 2006,
+      "youtube": "https://www.youtube.com/watch?v=NebWPNung-s&t=0s&end=172s",
+      "duration": 172,
+      "variants": [
+        {
+          "id": "NebWPNung-s-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=NebWPNung-s&t=0s&end=172s",
+          "sceneDescription": "Pirates of the Caribbean: Dead Man's Chest - Part 1 (0:00 - 2:52)",
+          "startTime": 0,
+          "endTime": 172
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Pirates of the Caribbean: Dead Man's Chest (2006) - Quality Score: 50/100",
+        "genre": "Classic Film",
+        "crawlerScore": 50,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 0,
+          "resolutionQuality": 10,
+          "popularityFactor": 10,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:21:53.481Z"
+      },
+      "movie": "Pirates of the Caribbean: Dead Man's Chest"
+    },
+    {
+      "id": "gibboanx-test-16-2",
+      "label": "The Big Sleep",
+      "date": 1946,
+      "year": 1946,
+      "youtube": "https://www.youtube.com/watch?v=3t8H07c30io&t=0s&end=78s",
+      "duration": 78,
+      "variants": [
+        {
+          "id": "3t8H07c30io-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=3t8H07c30io&t=0s&end=78s",
+          "sceneDescription": "The Big Sleep - Full Scene (0:00 - 1:18)",
+          "startTime": 0,
+          "endTime": 78
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "The Big Sleep (1946) - Quality Score: 55/100",
+        "genre": "Classic Film",
+        "crawlerScore": 55,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 20,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:21:53.481Z"
+      },
+      "movie": "The Big Sleep"
+    },
+    {
+      "id": "gibboanx-test-16-3",
+      "label": "Star Wars: Episode VI - Return of the Jedi",
+      "date": 1983,
+      "year": 1983,
+      "youtube": "https://www.youtube.com/watch?v=qQB2NXfJev0&t=0s&end=120s",
+      "duration": 184,
+      "variants": [
+        {
+          "id": "qQB2NXfJev0-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=qQB2NXfJev0&t=0s&end=120s",
+          "sceneDescription": "Star Wars: Episode VI - Return of the Jedi - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "qQB2NXfJev0-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=qQB2NXfJev0&t=120s&end=184s",
+          "sceneDescription": "Star Wars: Episode VI - Return of the Jedi - Part 2 (2:00 - 3:04)",
+          "startTime": 120,
+          "endTime": 184
+        }
+      ],
+      "variantCount": 2,
+      "tooltip": {
+        "description": "Star Wars: Episode VI - Return of the Jedi (1983) - Quality Score: 40/100",
+        "genre": "Classic Film",
+        "crawlerScore": 40,
+        "breakdown": {
+          "titleRelevance": 20,
+          "sceneIndicators": 10,
+          "resolutionQuality": 10,
+          "popularityFactor": 10,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:21:53.481Z"
+      },
+      "movie": "Star Wars: Episode VI - Return of the Jedi"
+    },
+    {
+      "id": "gibboanx-test-16-4",
+      "label": "Babel",
+      "date": 2006,
+      "year": 2006,
+      "youtube": "https://www.youtube.com/watch?v=BV3WtUz2-GM&t=0s&end=120s",
+      "duration": 379,
+      "variants": [
+        {
+          "id": "BV3WtUz2-GM-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=BV3WtUz2-GM&t=0s&end=120s",
+          "sceneDescription": "Babel - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "BV3WtUz2-GM-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=BV3WtUz2-GM&t=120s&end=240s",
+          "sceneDescription": "Babel - Part 2 (2:00 - 4:00)",
+          "startTime": 120,
+          "endTime": 240
+        },
+        {
+          "id": "BV3WtUz2-GM-variant-2",
+          "youtube": "https://www.youtube.com/watch?v=BV3WtUz2-GM&t=240s&end=379s",
+          "sceneDescription": "Babel - Part 3 (4:00 - 6:19)",
+          "startTime": 240,
+          "endTime": 379
+        }
+      ],
+      "variantCount": 3,
+      "tooltip": {
+        "description": "Babel (2006) - Quality Score: 45/100",
+        "genre": "Classic Film",
+        "crawlerScore": 45,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:21:53.481Z"
+      },
+      "movie": "Babel"
+    },
+    {
+      "id": "gibboanx-test-16-5",
+      "label": "White Heat",
+      "date": 1949,
+      "year": 1949,
+      "youtube": "https://www.youtube.com/watch?v=OjzKiEs_pHI&t=0s&end=104s",
+      "duration": 104,
+      "variants": [
+        {
+          "id": "OjzKiEs_pHI-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=OjzKiEs_pHI&t=0s&end=104s",
+          "sceneDescription": "White Heat - Full Scene (0:00 - 1:44)",
+          "startTime": 0,
+          "endTime": 104
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "White Heat (1949) - Quality Score: 35/100",
+        "genre": "Classic Film",
+        "crawlerScore": 35,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 0,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:21:53.481Z"
+      },
+      "movie": "White Heat"
+    },
+    {
+      "id": "gibboanx-test-16-6",
+      "label": "Chasing Amy",
+      "date": 1997,
+      "year": 1997,
+      "youtube": "https://www.youtube.com/watch?v=ZgYVgKNotVc&t=0s&end=120s",
+      "duration": 226,
+      "variants": [
+        {
+          "id": "ZgYVgKNotVc-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=ZgYVgKNotVc&t=0s&end=120s",
+          "sceneDescription": "Chasing Amy - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "ZgYVgKNotVc-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=ZgYVgKNotVc&t=120s&end=226s",
+          "sceneDescription": "Chasing Amy - Part 2 (2:00 - 3:46)",
+          "startTime": 120,
+          "endTime": 226
+        }
+      ],
+      "variantCount": 2,
+      "tooltip": {
+        "description": "Chasing Amy (1997) - Quality Score: 45/100",
+        "genre": "Classic Film",
+        "crawlerScore": 45,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:21:53.481Z"
+      },
+      "movie": "Chasing Amy"
+    },
+    {
+      "id": "gibboanx-test-16-7",
+      "label": "Angela's Ashes",
+      "date": 1999,
+      "year": 1999,
+      "youtube": "https://www.youtube.com/watch?v=tGocV-ORSLc&t=0s&end=28s",
+      "duration": 28,
+      "variants": [
+        {
+          "id": "tGocV-ORSLc-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=tGocV-ORSLc&t=0s&end=28s",
+          "sceneDescription": "Angela's Ashes - Full Scene (0:00 - 0:28)",
+          "startTime": 0,
+          "endTime": 28
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Angela's Ashes (1999) - Quality Score: 42/100",
+        "genre": "Classic Film",
+        "crawlerScore": 42,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 2,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:21:53.481Z"
+      },
+      "movie": "Angela's Ashes"
+    },
+    {
+      "id": "gibboanx-test-16-8",
+      "label": "I'm Not There",
+      "date": 2007,
+      "year": 2007,
+      "youtube": "https://www.youtube.com/watch?v=PjHiAQCQixo&t=0s&end=65s",
+      "duration": 65,
+      "variants": [
+        {
+          "id": "PjHiAQCQixo-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=PjHiAQCQixo&t=0s&end=65s",
+          "sceneDescription": "I'm Not There - Full Scene (0:00 - 1:05)",
+          "startTime": 0,
+          "endTime": 65
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "I'm Not There (2007) - Quality Score: 42/100",
+        "genre": "Classic Film",
+        "crawlerScore": 42,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 2,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:21:53.481Z"
+      },
+      "movie": "I'm Not There"
+    },
+    {
+      "id": "gibboanx-test-16-9",
+      "label": "The Thomas Crown Affair",
+      "date": 1999,
+      "year": 1999,
+      "youtube": "https://www.youtube.com/watch?v=YlDaWl_-Ux4&t=0s&end=173s",
+      "duration": 173,
+      "variants": [
+        {
+          "id": "YlDaWl_-Ux4-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=YlDaWl_-Ux4&t=0s&end=173s",
+          "sceneDescription": "The Thomas Crown Affair - Part 1 (0:00 - 2:53)",
+          "startTime": 0,
+          "endTime": 173
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "The Thomas Crown Affair (1999) - Quality Score: 45/100",
+        "genre": "Classic Film",
+        "crawlerScore": 45,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:21:53.481Z"
+      },
+      "movie": "The Thomas Crown Affair"
+    },
+    {
+      "id": "gibboanx-test-16-10",
+      "label": "Who Framed Roger Rabbit",
+      "date": 1988,
+      "year": 1988,
+      "youtube": "https://www.youtube.com/watch?v=4J_eB_ocTCs&t=0s&end=120s",
+      "duration": 276,
+      "variants": [
+        {
+          "id": "4J_eB_ocTCs-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=4J_eB_ocTCs&t=0s&end=120s",
+          "sceneDescription": "Who Framed Roger Rabbit - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "4J_eB_ocTCs-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=4J_eB_ocTCs&t=120s&end=276s",
+          "sceneDescription": "Who Framed Roger Rabbit - Part 2 (2:00 - 4:36)",
+          "startTime": 120,
+          "endTime": 276
+        }
+      ],
+      "variantCount": 2,
+      "tooltip": {
+        "description": "Who Framed Roger Rabbit (1988) - Quality Score: 35/100",
+        "genre": "Classic Film",
+        "crawlerScore": 35,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 0,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:21:53.481Z"
+      },
+      "movie": "Who Framed Roger Rabbit"
+    }
+  ]
+}

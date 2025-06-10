@@ -1,0 +1,390 @@
+{
+  "slug": "gibboanx-test-10",
+  "topic": "Gibboanx Test Puzzle 10",
+  "category": "Entertainment",
+  "subcategory": "Movies/TV",
+  "hideDates": false,
+  "showTooltips": true,
+  "variantSystem": {
+    "enabled": true,
+    "totalScenes": 10,
+    "selectionStrategy": "random_per_round"
+  },
+  "cards": [
+    {
+      "id": "gibboanx-test-10-1",
+      "label": "Night Watch",
+      "date": 2004,
+      "year": 2004,
+      "youtube": "https://www.youtube.com/watch?v=TDT4nzTrTsk&t=0s&end=120s",
+      "duration": 294,
+      "variants": [
+        {
+          "id": "TDT4nzTrTsk-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=TDT4nzTrTsk&t=0s&end=120s",
+          "sceneDescription": "Night Watch - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "TDT4nzTrTsk-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=TDT4nzTrTsk&t=120s&end=294s",
+          "sceneDescription": "Night Watch - Part 2 (2:00 - 4:54)",
+          "startTime": 120,
+          "endTime": 294
+        }
+      ],
+      "variantCount": 2,
+      "tooltip": {
+        "description": "Night Watch (2004) - Quality Score: 40/100",
+        "genre": "Classic Film",
+        "crawlerScore": 40,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 0,
+          "resolutionQuality": 0,
+          "popularityFactor": 10,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:15:44.945Z"
+      },
+      "movie": "Night Watch"
+    },
+    {
+      "id": "gibboanx-test-10-2",
+      "label": "The Lincoln Lawyer",
+      "date": 2011,
+      "year": 2011,
+      "youtube": "https://www.youtube.com/watch?v=GthLVTB3Fqs&t=0s&end=120s",
+      "duration": 309,
+      "variants": [
+        {
+          "id": "GthLVTB3Fqs-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=GthLVTB3Fqs&t=0s&end=120s",
+          "sceneDescription": "The Lincoln Lawyer - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "GthLVTB3Fqs-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=GthLVTB3Fqs&t=120s&end=240s",
+          "sceneDescription": "The Lincoln Lawyer - Part 2 (2:00 - 4:00)",
+          "startTime": 120,
+          "endTime": 240
+        },
+        {
+          "id": "GthLVTB3Fqs-variant-2",
+          "youtube": "https://www.youtube.com/watch?v=GthLVTB3Fqs&t=240s&end=309s",
+          "sceneDescription": "The Lincoln Lawyer - Part 3 (4:00 - 5:09)",
+          "startTime": 240,
+          "endTime": 309
+        }
+      ],
+      "variantCount": 3,
+      "tooltip": {
+        "description": "The Lincoln Lawyer (2011) - Quality Score: 35/100",
+        "genre": "Classic Film",
+        "crawlerScore": 35,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 0,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:15:44.945Z"
+      },
+      "movie": "The Lincoln Lawyer"
+    },
+    {
+      "id": "gibboanx-test-10-3",
+      "label": "Wanted",
+      "date": 2008,
+      "year": 2008,
+      "youtube": "https://www.youtube.com/watch?v=k-6uO70VyrM&t=0s&end=51s",
+      "duration": 51,
+      "variants": [
+        {
+          "id": "k-6uO70VyrM-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=k-6uO70VyrM&t=0s&end=51s",
+          "sceneDescription": "Wanted - Full Scene (0:00 - 0:51)",
+          "startTime": 0,
+          "endTime": 51
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Wanted (2008) - Quality Score: 55/100",
+        "genre": "Classic Film",
+        "crawlerScore": 55,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 20,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:15:44.945Z"
+      },
+      "movie": "Wanted"
+    },
+    {
+      "id": "gibboanx-test-10-4",
+      "label": "Brokeback Mountain",
+      "date": 2005,
+      "year": 2005,
+      "youtube": "https://www.youtube.com/watch?v=Z2x37ASry6A&t=0s&end=141s",
+      "duration": 141,
+      "variants": [
+        {
+          "id": "Z2x37ASry6A-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=Z2x37ASry6A&t=0s&end=141s",
+          "sceneDescription": "Brokeback Mountain - Part 1 (0:00 - 2:21)",
+          "startTime": 0,
+          "endTime": 141
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Brokeback Mountain (2005) - Quality Score: 35/100",
+        "genre": "Classic Film",
+        "crawlerScore": 35,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 0,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:15:44.945Z"
+      },
+      "movie": "Brokeback Mountain"
+    },
+    {
+      "id": "gibboanx-test-10-5",
+      "label": "La haine",
+      "date": 1995,
+      "year": 1995,
+      "youtube": "https://www.youtube.com/watch?v=PE6UdMGfjHQ&t=0s&end=95s",
+      "duration": 95,
+      "variants": [
+        {
+          "id": "PE6UdMGfjHQ-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=PE6UdMGfjHQ&t=0s&end=95s",
+          "sceneDescription": "La haine - Full Scene (0:00 - 1:35)",
+          "startTime": 0,
+          "endTime": 95
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "La haine (1995) - Quality Score: 52/100",
+        "genre": "Classic Film",
+        "crawlerScore": 52,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 2,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:15:44.945Z"
+      },
+      "movie": "La haine"
+    },
+    {
+      "id": "gibboanx-test-10-6",
+      "label": "The Matrix Reloaded",
+      "date": 2003,
+      "year": 2003,
+      "youtube": "https://www.youtube.com/watch?v=cHZl2naX1Xk&t=0s&end=120s",
+      "duration": 287,
+      "variants": [
+        {
+          "id": "cHZl2naX1Xk-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=cHZl2naX1Xk&t=0s&end=120s",
+          "sceneDescription": "The Matrix Reloaded - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "cHZl2naX1Xk-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=cHZl2naX1Xk&t=120s&end=287s",
+          "sceneDescription": "The Matrix Reloaded - Part 2 (2:00 - 4:47)",
+          "startTime": 120,
+          "endTime": 287
+        }
+      ],
+      "variantCount": 2,
+      "tooltip": {
+        "description": "The Matrix Reloaded (2003) - Quality Score: 60/100",
+        "genre": "Classic Film",
+        "crawlerScore": 60,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 10,
+          "popularityFactor": 10,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:15:44.945Z"
+      },
+      "movie": "The Matrix Reloaded"
+    },
+    {
+      "id": "gibboanx-test-10-7",
+      "label": "Deadpool",
+      "date": 2016,
+      "year": 2016,
+      "youtube": "https://www.youtube.com/watch?v=2h3Cf9jIgvc&t=0s&end=151s",
+      "duration": 151,
+      "variants": [
+        {
+          "id": "2h3Cf9jIgvc-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=2h3Cf9jIgvc&t=0s&end=151s",
+          "sceneDescription": "Deadpool - Part 1 (0:00 - 2:31)",
+          "startTime": 0,
+          "endTime": 151
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Deadpool (2016) - Quality Score: 40/100",
+        "genre": "Classic Film",
+        "crawlerScore": 40,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 0,
+          "resolutionQuality": 0,
+          "popularityFactor": 10,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:15:44.945Z"
+      },
+      "movie": "Deadpool"
+    },
+    {
+      "id": "gibboanx-test-10-8",
+      "label": "Life Is Beautiful",
+      "date": 1997,
+      "year": 1997,
+      "youtube": "https://www.youtube.com/watch?v=9-QZ801OkCM&t=0s&end=124s",
+      "duration": 124,
+      "variants": [
+        {
+          "id": "9-QZ801OkCM-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=9-QZ801OkCM&t=0s&end=124s",
+          "sceneDescription": "Life Is Beautiful - Part 1 (0:00 - 2:04)",
+          "startTime": 0,
+          "endTime": 124
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Life Is Beautiful (1997) - Quality Score: 45/100",
+        "genre": "Classic Film",
+        "crawlerScore": 45,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:15:44.945Z"
+      },
+      "movie": "Life Is Beautiful"
+    },
+    {
+      "id": "gibboanx-test-10-9",
+      "label": "The Last Seduction",
+      "date": 1994,
+      "year": 1994,
+      "youtube": "https://www.youtube.com/watch?v=X6UrlgpATKU&t=0s&end=120s",
+      "duration": 202,
+      "variants": [
+        {
+          "id": "X6UrlgpATKU-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=X6UrlgpATKU&t=0s&end=120s",
+          "sceneDescription": "The Last Seduction - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "X6UrlgpATKU-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=X6UrlgpATKU&t=120s&end=202s",
+          "sceneDescription": "The Last Seduction - Part 2 (2:00 - 3:22)",
+          "startTime": 120,
+          "endTime": 202
+        }
+      ],
+      "variantCount": 2,
+      "tooltip": {
+        "description": "The Last Seduction (1994) - Quality Score: 40/100",
+        "genre": "Classic Film",
+        "crawlerScore": 40,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 0,
+          "resolutionQuality": 0,
+          "popularityFactor": 10,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:15:44.945Z"
+      },
+      "movie": "The Last Seduction"
+    },
+    {
+      "id": "gibboanx-test-10-10",
+      "label": "In America",
+      "date": 2002,
+      "year": 2002,
+      "youtube": "https://www.youtube.com/watch?v=A85LMaxpkR8&t=0s&end=126s",
+      "duration": 126,
+      "variants": [
+        {
+          "id": "A85LMaxpkR8-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=A85LMaxpkR8&t=0s&end=126s",
+          "sceneDescription": "In America - Part 1 (0:00 - 2:06)",
+          "startTime": 0,
+          "endTime": 126
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "In America (2002) - Quality Score: 52/100",
+        "genre": "Classic Film",
+        "crawlerScore": 52,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 10,
+          "popularityFactor": 2,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:15:44.945Z"
+      },
+      "movie": "In America"
+    }
+  ]
+}

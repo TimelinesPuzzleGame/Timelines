@@ -1,0 +1,74 @@
+// This file has been merged into greatest-music-videos-all-time-expanded.json
+// Original content:
+/*
+{
+  "slug": "music-playlist-test-15",
+  "topic": "Music Playlist Test 15",
+  "category": "Entertainment",
+  "subcategory": "Music",
+  "description": "Music videos and performances from 1980-2010. Features real YouTube video titles with verified release dates and no date spoilers.",
+  "hideDates": false,
+  "cards": [
+    {
+      "id": 159,
+      "label": "AC/DC - You Shook Me All Night Long",
+      "date": 1980,
+      "youtube": "https://www.youtube.com/watch?v=Lo2qQmj0_h4"
+    },
+    {
+      "id": 151,
+      "label": "Cinderella - Don't Know What You Got (Till It's Gone)",
+      "date": 2010,
+      "youtube": "https://www.youtube.com/watch?v=i28UEoLXVFQ"
+    },
+    {
+      "id": 152,
+      "label": "Salt - N-Pepa - Push It",
+      "date": 2010,
+      "youtube": "https://www.youtube.com/watch?v=vCadcBR95oU"
+    },
+    {
+      "id": 153,
+      "label": "Billy Joel - We Didn't Start the Fire",
+      "date": 2010,
+      "youtube": "https://www.youtube.com/watch?v=eFTLKWw542g"
+    },
+    {
+      "id": 154,
+      "label": "Simple Minds - Don't You (Forget About Me)",
+      "date": 2010,
+      "youtube": "https://www.youtube.com/watch?v=CdqoNKCCt7A"
+    },
+    {
+      "id": 155,
+      "label": "Billy Joel - Uptown Girl",
+      "date": 2010,
+      "youtube": "https://www.youtube.com/watch?v=hCuMWrfXG4E"
+    },
+    {
+      "id": 157,
+      "label": "Crowded House - Don't Dream It's Over",
+      "date": 2010,
+      "youtube": "https://www.youtube.com/watch?v=J9gKyRmic20"
+    },
+    {
+      "id": 158,
+      "label": "Spandau Ballet - True",
+      "date": 2010,
+      "youtube": "https://www.youtube.com/watch?v=AR8D2yqgQ1U"
+    },
+    {
+      "id": 160,
+      "label": "Aerosmith - Angel",
+      "date": 2010,
+      "youtube": "https://www.youtube.com/watch?v=CBTOGVb_cQg"
+    },
+    {
+      "id": 161,
+      "label": "Dead Or Alive - You Spin Me Round (Like a Record)",
+      "date": 2010,
+      "youtube": "https://www.youtube.com/watch?v=PGNiXGX2nLU"
+    }
+  ]
+}
+*/

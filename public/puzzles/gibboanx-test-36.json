@@ -1,0 +1,432 @@
+{
+  "slug": "gibboanx-test-36",
+  "topic": "Gibboanx Test Puzzle 36",
+  "category": "Entertainment",
+  "subcategory": "Movies/TV",
+  "hideDates": false,
+  "showTooltips": true,
+  "variantSystem": {
+    "enabled": true,
+    "totalScenes": 10,
+    "selectionStrategy": "random_per_round"
+  },
+  "cards": [
+    {
+      "id": "gibboanx-test-36-1",
+      "label": "Final Destination 2",
+      "date": 2003,
+      "year": 2003,
+      "youtube": "https://www.youtube.com/watch?v=1FrnrF3LtKs&t=0s&end=21s",
+      "duration": 21,
+      "variants": [
+        {
+          "id": "1FrnrF3LtKs-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=1FrnrF3LtKs&t=0s&end=21s",
+          "sceneDescription": "Final Destination 2 - Full Scene (0:00 - 0:21)",
+          "startTime": 0,
+          "endTime": 21
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Final Destination 2 (2003) - Quality Score: 55/100",
+        "genre": "Classic Film",
+        "crawlerScore": 55,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 10,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:41:57.977Z"
+      },
+      "movie": "Final Destination 2"
+    },
+    {
+      "id": "gibboanx-test-36-2",
+      "label": "Mean Streets",
+      "date": 1973,
+      "year": 1973,
+      "youtube": "https://www.youtube.com/watch?v=psMz_i9XfU4&t=0s&end=120s",
+      "duration": 475,
+      "variants": [
+        {
+          "id": "psMz_i9XfU4-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=psMz_i9XfU4&t=0s&end=120s",
+          "sceneDescription": "Mean Streets - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "psMz_i9XfU4-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=psMz_i9XfU4&t=120s&end=240s",
+          "sceneDescription": "Mean Streets - Part 2 (2:00 - 4:00)",
+          "startTime": 120,
+          "endTime": 240
+        },
+        {
+          "id": "psMz_i9XfU4-variant-2",
+          "youtube": "https://www.youtube.com/watch?v=psMz_i9XfU4&t=240s&end=360s",
+          "sceneDescription": "Mean Streets - Part 3 (4:00 - 6:00)",
+          "startTime": 240,
+          "endTime": 360
+        },
+        {
+          "id": "psMz_i9XfU4-variant-3",
+          "youtube": "https://www.youtube.com/watch?v=psMz_i9XfU4&t=360s&end=475s",
+          "sceneDescription": "Mean Streets - Part 4 (6:00 - 7:55)",
+          "startTime": 360,
+          "endTime": 475
+        }
+      ],
+      "variantCount": 4,
+      "tooltip": {
+        "description": "Mean Streets (1973) - Quality Score: 45/100",
+        "genre": "Classic Film",
+        "crawlerScore": 45,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:41:57.977Z"
+      },
+      "movie": "Mean Streets"
+    },
+    {
+      "id": "gibboanx-test-36-3",
+      "label": "The Full Monty",
+      "date": 1997,
+      "year": 1997,
+      "youtube": "https://www.youtube.com/watch?v=bNdq_fUDyKo&t=0s&end=63s",
+      "duration": 63,
+      "variants": [
+        {
+          "id": "bNdq_fUDyKo-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=bNdq_fUDyKo&t=0s&end=63s",
+          "sceneDescription": "The Full Monty - Full Scene (0:00 - 1:03)",
+          "startTime": 0,
+          "endTime": 63
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "The Full Monty (1997) - Quality Score: 35/100",
+        "genre": "Classic Film",
+        "crawlerScore": 35,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 0,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:41:57.977Z"
+      },
+      "movie": "The Full Monty"
+    },
+    {
+      "id": "gibboanx-test-36-4",
+      "label": "Fast Times at Ridgemont High",
+      "date": 1982,
+      "year": 1982,
+      "youtube": "https://www.youtube.com/watch?v=JxPBDWjp1qM&t=0s&end=153s",
+      "duration": 153,
+      "variants": [
+        {
+          "id": "JxPBDWjp1qM-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=JxPBDWjp1qM&t=0s&end=153s",
+          "sceneDescription": "Fast Times at Ridgemont High - Part 1 (0:00 - 2:33)",
+          "startTime": 0,
+          "endTime": 153
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Fast Times at Ridgemont High (1982) - Quality Score: 35/100",
+        "genre": "Classic Film",
+        "crawlerScore": 35,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 0,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:41:57.977Z"
+      },
+      "movie": "Fast Times at Ridgemont High"
+    },
+    {
+      "id": "gibboanx-test-36-5",
+      "label": "Black Dynamite",
+      "date": 2009,
+      "year": 2009,
+      "youtube": "https://www.youtube.com/watch?v=VCsbvJ8WQIY&t=0s&end=48s",
+      "duration": 48,
+      "variants": [
+        {
+          "id": "VCsbvJ8WQIY-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=VCsbvJ8WQIY&t=0s&end=48s",
+          "sceneDescription": "Black Dynamite - Full Scene (0:00 - 0:48)",
+          "startTime": 0,
+          "endTime": 48
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Black Dynamite (2009) - Quality Score: 35/100",
+        "genre": "Classic Film",
+        "crawlerScore": 35,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 0,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:41:57.977Z"
+      },
+      "movie": "Black Dynamite"
+    },
+    {
+      "id": "gibboanx-test-36-6",
+      "label": "State of Grace",
+      "date": 1990,
+      "year": 1990,
+      "youtube": "https://www.youtube.com/watch?v=Oh2Jw2RRuMc&t=0s&end=120s",
+      "duration": 189,
+      "variants": [
+        {
+          "id": "Oh2Jw2RRuMc-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=Oh2Jw2RRuMc&t=0s&end=120s",
+          "sceneDescription": "State of Grace - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "Oh2Jw2RRuMc-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=Oh2Jw2RRuMc&t=120s&end=189s",
+          "sceneDescription": "State of Grace - Part 2 (2:00 - 3:09)",
+          "startTime": 120,
+          "endTime": 189
+        }
+      ],
+      "variantCount": 2,
+      "tooltip": {
+        "description": "State of Grace (1990) - Quality Score: 35/100",
+        "genre": "Classic Film",
+        "crawlerScore": 35,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 0,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:41:57.977Z"
+      },
+      "movie": "State of Grace"
+    },
+    {
+      "id": "gibboanx-test-36-7",
+      "label": "The Hunger Games: Catching Fire",
+      "date": 2013,
+      "year": 2013,
+      "youtube": "https://www.youtube.com/watch?v=rq_GCelJ60I&t=0s&end=120s",
+      "duration": 470,
+      "variants": [
+        {
+          "id": "rq_GCelJ60I-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=rq_GCelJ60I&t=0s&end=120s",
+          "sceneDescription": "The Hunger Games: Catching Fire - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "rq_GCelJ60I-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=rq_GCelJ60I&t=120s&end=240s",
+          "sceneDescription": "The Hunger Games: Catching Fire - Part 2 (2:00 - 4:00)",
+          "startTime": 120,
+          "endTime": 240
+        },
+        {
+          "id": "rq_GCelJ60I-variant-2",
+          "youtube": "https://www.youtube.com/watch?v=rq_GCelJ60I&t=240s&end=360s",
+          "sceneDescription": "The Hunger Games: Catching Fire - Part 3 (4:00 - 6:00)",
+          "startTime": 240,
+          "endTime": 360
+        },
+        {
+          "id": "rq_GCelJ60I-variant-3",
+          "youtube": "https://www.youtube.com/watch?v=rq_GCelJ60I&t=360s&end=470s",
+          "sceneDescription": "The Hunger Games: Catching Fire - Part 4 (6:00 - 7:50)",
+          "startTime": 360,
+          "endTime": 470
+        }
+      ],
+      "variantCount": 4,
+      "tooltip": {
+        "description": "The Hunger Games: Catching Fire (2013) - Quality Score: 35/100",
+        "genre": "Classic Film",
+        "crawlerScore": 35,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 0,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:41:57.977Z"
+      },
+      "movie": "The Hunger Games: Catching Fire"
+    },
+    {
+      "id": "gibboanx-test-36-8",
+      "label": "Miracle on 34th Street",
+      "date": 1947,
+      "year": 1947,
+      "youtube": "https://www.youtube.com/watch?v=1gL5rq4FKt4&t=0s&end=120s",
+      "duration": 120,
+      "variants": [
+        {
+          "id": "1gL5rq4FKt4-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=1gL5rq4FKt4&t=0s&end=120s",
+          "sceneDescription": "Miracle on 34th Street - Full Scene (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Miracle on 34th Street (1947) - Quality Score: 50/100",
+        "genre": "Classic Film",
+        "crawlerScore": 50,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 20,
+          "resolutionQuality": 0,
+          "popularityFactor": 0,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:41:57.977Z"
+      },
+      "movie": "Miracle on 34th Street"
+    },
+    {
+      "id": "gibboanx-test-36-9",
+      "label": "Big Fish",
+      "date": 2003,
+      "year": 2003,
+      "youtube": "https://www.youtube.com/watch?v=MtkvKz1Fg0Y&t=0s&end=120s",
+      "duration": 603,
+      "variants": [
+        {
+          "id": "MtkvKz1Fg0Y-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=MtkvKz1Fg0Y&t=0s&end=120s",
+          "sceneDescription": "Big Fish - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "MtkvKz1Fg0Y-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=MtkvKz1Fg0Y&t=120s&end=240s",
+          "sceneDescription": "Big Fish - Part 2 (2:00 - 4:00)",
+          "startTime": 120,
+          "endTime": 240
+        },
+        {
+          "id": "MtkvKz1Fg0Y-variant-2",
+          "youtube": "https://www.youtube.com/watch?v=MtkvKz1Fg0Y&t=240s&end=360s",
+          "sceneDescription": "Big Fish - Part 3 (4:00 - 6:00)",
+          "startTime": 240,
+          "endTime": 360
+        },
+        {
+          "id": "MtkvKz1Fg0Y-variant-3",
+          "youtube": "https://www.youtube.com/watch?v=MtkvKz1Fg0Y&t=360s&end=480s",
+          "sceneDescription": "Big Fish - Part 4 (6:00 - 8:00)",
+          "startTime": 360,
+          "endTime": 480
+        },
+        {
+          "id": "MtkvKz1Fg0Y-variant-4",
+          "youtube": "https://www.youtube.com/watch?v=MtkvKz1Fg0Y&t=480s&end=603s",
+          "sceneDescription": "Big Fish - Part 5 (8:00 - 10:03)",
+          "startTime": 480,
+          "endTime": 603
+        }
+      ],
+      "variantCount": 5,
+      "tooltip": {
+        "description": "Big Fish (2003) - Quality Score: 35/100",
+        "genre": "Classic Film",
+        "crawlerScore": 35,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 0,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:41:57.977Z"
+      },
+      "movie": "Big Fish"
+    },
+    {
+      "id": "gibboanx-test-36-10",
+      "label": "Analyze This",
+      "date": 1999,
+      "year": 1999,
+      "youtube": "https://www.youtube.com/watch?v=NGNKnsn8GQk&t=0s&end=149s",
+      "duration": 149,
+      "variants": [
+        {
+          "id": "NGNKnsn8GQk-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=NGNKnsn8GQk&t=0s&end=149s",
+          "sceneDescription": "Analyze This - Part 1 (0:00 - 2:29)",
+          "startTime": 0,
+          "endTime": 149
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Analyze This (1999) - Quality Score: 55/100",
+        "genre": "Classic Film",
+        "crawlerScore": 55,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 20,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:41:57.977Z"
+      },
+      "movie": "Analyze This"
+    }
+  ]
+}

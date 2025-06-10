@@ -1,0 +1,74 @@
+// This file has been merged into greatest-music-videos-all-time-expanded.json
+// Original content:
+/*
+{
+  "slug": "music-playlist-test-13",
+  "topic": "Music Playlist Test 13",
+  "category": "Entertainment",
+  "subcategory": "Music",
+  "description": "Music videos and performances from 1980-2010. Features real YouTube video titles with verified release dates and no date spoilers.",
+  "hideDates": false,
+  "cards": [
+    {
+      "id": 130,
+      "label": "Queen - Another One Bites the Dust",
+      "date": 1980,
+      "youtube": "https://www.youtube.com/watch?v=rY0WxgSXdEE"
+    },
+    {
+      "id": 128,
+      "label": "Toto - Africa",
+      "date": 1982,
+      "youtube": "https://www.youtube.com/watch?v=FTQbiNvZqaY"
+    },
+    {
+      "id": 134,
+      "label": "Eurythmics, Annie Lennox, Dave Stewart - Sweet Dreams (Are Made Of This)",
+      "date": 1983,
+      "youtube": "https://www.youtube.com/watch?v=qeMFqkcPYcg"
+    },
+    {
+      "id": 135,
+      "label": "Heart - Alone",
+      "date": 1987,
+      "youtube": "https://www.youtube.com/watch?v=1Cw1ng75KP0"
+    },
+    {
+      "id": 129,
+      "label": "Bon Jovi - You Give Love A Bad Name",
+      "date": 1986,
+      "youtube": "https://www.youtube.com/watch?v=KrZHPOeOxQQ"
+    },
+    {
+      "id": 133,
+      "label": "Bon Jovi - I'll Be There For You",
+      "date": 1988,
+      "youtube": "https://www.youtube.com/watch?v=mh8MIp2FOhc"
+    },
+    {
+      "id": 131,
+      "label": "Richard Marx - Right Here Waiting",
+      "date": 1989,
+      "youtube": "https://www.youtube.com/watch?v=S_E2EHVxNAE"
+    },
+    {
+      "id": 132,
+      "label": "Wham! - Wake Me Up Before You Go-Go",
+      "date": 1984,
+      "youtube": "https://www.youtube.com/watch?v=pIgZ7gMze7A"
+    },
+    {
+      "id": 136,
+      "label": "Midnight Oil - Beds Are Burning",
+      "date": 1987,
+      "youtube": "https://www.youtube.com/watch?v=ejorQVy3m8E"
+    },
+    {
+      "id": 137,
+      "label": "Whitney Houston - I Wanna Dance With Somebody",
+      "date": 1987,
+      "youtube": "https://www.youtube.com/watch?v=eH3giaIzONA"
+    }
+  ]
+}
+*/

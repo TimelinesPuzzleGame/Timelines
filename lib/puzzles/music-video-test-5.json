@@ -1,0 +1,64 @@
+{
+  "slug": "music-video-test-5",
+  "topic": "Music Video Test 5",
+  "category": "Entertainment",
+  "subcategory": "Music",
+  "description": "Classic music videos and performances from 1970-1978. Features real YouTube video titles with verified release dates and no date spoilers.",
+  "hideDates": false,
+  "cards": [
+    {
+      "id": 41,
+      "label": "Earth & Fire - Memories",
+      "date": 1970,
+      "youtube": "https://www.youtube.com/watch?v=d0vT-ERKSFs"
+    },
+    {
+      "id": 44,
+      "label": "Imagine - John Lennon & The Plastic Ono Band - 4K REMASTER",
+      "date": 1971,
+      "youtube": "https://www.youtube.com/watch?v=VOgFZfRVaww"
+    },
+    {
+      "id": 43,
+      "label": "Unknown Artist - Dr. Hook & The Medicine Show ~ \"Sylvia's Mother\"",
+      "date": 1972,
+      "youtube": "https://www.youtube.com/watch?v=7LXpnNKNxJI"
+    },
+    {
+      "id": 42,
+      "label": "Steve Miller Band - The Joker",
+      "date": 1973,
+      "youtube": "https://www.youtube.com/watch?v=dV3AziKTBUo"
+    },
+    {
+      "id": 47,
+      "label": "Unknown Artist - Tavares heaven must be missing an angel",
+      "date": 1976,
+      "youtube": "https://www.youtube.com/watch?v=2VAtRF4US8k"
+    },
+    {
+      "id": 45,
+      "label": "Ram Jam - Black Betty",
+      "date": 1977,
+      "youtube": "https://www.youtube.com/watch?v=I_2D8Eo15wE"
+    },
+    {
+      "id": 46,
+      "label": "Bee Gees - Stayin' Alive",
+      "date": 1977,
+      "youtube": "https://www.youtube.com/watch?v=I_izvAbhExY"
+    },
+    {
+      "id": 48,
+      "label": "The Jacksons - Blame It On the Boogie",
+      "date": 1978,
+      "youtube": "https://www.youtube.com/watch?v=nqxVMLVe62U"
+    },
+    {
+      "id": 49,
+      "label": "Exile - Kiss You All Over",
+      "date": 1978,
+      "youtube": "https://www.youtube.com/watch?v=OpaCXtahXxk"
+    }
+  ]
+}

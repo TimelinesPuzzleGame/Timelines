@@ -1,0 +1,397 @@
+{
+  "slug": "gibboanx-test-9",
+  "topic": "Gibboanx Test Puzzle 9",
+  "category": "Entertainment",
+  "subcategory": "Movies/TV",
+  "hideDates": false,
+  "showTooltips": true,
+  "variantSystem": {
+    "enabled": true,
+    "totalScenes": 10,
+    "selectionStrategy": "random_per_round"
+  },
+  "cards": [
+    {
+      "id": "gibboanx-test-9-1",
+      "label": "Up in the Air",
+      "date": 2009,
+      "year": 2009,
+      "youtube": "https://www.youtube.com/watch?v=Dw6VE8jjP-0&t=0s&end=120s",
+      "duration": 244,
+      "variants": [
+        {
+          "id": "Dw6VE8jjP-0-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=Dw6VE8jjP-0&t=0s&end=120s",
+          "sceneDescription": "Up in the Air - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "Dw6VE8jjP-0-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=Dw6VE8jjP-0&t=120s&end=244s",
+          "sceneDescription": "Up in the Air - Part 2 (2:00 - 4:04)",
+          "startTime": 120,
+          "endTime": 244
+        }
+      ],
+      "variantCount": 2,
+      "tooltip": {
+        "description": "Up in the Air (2009) - Quality Score: 35/100",
+        "genre": "Classic Film",
+        "crawlerScore": 35,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 0,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:14:33.393Z"
+      },
+      "movie": "Up in the Air"
+    },
+    {
+      "id": "gibboanx-test-9-2",
+      "label": "Avatar",
+      "date": 2009,
+      "year": 2009,
+      "youtube": "https://www.youtube.com/watch?v=6pHZmBin4Xc&t=0s&end=120s",
+      "duration": 333,
+      "variants": [
+        {
+          "id": "6pHZmBin4Xc-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=6pHZmBin4Xc&t=0s&end=120s",
+          "sceneDescription": "Avatar - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "6pHZmBin4Xc-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=6pHZmBin4Xc&t=120s&end=240s",
+          "sceneDescription": "Avatar - Part 2 (2:00 - 4:00)",
+          "startTime": 120,
+          "endTime": 240
+        },
+        {
+          "id": "6pHZmBin4Xc-variant-2",
+          "youtube": "https://www.youtube.com/watch?v=6pHZmBin4Xc&t=240s&end=333s",
+          "sceneDescription": "Avatar - Part 3 (4:00 - 5:33)",
+          "startTime": 240,
+          "endTime": 333
+        }
+      ],
+      "variantCount": 3,
+      "tooltip": {
+        "description": "Avatar (2009) - Quality Score: 60/100",
+        "genre": "Classic Film",
+        "crawlerScore": 60,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 10,
+          "popularityFactor": 10,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:14:33.393Z"
+      },
+      "movie": "Avatar"
+    },
+    {
+      "id": "gibboanx-test-9-3",
+      "label": "Bug",
+      "date": 2006,
+      "year": 2006,
+      "youtube": "https://www.youtube.com/watch?v=9hD1BGhD16c&t=0s&end=120s",
+      "duration": 263,
+      "variants": [
+        {
+          "id": "9hD1BGhD16c-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=9hD1BGhD16c&t=0s&end=120s",
+          "sceneDescription": "Bug - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "9hD1BGhD16c-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=9hD1BGhD16c&t=120s&end=263s",
+          "sceneDescription": "Bug - Part 2 (2:00 - 4:23)",
+          "startTime": 120,
+          "endTime": 263
+        }
+      ],
+      "variantCount": 2,
+      "tooltip": {
+        "description": "Bug (2006) - Quality Score: 52/100",
+        "genre": "Classic Film",
+        "crawlerScore": 52,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 2,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:14:33.393Z"
+      },
+      "movie": "Bug"
+    },
+    {
+      "id": "gibboanx-test-9-4",
+      "label": "V for Vendetta",
+      "date": 2005,
+      "year": 2005,
+      "youtube": "https://www.youtube.com/watch?v=YqRgwoe668M&t=0s&end=120s",
+      "duration": 252,
+      "variants": [
+        {
+          "id": "YqRgwoe668M-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=YqRgwoe668M&t=0s&end=120s",
+          "sceneDescription": "V for Vendetta - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "YqRgwoe668M-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=YqRgwoe668M&t=120s&end=252s",
+          "sceneDescription": "V for Vendetta - Part 2 (2:00 - 4:12)",
+          "startTime": 120,
+          "endTime": 252
+        }
+      ],
+      "variantCount": 2,
+      "tooltip": {
+        "description": "V for Vendetta (2005) - Quality Score: 50/100",
+        "genre": "Classic Film",
+        "crawlerScore": 50,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 10,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:14:33.393Z"
+      },
+      "movie": "V for Vendetta"
+    },
+    {
+      "id": "gibboanx-test-9-5",
+      "label": "King of New York",
+      "date": 1990,
+      "year": 1990,
+      "youtube": "https://www.youtube.com/watch?v=rhwB0pCQ9po&t=0s&end=69s",
+      "duration": 69,
+      "variants": [
+        {
+          "id": "rhwB0pCQ9po-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=rhwB0pCQ9po&t=0s&end=69s",
+          "sceneDescription": "King of New York - Full Scene (0:00 - 1:09)",
+          "startTime": 0,
+          "endTime": 69
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "King of New York (1990) - Quality Score: 42/100",
+        "genre": "Classic Film",
+        "crawlerScore": 42,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 2,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:14:33.393Z"
+      },
+      "movie": "King of New York"
+    },
+    {
+      "id": "gibboanx-test-9-6",
+      "label": "Master and Commander: The Far Side of the World",
+      "date": 2003,
+      "year": 2003,
+      "youtube": "https://www.youtube.com/watch?v=jcsshJ7GfvE&t=0s&end=53s",
+      "duration": 53,
+      "variants": [
+        {
+          "id": "jcsshJ7GfvE-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=jcsshJ7GfvE&t=0s&end=53s",
+          "sceneDescription": "Master and Commander: The Far Side of the World - Full Scene (0:00 - 0:53)",
+          "startTime": 0,
+          "endTime": 53
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Master and Commander: The Far Side of the World (2003) - Quality Score: 35/100",
+        "genre": "Classic Film",
+        "crawlerScore": 35,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 0,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:14:33.393Z"
+      },
+      "movie": "Master and Commander: The Far Side of the World"
+    },
+    {
+      "id": "gibboanx-test-9-7",
+      "label": "Born on the Fourth of July",
+      "date": 1989,
+      "year": 1989,
+      "youtube": "https://www.youtube.com/watch?v=AqhU820XVlo&t=0s&end=108s",
+      "duration": 108,
+      "variants": [
+        {
+          "id": "AqhU820XVlo-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=AqhU820XVlo&t=0s&end=108s",
+          "sceneDescription": "Born on the Fourth of July - Full Scene (0:00 - 1:48)",
+          "startTime": 0,
+          "endTime": 108
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Born on the Fourth of July (1989) - Quality Score: 45/100",
+        "genre": "Classic Film",
+        "crawlerScore": 45,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:14:33.393Z"
+      },
+      "movie": "Born on the Fourth of July"
+    },
+    {
+      "id": "gibboanx-test-9-8",
+      "label": "Twin Peaks: Fire Walk with Me",
+      "date": 1992,
+      "year": 1992,
+      "youtube": "https://www.youtube.com/watch?v=2--Y5dsq2_s&t=0s&end=120s",
+      "duration": 200,
+      "variants": [
+        {
+          "id": "2--Y5dsq2_s-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=2--Y5dsq2_s&t=0s&end=120s",
+          "sceneDescription": "Twin Peaks: Fire Walk with Me - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "2--Y5dsq2_s-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=2--Y5dsq2_s&t=120s&end=200s",
+          "sceneDescription": "Twin Peaks: Fire Walk with Me - Part 2 (2:00 - 3:20)",
+          "startTime": 120,
+          "endTime": 200
+        }
+      ],
+      "variantCount": 2,
+      "tooltip": {
+        "description": "Twin Peaks: Fire Walk with Me (1992) - Quality Score: 52/100",
+        "genre": "Classic Film",
+        "crawlerScore": 52,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 2,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:14:33.393Z"
+      },
+      "movie": "Twin Peaks: Fire Walk with Me"
+    },
+    {
+      "id": "gibboanx-test-9-9",
+      "label": "Irreversible",
+      "date": 2002,
+      "year": 2002,
+      "youtube": "https://www.youtube.com/watch?v=c451v9lv4-4&t=0s&end=110s",
+      "duration": 110,
+      "variants": [
+        {
+          "id": "c451v9lv4-4-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=c451v9lv4-4&t=0s&end=110s",
+          "sceneDescription": "Irreversible - Full Scene (0:00 - 1:50)",
+          "startTime": 0,
+          "endTime": 110
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Irreversible (2002) - Quality Score: 42/100",
+        "genre": "Classic Film",
+        "crawlerScore": 42,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 2,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:14:33.393Z"
+      },
+      "movie": "Irreversible"
+    },
+    {
+      "id": "gibboanx-test-9-10",
+      "label": "Ed Wood",
+      "date": 1994,
+      "year": 1994,
+      "youtube": "https://www.youtube.com/watch?v=SQG_hxCNADg&t=0s&end=25s",
+      "duration": 25,
+      "variants": [
+        {
+          "id": "SQG_hxCNADg-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=SQG_hxCNADg&t=0s&end=25s",
+          "sceneDescription": "Ed Wood - Full Scene (0:00 - 0:25)",
+          "startTime": 0,
+          "endTime": 25
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Ed Wood (1994) - Quality Score: 52/100",
+        "genre": "Classic Film",
+        "crawlerScore": 52,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 2,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:14:33.393Z"
+      },
+      "movie": "Ed Wood"
+    }
+  ]
+}

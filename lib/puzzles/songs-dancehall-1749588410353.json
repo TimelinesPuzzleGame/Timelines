@@ -1,0 +1,89 @@
+{
+  "slug": "user-1749588361094",
+  "topic": "Songs: Dancehall",
+  "category": "Entertainment",
+  "showTooltips": false,
+  "hideDates": false,
+  "cards": [
+    {
+      "label": "Temperature - Sean Paul",
+      "date": 2006,
+      "id": "ugc-1749588360930-0",
+      "deezer": {
+        "trackId": 662729
+      }
+    },
+    {
+      "label": "Murder She Wrote - Chaka Demus & Pliers",
+      "date": 1992,
+      "id": "ugc-1749588360974-1",
+      "deezer": {
+        "trackId": 1178340
+      }
+    },
+    {
+      "label": "Romie - Beenie Man",
+      "date": 1996,
+      "id": "ugc-1749588360881-2",
+      "deezer": {
+        "trackId": 3658611
+      }
+    },
+    {
+      "label": "Who Am I (Sim Simma) - Beenie Man",
+      "date": 1998,
+      "id": "ugc-1749588361089-3",
+      "deezer": {
+        "trackId": 63394009
+      }
+    },
+    {
+      "label": "Get Busy - Sean Paul",
+      "date": 2003,
+      "id": "ugc-1749588360974-4",
+      "deezer": {
+        "trackId": 364292561
+      }
+    },
+    {
+      "label": "No Letting Go - Wayne Wonder",
+      "date": 2003,
+      "id": "ugc-1749588360943-5",
+      "deezer": {
+        "trackId": 86453301
+      }
+    },
+    {
+      "label": "Tempted to Touch - Rupee",
+      "date": 2004,
+      "id": "ugc-1749588360965-6",
+      "deezer": {
+        "trackId": 1750745977
+      }
+    },
+    {
+      "label": "Big Up - Shaggy",
+      "date": 1992,
+      "id": "ugc-1749588360955-7",
+      "deezer": {
+        "trackId": 3159512
+      }
+    },
+    {
+      "label": "Gimme the Light - Sean Paul",
+      "date": 2002,
+      "id": "ugc-1749588360921-8",
+      "deezer": {
+        "trackId": 364292541
+      }
+    },
+    {
+      "label": "Action - Terror Fabulous",
+      "date": 1994,
+      "id": "ugc-1749588360927-9",
+      "deezer": {
+        "trackId": 63410947
+      }
+    }
+  ]
+}

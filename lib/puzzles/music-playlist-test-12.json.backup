@@ -1,0 +1,74 @@
+// This file has been merged into greatest-music-videos-all-time-expanded.json
+// Original content:
+/*
+{
+  "slug": "music-playlist-test-12",
+  "topic": "Music Playlist Test 12",
+  "category": "Entertainment",
+  "subcategory": "Music",
+  "description": "Music videos and performances from 1975-2010. Features real YouTube video titles with verified release dates and no date spoilers.",
+  "hideDates": false,
+  "cards": [
+    {
+      "id": 119,
+      "label": "Pink Floyd - Another Brick In The Wall (HQ)",
+      "date": 1979,
+      "youtube": "https://www.youtube.com/watch?v=YR5ApYxkU-U"
+    },
+    {
+      "id": 118,
+      "label": "AC/DC - Back In Black",
+      "date": 1980,
+      "youtube": "https://www.youtube.com/watch?v=pAgnJDJN4VA"
+    },
+    {
+      "id": 125,
+      "label": "Cyndi Lauper - Time After Time",
+      "date": 1984,
+      "youtube": "https://www.youtube.com/watch?v=VdQY7BusJNU"
+    },
+    {
+      "id": 121,
+      "label": "Queen - I Want To Break Free (High Quality)",
+      "date": 1984,
+      "youtube": "https://www.youtube.com/watch?v=eM8Ss28zjcE"
+    },
+    {
+      "id": 120,
+      "label": "Guns N' Roses - Welcome To The Jungle",
+      "date": 1987,
+      "youtube": "https://www.youtube.com/watch?v=o1tj2zJ2Wvg"
+    },
+    {
+      "id": 122,
+      "label": "Phil Collins - Another Day In Paradise",
+      "date": 1989,
+      "youtube": "https://www.youtube.com/watch?v=Qt2mbGP6vFI"
+    },
+    {
+      "id": 123,
+      "label": "Alphaville - Forever Young ~Official Video",
+      "date": 1984,
+      "youtube": "https://www.youtube.com/watch?v=t1TcDHrkQYg"
+    },
+    {
+      "id": 124,
+      "label": "Roxette - It Must Have Been Love",
+      "date": 1990,
+      "youtube": "https://www.youtube.com/watch?v=k2C5TjS2sh4"
+    },
+    {
+      "id": 126,
+      "label": "I Want to know what love is - Foreigner",
+      "date": 1984,
+      "youtube": "https://www.youtube.com/watch?v=loWXMtjUZWM"
+    },
+    {
+      "id": 127,
+      "label": "George Michael - Careless Whisper",
+      "date": 1984,
+      "youtube": "https://www.youtube.com/watch?v=izGwDsrQ1eQ"
+    }
+  ]
+}
+*/

@@ -1,0 +1,74 @@
+// This file has been merged into greatest-music-videos-all-time-expanded.json
+// Original content:
+/*
+{
+  "slug": "music-playlist-test-19",
+  "topic": "Music Playlist Test 19",
+  "category": "Entertainment",
+  "subcategory": "Music",
+  "description": "Music videos and performances from 1975-1990. Features real YouTube video titles with verified release dates and no date spoilers.",
+  "hideDates": false,
+  "cards": [
+    {
+      "id": 102,
+      "label": "Queen - Bohemian Rhapsody",
+      "date": 1975,
+      "youtube": "https://www.youtube.com/watch?v=fJ9rUzIMcZQ"
+    },
+    {
+      "id": 156,
+      "label": "Queen - Crazy Little Thing Called Love",
+      "date": 1979,
+      "youtube": "https://www.youtube.com/watch?v=zO6D_BAuYCI"
+    },
+    {
+      "id": 106,
+      "label": "Michael Jackson - Billie Jean",
+      "date": 1983,
+      "youtube": "https://www.youtube.com/watch?v=Zi_XLOBDo_Y"
+    },
+    {
+      "id": 113,
+      "label": "Michael Jackson - Beat It",
+      "date": 1983,
+      "youtube": "https://www.youtube.com/watch?v=oRdxUFDoQe0"
+    },
+    {
+      "id": 178,
+      "label": "Madonna - Like A Virgin",
+      "date": 1984,
+      "youtube": "https://www.youtube.com/watch?v=s__rX_WL100"
+    },
+    {
+      "id": 173,
+      "label": "Depeche Mode - Personal Jesus (Remastered)",
+      "date": 1989,
+      "youtube": "https://www.youtube.com/watch?v=u1xrNaTO1bI"
+    },
+    {
+      "id": 181,
+      "label": "Duran Duran - Hungry Like The Wolf",
+      "date": 1982,
+      "youtube": "https://www.youtube.com/watch?v=oOg5VxrRTi0"
+    },
+    {
+      "id": 115,
+      "label": "Michael Jackson - Bad (Shortened Version)",
+      "date": 1987,
+      "youtube": "https://www.youtube.com/watch?v=dsUXAEzaC3Q"
+    },
+    {
+      "id": 116,
+      "label": "Michael Jackson - The Way You Make Me Feel",
+      "date": 1987,
+      "youtube": "https://www.youtube.com/watch?v=HzZ_urpj4As"
+    },
+    {
+      "id": 143,
+      "label": "Madonna - Vogue",
+      "date": 1990,
+      "youtube": "https://www.youtube.com/watch?v=GuJQSAiODqI"
+    }
+  ]
+}
+*/

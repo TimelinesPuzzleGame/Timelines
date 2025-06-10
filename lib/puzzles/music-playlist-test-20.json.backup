@@ -1,0 +1,20 @@
+// This file has been merged into greatest-music-videos-all-time-expanded.json
+// Original content:
+/*
+{
+  "slug": "music-playlist-test-20",
+  "topic": "Music Playlist Test 20",
+  "category": "Entertainment",
+  "subcategory": "Music",
+  "description": "Music videos and performances from 1989. Features real YouTube video titles with verified release dates and no date spoilers.",
+  "hideDates": false,
+  "cards": [
+    {
+      "id": 191,
+      "label": "Madonna - Like A Prayer",
+      "date": 1989,
+      "youtube": "https://www.youtube.com/watch?v=79fzeNUqQbQ"
+    }
+  ]
+}
+*/

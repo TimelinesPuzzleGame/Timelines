@@ -1,0 +1,58 @@
+{
+  "slug": "music-video-test-3",
+  "topic": "Music Video Test 3",
+  "category": "Entertainment",
+  "subcategory": "Music",
+  "description": "Classic music videos and performances from 1964-1971. Features real YouTube video titles with verified release dates and no date spoilers.",
+  "hideDates": false,
+  "cards": [
+    {
+      "id": 23,
+      "label": "The Rolling Stones - Time Is On My Side",
+      "date": 1964,
+      "youtube": "https://www.youtube.com/watch?v=sEj8lUx0gwY"
+    },
+    {
+      "id": 25,
+      "label": "The Animals - Don't let me be Misunderstood",
+      "date": 1965,
+      "youtube": "https://www.youtube.com/watch?v=mfwN0X8YnWo"
+    },
+    {
+      "id": 27,
+      "label": "James Brown - I Feel Good",
+      "date": 1965,
+      "youtube": "https://www.youtube.com/watch?v=U5TqIdff_DQ"
+    },
+    {
+      "id": 26,
+      "label": "The Supremes: You Can't Hurry Love - Original",
+      "date": 1966,
+      "youtube": "https://www.youtube.com/watch?v=fQ7uXX9K7Sk"
+    },
+    {
+      "id": 28,
+      "label": "The Temptations - Aint Too Proud To Beg",
+      "date": 1966,
+      "youtube": "https://www.youtube.com/watch?v=RfyFI-4ZsaE"
+    },
+    {
+      "id": 24,
+      "label": "The Rolling Stones - You Can't Always Get What You Want",
+      "date": 1969,
+      "youtube": "https://www.youtube.com/watch?v=Ef9QnZVpVd8"
+    },
+    {
+      "id": 30,
+      "label": "Creedence Clearwater Revival - Lookin' Out My Back Door",
+      "date": 1970,
+      "youtube": "https://www.youtube.com/watch?v=Aae_RHRptRg"
+    },
+    {
+      "id": 21,
+      "label": "The Rolling Stones - Brown Sugar -",
+      "date": 1971,
+      "youtube": "https://www.youtube.com/watch?v=Fmfi3UbDPnQ"
+    }
+  ]
+}

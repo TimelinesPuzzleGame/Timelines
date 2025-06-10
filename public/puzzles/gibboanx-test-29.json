@@ -1,0 +1,411 @@
+{
+  "slug": "gibboanx-test-29",
+  "topic": "Gibboanx Test Puzzle 29",
+  "category": "Entertainment",
+  "subcategory": "Movies/TV",
+  "hideDates": false,
+  "showTooltips": true,
+  "variantSystem": {
+    "enabled": true,
+    "totalScenes": 10,
+    "selectionStrategy": "random_per_round"
+  },
+  "cards": [
+    {
+      "id": "gibboanx-test-29-1",
+      "label": "Quantum of Solace",
+      "date": 2008,
+      "year": 2008,
+      "youtube": "https://www.youtube.com/watch?v=VMsZgIEmB80&t=0s&end=95s",
+      "duration": 95,
+      "variants": [
+        {
+          "id": "VMsZgIEmB80-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=VMsZgIEmB80&t=0s&end=95s",
+          "sceneDescription": "Quantum of Solace - Full Scene (0:00 - 1:35)",
+          "startTime": 0,
+          "endTime": 95
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Quantum of Solace (2008) - Quality Score: 42/100",
+        "genre": "Classic Film",
+        "crawlerScore": 42,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 2,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:34:13.957Z"
+      },
+      "movie": "Quantum of Solace"
+    },
+    {
+      "id": "gibboanx-test-29-2",
+      "label": "El Mariachi",
+      "date": 1992,
+      "year": 1992,
+      "youtube": "https://www.youtube.com/watch?v=kNdR0HK4uso&t=0s&end=163s",
+      "duration": 163,
+      "variants": [
+        {
+          "id": "kNdR0HK4uso-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=kNdR0HK4uso&t=0s&end=163s",
+          "sceneDescription": "El Mariachi - Part 1 (0:00 - 2:43)",
+          "startTime": 0,
+          "endTime": 163
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "El Mariachi (1992) - Quality Score: 60/100",
+        "genre": "Classic Film",
+        "crawlerScore": 60,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 10,
+          "popularityFactor": 10,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:34:13.957Z"
+      },
+      "movie": "El Mariachi"
+    },
+    {
+      "id": "gibboanx-test-29-3",
+      "label": "Big Trouble in Little China",
+      "date": 1986,
+      "year": 1986,
+      "youtube": "https://www.youtube.com/watch?v=jGC1bV4-fmk&t=0s&end=38s",
+      "duration": 38,
+      "variants": [
+        {
+          "id": "jGC1bV4-fmk-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=jGC1bV4-fmk&t=0s&end=38s",
+          "sceneDescription": "Big Trouble in Little China - Full Scene (0:00 - 0:38)",
+          "startTime": 0,
+          "endTime": 38
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Big Trouble in Little China (1986) - Quality Score: 45/100",
+        "genre": "Classic Film",
+        "crawlerScore": 45,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:34:13.957Z"
+      },
+      "movie": "Big Trouble in Little China"
+    },
+    {
+      "id": "gibboanx-test-29-4",
+      "label": "Once",
+      "date": 2006,
+      "year": 2006,
+      "youtube": "https://www.youtube.com/watch?v=horvdyyL78k&t=0s&end=161s",
+      "duration": 161,
+      "variants": [
+        {
+          "id": "horvdyyL78k-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=horvdyyL78k&t=0s&end=161s",
+          "sceneDescription": "Once - Part 1 (0:00 - 2:41)",
+          "startTime": 0,
+          "endTime": 161
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Once (2006) - Quality Score: 40/100",
+        "genre": "Classic Film",
+        "crawlerScore": 40,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 0,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:34:13.957Z"
+      },
+      "movie": "Once"
+    },
+    {
+      "id": "gibboanx-test-29-5",
+      "label": "Captain Fantastic",
+      "date": 2016,
+      "year": 2016,
+      "youtube": "https://www.youtube.com/watch?v=QgvtmO7c-UU&t=0s&end=120s",
+      "duration": 185,
+      "variants": [
+        {
+          "id": "QgvtmO7c-UU-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=QgvtmO7c-UU&t=0s&end=120s",
+          "sceneDescription": "Captain Fantastic - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "QgvtmO7c-UU-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=QgvtmO7c-UU&t=120s&end=185s",
+          "sceneDescription": "Captain Fantastic - Part 2 (2:00 - 3:05)",
+          "startTime": 120,
+          "endTime": 185
+        }
+      ],
+      "variantCount": 2,
+      "tooltip": {
+        "description": "Captain Fantastic (2016) - Quality Score: 45/100",
+        "genre": "Classic Film",
+        "crawlerScore": 45,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:34:13.957Z"
+      },
+      "movie": "Captain Fantastic"
+    },
+    {
+      "id": "gibboanx-test-29-6",
+      "label": "Lord of War",
+      "date": 2005,
+      "year": 2005,
+      "youtube": "https://www.youtube.com/watch?v=KJHadAPNAo4&t=0s&end=76s",
+      "duration": 76,
+      "variants": [
+        {
+          "id": "KJHadAPNAo4-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=KJHadAPNAo4&t=0s&end=76s",
+          "sceneDescription": "Lord of War - Full Scene (0:00 - 1:16)",
+          "startTime": 0,
+          "endTime": 76
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Lord of War (2005) - Quality Score: 35/100",
+        "genre": "Classic Film",
+        "crawlerScore": 35,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 0,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:34:13.957Z"
+      },
+      "movie": "Lord of War"
+    },
+    {
+      "id": "gibboanx-test-29-7",
+      "label": "The Last of the Mohicans",
+      "date": 1992,
+      "year": 1992,
+      "youtube": "https://www.youtube.com/watch?v=q8ZisDHg6v0&t=0s&end=120s",
+      "duration": 455,
+      "variants": [
+        {
+          "id": "q8ZisDHg6v0-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=q8ZisDHg6v0&t=0s&end=120s",
+          "sceneDescription": "The Last of the Mohicans - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "q8ZisDHg6v0-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=q8ZisDHg6v0&t=120s&end=240s",
+          "sceneDescription": "The Last of the Mohicans - Part 2 (2:00 - 4:00)",
+          "startTime": 120,
+          "endTime": 240
+        },
+        {
+          "id": "q8ZisDHg6v0-variant-2",
+          "youtube": "https://www.youtube.com/watch?v=q8ZisDHg6v0&t=240s&end=360s",
+          "sceneDescription": "The Last of the Mohicans - Part 3 (4:00 - 6:00)",
+          "startTime": 240,
+          "endTime": 360
+        },
+        {
+          "id": "q8ZisDHg6v0-variant-3",
+          "youtube": "https://www.youtube.com/watch?v=q8ZisDHg6v0&t=360s&end=455s",
+          "sceneDescription": "The Last of the Mohicans - Part 4 (6:00 - 7:35)",
+          "startTime": 360,
+          "endTime": 455
+        }
+      ],
+      "variantCount": 4,
+      "tooltip": {
+        "description": "The Last of the Mohicans (1992) - Quality Score: 60/100",
+        "genre": "Classic Film",
+        "crawlerScore": 60,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 10,
+          "popularityFactor": 10,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:34:13.957Z"
+      },
+      "movie": "The Last of the Mohicans"
+    },
+    {
+      "id": "gibboanx-test-29-8",
+      "label": "Lone Survivor",
+      "date": 2013,
+      "year": 2013,
+      "youtube": "https://www.youtube.com/watch?v=9KdS87KJbGA&t=0s&end=120s",
+      "duration": 181,
+      "variants": [
+        {
+          "id": "9KdS87KJbGA-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=9KdS87KJbGA&t=0s&end=120s",
+          "sceneDescription": "Lone Survivor - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "9KdS87KJbGA-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=9KdS87KJbGA&t=120s&end=181s",
+          "sceneDescription": "Lone Survivor - Part 2 (2:00 - 3:01)",
+          "startTime": 120,
+          "endTime": 181
+        }
+      ],
+      "variantCount": 2,
+      "tooltip": {
+        "description": "Lone Survivor (2013) - Quality Score: 50/100",
+        "genre": "Classic Film",
+        "crawlerScore": 50,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 10,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:34:13.957Z"
+      },
+      "movie": "Lone Survivor"
+    },
+    {
+      "id": "gibboanx-test-29-9",
+      "label": "Apocalypto",
+      "date": 2006,
+      "year": 2006,
+      "youtube": "https://www.youtube.com/watch?v=JqIFsB8I_EQ&t=0s&end=120s",
+      "duration": 326,
+      "variants": [
+        {
+          "id": "JqIFsB8I_EQ-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=JqIFsB8I_EQ&t=0s&end=120s",
+          "sceneDescription": "Apocalypto - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "JqIFsB8I_EQ-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=JqIFsB8I_EQ&t=120s&end=240s",
+          "sceneDescription": "Apocalypto - Part 2 (2:00 - 4:00)",
+          "startTime": 120,
+          "endTime": 240
+        },
+        {
+          "id": "JqIFsB8I_EQ-variant-2",
+          "youtube": "https://www.youtube.com/watch?v=JqIFsB8I_EQ&t=240s&end=326s",
+          "sceneDescription": "Apocalypto - Part 3 (4:00 - 5:26)",
+          "startTime": 240,
+          "endTime": 326
+        }
+      ],
+      "variantCount": 3,
+      "tooltip": {
+        "description": "Apocalypto (2006) - Quality Score: 45/100",
+        "genre": "Classic Film",
+        "crawlerScore": 45,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 0,
+          "resolutionQuality": 10,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:34:13.957Z"
+      },
+      "movie": "Apocalypto"
+    },
+    {
+      "id": "gibboanx-test-29-10",
+      "label": "Youth in Revolt",
+      "date": 2009,
+      "year": 2009,
+      "youtube": "https://www.youtube.com/watch?v=eHirqBHORjE&t=0s&end=120s",
+      "duration": 283,
+      "variants": [
+        {
+          "id": "eHirqBHORjE-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=eHirqBHORjE&t=0s&end=120s",
+          "sceneDescription": "Youth in Revolt - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "eHirqBHORjE-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=eHirqBHORjE&t=120s&end=283s",
+          "sceneDescription": "Youth in Revolt - Part 2 (2:00 - 4:43)",
+          "startTime": 120,
+          "endTime": 283
+        }
+      ],
+      "variantCount": 2,
+      "tooltip": {
+        "description": "Youth in Revolt (2009) - Quality Score: 42/100",
+        "genre": "Classic Film",
+        "crawlerScore": 42,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 2,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:34:13.957Z"
+      },
+      "movie": "Youth in Revolt"
+    }
+  ]
+}

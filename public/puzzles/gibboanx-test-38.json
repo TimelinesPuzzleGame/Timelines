@@ -1,0 +1,432 @@
+{
+  "slug": "gibboanx-test-38",
+  "topic": "Gibboanx Test Puzzle 38",
+  "category": "Entertainment",
+  "subcategory": "Movies/TV",
+  "hideDates": false,
+  "showTooltips": true,
+  "variantSystem": {
+    "enabled": true,
+    "totalScenes": 10,
+    "selectionStrategy": "random_per_round"
+  },
+  "cards": [
+    {
+      "id": "gibboanx-test-38-1",
+      "label": "Philadelphia",
+      "date": 1993,
+      "year": 1993,
+      "youtube": "https://www.youtube.com/watch?v=WL47OmZrg0Y&t=0s&end=120s",
+      "duration": 385,
+      "variants": [
+        {
+          "id": "WL47OmZrg0Y-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=WL47OmZrg0Y&t=0s&end=120s",
+          "sceneDescription": "Philadelphia - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "WL47OmZrg0Y-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=WL47OmZrg0Y&t=120s&end=240s",
+          "sceneDescription": "Philadelphia - Part 2 (2:00 - 4:00)",
+          "startTime": 120,
+          "endTime": 240
+        },
+        {
+          "id": "WL47OmZrg0Y-variant-2",
+          "youtube": "https://www.youtube.com/watch?v=WL47OmZrg0Y&t=240s&end=385s",
+          "sceneDescription": "Philadelphia - Part 3 (4:00 - 6:25)",
+          "startTime": 240,
+          "endTime": 385
+        }
+      ],
+      "variantCount": 3,
+      "tooltip": {
+        "description": "Philadelphia (1993) - Quality Score: 45/100",
+        "genre": "Classic Film",
+        "crawlerScore": 45,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:44:09.879Z"
+      },
+      "movie": "Philadelphia"
+    },
+    {
+      "id": "gibboanx-test-38-2",
+      "label": "Beowulf",
+      "date": 2007,
+      "year": 2007,
+      "youtube": "https://www.youtube.com/watch?v=m0fFI0ziCs8&t=0s&end=120s",
+      "duration": 194,
+      "variants": [
+        {
+          "id": "m0fFI0ziCs8-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=m0fFI0ziCs8&t=0s&end=120s",
+          "sceneDescription": "Beowulf - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "m0fFI0ziCs8-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=m0fFI0ziCs8&t=120s&end=194s",
+          "sceneDescription": "Beowulf - Part 2 (2:00 - 3:14)",
+          "startTime": 120,
+          "endTime": 194
+        }
+      ],
+      "variantCount": 2,
+      "tooltip": {
+        "description": "Beowulf (2007) - Quality Score: 45/100",
+        "genre": "Classic Film",
+        "crawlerScore": 45,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:44:09.879Z"
+      },
+      "movie": "Beowulf"
+    },
+    {
+      "id": "gibboanx-test-38-3",
+      "label": "Deep Cover",
+      "date": 1992,
+      "year": 1992,
+      "youtube": "https://www.youtube.com/watch?v=bvRcbeEt-bo&t=0s&end=120s",
+      "duration": 269,
+      "variants": [
+        {
+          "id": "bvRcbeEt-bo-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=bvRcbeEt-bo&t=0s&end=120s",
+          "sceneDescription": "Deep Cover - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "bvRcbeEt-bo-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=bvRcbeEt-bo&t=120s&end=269s",
+          "sceneDescription": "Deep Cover - Part 2 (2:00 - 4:29)",
+          "startTime": 120,
+          "endTime": 269
+        }
+      ],
+      "variantCount": 2,
+      "tooltip": {
+        "description": "Deep Cover (1992) - Quality Score: 42/100",
+        "genre": "Classic Film",
+        "crawlerScore": 42,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 2,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:44:09.879Z"
+      },
+      "movie": "Deep Cover"
+    },
+    {
+      "id": "gibboanx-test-38-4",
+      "label": "Runaway Jury",
+      "date": 2003,
+      "year": 2003,
+      "youtube": "https://www.youtube.com/watch?v=q1MrUPvQrw0&t=0s&end=90s",
+      "duration": 90,
+      "variants": [
+        {
+          "id": "q1MrUPvQrw0-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=q1MrUPvQrw0&t=0s&end=90s",
+          "sceneDescription": "Runaway Jury - Full Scene (0:00 - 1:30)",
+          "startTime": 0,
+          "endTime": 90
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Runaway Jury (2003) - Quality Score: 42/100",
+        "genre": "Classic Film",
+        "crawlerScore": 42,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 2,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:44:09.879Z"
+      },
+      "movie": "Runaway Jury"
+    },
+    {
+      "id": "gibboanx-test-38-5",
+      "label": "Save the Tiger",
+      "date": 1973,
+      "year": 1973,
+      "youtube": "https://www.youtube.com/watch?v=zB-aYFLtSdA&t=0s&end=120s",
+      "duration": 190,
+      "variants": [
+        {
+          "id": "zB-aYFLtSdA-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=zB-aYFLtSdA&t=0s&end=120s",
+          "sceneDescription": "Save the Tiger - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "zB-aYFLtSdA-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=zB-aYFLtSdA&t=120s&end=190s",
+          "sceneDescription": "Save the Tiger - Part 2 (2:00 - 3:10)",
+          "startTime": 120,
+          "endTime": 190
+        }
+      ],
+      "variantCount": 2,
+      "tooltip": {
+        "description": "Save the Tiger (1973) - Quality Score: 40/100",
+        "genre": "Classic Film",
+        "crawlerScore": 40,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 0,
+          "resolutionQuality": 0,
+          "popularityFactor": 10,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:44:09.879Z"
+      },
+      "movie": "Save the Tiger"
+    },
+    {
+      "id": "gibboanx-test-38-6",
+      "label": "Mississippi Burning",
+      "date": 1988,
+      "year": 1988,
+      "youtube": "https://www.youtube.com/watch?v=a2XTXHKcUPY&t=0s&end=120s",
+      "duration": 248,
+      "variants": [
+        {
+          "id": "a2XTXHKcUPY-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=a2XTXHKcUPY&t=0s&end=120s",
+          "sceneDescription": "Mississippi Burning - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "a2XTXHKcUPY-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=a2XTXHKcUPY&t=120s&end=248s",
+          "sceneDescription": "Mississippi Burning - Part 2 (2:00 - 4:08)",
+          "startTime": 120,
+          "endTime": 248
+        }
+      ],
+      "variantCount": 2,
+      "tooltip": {
+        "description": "Mississippi Burning (1988) - Quality Score: 40/100",
+        "genre": "Classic Film",
+        "crawlerScore": 40,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 0,
+          "resolutionQuality": 0,
+          "popularityFactor": 10,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:44:09.879Z"
+      },
+      "movie": "Mississippi Burning"
+    },
+    {
+      "id": "gibboanx-test-38-7",
+      "label": "Final Destination",
+      "date": 2000,
+      "year": 2000,
+      "youtube": "https://www.youtube.com/watch?v=prqBLPMjcVw&t=0s&end=120s",
+      "duration": 299,
+      "variants": [
+        {
+          "id": "prqBLPMjcVw-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=prqBLPMjcVw&t=0s&end=120s",
+          "sceneDescription": "Final Destination - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "prqBLPMjcVw-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=prqBLPMjcVw&t=120s&end=299s",
+          "sceneDescription": "Final Destination - Part 2 (2:00 - 4:59)",
+          "startTime": 120,
+          "endTime": 299
+        }
+      ],
+      "variantCount": 2,
+      "tooltip": {
+        "description": "Final Destination (2000) - Quality Score: 50/100",
+        "genre": "Classic Film",
+        "crawlerScore": 50,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 0,
+          "resolutionQuality": 10,
+          "popularityFactor": 10,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:44:09.880Z"
+      },
+      "movie": "Final Destination"
+    },
+    {
+      "id": "gibboanx-test-38-8",
+      "label": "Fletch",
+      "date": 1985,
+      "year": 1985,
+      "youtube": "https://www.youtube.com/watch?v=pj3xnqaDdDE&t=0s&end=120s",
+      "duration": 395,
+      "variants": [
+        {
+          "id": "pj3xnqaDdDE-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=pj3xnqaDdDE&t=0s&end=120s",
+          "sceneDescription": "Fletch - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "pj3xnqaDdDE-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=pj3xnqaDdDE&t=120s&end=240s",
+          "sceneDescription": "Fletch - Part 2 (2:00 - 4:00)",
+          "startTime": 120,
+          "endTime": 240
+        },
+        {
+          "id": "pj3xnqaDdDE-variant-2",
+          "youtube": "https://www.youtube.com/watch?v=pj3xnqaDdDE&t=240s&end=395s",
+          "sceneDescription": "Fletch - Part 3 (4:00 - 6:35)",
+          "startTime": 240,
+          "endTime": 395
+        }
+      ],
+      "variantCount": 3,
+      "tooltip": {
+        "description": "Fletch (1985) - Quality Score: 55/100",
+        "genre": "Classic Film",
+        "crawlerScore": 55,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 20,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:44:09.880Z"
+      },
+      "movie": "Fletch"
+    },
+    {
+      "id": "gibboanx-test-38-9",
+      "label": "Sleeper",
+      "date": 1973,
+      "year": 1973,
+      "youtube": "https://www.youtube.com/watch?v=b3AKVZ4xbJ0&t=0s&end=120s",
+      "duration": 345,
+      "variants": [
+        {
+          "id": "b3AKVZ4xbJ0-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=b3AKVZ4xbJ0&t=0s&end=120s",
+          "sceneDescription": "Sleeper - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "b3AKVZ4xbJ0-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=b3AKVZ4xbJ0&t=120s&end=240s",
+          "sceneDescription": "Sleeper - Part 2 (2:00 - 4:00)",
+          "startTime": 120,
+          "endTime": 240
+        },
+        {
+          "id": "b3AKVZ4xbJ0-variant-2",
+          "youtube": "https://www.youtube.com/watch?v=b3AKVZ4xbJ0&t=240s&end=345s",
+          "sceneDescription": "Sleeper - Part 3 (4:00 - 5:45)",
+          "startTime": 240,
+          "endTime": 345
+        }
+      ],
+      "variantCount": 3,
+      "tooltip": {
+        "description": "Sleeper (1973) - Quality Score: 40/100",
+        "genre": "Classic Film",
+        "crawlerScore": 40,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 0,
+          "resolutionQuality": 0,
+          "popularityFactor": 10,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:44:09.880Z"
+      },
+      "movie": "Sleeper"
+    },
+    {
+      "id": "gibboanx-test-38-10",
+      "label": "Seven Samurai",
+      "date": 1954,
+      "year": 1954,
+      "youtube": "https://www.youtube.com/watch?v=8V4dEWPJKNk&t=0s&end=97s",
+      "duration": 97,
+      "variants": [
+        {
+          "id": "8V4dEWPJKNk-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=8V4dEWPJKNk&t=0s&end=97s",
+          "sceneDescription": "Seven Samurai - Full Scene (0:00 - 1:37)",
+          "startTime": 0,
+          "endTime": 97
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Seven Samurai (1954) - Quality Score: 35/100",
+        "genre": "Classic Film",
+        "crawlerScore": 35,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 0,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:44:09.880Z"
+      },
+      "movie": "Seven Samurai"
+    }
+  ]
+}

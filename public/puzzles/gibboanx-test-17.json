@@ -1,0 +1,453 @@
+{
+  "slug": "gibboanx-test-17",
+  "topic": "Gibboanx Test Puzzle 17",
+  "category": "Entertainment",
+  "subcategory": "Movies/TV",
+  "hideDates": false,
+  "showTooltips": true,
+  "variantSystem": {
+    "enabled": true,
+    "totalScenes": 10,
+    "selectionStrategy": "random_per_round"
+  },
+  "cards": [
+    {
+      "id": "gibboanx-test-17-1",
+      "label": "The Treasure of the Sierra Madre",
+      "date": 1948,
+      "year": 1948,
+      "youtube": "https://www.youtube.com/watch?v=EQyqvFVe4Y4&t=0s&end=120s",
+      "duration": 215,
+      "variants": [
+        {
+          "id": "EQyqvFVe4Y4-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=EQyqvFVe4Y4&t=0s&end=120s",
+          "sceneDescription": "The Treasure of the Sierra Madre - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "EQyqvFVe4Y4-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=EQyqvFVe4Y4&t=120s&end=215s",
+          "sceneDescription": "The Treasure of the Sierra Madre - Part 2 (2:00 - 3:35)",
+          "startTime": 120,
+          "endTime": 215
+        }
+      ],
+      "variantCount": 2,
+      "tooltip": {
+        "description": "The Treasure of the Sierra Madre (1948) - Quality Score: 35/100",
+        "genre": "Classic Film",
+        "crawlerScore": 35,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 0,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:22:46.527Z"
+      },
+      "movie": "The Treasure of the Sierra Madre"
+    },
+    {
+      "id": "gibboanx-test-17-2",
+      "label": "Primal Fear",
+      "date": 1996,
+      "year": 1996,
+      "youtube": "https://www.youtube.com/watch?v=DniOK7hLEqo&t=0s&end=120s",
+      "duration": 362,
+      "variants": [
+        {
+          "id": "DniOK7hLEqo-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=DniOK7hLEqo&t=0s&end=120s",
+          "sceneDescription": "Primal Fear - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "DniOK7hLEqo-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=DniOK7hLEqo&t=120s&end=240s",
+          "sceneDescription": "Primal Fear - Part 2 (2:00 - 4:00)",
+          "startTime": 120,
+          "endTime": 240
+        },
+        {
+          "id": "DniOK7hLEqo-variant-2",
+          "youtube": "https://www.youtube.com/watch?v=DniOK7hLEqo&t=240s&end=362s",
+          "sceneDescription": "Primal Fear - Part 3 (4:00 - 6:02)",
+          "startTime": 240,
+          "endTime": 362
+        }
+      ],
+      "variantCount": 3,
+      "tooltip": {
+        "description": "Primal Fear (1996) - Quality Score: 45/100",
+        "genre": "Classic Film",
+        "crawlerScore": 45,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:22:46.527Z"
+      },
+      "movie": "Primal Fear"
+    },
+    {
+      "id": "gibboanx-test-17-3",
+      "label": "Walk the Line",
+      "date": 2005,
+      "year": 2005,
+      "youtube": "https://www.youtube.com/watch?v=s_NQ9yUQ6cY&t=0s&end=120s",
+      "duration": 378,
+      "variants": [
+        {
+          "id": "s_NQ9yUQ6cY-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=s_NQ9yUQ6cY&t=0s&end=120s",
+          "sceneDescription": "Walk the Line - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "s_NQ9yUQ6cY-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=s_NQ9yUQ6cY&t=120s&end=240s",
+          "sceneDescription": "Walk the Line - Part 2 (2:00 - 4:00)",
+          "startTime": 120,
+          "endTime": 240
+        },
+        {
+          "id": "s_NQ9yUQ6cY-variant-2",
+          "youtube": "https://www.youtube.com/watch?v=s_NQ9yUQ6cY&t=240s&end=378s",
+          "sceneDescription": "Walk the Line - Part 3 (4:00 - 6:18)",
+          "startTime": 240,
+          "endTime": 378
+        }
+      ],
+      "variantCount": 3,
+      "tooltip": {
+        "description": "Walk the Line (2005) - Quality Score: 50/100",
+        "genre": "Classic Film",
+        "crawlerScore": 50,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 10,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:22:46.527Z"
+      },
+      "movie": "Walk the Line"
+    },
+    {
+      "id": "gibboanx-test-17-4",
+      "label": "The China Syndrome",
+      "date": 1979,
+      "year": 1979,
+      "youtube": "https://www.youtube.com/watch?v=Ir7RZe68_3I&t=0s&end=120s",
+      "duration": 494,
+      "variants": [
+        {
+          "id": "Ir7RZe68_3I-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=Ir7RZe68_3I&t=0s&end=120s",
+          "sceneDescription": "The China Syndrome - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "Ir7RZe68_3I-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=Ir7RZe68_3I&t=120s&end=240s",
+          "sceneDescription": "The China Syndrome - Part 2 (2:00 - 4:00)",
+          "startTime": 120,
+          "endTime": 240
+        },
+        {
+          "id": "Ir7RZe68_3I-variant-2",
+          "youtube": "https://www.youtube.com/watch?v=Ir7RZe68_3I&t=240s&end=360s",
+          "sceneDescription": "The China Syndrome - Part 3 (4:00 - 6:00)",
+          "startTime": 240,
+          "endTime": 360
+        },
+        {
+          "id": "Ir7RZe68_3I-variant-3",
+          "youtube": "https://www.youtube.com/watch?v=Ir7RZe68_3I&t=360s&end=494s",
+          "sceneDescription": "The China Syndrome - Part 4 (6:00 - 8:14)",
+          "startTime": 360,
+          "endTime": 494
+        }
+      ],
+      "variantCount": 4,
+      "tooltip": {
+        "description": "The China Syndrome (1979) - Quality Score: 45/100",
+        "genre": "Classic Film",
+        "crawlerScore": 45,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:22:46.527Z"
+      },
+      "movie": "The China Syndrome"
+    },
+    {
+      "id": "gibboanx-test-17-5",
+      "label": "Narc",
+      "date": 2002,
+      "year": 2002,
+      "youtube": "https://www.youtube.com/watch?v=hdkQWb-6IsY&t=0s&end=120s",
+      "duration": 214,
+      "variants": [
+        {
+          "id": "hdkQWb-6IsY-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=hdkQWb-6IsY&t=0s&end=120s",
+          "sceneDescription": "Narc - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "hdkQWb-6IsY-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=hdkQWb-6IsY&t=120s&end=214s",
+          "sceneDescription": "Narc - Part 2 (2:00 - 3:34)",
+          "startTime": 120,
+          "endTime": 214
+        }
+      ],
+      "variantCount": 2,
+      "tooltip": {
+        "description": "Narc (2002) - Quality Score: 40/100",
+        "genre": "Classic Film",
+        "crawlerScore": 40,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 0,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:22:46.527Z"
+      },
+      "movie": "Narc"
+    },
+    {
+      "id": "gibboanx-test-17-6",
+      "label": "The Orphanage",
+      "date": 2007,
+      "year": 2007,
+      "youtube": "https://www.youtube.com/watch?v=NHCI4vYIW70&t=0s&end=80s",
+      "duration": 80,
+      "variants": [
+        {
+          "id": "NHCI4vYIW70-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=NHCI4vYIW70&t=0s&end=80s",
+          "sceneDescription": "The Orphanage - Full Scene (0:00 - 1:20)",
+          "startTime": 0,
+          "endTime": 80
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "The Orphanage (2007) - Quality Score: 42/100",
+        "genre": "Classic Film",
+        "crawlerScore": 42,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 2,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:22:46.527Z"
+      },
+      "movie": "The Orphanage"
+    },
+    {
+      "id": "gibboanx-test-17-7",
+      "label": "Rust and Bone",
+      "date": 2012,
+      "year": 2012,
+      "youtube": "https://www.youtube.com/watch?v=gdyFObBvyO0&t=0s&end=98s",
+      "duration": 98,
+      "variants": [
+        {
+          "id": "gdyFObBvyO0-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=gdyFObBvyO0&t=0s&end=98s",
+          "sceneDescription": "Rust and Bone - Full Scene (0:00 - 1:38)",
+          "startTime": 0,
+          "endTime": 98
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Rust and Bone (2012) - Quality Score: 42/100",
+        "genre": "Classic Film",
+        "crawlerScore": 42,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 2,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:22:46.527Z"
+      },
+      "movie": "Rust and Bone"
+    },
+    {
+      "id": "gibboanx-test-17-8",
+      "label": "Bridesmaids",
+      "date": 2011,
+      "year": 2011,
+      "youtube": "https://www.youtube.com/watch?v=DmKKWsUxhJU&t=0s&end=120s",
+      "duration": 292,
+      "variants": [
+        {
+          "id": "DmKKWsUxhJU-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=DmKKWsUxhJU&t=0s&end=120s",
+          "sceneDescription": "Bridesmaids - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "DmKKWsUxhJU-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=DmKKWsUxhJU&t=120s&end=292s",
+          "sceneDescription": "Bridesmaids - Part 2 (2:00 - 4:52)",
+          "startTime": 120,
+          "endTime": 292
+        }
+      ],
+      "variantCount": 2,
+      "tooltip": {
+        "description": "Bridesmaids (2011) - Quality Score: 45/100",
+        "genre": "Classic Film",
+        "crawlerScore": 45,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:22:46.527Z"
+      },
+      "movie": "Bridesmaids"
+    },
+    {
+      "id": "gibboanx-test-17-9",
+      "label": "Ichi the Killer",
+      "date": 2001,
+      "year": 2001,
+      "youtube": "https://www.youtube.com/watch?v=OztB5hEO1V8&t=0s&end=120s",
+      "duration": 322,
+      "variants": [
+        {
+          "id": "OztB5hEO1V8-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=OztB5hEO1V8&t=0s&end=120s",
+          "sceneDescription": "Ichi the Killer - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "OztB5hEO1V8-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=OztB5hEO1V8&t=120s&end=240s",
+          "sceneDescription": "Ichi the Killer - Part 2 (2:00 - 4:00)",
+          "startTime": 120,
+          "endTime": 240
+        },
+        {
+          "id": "OztB5hEO1V8-variant-2",
+          "youtube": "https://www.youtube.com/watch?v=OztB5hEO1V8&t=240s&end=322s",
+          "sceneDescription": "Ichi the Killer - Part 3 (4:00 - 5:22)",
+          "startTime": 240,
+          "endTime": 322
+        }
+      ],
+      "variantCount": 3,
+      "tooltip": {
+        "description": "Ichi the Killer (2001) - Quality Score: 40/100",
+        "genre": "Classic Film",
+        "crawlerScore": 40,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 0,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:22:46.527Z"
+      },
+      "movie": "Ichi the Killer"
+    },
+    {
+      "id": "gibboanx-test-17-10",
+      "label": "The Dark Knight Rises",
+      "date": 2012,
+      "year": 2012,
+      "youtube": "https://www.youtube.com/watch?v=rAxJ5EFu2Co&t=0s&end=120s",
+      "duration": 380,
+      "variants": [
+        {
+          "id": "rAxJ5EFu2Co-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=rAxJ5EFu2Co&t=0s&end=120s",
+          "sceneDescription": "The Dark Knight Rises - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "rAxJ5EFu2Co-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=rAxJ5EFu2Co&t=120s&end=240s",
+          "sceneDescription": "The Dark Knight Rises - Part 2 (2:00 - 4:00)",
+          "startTime": 120,
+          "endTime": 240
+        },
+        {
+          "id": "rAxJ5EFu2Co-variant-2",
+          "youtube": "https://www.youtube.com/watch?v=rAxJ5EFu2Co&t=240s&end=380s",
+          "sceneDescription": "The Dark Knight Rises - Part 3 (4:00 - 6:20)",
+          "startTime": 240,
+          "endTime": 380
+        }
+      ],
+      "variantCount": 3,
+      "tooltip": {
+        "description": "The Dark Knight Rises (2012) - Quality Score: 50/100",
+        "genre": "Classic Film",
+        "crawlerScore": 50,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 10,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:22:46.527Z"
+      },
+      "movie": "The Dark Knight Rises"
+    }
+  ]
+}

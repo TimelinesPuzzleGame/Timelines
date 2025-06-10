@@ -135,6 +135,37 @@ import gibboanxTest40 from './puzzles/gibboanx-test-40.json' assert { type: "jso
 // import imdbBurnDown1 from './puzzles/imdb-burn-down-1.json' assert { type: "json" };
 import songs_synth_pop_1749353282288 from './puzzles/songs-synth-pop-1749353282288.json';
 import dateSpoilerReplacementsTest from './puzzles/date-spoiler-replacements-test.json' assert { type: "json" };
+import greatestMusicVideosAllTime from './puzzles/greatest-music-videos-all-time-expanded.json' assert { type: "json" };
+import bestMusicVideosRandomized from './puzzles/best-music-videos-randomized.json' assert { type: "json" };
+// MUSIC VIDEO TEST PUZZLES - CONTENT MERGED INTO greatest-music-videos-all-time-expanded.json
+// import musicVideoTest1 from './puzzles/music-video-test-1.json' assert { type: "json" };
+// import musicVideoTest2 from './puzzles/music-video-test-2.json' assert { type: "json" };
+// import musicVideoTest3 from './puzzles/music-video-test-3.json' assert { type: "json" };
+// import musicVideoTest4 from './puzzles/music-video-test-4.json' assert { type: "json" };
+// import musicVideoTest5 from './puzzles/music-video-test-5.json' assert { type: "json" };
+// import musicVideoTest6 from './puzzles/music-video-test-6.json' assert { type: "json" };
+// MUSIC PLAYLIST TEST PUZZLES - CONTENT MERGED INTO greatest-music-videos-all-time-expanded.json
+// import musicPlaylistTest1 from './puzzles/music-playlist-test-1.json' assert { type: "json" };
+// import musicPlaylistTest2 from './puzzles/music-playlist-test-2.json' assert { type: "json" };
+// import musicPlaylistTest3 from './puzzles/music-playlist-test-3.json' assert { type: "json" };
+// import musicPlaylistTest4 from './puzzles/music-playlist-test-4.json' assert { type: "json" };
+// import musicPlaylistTest5 from './puzzles/music-playlist-test-5.json' assert { type: "json" };
+// import musicPlaylistTest6 from './puzzles/music-playlist-test-6.json' assert { type: "json" };
+// import musicPlaylistTest7 from './puzzles/music-playlist-test-7.json' assert { type: "json" };
+// import musicPlaylistTest8 from './puzzles/music-playlist-test-8.json' assert { type: "json" };
+// import musicPlaylistTest9 from './puzzles/music-playlist-test-9.json' assert { type: "json" };
+// import musicPlaylistTest10 from './puzzles/music-playlist-test-10.json' assert { type: "json" };
+// import musicPlaylistTest11 from './puzzles/music-playlist-test-11.json' assert { type: "json" };
+// import musicPlaylistTest12 from './puzzles/music-playlist-test-12.json' assert { type: "json" };
+// import musicPlaylistTest13 from './puzzles/music-playlist-test-13.json' assert { type: "json" };
+// import musicPlaylistTest14 from './puzzles/music-playlist-test-14.json' assert { type: "json" };
+// import musicPlaylistTest15 from './puzzles/music-playlist-test-15.json' assert { type: "json" };
+// import musicPlaylistTest16 from './puzzles/music-playlist-test-16.json' assert { type: "json" };
+// import musicPlaylistTest17 from './puzzles/music-playlist-test-17.json' assert { type: "json" };
+// import musicPlaylistTest18 from './puzzles/music-playlist-test-18.json' assert { type: "json" };
+// import musicPlaylistTest19 from './puzzles/music-playlist-test-19.json' assert { type: "json" };
+// import musicPlaylistTest20 from './puzzles/music-playlist-test-20.json' assert { type: "json" };
+import songs_dancehall_1749588410353 from './puzzles/songs-dancehall-1749588410353.json';
 // END IMPORTS
 
 export const puzzles: Puzzle[] = [
@@ -267,4 +298,34 @@ romanticComedies as unknown as Puzzle,
       gibboanxTest39 as unknown as Puzzle,
       gibboanxTest40 as unknown as Puzzle,
       dateSpoilerReplacementsTest as unknown as Puzzle,
-  ];
+      greatestMusicVideosAllTime as unknown as Puzzle,
+      bestMusicVideosRandomized as unknown as Puzzle,
+      // Music Video Test Puzzles (Web Scraped - Real YouTube Titles)
+      // musicVideoTest1 as unknown as Puzzle,
+      // musicVideoTest2 as unknown as Puzzle,
+      // musicVideoTest3 as unknown as Puzzle,
+      // musicVideoTest4 as unknown as Puzzle,
+      // musicVideoTest5 as unknown as Puzzle,
+      // musicVideoTest6 as unknown as Puzzle,
+      // MUSIC PLAYLIST TEST PUZZLES - CONTENT MERGED INTO greatest-music-videos-all-time-expanded.json
+      // musicPlaylistTest1 as unknown as Puzzle,
+      // musicPlaylistTest2 as unknown as Puzzle,
+      // musicPlaylistTest3 as unknown as Puzzle,
+      // musicPlaylistTest4 as unknown as Puzzle,
+      // musicPlaylistTest5 as unknown as Puzzle,
+      // musicPlaylistTest6 as unknown as Puzzle,
+      // musicPlaylistTest7 as unknown as Puzzle,
+      // musicPlaylistTest8 as unknown as Puzzle,
+      // musicPlaylistTest9 as unknown as Puzzle,
+      // musicPlaylistTest10 as unknown as Puzzle,
+      // musicPlaylistTest11 as unknown as Puzzle,
+      // musicPlaylistTest12 as unknown as Puzzle,
+      // musicPlaylistTest13 as unknown as Puzzle,
+      // musicPlaylistTest14 as unknown as Puzzle,
+      // musicPlaylistTest15 as unknown as Puzzle,
+      // musicPlaylistTest16 as unknown as Puzzle,
+      // musicPlaylistTest17 as unknown as Puzzle,
+      // musicPlaylistTest18 as unknown as Puzzle,
+      // musicPlaylistTest19 as unknown as Puzzle,
+      // musicPlaylistTest20 as unknown as Puzzle,
+];

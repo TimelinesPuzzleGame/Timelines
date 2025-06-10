@@ -1,0 +1,397 @@
+{
+  "slug": "gibboanx-test-18",
+  "topic": "Gibboanx Test Puzzle 18",
+  "category": "Entertainment",
+  "subcategory": "Movies/TV",
+  "hideDates": false,
+  "showTooltips": true,
+  "variantSystem": {
+    "enabled": true,
+    "totalScenes": 10,
+    "selectionStrategy": "random_per_round"
+  },
+  "cards": [
+    {
+      "id": "gibboanx-test-18-1",
+      "label": "X-Men",
+      "date": 2000,
+      "year": 2000,
+      "youtube": "https://www.youtube.com/watch?v=EkRyP8bp0Io&t=0s&end=74s",
+      "duration": 74,
+      "variants": [
+        {
+          "id": "EkRyP8bp0Io-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=EkRyP8bp0Io&t=0s&end=74s",
+          "sceneDescription": "X-Men - Full Scene (0:00 - 1:14)",
+          "startTime": 0,
+          "endTime": 74
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "X-Men (2000) - Quality Score: 45/100",
+        "genre": "Classic Film",
+        "crawlerScore": 45,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 0,
+          "resolutionQuality": 10,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:24:02.387Z"
+      },
+      "movie": "X-Men"
+    },
+    {
+      "id": "gibboanx-test-18-2",
+      "label": "Filth",
+      "date": 2013,
+      "year": 2013,
+      "youtube": "https://www.youtube.com/watch?v=vbPdQmi3s0M&t=0s&end=63s",
+      "duration": 63,
+      "variants": [
+        {
+          "id": "vbPdQmi3s0M-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=vbPdQmi3s0M&t=0s&end=63s",
+          "sceneDescription": "Filth - Full Scene (0:00 - 1:03)",
+          "startTime": 0,
+          "endTime": 63
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Filth (2013) - Quality Score: 35/100",
+        "genre": "Classic Film",
+        "crawlerScore": 35,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 0,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:24:02.387Z"
+      },
+      "movie": "Filth"
+    },
+    {
+      "id": "gibboanx-test-18-3",
+      "label": "La La Land",
+      "date": 2016,
+      "year": 2016,
+      "youtube": "https://www.youtube.com/watch?v=kCyf2o8nR1Y&t=0s&end=120s",
+      "duration": 241,
+      "variants": [
+        {
+          "id": "kCyf2o8nR1Y-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=kCyf2o8nR1Y&t=0s&end=120s",
+          "sceneDescription": "La La Land - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "kCyf2o8nR1Y-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=kCyf2o8nR1Y&t=120s&end=241s",
+          "sceneDescription": "La La Land - Part 2 (2:00 - 4:01)",
+          "startTime": 120,
+          "endTime": 241
+        }
+      ],
+      "variantCount": 2,
+      "tooltip": {
+        "description": "La La Land (2016) - Quality Score: 50/100",
+        "genre": "Classic Film",
+        "crawlerScore": 50,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 10,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:24:02.387Z"
+      },
+      "movie": "La La Land"
+    },
+    {
+      "id": "gibboanx-test-18-4",
+      "label": "Logan",
+      "date": 2017,
+      "year": 2017,
+      "youtube": "https://www.youtube.com/watch?v=wRN03cExSOY&t=0s&end=120s",
+      "duration": 308,
+      "variants": [
+        {
+          "id": "wRN03cExSOY-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=wRN03cExSOY&t=0s&end=120s",
+          "sceneDescription": "Logan - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "wRN03cExSOY-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=wRN03cExSOY&t=120s&end=240s",
+          "sceneDescription": "Logan - Part 2 (2:00 - 4:00)",
+          "startTime": 120,
+          "endTime": 240
+        },
+        {
+          "id": "wRN03cExSOY-variant-2",
+          "youtube": "https://www.youtube.com/watch?v=wRN03cExSOY&t=240s&end=308s",
+          "sceneDescription": "Logan - Part 3 (4:00 - 5:08)",
+          "startTime": 240,
+          "endTime": 308
+        }
+      ],
+      "variantCount": 3,
+      "tooltip": {
+        "description": "Logan (2017) - Quality Score: 35/100",
+        "genre": "Classic Film",
+        "crawlerScore": 35,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 0,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:24:02.387Z"
+      },
+      "movie": "Logan"
+    },
+    {
+      "id": "gibboanx-test-18-5",
+      "label": "American Gangster",
+      "date": 2007,
+      "year": 2007,
+      "youtube": "https://www.youtube.com/watch?v=YCiV-8IW-D4&t=0s&end=120s",
+      "duration": 194,
+      "variants": [
+        {
+          "id": "YCiV-8IW-D4-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=YCiV-8IW-D4&t=0s&end=120s",
+          "sceneDescription": "American Gangster - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "YCiV-8IW-D4-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=YCiV-8IW-D4&t=120s&end=194s",
+          "sceneDescription": "American Gangster - Part 2 (2:00 - 3:14)",
+          "startTime": 120,
+          "endTime": 194
+        }
+      ],
+      "variantCount": 2,
+      "tooltip": {
+        "description": "American Gangster (2007) - Quality Score: 50/100",
+        "genre": "Classic Film",
+        "crawlerScore": 50,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 10,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:24:02.387Z"
+      },
+      "movie": "American Gangster"
+    },
+    {
+      "id": "gibboanx-test-18-6",
+      "label": "X-Men: First Class",
+      "date": 2011,
+      "year": 2011,
+      "youtube": "https://www.youtube.com/watch?v=d4_S6Tj46zU&t=0s&end=31s",
+      "duration": 31,
+      "variants": [
+        {
+          "id": "d4_S6Tj46zU-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=d4_S6Tj46zU&t=0s&end=31s",
+          "sceneDescription": "X-Men: First Class - Full Scene (0:00 - 0:31)",
+          "startTime": 0,
+          "endTime": 31
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "X-Men: First Class (2011) - Quality Score: 40/100",
+        "genre": "Classic Film",
+        "crawlerScore": 40,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 0,
+          "resolutionQuality": 0,
+          "popularityFactor": 10,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:24:02.387Z"
+      },
+      "movie": "X-Men: First Class"
+    },
+    {
+      "id": "gibboanx-test-18-7",
+      "label": "Crash",
+      "date": 1996,
+      "year": 1996,
+      "youtube": "https://www.youtube.com/watch?v=aHVwX0H45SI&t=0s&end=120s",
+      "duration": 241,
+      "variants": [
+        {
+          "id": "aHVwX0H45SI-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=aHVwX0H45SI&t=0s&end=120s",
+          "sceneDescription": "Crash - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "aHVwX0H45SI-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=aHVwX0H45SI&t=120s&end=241s",
+          "sceneDescription": "Crash - Part 2 (2:00 - 4:01)",
+          "startTime": 120,
+          "endTime": 241
+        }
+      ],
+      "variantCount": 2,
+      "tooltip": {
+        "description": "Crash (1996) - Quality Score: 52/100",
+        "genre": "Classic Film",
+        "crawlerScore": 52,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 2,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:24:02.387Z"
+      },
+      "movie": "Crash"
+    },
+    {
+      "id": "gibboanx-test-18-8",
+      "label": "Mona Lisa",
+      "date": 1986,
+      "year": 1986,
+      "youtube": "https://www.youtube.com/watch?v=p-XR3cMPd5I&t=0s&end=120s",
+      "duration": 201,
+      "variants": [
+        {
+          "id": "p-XR3cMPd5I-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=p-XR3cMPd5I&t=0s&end=120s",
+          "sceneDescription": "Mona Lisa - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "p-XR3cMPd5I-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=p-XR3cMPd5I&t=120s&end=201s",
+          "sceneDescription": "Mona Lisa - Part 2 (2:00 - 3:21)",
+          "startTime": 120,
+          "endTime": 201
+        }
+      ],
+      "variantCount": 2,
+      "tooltip": {
+        "description": "Mona Lisa (1986) - Quality Score: 45/100",
+        "genre": "Classic Film",
+        "crawlerScore": 45,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:24:02.387Z"
+      },
+      "movie": "Mona Lisa"
+    },
+    {
+      "id": "gibboanx-test-18-9",
+      "label": "Pitch Black",
+      "date": 2000,
+      "year": 2000,
+      "youtube": "https://www.youtube.com/watch?v=YVFgI_F4R7Y&t=0s&end=34s",
+      "duration": 34,
+      "variants": [
+        {
+          "id": "YVFgI_F4R7Y-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=YVFgI_F4R7Y&t=0s&end=34s",
+          "sceneDescription": "Pitch Black - Full Scene (0:00 - 0:34)",
+          "startTime": 0,
+          "endTime": 34
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Pitch Black (2000) - Quality Score: 45/100",
+        "genre": "Classic Film",
+        "crawlerScore": 45,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:24:02.387Z"
+      },
+      "movie": "Pitch Black"
+    },
+    {
+      "id": "gibboanx-test-18-10",
+      "label": "Synecdoche",
+      "date": null,
+      "year": null,
+      "youtube": "https://www.youtube.com/watch?v=EHeyI28UQqQ&t=0s&end=87s",
+      "duration": 87,
+      "variants": [
+        {
+          "id": "EHeyI28UQqQ-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=EHeyI28UQqQ&t=0s&end=87s",
+          "sceneDescription": "Synecdoche - Full Scene (0:00 - 1:27)",
+          "startTime": 0,
+          "endTime": 87
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Synecdoche (NaN) - Quality Score: 35/100",
+        "genre": "Classic Film",
+        "crawlerScore": 35,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 0,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:24:02.387Z"
+      },
+      "movie": "Synecdoche"
+    }
+  ]
+}

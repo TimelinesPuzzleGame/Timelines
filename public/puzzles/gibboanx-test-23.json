@@ -1,0 +1,432 @@
+{
+  "slug": "gibboanx-test-23",
+  "topic": "Gibboanx Test Puzzle 23",
+  "category": "Entertainment",
+  "subcategory": "Movies/TV",
+  "hideDates": false,
+  "showTooltips": true,
+  "variantSystem": {
+    "enabled": true,
+    "totalScenes": 10,
+    "selectionStrategy": "random_per_round"
+  },
+  "cards": [
+    {
+      "id": "gibboanx-test-23-1",
+      "label": "No",
+      "date": 2012,
+      "year": 2012,
+      "youtube": "https://www.youtube.com/watch?v=wTjMqda19wk&t=0s&end=120s",
+      "duration": 289,
+      "variants": [
+        {
+          "id": "wTjMqda19wk-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=wTjMqda19wk&t=0s&end=120s",
+          "sceneDescription": "No - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "wTjMqda19wk-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=wTjMqda19wk&t=120s&end=289s",
+          "sceneDescription": "No - Part 2 (2:00 - 4:49)",
+          "startTime": 120,
+          "endTime": 289
+        }
+      ],
+      "variantCount": 2,
+      "tooltip": {
+        "description": "No (2012) - Quality Score: 40/100",
+        "genre": "Classic Film",
+        "crawlerScore": 40,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 0,
+          "resolutionQuality": 0,
+          "popularityFactor": 10,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:28:15.491Z"
+      },
+      "movie": "No"
+    },
+    {
+      "id": "gibboanx-test-23-2",
+      "label": "Empire of the Sun",
+      "date": 1987,
+      "year": 1987,
+      "youtube": "https://www.youtube.com/watch?v=Ekv_mUb3yuo&t=0s&end=120s",
+      "duration": 294,
+      "variants": [
+        {
+          "id": "Ekv_mUb3yuo-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=Ekv_mUb3yuo&t=0s&end=120s",
+          "sceneDescription": "Empire of the Sun - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "Ekv_mUb3yuo-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=Ekv_mUb3yuo&t=120s&end=294s",
+          "sceneDescription": "Empire of the Sun - Part 2 (2:00 - 4:54)",
+          "startTime": 120,
+          "endTime": 294
+        }
+      ],
+      "variantCount": 2,
+      "tooltip": {
+        "description": "Empire of the Sun (1987) - Quality Score: 35/100",
+        "genre": "Classic Film",
+        "crawlerScore": 35,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 0,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:28:15.491Z"
+      },
+      "movie": "Empire of the Sun"
+    },
+    {
+      "id": "gibboanx-test-23-3",
+      "label": "Tombstone",
+      "date": 1993,
+      "year": 1993,
+      "youtube": "https://www.youtube.com/watch?v=co5xVHsMRV0&t=0s&end=83s",
+      "duration": 83,
+      "variants": [
+        {
+          "id": "co5xVHsMRV0-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=co5xVHsMRV0&t=0s&end=83s",
+          "sceneDescription": "Tombstone - Full Scene (0:00 - 1:23)",
+          "startTime": 0,
+          "endTime": 83
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Tombstone (1993) - Quality Score: 40/100",
+        "genre": "Classic Film",
+        "crawlerScore": 40,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 0,
+          "resolutionQuality": 0,
+          "popularityFactor": 10,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:28:15.491Z"
+      },
+      "movie": "Tombstone"
+    },
+    {
+      "id": "gibboanx-test-23-4",
+      "label": "The Addiction",
+      "date": 1995,
+      "year": 1995,
+      "youtube": "https://www.youtube.com/watch?v=sGw678lYFlw&t=0s&end=120s",
+      "duration": 184,
+      "variants": [
+        {
+          "id": "sGw678lYFlw-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=sGw678lYFlw&t=0s&end=120s",
+          "sceneDescription": "The Addiction - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "sGw678lYFlw-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=sGw678lYFlw&t=120s&end=184s",
+          "sceneDescription": "The Addiction - Part 2 (2:00 - 3:04)",
+          "startTime": 120,
+          "endTime": 184
+        }
+      ],
+      "variantCount": 2,
+      "tooltip": {
+        "description": "The Addiction (1995) - Quality Score: 42/100",
+        "genre": "Classic Film",
+        "crawlerScore": 42,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 2,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:28:15.491Z"
+      },
+      "movie": "The Addiction"
+    },
+    {
+      "id": "gibboanx-test-23-5",
+      "label": "Indiana Jones and the Temple of Doom",
+      "date": 1984,
+      "year": 1984,
+      "youtube": "https://www.youtube.com/watch?v=3e-T2iA7H-w&t=0s&end=120s",
+      "duration": 325,
+      "variants": [
+        {
+          "id": "3e-T2iA7H-w-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=3e-T2iA7H-w&t=0s&end=120s",
+          "sceneDescription": "Indiana Jones and the Temple of Doom - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "3e-T2iA7H-w-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=3e-T2iA7H-w&t=120s&end=240s",
+          "sceneDescription": "Indiana Jones and the Temple of Doom - Part 2 (2:00 - 4:00)",
+          "startTime": 120,
+          "endTime": 240
+        },
+        {
+          "id": "3e-T2iA7H-w-variant-2",
+          "youtube": "https://www.youtube.com/watch?v=3e-T2iA7H-w&t=240s&end=325s",
+          "sceneDescription": "Indiana Jones and the Temple of Doom - Part 3 (4:00 - 5:25)",
+          "startTime": 240,
+          "endTime": 325
+        }
+      ],
+      "variantCount": 3,
+      "tooltip": {
+        "description": "Indiana Jones and the Temple of Doom (1984) - Quality Score: 35/100",
+        "genre": "Classic Film",
+        "crawlerScore": 35,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 0,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:28:15.491Z"
+      },
+      "movie": "Indiana Jones and the Temple of Doom"
+    },
+    {
+      "id": "gibboanx-test-23-6",
+      "label": "Paris",
+      "date": null,
+      "year": null,
+      "youtube": "https://www.youtube.com/watch?v=bcG_eFXJlgo&t=0s&end=135s",
+      "duration": 135,
+      "variants": [
+        {
+          "id": "bcG_eFXJlgo-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=bcG_eFXJlgo&t=0s&end=135s",
+          "sceneDescription": "Paris - Part 1 (0:00 - 2:15)",
+          "startTime": 0,
+          "endTime": 135
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Paris (NaN) - Quality Score: 45/100",
+        "genre": "Classic Film",
+        "crawlerScore": 45,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:28:15.492Z"
+      },
+      "movie": "Paris"
+    },
+    {
+      "id": "gibboanx-test-23-7",
+      "label": "Get Him to the Greek",
+      "date": 2010,
+      "year": 2010,
+      "youtube": "https://www.youtube.com/watch?v=sEtBDQDkEXc&t=0s&end=120s",
+      "duration": 409,
+      "variants": [
+        {
+          "id": "sEtBDQDkEXc-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=sEtBDQDkEXc&t=0s&end=120s",
+          "sceneDescription": "Get Him to the Greek - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "sEtBDQDkEXc-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=sEtBDQDkEXc&t=120s&end=240s",
+          "sceneDescription": "Get Him to the Greek - Part 2 (2:00 - 4:00)",
+          "startTime": 120,
+          "endTime": 240
+        },
+        {
+          "id": "sEtBDQDkEXc-variant-2",
+          "youtube": "https://www.youtube.com/watch?v=sEtBDQDkEXc&t=240s&end=409s",
+          "sceneDescription": "Get Him to the Greek - Part 3 (4:00 - 6:49)",
+          "startTime": 240,
+          "endTime": 409
+        }
+      ],
+      "variantCount": 3,
+      "tooltip": {
+        "description": "Get Him to the Greek (2010) - Quality Score: 50/100",
+        "genre": "Classic Film",
+        "crawlerScore": 50,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 10,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:28:15.492Z"
+      },
+      "movie": "Get Him to the Greek"
+    },
+    {
+      "id": "gibboanx-test-23-8",
+      "label": "The Village",
+      "date": 2004,
+      "year": 2004,
+      "youtube": "https://www.youtube.com/watch?v=6RWsIf7xlQs&t=0s&end=120s",
+      "duration": 322,
+      "variants": [
+        {
+          "id": "6RWsIf7xlQs-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=6RWsIf7xlQs&t=0s&end=120s",
+          "sceneDescription": "The Village - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "6RWsIf7xlQs-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=6RWsIf7xlQs&t=120s&end=240s",
+          "sceneDescription": "The Village - Part 2 (2:00 - 4:00)",
+          "startTime": 120,
+          "endTime": 240
+        },
+        {
+          "id": "6RWsIf7xlQs-variant-2",
+          "youtube": "https://www.youtube.com/watch?v=6RWsIf7xlQs&t=240s&end=322s",
+          "sceneDescription": "The Village - Part 3 (4:00 - 5:22)",
+          "startTime": 240,
+          "endTime": 322
+        }
+      ],
+      "variantCount": 3,
+      "tooltip": {
+        "description": "The Village (2004) - Quality Score: 55/100",
+        "genre": "Classic Film",
+        "crawlerScore": 55,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 10,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:28:15.492Z"
+      },
+      "movie": "The Village"
+    },
+    {
+      "id": "gibboanx-test-23-9",
+      "label": "Pacific Rim",
+      "date": 2013,
+      "year": 2013,
+      "youtube": "https://www.youtube.com/watch?v=AStCtVQbufI&t=0s&end=120s",
+      "duration": 349,
+      "variants": [
+        {
+          "id": "AStCtVQbufI-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=AStCtVQbufI&t=0s&end=120s",
+          "sceneDescription": "Pacific Rim - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "AStCtVQbufI-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=AStCtVQbufI&t=120s&end=240s",
+          "sceneDescription": "Pacific Rim - Part 2 (2:00 - 4:00)",
+          "startTime": 120,
+          "endTime": 240
+        },
+        {
+          "id": "AStCtVQbufI-variant-2",
+          "youtube": "https://www.youtube.com/watch?v=AStCtVQbufI&t=240s&end=349s",
+          "sceneDescription": "Pacific Rim - Part 3 (4:00 - 5:49)",
+          "startTime": 240,
+          "endTime": 349
+        }
+      ],
+      "variantCount": 3,
+      "tooltip": {
+        "description": "Pacific Rim (2013) - Quality Score: 50/100",
+        "genre": "Classic Film",
+        "crawlerScore": 50,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 0,
+          "resolutionQuality": 10,
+          "popularityFactor": 10,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:28:15.492Z"
+      },
+      "movie": "Pacific Rim"
+    },
+    {
+      "id": "gibboanx-test-23-10",
+      "label": "Shoot 'Em Up",
+      "date": 2007,
+      "year": 2007,
+      "youtube": "https://www.youtube.com/watch?v=s1r8DTF2MXg&t=0s&end=34s",
+      "duration": 34,
+      "variants": [
+        {
+          "id": "s1r8DTF2MXg-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=s1r8DTF2MXg&t=0s&end=34s",
+          "sceneDescription": "Shoot 'Em Up - Full Scene (0:00 - 0:34)",
+          "startTime": 0,
+          "endTime": 34
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Shoot 'Em Up (2007) - Quality Score: 42/100",
+        "genre": "Classic Film",
+        "crawlerScore": 42,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 2,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:28:15.492Z"
+      },
+      "movie": "Shoot 'Em Up"
+    }
+  ]
+}

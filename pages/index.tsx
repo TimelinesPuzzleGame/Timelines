@@ -245,6 +245,7 @@ export default function Home() {
             showImageOnPlace={showImageOnPlace}
             showTooltips={showTooltips}
             locked={gameOver}
+            puzzle={puzzle}
           />
         )}
       </div>

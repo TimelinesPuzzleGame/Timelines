@@ -1,0 +1,397 @@
+{
+  "slug": "gibboanx-test-12",
+  "topic": "Gibboanx Test Puzzle 12",
+  "category": "Entertainment",
+  "subcategory": "Movies/TV",
+  "hideDates": false,
+  "showTooltips": true,
+  "variantSystem": {
+    "enabled": true,
+    "totalScenes": 10,
+    "selectionStrategy": "random_per_round"
+  },
+  "cards": [
+    {
+      "id": "gibboanx-test-12-1",
+      "label": "21 Grams",
+      "date": 2003,
+      "year": 2003,
+      "youtube": "https://www.youtube.com/watch?v=dv_kVbGHvsc&t=0s&end=151s",
+      "duration": 151,
+      "variants": [
+        {
+          "id": "dv_kVbGHvsc-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=dv_kVbGHvsc&t=0s&end=151s",
+          "sceneDescription": "21 Grams - Part 1 (0:00 - 2:31)",
+          "startTime": 0,
+          "endTime": 151
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "21 Grams (2003) - Quality Score: 45/100",
+        "genre": "Classic Film",
+        "crawlerScore": 45,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:17:26.073Z"
+      },
+      "movie": "21 Grams"
+    },
+    {
+      "id": "gibboanx-test-12-2",
+      "label": "Annie Hall",
+      "date": 1977,
+      "year": 1977,
+      "youtube": "https://www.youtube.com/watch?v=5U1-OmAICpU&t=0s&end=46s",
+      "duration": 46,
+      "variants": [
+        {
+          "id": "5U1-OmAICpU-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=5U1-OmAICpU&t=0s&end=46s",
+          "sceneDescription": "Annie Hall - Full Scene (0:00 - 0:46)",
+          "startTime": 0,
+          "endTime": 46
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Annie Hall (1977) - Quality Score: 35/100",
+        "genre": "Classic Film",
+        "crawlerScore": 35,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 0,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:17:26.073Z"
+      },
+      "movie": "Annie Hall"
+    },
+    {
+      "id": "gibboanx-test-12-3",
+      "label": "Heathers",
+      "date": 1988,
+      "year": 1988,
+      "youtube": "https://www.youtube.com/watch?v=5PX7p6l9gN0&t=0s&end=30s",
+      "duration": 30,
+      "variants": [
+        {
+          "id": "5PX7p6l9gN0-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=5PX7p6l9gN0&t=0s&end=30s",
+          "sceneDescription": "Heathers - Full Scene (0:00 - 0:30)",
+          "startTime": 0,
+          "endTime": 30
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Heathers (1988) - Quality Score: 50/100",
+        "genre": "Classic Film",
+        "crawlerScore": 50,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 10,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:17:26.073Z"
+      },
+      "movie": "Heathers"
+    },
+    {
+      "id": "gibboanx-test-12-4",
+      "label": "Adventureland",
+      "date": 2009,
+      "year": 2009,
+      "youtube": "https://www.youtube.com/watch?v=_ZnNiYEcy5s&t=0s&end=84s",
+      "duration": 84,
+      "variants": [
+        {
+          "id": "_ZnNiYEcy5s-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=_ZnNiYEcy5s&t=0s&end=84s",
+          "sceneDescription": "Adventureland - Full Scene (0:00 - 1:24)",
+          "startTime": 0,
+          "endTime": 84
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Adventureland (2009) - Quality Score: 40/100",
+        "genre": "Classic Film",
+        "crawlerScore": 40,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 0,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:17:26.073Z"
+      },
+      "movie": "Adventureland"
+    },
+    {
+      "id": "gibboanx-test-12-5",
+      "label": "The Conversation",
+      "date": 1974,
+      "year": 1974,
+      "youtube": "https://www.youtube.com/watch?v=Pqg8Z21Pvh4&t=0s&end=120s",
+      "duration": 224,
+      "variants": [
+        {
+          "id": "Pqg8Z21Pvh4-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=Pqg8Z21Pvh4&t=0s&end=120s",
+          "sceneDescription": "The Conversation - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "Pqg8Z21Pvh4-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=Pqg8Z21Pvh4&t=120s&end=224s",
+          "sceneDescription": "The Conversation - Part 2 (2:00 - 3:44)",
+          "startTime": 120,
+          "endTime": 224
+        }
+      ],
+      "variantCount": 2,
+      "tooltip": {
+        "description": "The Conversation (1974) - Quality Score: 42/100",
+        "genre": "Classic Film",
+        "crawlerScore": 42,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 2,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:17:26.073Z"
+      },
+      "movie": "The Conversation"
+    },
+    {
+      "id": "gibboanx-test-12-6",
+      "label": "Watchmen",
+      "date": 2009,
+      "year": 2009,
+      "youtube": "https://www.youtube.com/watch?v=WAST139RPCo&t=0s&end=143s",
+      "duration": 143,
+      "variants": [
+        {
+          "id": "WAST139RPCo-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=WAST139RPCo&t=0s&end=143s",
+          "sceneDescription": "Watchmen - Part 1 (0:00 - 2:23)",
+          "startTime": 0,
+          "endTime": 143
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Watchmen (2009) - Quality Score: 40/100",
+        "genre": "Classic Film",
+        "crawlerScore": 40,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 0,
+          "resolutionQuality": 0,
+          "popularityFactor": 10,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:17:26.073Z"
+      },
+      "movie": "Watchmen"
+    },
+    {
+      "id": "gibboanx-test-12-7",
+      "label": "The Ghost Writer",
+      "date": 2010,
+      "year": 2010,
+      "youtube": "https://www.youtube.com/watch?v=Fu-K63dVBxY&t=0s&end=120s",
+      "duration": 205,
+      "variants": [
+        {
+          "id": "Fu-K63dVBxY-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=Fu-K63dVBxY&t=0s&end=120s",
+          "sceneDescription": "The Ghost Writer - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "Fu-K63dVBxY-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=Fu-K63dVBxY&t=120s&end=205s",
+          "sceneDescription": "The Ghost Writer - Part 2 (2:00 - 3:25)",
+          "startTime": 120,
+          "endTime": 205
+        }
+      ],
+      "variantCount": 2,
+      "tooltip": {
+        "description": "The Ghost Writer (2010) - Quality Score: 42/100",
+        "genre": "Classic Film",
+        "crawlerScore": 42,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 2,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:17:26.073Z"
+      },
+      "movie": "The Ghost Writer"
+    },
+    {
+      "id": "gibboanx-test-12-8",
+      "label": "REC",
+      "date": 2007,
+      "year": 2007,
+      "youtube": "https://www.youtube.com/watch?v=RnT5d2OMHUU&t=0s&end=120s",
+      "duration": 544,
+      "variants": [
+        {
+          "id": "RnT5d2OMHUU-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=RnT5d2OMHUU&t=0s&end=120s",
+          "sceneDescription": "REC - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "RnT5d2OMHUU-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=RnT5d2OMHUU&t=120s&end=240s",
+          "sceneDescription": "REC - Part 2 (2:00 - 4:00)",
+          "startTime": 120,
+          "endTime": 240
+        },
+        {
+          "id": "RnT5d2OMHUU-variant-2",
+          "youtube": "https://www.youtube.com/watch?v=RnT5d2OMHUU&t=240s&end=360s",
+          "sceneDescription": "REC - Part 3 (4:00 - 6:00)",
+          "startTime": 240,
+          "endTime": 360
+        },
+        {
+          "id": "RnT5d2OMHUU-variant-3",
+          "youtube": "https://www.youtube.com/watch?v=RnT5d2OMHUU&t=360s&end=480s",
+          "sceneDescription": "REC - Part 4 (6:00 - 8:00)",
+          "startTime": 360,
+          "endTime": 480
+        },
+        {
+          "id": "RnT5d2OMHUU-variant-4",
+          "youtube": "https://www.youtube.com/watch?v=RnT5d2OMHUU&t=480s&end=544s",
+          "sceneDescription": "REC - Part 5 (8:00 - 9:04)",
+          "startTime": 480,
+          "endTime": 544
+        }
+      ],
+      "variantCount": 5,
+      "tooltip": {
+        "description": "REC (2007) - Quality Score: 35/100",
+        "genre": "Classic Film",
+        "crawlerScore": 35,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 0,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:17:26.073Z"
+      },
+      "movie": "REC"
+    },
+    {
+      "id": "gibboanx-test-12-9",
+      "label": "Day Watch",
+      "date": 2006,
+      "year": 2006,
+      "youtube": "https://www.youtube.com/watch?v=yQwsWsyg41E&t=0s&end=134s",
+      "duration": 134,
+      "variants": [
+        {
+          "id": "yQwsWsyg41E-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=yQwsWsyg41E&t=0s&end=134s",
+          "sceneDescription": "Day Watch - Part 1 (0:00 - 2:14)",
+          "startTime": 0,
+          "endTime": 134
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Day Watch (2006) - Quality Score: 40/100",
+        "genre": "Classic Film",
+        "crawlerScore": 40,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 0,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:17:26.073Z"
+      },
+      "movie": "Day Watch"
+    },
+    {
+      "id": "gibboanx-test-12-10",
+      "label": "The Kid Stays in the Picture",
+      "date": 2002,
+      "year": 2002,
+      "youtube": "https://www.youtube.com/watch?v=WuVTyGzBo2c&t=0s&end=126s",
+      "duration": 126,
+      "variants": [
+        {
+          "id": "WuVTyGzBo2c-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=WuVTyGzBo2c&t=0s&end=126s",
+          "sceneDescription": "The Kid Stays in the Picture - Part 1 (0:00 - 2:06)",
+          "startTime": 0,
+          "endTime": 126
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "The Kid Stays in the Picture (2002) - Quality Score: 42/100",
+        "genre": "Classic Film",
+        "crawlerScore": 42,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 2,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:17:26.073Z"
+      },
+      "movie": "The Kid Stays in the Picture"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+// This file has been merged into greatest-music-videos-all-time-expanded.json
+// Original content:
+/*
+{
+  "slug": "music-playlist-test-18",
+  "topic": "Music Playlist Test 18",
+  "category": "Entertainment",
+  "subcategory": "Music",
+  "description": "Music videos and performances from 1981-2010. Features real YouTube video titles with verified release dates and no date spoilers.",
+  "hideDates": false,
+  "cards": [
+    {
+      "id": 147,
+      "label": "Queen - Under Pressure",
+      "date": 1981,
+      "youtube": "https://www.youtube.com/watch?v=a01QQZyl-_I"
+    },
+    {
+      "id": 187,
+      "label": "Rockwell - Somebody's Watching Me",
+      "date": 1984,
+      "youtube": "https://www.youtube.com/watch?v=7YvAYIJSSZY"
+    },
+    {
+      "id": 189,
+      "label": "Billy Idol - Rebel Yell",
+      "date": 1983,
+      "youtube": "https://www.youtube.com/watch?v=VdphvuyaV_I"
+    },
+    {
+      "id": 190,
+      "label": "Tom Petty - Free Fallin'",
+      "date": 1989,
+      "youtube": "https://www.youtube.com/watch?v=1lWJXDG2i0A"
+    },
+    {
+      "id": 192,
+      "label": "Glenn Mederios - nothing gonna change my love for you",
+      "date": 2010,
+      "youtube": "https://www.youtube.com/watch?v=MLxTEV5vpyg"
+    },
+    {
+      "id": 193,
+      "label": "Warrant - Cherry Pie",
+      "date": 1990,
+      "youtube": "https://www.youtube.com/watch?v=OjyZKfdwlng"
+    },
+    {
+      "id": 194,
+      "label": "Milli Vanilli - Girl I'm Gonna Miss You (Videoclip)",
+      "date": 2010,
+      "youtube": "https://www.youtube.com/watch?v=ZbUENJ5FjBk"
+    },
+    {
+      "id": 195,
+      "label": "Rick James - Super Freak",
+      "date": 1981,
+      "youtube": "https://www.youtube.com/watch?v=QYHxGBH6o4M"
+    },
+    {
+      "id": 196,
+      "label": "Daryl Hall & John Oates - Maneater",
+      "date": 1982,
+      "youtube": "https://www.youtube.com/watch?v=yRYFKcMa_Ek"
+    },
+    {
+      "id": 197,
+      "label": "Suzanne Vega - Luka",
+      "date": 1987,
+      "youtube": "https://www.youtube.com/watch?v=VZt7J0iaUD0"
+    }
+  ]
+}
+*/

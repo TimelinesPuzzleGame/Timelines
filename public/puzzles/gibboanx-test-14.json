@@ -1,0 +1,383 @@
+{
+  "slug": "gibboanx-test-14",
+  "topic": "Gibboanx Test Puzzle 14",
+  "category": "Entertainment",
+  "subcategory": "Movies/TV",
+  "hideDates": false,
+  "showTooltips": true,
+  "variantSystem": {
+    "enabled": true,
+    "totalScenes": 10,
+    "selectionStrategy": "random_per_round"
+  },
+  "cards": [
+    {
+      "id": "gibboanx-test-14-1",
+      "label": "Love and Death",
+      "date": 1975,
+      "year": 1975,
+      "youtube": "https://www.youtube.com/watch?v=LFIIImZngMw&t=0s&end=136s",
+      "duration": 136,
+      "variants": [
+        {
+          "id": "LFIIImZngMw-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=LFIIImZngMw&t=0s&end=136s",
+          "sceneDescription": "Love and Death - Part 1 (0:00 - 2:16)",
+          "startTime": 0,
+          "endTime": 136
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Love and Death (1975) - Quality Score: 40/100",
+        "genre": "Classic Film",
+        "crawlerScore": 40,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 0,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:19:19.660Z"
+      },
+      "movie": "Love and Death"
+    },
+    {
+      "id": "gibboanx-test-14-2",
+      "label": "Blue Valentine",
+      "date": 2010,
+      "year": 2010,
+      "youtube": "https://www.youtube.com/watch?v=AR-m9aSilfQ&t=0s&end=120s",
+      "duration": 525,
+      "variants": [
+        {
+          "id": "AR-m9aSilfQ-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=AR-m9aSilfQ&t=0s&end=120s",
+          "sceneDescription": "Blue Valentine - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "AR-m9aSilfQ-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=AR-m9aSilfQ&t=120s&end=240s",
+          "sceneDescription": "Blue Valentine - Part 2 (2:00 - 4:00)",
+          "startTime": 120,
+          "endTime": 240
+        },
+        {
+          "id": "AR-m9aSilfQ-variant-2",
+          "youtube": "https://www.youtube.com/watch?v=AR-m9aSilfQ&t=240s&end=360s",
+          "sceneDescription": "Blue Valentine - Part 3 (4:00 - 6:00)",
+          "startTime": 240,
+          "endTime": 360
+        },
+        {
+          "id": "AR-m9aSilfQ-variant-3",
+          "youtube": "https://www.youtube.com/watch?v=AR-m9aSilfQ&t=360s&end=525s",
+          "sceneDescription": "Blue Valentine - Part 4 (6:00 - 8:45)",
+          "startTime": 360,
+          "endTime": 525
+        }
+      ],
+      "variantCount": 4,
+      "tooltip": {
+        "description": "Blue Valentine (2010) - Quality Score: 50/100",
+        "genre": "Classic Film",
+        "crawlerScore": 50,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 10,
+          "popularityFactor": 0,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:19:19.660Z"
+      },
+      "movie": "Blue Valentine"
+    },
+    {
+      "id": "gibboanx-test-14-3",
+      "label": "Slap Shot",
+      "date": 1977,
+      "year": 1977,
+      "youtube": "https://www.youtube.com/watch?v=Al8mQpka2Y0&t=0s&end=44s",
+      "duration": 44,
+      "variants": [
+        {
+          "id": "Al8mQpka2Y0-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=Al8mQpka2Y0&t=0s&end=44s",
+          "sceneDescription": "Slap Shot - Full Scene (0:00 - 0:44)",
+          "startTime": 0,
+          "endTime": 44
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Slap Shot (1977) - Quality Score: 35/100",
+        "genre": "Classic Film",
+        "crawlerScore": 35,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 0,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:19:19.660Z"
+      },
+      "movie": "Slap Shot"
+    },
+    {
+      "id": "gibboanx-test-14-4",
+      "label": "Gremlins 2: The New Batch",
+      "date": 1990,
+      "year": 1990,
+      "youtube": "https://www.youtube.com/watch?v=2sR5D7JlO3s&t=0s&end=79s",
+      "duration": 79,
+      "variants": [
+        {
+          "id": "2sR5D7JlO3s-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=2sR5D7JlO3s&t=0s&end=79s",
+          "sceneDescription": "Gremlins 2: The New Batch - Full Scene (0:00 - 1:19)",
+          "startTime": 0,
+          "endTime": 79
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Gremlins 2: The New Batch (1990) - Quality Score: 35/100",
+        "genre": "Classic Film",
+        "crawlerScore": 35,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 0,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:19:19.660Z"
+      },
+      "movie": "Gremlins 2: The New Batch"
+    },
+    {
+      "id": "gibboanx-test-14-5",
+      "label": "Wall Street",
+      "date": 1987,
+      "year": 1987,
+      "youtube": "https://www.youtube.com/watch?v=lKelkOC7cmo&t=0s&end=132s",
+      "duration": 132,
+      "variants": [
+        {
+          "id": "lKelkOC7cmo-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=lKelkOC7cmo&t=0s&end=132s",
+          "sceneDescription": "Wall Street - Part 1 (0:00 - 2:12)",
+          "startTime": 0,
+          "endTime": 132
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Wall Street (1987) - Quality Score: 35/100",
+        "genre": "Classic Film",
+        "crawlerScore": 35,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 0,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:19:19.660Z"
+      },
+      "movie": "Wall Street"
+    },
+    {
+      "id": "gibboanx-test-14-6",
+      "label": "Tommy",
+      "date": 1975,
+      "year": 1975,
+      "youtube": "https://www.youtube.com/watch?v=jL53EUbHazo&t=0s&end=120s",
+      "duration": 276,
+      "variants": [
+        {
+          "id": "jL53EUbHazo-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=jL53EUbHazo&t=0s&end=120s",
+          "sceneDescription": "Tommy - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "jL53EUbHazo-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=jL53EUbHazo&t=120s&end=276s",
+          "sceneDescription": "Tommy - Part 2 (2:00 - 4:36)",
+          "startTime": 120,
+          "endTime": 276
+        }
+      ],
+      "variantCount": 2,
+      "tooltip": {
+        "description": "Tommy (1975) - Quality Score: 40/100",
+        "genre": "Classic Film",
+        "crawlerScore": 40,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 0,
+          "resolutionQuality": 0,
+          "popularityFactor": 10,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:19:19.660Z"
+      },
+      "movie": "Tommy"
+    },
+    {
+      "id": "gibboanx-test-14-7",
+      "label": "Gomorrah",
+      "date": 2008,
+      "year": 2008,
+      "youtube": "https://www.youtube.com/watch?v=zhigvV0Z45M&t=0s&end=81s",
+      "duration": 81,
+      "variants": [
+        {
+          "id": "zhigvV0Z45M-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=zhigvV0Z45M&t=0s&end=81s",
+          "sceneDescription": "Gomorrah - Full Scene (0:00 - 1:21)",
+          "startTime": 0,
+          "endTime": 81
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Gomorrah (2008) - Quality Score: 50/100",
+        "genre": "Classic Film",
+        "crawlerScore": 50,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 0,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:19:19.660Z"
+      },
+      "movie": "Gomorrah"
+    },
+    {
+      "id": "gibboanx-test-14-8",
+      "label": "The King of Comedy",
+      "date": 1982,
+      "year": 1982,
+      "youtube": "https://www.youtube.com/watch?v=y-LJ0_rOgd8&t=0s&end=42s",
+      "duration": 42,
+      "variants": [
+        {
+          "id": "y-LJ0_rOgd8-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=y-LJ0_rOgd8&t=0s&end=42s",
+          "sceneDescription": "The King of Comedy - Full Scene (0:00 - 0:42)",
+          "startTime": 0,
+          "endTime": 42
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "The King of Comedy (1982) - Quality Score: 42/100",
+        "genre": "Classic Film",
+        "crawlerScore": 42,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 2,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:19:19.660Z"
+      },
+      "movie": "The King of Comedy"
+    },
+    {
+      "id": "gibboanx-test-14-9",
+      "label": "House of Games",
+      "date": 1987,
+      "year": 1987,
+      "youtube": "https://www.youtube.com/watch?v=u4yxYyRSTqE&t=0s&end=137s",
+      "duration": 137,
+      "variants": [
+        {
+          "id": "u4yxYyRSTqE-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=u4yxYyRSTqE&t=0s&end=137s",
+          "sceneDescription": "House of Games - Part 1 (0:00 - 2:17)",
+          "startTime": 0,
+          "endTime": 137
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "House of Games (1987) - Quality Score: 40/100",
+        "genre": "Classic Film",
+        "crawlerScore": 40,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 0,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:19:19.660Z"
+      },
+      "movie": "House of Games"
+    },
+    {
+      "id": "gibboanx-test-14-10",
+      "label": "The Tree of Life",
+      "date": 2011,
+      "year": 2011,
+      "youtube": "https://www.youtube.com/watch?v=rjkPQn5w0aA&t=0s&end=173s",
+      "duration": 173,
+      "variants": [
+        {
+          "id": "rjkPQn5w0aA-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=rjkPQn5w0aA&t=0s&end=173s",
+          "sceneDescription": "The Tree of Life - Part 1 (0:00 - 2:53)",
+          "startTime": 0,
+          "endTime": 173
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "The Tree of Life (2011) - Quality Score: 42/100",
+        "genre": "Classic Film",
+        "crawlerScore": 42,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 2,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:19:19.660Z"
+      },
+      "movie": "The Tree of Life"
+    }
+  ]
+}

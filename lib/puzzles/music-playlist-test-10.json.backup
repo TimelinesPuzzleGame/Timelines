@@ -1,0 +1,74 @@
+// This file has been merged into greatest-music-videos-all-time-expanded.json
+// Original content:
+/*
+{
+  "slug": "music-playlist-test-10",
+  "topic": "Music Playlist Test 10",
+  "category": "Entertainment",
+  "subcategory": "Music",
+  "description": "Music videos and performances from 1983-2015. Features real YouTube video titles with verified release dates and no date spoilers.",
+  "hideDates": false,
+  "cards": [
+    {
+      "id": 100,
+      "label": "Police - Every Breath You Take",
+      "date": 1983,
+      "youtube": "https://www.youtube.com/watch?v=OMOGaugKpzs"
+    },
+    {
+      "id": 103,
+      "label": "Cyndi Lauper - Girls Just Want To Have Fun",
+      "date": 1983,
+      "youtube": "https://www.youtube.com/watch?v=PIb6AZdTr-A"
+    },
+    {
+      "id": 99,
+      "label": "a - ha - Take On Me [4K]",
+      "date": 1985,
+      "youtube": "https://www.youtube.com/watch?v=djV11Xbc914"
+    },
+    {
+      "id": 92,
+      "label": "X - Nicky Jam x J. Balvin | Video Oficial  (Prod. Afro Bros & Jeon)",
+      "date": 2017,
+      "youtube": "https://www.youtube.com/watch?v=_I_D_8Z4sJE"
+    },
+    {
+      "id": 93,
+      "label": "Tim McGraw - Humble And Kind",
+      "date": 2016,
+      "youtube": "https://www.youtube.com/watch?v=awzNHuGqoMc"
+    },
+    {
+      "id": 96,
+      "label": "Kiesza - Hideaway",
+      "date": 2014,
+      "youtube": "https://www.youtube.com/watch?v=Vnoz5uBEWOA"
+    },
+    {
+      "id": 97,
+      "label": "Beastie Boys - Make Some Noise",
+      "date": 2011,
+      "youtube": "https://www.youtube.com/watch?v=WdgLMslbDuY"
+    },
+    {
+      "id": 98,
+      "label": "Billy Idol - Eyes Without A Face",
+      "date": 1984,
+      "youtube": "https://www.youtube.com/watch?v=9OFpfTd0EIs"
+    },
+    {
+      "id": 101,
+      "label": "Scorpions - Wind Of Change",
+      "date": 1991,
+      "youtube": "https://www.youtube.com/watch?v=n4RjJKxsamQ"
+    },
+    {
+      "id": 94,
+      "label": "Adele - Hello",
+      "date": 2015,
+      "youtube": "https://www.youtube.com/watch?v=YQHsXMglC9A"
+    }
+  ]
+}
+*/

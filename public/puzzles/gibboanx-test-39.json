@@ -1,0 +1,383 @@
+{
+  "slug": "gibboanx-test-39",
+  "topic": "Gibboanx Test Puzzle 39",
+  "category": "Entertainment",
+  "subcategory": "Movies/TV",
+  "hideDates": false,
+  "showTooltips": true,
+  "variantSystem": {
+    "enabled": true,
+    "totalScenes": 10,
+    "selectionStrategy": "random_per_round"
+  },
+  "cards": [
+    {
+      "id": "gibboanx-test-39-1",
+      "label": "Amy",
+      "date": 2015,
+      "year": 2015,
+      "youtube": "https://www.youtube.com/watch?v=3su4q5fVGQg&t=0s&end=120s",
+      "duration": 183,
+      "variants": [
+        {
+          "id": "3su4q5fVGQg-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=3su4q5fVGQg&t=0s&end=120s",
+          "sceneDescription": "Amy - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "3su4q5fVGQg-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=3su4q5fVGQg&t=120s&end=183s",
+          "sceneDescription": "Amy - Part 2 (2:00 - 3:03)",
+          "startTime": 120,
+          "endTime": 183
+        }
+      ],
+      "variantCount": 2,
+      "tooltip": {
+        "description": "Amy (2015) - Quality Score: 60/100",
+        "genre": "Classic Film",
+        "crawlerScore": 60,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 10,
+          "popularityFactor": 10,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:44:58.530Z"
+      },
+      "movie": "Amy"
+    },
+    {
+      "id": "gibboanx-test-39-2",
+      "label": "The Lobster",
+      "date": 2015,
+      "year": 2015,
+      "youtube": "https://www.youtube.com/watch?v=p2cU0AFEGu8&t=0s&end=171s",
+      "duration": 171,
+      "variants": [
+        {
+          "id": "p2cU0AFEGu8-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=p2cU0AFEGu8&t=0s&end=171s",
+          "sceneDescription": "The Lobster - Part 1 (0:00 - 2:51)",
+          "startTime": 0,
+          "endTime": 171
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "The Lobster (2015) - Quality Score: 42/100",
+        "genre": "Classic Film",
+        "crawlerScore": 42,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 2,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:44:58.530Z"
+      },
+      "movie": "The Lobster"
+    },
+    {
+      "id": "gibboanx-test-39-3",
+      "label": "Commando",
+      "date": 1985,
+      "year": 1985,
+      "youtube": "https://www.youtube.com/watch?v=4RgSmkm5S-k&t=0s&end=166s",
+      "duration": 166,
+      "variants": [
+        {
+          "id": "4RgSmkm5S-k-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=4RgSmkm5S-k&t=0s&end=166s",
+          "sceneDescription": "Commando - Part 1 (0:00 - 2:46)",
+          "startTime": 0,
+          "endTime": 166
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Commando (1985) - Quality Score: 45/100",
+        "genre": "Classic Film",
+        "crawlerScore": 45,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 0,
+          "resolutionQuality": 10,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:44:58.530Z"
+      },
+      "movie": "Commando"
+    },
+    {
+      "id": "gibboanx-test-39-4",
+      "label": "Ted",
+      "date": 2012,
+      "year": 2012,
+      "youtube": "https://www.youtube.com/watch?v=RqVP1XoYpWM&t=0s&end=36s",
+      "duration": 36,
+      "variants": [
+        {
+          "id": "RqVP1XoYpWM-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=RqVP1XoYpWM&t=0s&end=36s",
+          "sceneDescription": "Ted - Full Scene (0:00 - 0:36)",
+          "startTime": 0,
+          "endTime": 36
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Ted (2012) - Quality Score: 55/100",
+        "genre": "Classic Film",
+        "crawlerScore": 55,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 10,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:44:58.530Z"
+      },
+      "movie": "Ted"
+    },
+    {
+      "id": "gibboanx-test-39-5",
+      "label": "The Sound of Music",
+      "date": 1965,
+      "year": 1965,
+      "youtube": "https://www.youtube.com/watch?v=U9v85Bc1fR0&t=0s&end=120s",
+      "duration": 253,
+      "variants": [
+        {
+          "id": "U9v85Bc1fR0-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=U9v85Bc1fR0&t=0s&end=120s",
+          "sceneDescription": "The Sound of Music - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "U9v85Bc1fR0-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=U9v85Bc1fR0&t=120s&end=253s",
+          "sceneDescription": "The Sound of Music - Part 2 (2:00 - 4:13)",
+          "startTime": 120,
+          "endTime": 253
+        }
+      ],
+      "variantCount": 2,
+      "tooltip": {
+        "description": "The Sound of Music (1965) - Quality Score: 60/100",
+        "genre": "Classic Film",
+        "crawlerScore": 60,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 10,
+          "popularityFactor": 10,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:44:58.530Z"
+      },
+      "movie": "The Sound of Music"
+    },
+    {
+      "id": "gibboanx-test-39-6",
+      "label": "Uncut Gems",
+      "date": 2019,
+      "year": 2019,
+      "youtube": "https://www.youtube.com/watch?v=DGXWlBI4dhA&t=0s&end=49s",
+      "duration": 49,
+      "variants": [
+        {
+          "id": "DGXWlBI4dhA-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=DGXWlBI4dhA&t=0s&end=49s",
+          "sceneDescription": "Uncut Gems - Full Scene (0:00 - 0:49)",
+          "startTime": 0,
+          "endTime": 49
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Uncut Gems (2019) - Quality Score: 45/100",
+        "genre": "Classic Film",
+        "crawlerScore": 45,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:44:58.530Z"
+      },
+      "movie": "Uncut Gems"
+    },
+    {
+      "id": "gibboanx-test-39-7",
+      "label": "Manchester by the Sea",
+      "date": 2016,
+      "year": 2016,
+      "youtube": "https://www.youtube.com/watch?v=ybsyQaIr1nw&t=0s&end=120s",
+      "duration": 235,
+      "variants": [
+        {
+          "id": "ybsyQaIr1nw-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=ybsyQaIr1nw&t=0s&end=120s",
+          "sceneDescription": "Manchester by the Sea - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "ybsyQaIr1nw-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=ybsyQaIr1nw&t=120s&end=235s",
+          "sceneDescription": "Manchester by the Sea - Part 2 (2:00 - 3:55)",
+          "startTime": 120,
+          "endTime": 235
+        }
+      ],
+      "variantCount": 2,
+      "tooltip": {
+        "description": "Manchester by the Sea (2016) - Quality Score: 50/100",
+        "genre": "Classic Film",
+        "crawlerScore": 50,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 0,
+          "resolutionQuality": 10,
+          "popularityFactor": 10,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:44:58.530Z"
+      },
+      "movie": "Manchester by the Sea"
+    },
+    {
+      "id": "gibboanx-test-39-8",
+      "label": "Blade Runner 2049",
+      "date": 2017,
+      "year": 2017,
+      "youtube": "https://www.youtube.com/watch?v=FXgheg_jU4c&t=0s&end=120s",
+      "duration": 298,
+      "variants": [
+        {
+          "id": "FXgheg_jU4c-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=FXgheg_jU4c&t=0s&end=120s",
+          "sceneDescription": "Blade Runner 2049 - Part 1 (0:00 - 2:00)",
+          "startTime": 0,
+          "endTime": 120
+        },
+        {
+          "id": "FXgheg_jU4c-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=FXgheg_jU4c&t=120s&end=298s",
+          "sceneDescription": "Blade Runner 2049 - Part 2 (2:00 - 4:58)",
+          "startTime": 120,
+          "endTime": 298
+        }
+      ],
+      "variantCount": 2,
+      "tooltip": {
+        "description": "Blade Runner 2049 (2017) - Quality Score: 45/100",
+        "genre": "Classic Film",
+        "crawlerScore": 45,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 5,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:44:58.530Z"
+      },
+      "movie": "Blade Runner 2049"
+    },
+    {
+      "id": "gibboanx-test-39-9",
+      "label": "Thor: Ragnarok",
+      "date": 2017,
+      "year": 2017,
+      "youtube": "https://www.youtube.com/watch?v=CpZakOJlRoY&t=0s&end=58s",
+      "duration": 58,
+      "variants": [
+        {
+          "id": "CpZakOJlRoY-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=CpZakOJlRoY&t=0s&end=58s",
+          "sceneDescription": "Thor: Ragnarok - Full Scene (0:00 - 0:58)",
+          "startTime": 0,
+          "endTime": 58
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Thor: Ragnarok (2017) - Quality Score: 50/100",
+        "genre": "Classic Film",
+        "crawlerScore": 50,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 10,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:44:58.530Z"
+      },
+      "movie": "Thor: Ragnarok"
+    },
+    {
+      "id": "gibboanx-test-39-10",
+      "label": "Detroit",
+      "date": 2017,
+      "year": 2017,
+      "youtube": "https://www.youtube.com/watch?v=RZ4jJruiQTo&t=0s&end=130s",
+      "duration": 130,
+      "variants": [
+        {
+          "id": "RZ4jJruiQTo-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=RZ4jJruiQTo&t=0s&end=130s",
+          "sceneDescription": "Detroit - Part 1 (0:00 - 2:10)",
+          "startTime": 0,
+          "endTime": 130
+        }
+      ],
+      "variantCount": 1,
+      "tooltip": {
+        "description": "Detroit (2017) - Quality Score: 42/100",
+        "genre": "Classic Film",
+        "crawlerScore": 42,
+        "breakdown": {
+          "titleRelevance": 40,
+          "sceneIndicators": 10,
+          "resolutionQuality": 0,
+          "popularityFactor": 2,
+          "penalties": 0
+        },
+        "source": "gibboanx-burn-down-crawler",
+        "qualityChecked": true,
+        "addedDate": "2025-06-08T08:44:58.530Z"
+      },
+      "movie": "Detroit"
+    }
+  ]
+}

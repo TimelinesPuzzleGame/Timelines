@@ -21,6 +21,7 @@ export type EventCard = {
     url?: string;
   };
   youtube?: string; // URL for YouTube embed
+  duration?: number | null; // Video duration in seconds for randomization
 };
 
 export type Puzzle = {
