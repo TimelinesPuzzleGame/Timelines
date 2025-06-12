@@ -326,37 +326,36 @@ export default function BigScreenPartyMode({
     return () => stopSequence('team-bounce');
   }, [currentTurn, startSequence, stopSequence]);
 
-
-
   // Handle timeline mouse movement for snapping
   const handleTimelineMouseMove = (e: React.MouseEvent<HTMLDivElement>) => {
     if (!timelineRef.current || locked) return;
 
     const rect = timelineRef.current.getBoundingClientRect();
     const x = e.clientX - rect.left;
-    const slotCount = allCards.length + 1;
-    const slotWidth = rect.width / slotCount;
-    
-    let idx = Math.floor(x / slotWidth);
+    const zoneCount = allCards.length + 1;
+    const zoneWidth = rect.width / zoneCount;
+    let idx = Math.floor(x / zoneWidth);
     idx = Math.max(0, Math.min(idx, allCards.length));
-    
-    if (x >= rect.width - slotWidth * 0.2) {
-      idx = allCards.length;
-    }
-    
     setHoveredIndex(idx);
   };
 
   // Handle timeline clicks with simplified placement
   const handleTimelineClick = (e: React.MouseEvent) => {
-    if (locked || !currentCard || !previewCardPosition) return;
+    if (locked || !currentCard || !previewCardPosition || !timelineRef.current) return;
+
+    console.log('handleTimelineClick fired');
 
     setShowCursorCard(false);
     setPreviewCardPosition(null);
     setTetherTarget(null);
-    
+
     // Use the preview card position index for placement logic
-    const targetIndex = previewCardPosition.index;
+    const rect = timelineRef.current.getBoundingClientRect();
+    const x = e.clientX - rect.left;
+    const zoneCount = allCards.length + 1;
+    const zoneWidth = rect.width / zoneCount;
+    let targetIndex = Math.floor(x / zoneWidth);
+    targetIndex = Math.max(0, Math.min(targetIndex, allCards.length));
 
     // Calculate if placement is correct
     let correctIndex = 0;
@@ -369,19 +368,16 @@ export default function BigScreenPartyMode({
     }
 
     let isCorrect = targetIndex === correctIndex;
-    
+
     // Handle ties and date ranges
     if (!isCorrect && targetIndex >= 0 && targetIndex <= allCards.length) {
       const leftCard = targetIndex > 0 ? allCards[targetIndex - 1] : null;
       const rightCard = targetIndex < allCards.length ? allCards[targetIndex] : null;
-      
       const leftHasSameDate = leftCard && leftCard.date === currentCard.date;
       const rightHasSameDate = rightCard && rightCard.date === currentCard.date;
-      
       if (leftHasSameDate || rightHasSameDate) {
         isCorrect = true;
       }
-      
       if (!isCorrect && leftCard && rightCard) {
         const fitsBetween = leftCard.date <= currentCard.date && currentCard.date <= rightCard.date;
         if (fitsBetween) {
@@ -389,38 +385,8 @@ export default function BigScreenPartyMode({
         }
       }
     }
-
-    if (isCorrect) {
-      // Correct placement: place card in timeline and show green check
-      onCardPlacement(true);
-      setFeedbackPosition({ 
-        x: previewCardPosition.x, 
-        y: previewCardPosition.y - 80, 
-        isCorrect: true 
-      });
-      
-      // Clean up feedback after 2 seconds
-      setTimeout(() => {
-        setFeedbackPosition(null);
-      }, 2000);
-    } else {
-      // Incorrect placement: place red card at clicked position and show red X
-      setIncorrectCardPositions(prev => new Map(prev.set(currentCard.id, { 
-        x: previewCardPosition.x, 
-        y: previewCardPosition.y
-      })));
-      setFeedbackPosition({ 
-        x: previewCardPosition.x, 
-        y: previewCardPosition.y - 80, 
-        isCorrect: false 
-      });
-      onCardPlacement(false);
-      
-      // Clean up feedback after 2 seconds
-      setTimeout(() => {
-        setFeedbackPosition(null);
-      }, 2000);
-    }
+    console.log('targetIndex:', targetIndex, 'correctIndex:', correctIndex, 'isCorrect:', isCorrect);
+    onCardPlacement(isCorrect);
   };
 
   // Custom continue handler to trigger poof effect and handle video end
@@ -575,69 +541,61 @@ export default function BigScreenPartyMode({
           </div>
           {/* Timeline fixed to bottom, no overlap, fully interactive */}
           <div className="fixed left-0 right-0 bottom-0 px-8 pb-4 z-40 bg-black" style={{pointerEvents: 'auto', background: '#000'}}>
+            {/* Large invisible clickable area for drop zone */}
+            {!locked && !videoEnded && (
+              <div
+                className="fixed left-0 right-0 z-30 cursor-pointer"
+                style={{
+                  top: `${Math.max(document.querySelector('iframe, img, div[class*="youtube"]')?.getBoundingClientRect()?.bottom || 0, window.innerHeight * 0.5)}px`,
+                  bottom: 0,
+                }}
+                onMouseMove={handleTimelineMouseMove}
+                onClick={handleTimelineClick}
+              />
+            )}
             {/* Dynamically set the height of the timeline container to cover the placeable area */}
             <div
               ref={timelineRef}
               className="relative w-full"
               style={{
                 height: placeableArea && placeableArea.height > 0 ? `${placeableArea.height}px` : '48px',
-                cursor: 'pointer',
+                cursor: locked ? 'default' : 'pointer',
               }}
-              onMouseMove={handleTimelineMouseMove}
-              onClick={handleTimelineClick}
             >
-              <div className="flex justify-center items-end h-12 absolute bottom-0 left-0 right-0">
-                {allCards.map((card, i) => {
-                  if (!card || !card.id) return null;
-                  // 🚫 HIDE the card being animated to prevent doubles
-                  const isBeingAnimated = placementAnimation && placementAnimation.cardId === card.id;
-                  // 🎯 Calculate transform for magnetic animation
-                  let transformStyle = {};
-                  if (isBeingAnimated && placementAnimation.isMagnetic) {
-                    const timelineRect = timelineRef.current?.getBoundingClientRect();
-                    if (timelineRect) {
-                      const cardWidth = timelineRect.width / allCards.length;
-                      const naturalX = timelineRect.left + (i + 0.5) * cardWidth;
-                      const naturalY = timelineRect.top - 60;
-                      const offsetX = placementAnimation.fromX - naturalX;
-                      const offsetY = placementAnimation.fromY - naturalY;
-                      transformStyle = {
-                        transform: `translate(${offsetX}px, ${offsetY}px)`,
-                        animation: 'magneticSnapToNatural 0.8s cubic-bezier(0.175, 0.885, 0.32, 1.275) forwards'
-                      };
-                    }
-                  }
-                  const isAnchor = card.id === anchorCard.id;
-                  const cardData = !isAnchor ? timeline.find((p) => p.card.id === card.id) : undefined;
-                  const correct = cardData?.correct;
-                  const isJustPlaced = justPlacedCard && card.id === justPlacedCard.id;
-                  const justPlacedCorrect = isJustPlaced 
-                    ? (timeline.find((p) => p.card.id === justPlacedCard.id)?.correct)
-                    : undefined;
-                  const bgClass = isAnchor
-                    ? "bg-gray-300 text-black"
-                    : correct === true
-                    ? "bg-green-300 text-black"
-                    : correct === false
-                    ? "bg-red-400 text-black"
-                    : "bg-gray-200 text-black";
-                  return (
-                    <div key={card.id} 
+              <div className="absolute bottom-0 left-0 right-0">
+                <div className="flex justify-center items-end h-12 w-full">
+                  {/* Spacer before first card */}
+                  <div style={{ flex: 1 }} />
+                  {allCards.map((card, i) => [
+                    // Card
+                    <div key={card.id}
                       data-timeline-card
                       data-card-id={card.id}
                       className={`
-                      flex flex-col items-center flex-1 min-w-[100px]
-                      ${animatingCards.includes(card.id) ? 'transition-all duration-1600 ease-in-out' : ''}
-                      ${isBeingAnimated ? 'opacity-0' : 'opacity-100'}
-                    `}
-                      style={transformStyle}
+                        flex flex-col items-center min-w-[100px]
+                        ${animatingCards.includes(card.id) ? 'transition-all duration-1600 ease-in-out' : ''}
+                        ${placementAnimation && placementAnimation.cardId === card.id ? 'opacity-0' : 'opacity-100'}
+                      `}
+                      style={{ ...((placementAnimation && placementAnimation.cardId === card.id && placementAnimation.isMagnetic && timelineRef.current) ? (() => {
+                        const timelineRect = timelineRef.current.getBoundingClientRect();
+                        const cardCount = allCards.length;
+                        const leftPercent = ((i + 1) / (cardCount + 1)) * 100;
+                        const naturalX = timelineRect.left + (leftPercent / 100) * timelineRect.width;
+                        const naturalY = timelineRect.top + timelineRect.height / 2;
+                        const offsetX = placementAnimation.fromX - naturalX;
+                        const offsetY = placementAnimation.fromY - naturalY;
+                        return {
+                          transform: `translate(${offsetX}px, ${offsetY}px)`,
+                          animation: 'magneticSnapToNatural 0.8s cubic-bezier(0.175, 0.885, 0.32, 1.275) forwards'
+                        };
+                      })() : {}) }}
                     >
-                      <div className={isJustPlaced ? 'animate-[bounce-scale_0.3s_ease-out_forwards]' : ''}>
+                      <div className={justPlacedCard && card.id === justPlacedCard.id ? 'animate-[bounce-scale_0.3s_ease-out_forwards]' : ''}>
                         <TimelineCardWithTooltip
                           card={card}
                           isLatest={false}
-                          isAnchor={isAnchor}
-                          bgClass={bgClass}
+                          isAnchor={card.id === anchorCard.id}
+                          bgClass={card.id === anchorCard.id ? "bg-gray-300 text-black" : (timeline.find((p) => p.card.id === card.id)?.correct === true ? "bg-green-300 text-black" : (timeline.find((p) => p.card.id === card.id)?.correct === false ? "bg-red-400 text-black" : "bg-gray-200 text-black"))}
                           hideDates={false}
                           showTooltip={false}
                           showImageOnPlace={false}
@@ -657,9 +615,11 @@ export default function BigScreenPartyMode({
                         }} />
                         <div className="w-8 h-8 rounded-full bg-gray-600 z-10" />
                       </div>
-                    </div>
-                  );
-                })}
+                    </div>,
+                    // Spacer after each card (including after last)
+                    <div key={`spacer-${i + 1}`} style={{ flex: 1 }} />
+                  ])}
+                </div>
               </div>
               {/* Drop zone indicators */}
               {!locked && hoveredIndex !== null && (
@@ -715,7 +675,7 @@ export default function BigScreenPartyMode({
 
             {/* Timeline Section - locked to bottom of video */}
             <div className="bg-gray-900 px-6 py-4" style={{ marginTop: 'min(438px, 40vh)' }}>
-              {/* Large invisible clickable area */}
+              {/* Large invisible clickable area for drop zone */}
               {!locked && !videoEnded && (
                 <div
                   className="fixed left-0 right-0 z-30 cursor-pointer"
@@ -732,91 +692,62 @@ export default function BigScreenPartyMode({
                 ref={timelineRef}
                 className="relative h-12"
               >
-                <div className="flex justify-center items-end h-full">
-                  {allCards.map((card, i) => {
-                    if (!card || !card.id) return null;
-                    
-                    // 🚫 HIDE the card being animated to prevent doubles
-                    const isBeingAnimated = placementAnimation && placementAnimation.cardId === card.id;
-                    
-                    // 🎯 Calculate transform for magnetic animation
-                    let transformStyle = {};
-                    if (isBeingAnimated && placementAnimation.isMagnetic) {
-                      // Get timeline card's natural position
-                      const timelineRect = timelineRef.current?.getBoundingClientRect();
-                      if (timelineRect) {
-                        const cardWidth = timelineRect.width / allCards.length;
-                        const naturalX = timelineRect.left + (i + 0.5) * cardWidth;
-                        const naturalY = timelineRect.top - 60; // Approximate card center
-                        
-                        // Calculate offset from cursor to natural position
+                <div className="flex justify-center items-end h-12 w-full">
+                  {/* Spacer before first card */}
+                  <div style={{ flex: 1 }} />
+                  {allCards.map((card, i) => [
+                    // Card
+                    <div key={card.id}
+                      data-timeline-card
+                      data-card-id={card.id}
+                      className={`
+                        flex flex-col items-center min-w-[100px]
+                        ${animatingCards.includes(card.id) ? 'transition-all duration-1600 ease-in-out' : ''}
+                        ${placementAnimation && placementAnimation.cardId === card.id ? 'opacity-0' : 'opacity-100'}
+                      `}
+                      style={{ ...((placementAnimation && placementAnimation.cardId === card.id && placementAnimation.isMagnetic && timelineRef.current) ? (() => {
+                        const timelineRect = timelineRef.current.getBoundingClientRect();
+                        const cardCount = allCards.length;
+                        const leftPercent = ((i + 1) / (cardCount + 1)) * 100;
+                        const naturalX = timelineRect.left + (leftPercent / 100) * timelineRect.width;
+                        const naturalY = timelineRect.top + timelineRect.height / 2;
                         const offsetX = placementAnimation.fromX - naturalX;
                         const offsetY = placementAnimation.fromY - naturalY;
-                        
-                        transformStyle = {
+                        return {
                           transform: `translate(${offsetX}px, ${offsetY}px)`,
                           animation: 'magneticSnapToNatural 0.8s cubic-bezier(0.175, 0.885, 0.32, 1.275) forwards'
                         };
-                      }
-                    }
-                    
-                    const isAnchor = card.id === anchorCard.id;
-                    const cardData = !isAnchor ? timeline.find((p) => p.card.id === card.id) : undefined;
-                    const correct = cardData?.correct;
-                    
-                    const isJustPlaced = justPlacedCard && card.id === justPlacedCard.id;
-                    const justPlacedCorrect = isJustPlaced 
-                      ? (timeline.find((p) => p.card.id === justPlacedCard.id)?.correct)
-                      : undefined;
-
-                    const bgClass = isAnchor
-                      ? "bg-gray-300 text-black"
-                      : correct === true
-                      ? "bg-green-300 text-black"
-                      : correct === false
-                      ? "bg-red-400 text-black"
-                      : "bg-gray-200 text-black";
-
-                    return (
-                      <div key={card.id} 
-                        data-timeline-card
-                        data-card-id={card.id}
-                        className={`
-                        flex flex-col items-center flex-1 min-w-[100px]
-                        ${animatingCards.includes(card.id) ? 'transition-all duration-1600 ease-in-out' : ''}
-                        ${isBeingAnimated ? 'opacity-0' : 'opacity-100'}
-                      `}
-                        style={transformStyle}
-                      >
-                        <div className={isJustPlaced ? 'animate-[bounce-scale_0.3s_ease-out_forwards]' : ''}>
-                          <TimelineCardWithTooltip
-                            card={card}
-                            isLatest={false}
-                            isAnchor={isAnchor}
-                            bgClass={bgClass}
-                            hideDates={false}
-                            showTooltip={false}
-                            showImageOnPlace={false}
-                          />
-                        </div>
-                        
-                        <div className="bg-gray-600" style={{ 
-                          height: `max(48px, min(96px, 4.2vw))`,
-                          width: `max(4.8px, min(9.6px, 0.6vw))`
-                        }} />
-                        <div className="relative flex items-center justify-center">
-                          <div className="absolute bg-gray-400" style={{ 
-                            left: '-200vw', 
-                            right: '-200vw',
-                            top: '50%',
-                            transform: 'translateY(-50%)',
-                            height: `max(8px, min(16px, 1vw))`
-                          }} />
-                          <div className="w-8 h-8 rounded-full bg-gray-600 z-10" />
-                        </div>
+                      })() : {}) }}
+                    >
+                      <div className={justPlacedCard && card.id === justPlacedCard.id ? 'animate-[bounce-scale_0.3s_ease-out_forwards]' : ''}>
+                        <TimelineCardWithTooltip
+                          card={card}
+                          isLatest={false}
+                          isAnchor={card.id === anchorCard.id}
+                          bgClass={card.id === anchorCard.id ? "bg-gray-300 text-black" : (timeline.find((p) => p.card.id === card.id)?.correct === true ? "bg-green-300 text-black" : (timeline.find((p) => p.card.id === card.id)?.correct === false ? "bg-red-400 text-black" : "bg-gray-200 text-black"))}
+                          hideDates={false}
+                          showTooltip={false}
+                          showImageOnPlace={false}
+                        />
                       </div>
-                    );
-                  })}
+                      <div className="bg-gray-600" style={{ 
+                        height: `max(48px, min(96px, 4.2vw))`,
+                        width: `max(4.8px, min(9.6px, 0.6vw))`
+                      }} />
+                      <div className="relative flex items-center justify-center">
+                        <div className="absolute bg-gray-400" style={{ 
+                          left: '-200vw', 
+                          right: '-200vw',
+                          top: '50%',
+                          transform: 'translateY(-50%)',
+                          height: `max(8px, min(16px, 1vw))`
+                        }} />
+                        <div className="w-8 h-8 rounded-full bg-gray-600 z-10" />
+                      </div>
+                    </div>,
+                    // Spacer after each card (including after last)
+                    <div key={`spacer-${i + 1}`} style={{ flex: 1 }} />
+                  ])}
                 </div>
               </div>
 
