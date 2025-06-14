@@ -21,6 +21,7 @@ This registry tracks all documentation files in the Timeline Puzzle Game project
 | `api-reference.md` | ✅ CURRENT | 2024 Checkpoint | Complete API documentation with actual endpoints and schemas |
 | `API-Setup-Guide.md` | ✅ CURRENT | 2024 Checkpoint | YouTube API setup with ToS compliance requirements |
 | `YOUTUBE_API_COMPLIANCE_GUIDE.md` | ✅ CURRENT | 2024 Checkpoint | Comprehensive compliance guide for YouTube API usage |
+| `RANDOMIZED_VIDEO_SEGMENTS.md` | ✅ CURRENT | 2024 Checkpoint | Randomized 45-second video segments feature documentation |
 
 ---
 
@@ -85,6 +86,7 @@ Documentation/
 ├── api-reference.md                       ✅ Current
 ├── API-Setup-Guide.md                     ✅ Current
 ├── YOUTUBE_API_COMPLIANCE_GUIDE.md        ✅ Current
+├── RANDOMIZED_VIDEO_SEGMENTS.md           ✅ Current
 ├── Music-Video-Groundrules.md             ✅ Current
 ├── YOUTUBE_CRAWLER_COMPREHENSIVE_SPEC.md  ⚠️ Needs Update
 ├── component-reference.md                 ❌ Outdated

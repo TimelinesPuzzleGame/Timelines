@@ -32,6 +32,7 @@ Timeline Puzzle Game is an interactive web-based game where players arrange hist
 
 ### **Enhanced Video System**
 - **YouTube Integration**: Automated video embedding with fallback systems
+- **Randomized Segments**: 45-second random video clips for enhanced replay value
 - **Frame Analysis**: AI-powered video content verification for relevance
 - **Embeddability Testing**: Automated testing to ensure videos can be embedded
 - **Date Spoiler Removal**: Content filtering to prevent timeline cheating

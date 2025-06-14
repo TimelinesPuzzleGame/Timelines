@@ -82,7 +82,7 @@ import bollywoodMovieClips from './puzzles/bollywood-movie-clips.json' assert { 
 import bestMovieScenes from './puzzles/best-movie-scenes.json' assert { type: "json" };
 import classicMovies from './puzzles/classic-movies.json' assert { type: "json" };
 import familyMovies from './puzzles/family-movies.json' assert { type: "json" };
-import romanticComedies from './puzzles/romantic-comedies.json' assert { type: "json" };
+import romance from './puzzles/romance.json' assert { type: "json" };
 import slang from './puzzles/slang.json' assert {type: "json"};
 import cults from './puzzles/cults.json' assert { type: "json" };
 import imdbTop10GreatestFilms from './puzzles/imdb-top10-greatest-films.json' assert { type: "json" };
@@ -99,28 +99,30 @@ import gibboanxTest8 from './puzzles/gibboanx-test-8.json' assert { type: "json"
 import gibboanxTest9 from './puzzles/gibboanx-test-9.json' assert { type: "json" };
 // ENHANCED TEST PUZZLES 10-40 - From previous massive mega crawl session
 import gibboanxTest10 from './puzzles/gibboanx-test-10.json' assert { type: "json" };
-import gibboanxTest11 from './puzzles/gibboanx-test-11.json' assert { type: "json" };
-import gibboanxTest12 from './puzzles/gibboanx-test-12.json' assert { type: "json" };
-import gibboanxTest13 from './puzzles/gibboanx-test-13.json' assert { type: "json" };
-import gibboanxTest14 from './puzzles/gibboanx-test-14.json' assert { type: "json" };
-import gibboanxTest15 from './puzzles/gibboanx-test-15.json' assert { type: "json" };
-import gibboanxTest16 from './puzzles/gibboanx-test-16.json' assert { type: "json" };
-import gibboanxTest17 from './puzzles/gibboanx-test-17.json' assert { type: "json" };
-import gibboanxTest18 from './puzzles/gibboanx-test-18.json' assert { type: "json" };
-import gibboanxTest19 from './puzzles/gibboanx-test-19.json' assert { type: "json" };
-import gibboanxTest20 from './puzzles/gibboanx-test-20.json' assert { type: "json" };
-import gibboanxTest21 from './puzzles/gibboanx-test-21.json' assert { type: "json" };
-import gibboanxTest22 from './puzzles/gibboanx-test-22.json' assert { type: "json" };
-import gibboanxTest23 from './puzzles/gibboanx-test-23.json' assert { type: "json" };
-import gibboanxTest24 from './puzzles/gibboanx-test-24.json' assert { type: "json" };
-import gibboanxTest25 from './puzzles/gibboanx-test-25.json' assert { type: "json" };
-import gibboanxTest26 from './puzzles/gibboanx-test-26.json' assert { type: "json" };
-import gibboanxTest27 from './puzzles/gibboanx-test-27.json' assert { type: "json" };
-import gibboanxTest28 from './puzzles/gibboanx-test-28.json' assert { type: "json" };
-import gibboanxTest29 from './puzzles/gibboanx-test-29.json' assert { type: "json" };
-import gibboanxTest30 from './puzzles/gibboanx-test-30.json' assert { type: "json" };
-import gibboanxTest31 from './puzzles/gibboanx-test-31.json' assert { type: "json" };
-import gibboanxTest32 from './puzzles/gibboanx-test-32.json' assert { type: "json" };
+// COMMENTED OUT - Content merged into Best Movie Scenes
+// import gibboanxTest11 from './puzzles/gibboanx-test-11.json' assert { type: "json" };
+// import gibboanxTest12 from './puzzles/gibboanx-test-12.json' assert { type: "json" };
+// import gibboanxTest13 from './puzzles/gibboanx-test-13.json' assert { type: "json" };
+// import gibboanxTest14 from './puzzles/gibboanx-test-14.json' assert { type: "json" };
+// import gibboanxTest15 from './puzzles/gibboanx-test-15.json' assert { type: "json" };
+// import gibboanxTest16 from './puzzles/gibboanx-test-16.json' assert { type: "json" };
+// import gibboanxTest17 from './puzzles/gibboanx-test-17.json' assert { type: "json" };
+// import gibboanxTest18 from './puzzles/gibboanx-test-18.json' assert { type: "json" };
+// import gibboanxTest19 from './puzzles/gibboanx-test-19.json' assert { type: "json" };
+// COMMENTED OUT - Content merged into Best Movie Scenes
+// import gibboanxTest20 from './puzzles/gibboanx-test-20.json' assert { type: "json" };
+// import gibboanxTest21 from './puzzles/gibboanx-test-21.json' assert { type: "json" };
+// import gibboanxTest22 from './puzzles/gibboanx-test-22.json' assert { type: "json" };
+// import gibboanxTest23 from './puzzles/gibboanx-test-23.json' assert { type: "json" };
+// import gibboanxTest24 from './puzzles/gibboanx-test-24.json' assert { type: "json" };
+// import gibboanxTest25 from './puzzles/gibboanx-test-25.json' assert { type: "json" };
+// import gibboanxTest26 from './puzzles/gibboanx-test-26.json' assert { type: "json" };
+// import gibboanxTest27 from './puzzles/gibboanx-test-27.json' assert { type: "json" };
+// import gibboanxTest28 from './puzzles/gibboanx-test-28.json' assert { type: "json" };
+// import gibboanxTest29 from './puzzles/gibboanx-test-29.json' assert { type: "json" };
+// import gibboanxTest30 from './puzzles/gibboanx-test-30.json' assert { type: "json" };
+// import gibboanxTest31 from './puzzles/gibboanx-test-31.json' assert { type: "json" };
+// import gibboanxTest32 from './puzzles/gibboanx-test-32.json' assert { type: "json" };
 import gibboanxTest33 from './puzzles/gibboanx-test-33.json' assert { type: "json" };
 import gibboanxTest34 from './puzzles/gibboanx-test-34.json' assert { type: "json" };
 import gibboanxTest35 from './puzzles/gibboanx-test-35.json' assert { type: "json" };
@@ -166,9 +168,17 @@ import bestMusicVideosRandomized from './puzzles/best-music-videos-randomized.js
 // import musicPlaylistTest19 from './puzzles/music-playlist-test-19.json' assert { type: "json" };
 // import musicPlaylistTest20 from './puzzles/music-playlist-test-20.json' assert { type: "json" };
 import songs_dancehall_1749588410353 from './puzzles/songs-dancehall-1749588410353.json';
+import tvShowIntros from './puzzles/tv-show-intros.json' assert { type: "json" };
+import christmasMovies from './puzzles/christmasMovies.json' assert { type: "json" };
+import westernMovies from './puzzles/westernMovies.json' assert { type: "json" };
+import vampires from './puzzles/vampires.json' assert { type: "json" };
 // END IMPORTS
 
 export const puzzles: Puzzle[] = [
+  tvShowIntros as unknown as Puzzle,
+  christmasMovies as unknown as Puzzle,
+  westernMovies as unknown as Puzzle,
+  vampires as unknown as Puzzle,
   popCulture as Puzzle,
   nbaEvents as Puzzle,
   hitSongs as Puzzle,
@@ -251,7 +261,7 @@ export const puzzles: Puzzle[] = [
     bestMovieScenes as unknown as Puzzle,
 classicMovies as Puzzle,
       familyMovies as unknown as Puzzle,
-romanticComedies as unknown as Puzzle,
+  romance as unknown as Puzzle,
       slang as Puzzle, 
       cults as unknown as Puzzle,
       imdbTop10GreatestFilms as unknown as Puzzle,
@@ -267,28 +277,30 @@ romanticComedies as unknown as Puzzle,
       // gibboanxTest9 as unknown as Puzzle,
       // gibboanxTest10 as unknown as Puzzle,
       // ENHANCED TEST PUZZLES 11-40 - From massive mega crawl session
-      gibboanxTest11 as unknown as Puzzle,
-      gibboanxTest12 as unknown as Puzzle,
-      gibboanxTest13 as unknown as Puzzle,
-      gibboanxTest14 as unknown as Puzzle,
-      gibboanxTest15 as unknown as Puzzle,
-      gibboanxTest16 as unknown as Puzzle,
-      gibboanxTest17 as unknown as Puzzle,
-      gibboanxTest18 as unknown as Puzzle,
-      gibboanxTest19 as unknown as Puzzle,
-      gibboanxTest20 as unknown as Puzzle,
-      gibboanxTest21 as unknown as Puzzle,
-      gibboanxTest22 as unknown as Puzzle,
-      gibboanxTest23 as unknown as Puzzle,
-      gibboanxTest24 as unknown as Puzzle,
-      gibboanxTest25 as unknown as Puzzle,
-      gibboanxTest26 as unknown as Puzzle,
-      gibboanxTest27 as unknown as Puzzle,
-      gibboanxTest28 as unknown as Puzzle,
-      gibboanxTest29 as unknown as Puzzle,
-      gibboanxTest30 as unknown as Puzzle,
-      gibboanxTest31 as unknown as Puzzle,
-      gibboanxTest32 as unknown as Puzzle,
+        // COMMENTED OUT - Content merged into Best Movie Scenes
+  // gibboanxTest11 as unknown as Puzzle,
+  // gibboanxTest12 as unknown as Puzzle,
+  // gibboanxTest13 as unknown as Puzzle,
+  // gibboanxTest14 as unknown as Puzzle,
+  // gibboanxTest15 as unknown as Puzzle,
+  // gibboanxTest16 as unknown as Puzzle,
+  // gibboanxTest17 as unknown as Puzzle,
+  // gibboanxTest18 as unknown as Puzzle,
+  // gibboanxTest19 as unknown as Puzzle,
+        // COMMENTED OUT - Content merged into Best Movie Scenes
+  // gibboanxTest20 as unknown as Puzzle,
+  // gibboanxTest21 as unknown as Puzzle,
+  // gibboanxTest22 as unknown as Puzzle,
+  // gibboanxTest23 as unknown as Puzzle,
+  // gibboanxTest24 as unknown as Puzzle,
+  // gibboanxTest25 as unknown as Puzzle,
+  // gibboanxTest26 as unknown as Puzzle,
+  // gibboanxTest27 as unknown as Puzzle,
+  // gibboanxTest28 as unknown as Puzzle,
+  // gibboanxTest29 as unknown as Puzzle,
+  // gibboanxTest30 as unknown as Puzzle,
+  // gibboanxTest31 as unknown as Puzzle,
+  // gibboanxTest32 as unknown as Puzzle,
       gibboanxTest33 as unknown as Puzzle,
       gibboanxTest34 as unknown as Puzzle,
       gibboanxTest35 as unknown as Puzzle,

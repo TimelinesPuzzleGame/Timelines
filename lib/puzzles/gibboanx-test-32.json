@@ -10,55 +10,7 @@
     "totalScenes": 10,
     "selectionStrategy": "random_per_round"
   },
-  "cards": [
-    {
-      "id": "gibboanx-test-32-1",
-      "label": "Rear Window",
-      "date": 1954,
-      "year": 1954,
-      "youtube": "https://www.youtube.com/watch?v=D2lQ7SgkLiU&t=0s&end=120s",
-      "duration": 364,
-      "variants": [
-        {
-          "id": "D2lQ7SgkLiU-variant-0",
-          "youtube": "https://www.youtube.com/watch?v=D2lQ7SgkLiU&t=0s&end=120s",
-          "sceneDescription": "Rear Window - Part 1 (0:00 - 2:00)",
-          "startTime": 0,
-          "endTime": 120
-        },
-        {
-          "id": "D2lQ7SgkLiU-variant-1",
-          "youtube": "https://www.youtube.com/watch?v=D2lQ7SgkLiU&t=120s&end=240s",
-          "sceneDescription": "Rear Window - Part 2 (2:00 - 4:00)",
-          "startTime": 120,
-          "endTime": 240
-        },
-        {
-          "id": "D2lQ7SgkLiU-variant-2",
-          "youtube": "https://www.youtube.com/watch?v=D2lQ7SgkLiU&t=240s&end=364s",
-          "sceneDescription": "Rear Window - Part 3 (4:00 - 6:04)",
-          "startTime": 240,
-          "endTime": 364
-        }
-      ],
-      "variantCount": 3,
-      "tooltip": {
-        "description": "Rear Window (1954) - Quality Score: 40/100",
-        "genre": "Classic Film",
-        "crawlerScore": 40,
-        "breakdown": {
-          "titleRelevance": 40,
-          "sceneIndicators": 0,
-          "resolutionQuality": 0,
-          "popularityFactor": 10,
-          "penalties": 0
-        },
-        "source": "gibboanx-burn-down-crawler",
-        "qualityChecked": true,
-        "addedDate": "2025-06-08T08:37:41.974Z"
-      },
-      "movie": "Rear Window"
-    },
+  "cards": [ 
     {
       "id": "gibboanx-test-32-2",
       "label": "Being There",
@@ -365,89 +317,6 @@
         "addedDate": "2025-06-08T08:37:41.974Z"
       },
       "movie": "Scum"
-    },
-    {
-      "id": "gibboanx-test-32-10",
-      "label": "Steve Jobs",
-      "date": 2015,
-      "year": 2015,
-      "youtube": "https://www.youtube.com/watch?v=uvsuAZFem88&t=0s&end=120s",
-      "duration": 900,
-      "variants": [
-        {
-          "id": "uvsuAZFem88-variant-0",
-          "youtube": "https://www.youtube.com/watch?v=uvsuAZFem88&t=0s&end=120s",
-          "sceneDescription": "Steve Jobs - Part 1 (0:00 - 2:00)",
-          "startTime": 0,
-          "endTime": 120
-        },
-        {
-          "id": "uvsuAZFem88-variant-1",
-          "youtube": "https://www.youtube.com/watch?v=uvsuAZFem88&t=120s&end=240s",
-          "sceneDescription": "Steve Jobs - Part 2 (2:00 - 4:00)",
-          "startTime": 120,
-          "endTime": 240
-        },
-        {
-          "id": "uvsuAZFem88-variant-2",
-          "youtube": "https://www.youtube.com/watch?v=uvsuAZFem88&t=240s&end=360s",
-          "sceneDescription": "Steve Jobs - Part 3 (4:00 - 6:00)",
-          "startTime": 240,
-          "endTime": 360
-        },
-        {
-          "id": "uvsuAZFem88-variant-3",
-          "youtube": "https://www.youtube.com/watch?v=uvsuAZFem88&t=360s&end=480s",
-          "sceneDescription": "Steve Jobs - Part 4 (6:00 - 8:00)",
-          "startTime": 360,
-          "endTime": 480
-        },
-        {
-          "id": "uvsuAZFem88-variant-4",
-          "youtube": "https://www.youtube.com/watch?v=uvsuAZFem88&t=480s&end=600s",
-          "sceneDescription": "Steve Jobs - Part 5 (8:00 - 10:00)",
-          "startTime": 480,
-          "endTime": 600
-        },
-        {
-          "id": "uvsuAZFem88-variant-5",
-          "youtube": "https://www.youtube.com/watch?v=uvsuAZFem88&t=600s&end=720s",
-          "sceneDescription": "Steve Jobs - Part 6 (10:00 - 12:00)",
-          "startTime": 600,
-          "endTime": 720
-        },
-        {
-          "id": "uvsuAZFem88-variant-6",
-          "youtube": "https://www.youtube.com/watch?v=uvsuAZFem88&t=720s&end=840s",
-          "sceneDescription": "Steve Jobs - Part 7 (12:00 - 14:00)",
-          "startTime": 720,
-          "endTime": 840
-        },
-        {
-          "id": "uvsuAZFem88-variant-7",
-          "youtube": "https://www.youtube.com/watch?v=uvsuAZFem88&t=840s&end=900s",
-          "sceneDescription": "Steve Jobs - Part 8 (14:00 - 15:00)",
-          "startTime": 840,
-          "endTime": 900
-        }
-      ],
-      "variantCount": 8,
-      "tooltip": {
-        "description": "Steve Jobs (2015) - Quality Score: 50/100",
-        "genre": "Classic Film",
-        "crawlerScore": 50,
-        "breakdown": {
-          "titleRelevance": 40,
-          "sceneIndicators": 10,
-          "resolutionQuality": 0,
-          "popularityFactor": 10,
-          "penalties": 0
-        },
-        "source": "gibboanx-burn-down-crawler",
-        "qualityChecked": true,
-        "addedDate": "2025-06-08T08:37:41.974Z"
-      },
-      "movie": "Steve Jobs"
     }
   ]
 }

@@ -4,6 +4,17 @@ import { AnimatePresence, motion } from "framer-motion";
 import { EventCard } from "../lib/types";
 import FormattedDate from "./FormattedDate";
 
+// Convert background classes to transparent versions for fullscreen mode (80% transparent = 20% opacity)
+function getTransparentBgClass(bgClass: string): string {
+  if (bgClass.includes('bg-gray-300')) return 'bg-gray-300/20'; // Anchor card
+  if (bgClass.includes('bg-green-500')) return 'bg-green-500/20'; // Correct card (brighter)
+  if (bgClass.includes('bg-green-300')) return 'bg-green-500/20'; // Correct card (brighter)
+  if (bgClass.includes('bg-red-600')) return 'bg-red-600/20'; // Incorrect card (brighter)
+  if (bgClass.includes('bg-red-400')) return 'bg-red-600/20'; // Incorrect card (brighter)
+  if (bgClass.includes('bg-gray-200')) return 'bg-gray-200/20'; // Default card
+  return bgClass.replace(/bg-\w+-\d+/, 'bg-gray-200/20'); // Fallback
+}
+
 
 export default function TimelineCardWithTooltip({
   card,
@@ -13,6 +24,8 @@ export default function TimelineCardWithTooltip({
   showTooltip,
   showImageOnPlace,
   bgClass,
+  isFullScreen,
+  justPlacedCard,
 }: {
   card: EventCard;
   isLatest: boolean;
@@ -21,6 +34,8 @@ export default function TimelineCardWithTooltip({
   showTooltip: boolean;
   showImageOnPlace: boolean;
   bgClass: string;
+  isFullScreen?: boolean;
+  justPlacedCard?: EventCard | null;
 }) {
   const [hovered, setHovered] = React.useState(false);
   const hasTooltip = showTooltip && card.tooltip;
@@ -35,7 +50,7 @@ export default function TimelineCardWithTooltip({
         onMouseEnter={() => setHovered(true)}
         onMouseLeave={() => setHovered(false)}
       >
-        <div className={`w-[12vw] min-w-[120px] max-w-[320px] px-[0.8vw] py-[0.5vw] aspect-[3/2] shadow rounded text-center text-[clamp(0.65rem,1.6vw,2rem)] text-black ${bgClass}`}>
+        <div className={`w-[12vw] min-w-[120px] max-w-[320px] px-[0.8vw] py-[0.5vw] aspect-[3/2] shadow rounded-lg text-center text-[clamp(0.65rem,1.6vw,2rem)] text-black ${isFullScreen && (!justPlacedCard || card.id !== justPlacedCard.id) ? getTransparentBgClass(bgClass) : bgClass}`}>
           {card.image && showImageOnPlace ? (
             <>
               <div className="text-[clamp(0.65rem,1.6vw,2rem)] font-bold">{card.title}</div>

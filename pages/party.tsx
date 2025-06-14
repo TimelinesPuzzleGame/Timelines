@@ -991,6 +991,7 @@ const { teams, anchorCards, status } = gameState;
                                 hideDates={false}
                                 showTooltip={false}
                                 showImageOnPlace={false}
+                                justPlacedCard={null}
                               />
                               <div className="bg-gray-600" style={{ 
                                 height: `max(36px, min(72px, 4.5vw))`,

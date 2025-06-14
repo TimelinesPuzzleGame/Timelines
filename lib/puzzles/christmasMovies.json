@@ -1,0 +1,710 @@
+{
+  "slug": "christmas-movies",
+  "topic": "Christmas Movies",
+  "category": "Entertainment",
+  "subcategory": "Movies/TV",
+  "hideDates": false,
+  "showTooltips": true,
+  "showImageOnPlace": false,
+  "cards": [
+    {
+      "id": "black-christmas-1974",
+      "label": "Black Christmas",
+      "date": 1974,
+      "year": 1974,
+      "videoId": "2D_r3jBQCxc",
+      "youtube": "https://www.youtube.com/watch?v=2D_r3jBQCxc",
+      "variants": [
+        {
+          "videoId": "K1kuhYL7Lxc",
+          "youtube": "https://www.youtube.com/watch?v=K1kuhYL7Lxc",
+          "description": "Main scene"
+        },
+        {
+          "videoId": "OKx2uVdN6TA",
+          "youtube": "https://www.youtube.com/watch?v=OKx2uVdN6TA",
+          "description": "Main scene"
+        },
+        {
+          "videoId": "m4da3yAelnE",
+          "youtube": "https://www.youtube.com/watch?v=m4da3yAelnE",
+          "description": "Main scene"
+        },
+        {
+          "videoId": "ucSF7KCRoyQ",
+          "youtube": "https://www.youtube.com/watch?v=ucSF7KCRoyQ",
+          "description": "Main scene"
+        },
+        {
+          "videoId": "dO1lqAqeeRY",
+          "youtube": "https://www.youtube.com/watch?v=dO1lqAqeeRY",
+          "description": "Main scene"
+        },
+        {
+          "videoId": "3LEnCudffHA",
+          "youtube": "https://www.youtube.com/watch?v=3LEnCudffHA",
+          "description": "Main scene"
+        },
+        {
+          "videoId": "PeSTZVFq3YU",
+          "youtube": "https://www.youtube.com/watch?v=PeSTZVFq3YU",
+          "description": "Main scene"
+        },
+        {
+          "videoId": "pptbLri678c",
+          "youtube": "https://www.youtube.com/watch?v=pptbLri678c",
+          "description": "Main scene"
+        },
+        {
+          "videoId": "HBtkikgrxsQ",
+          "youtube": "https://www.youtube.com/watch?v=HBtkikgrxsQ",
+          "description": "Main scene"
+        }
+      ],
+      "tooltip": {
+        "description": "Christmas movie from 1974. 10 scenes available."
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "a-christmas-story-1983",
+      "label": "A Christmas Story",
+      "date": 1983,
+      "year": 1983,
+      "videoId": "KWXWt-spemk",
+      "youtube": "https://www.youtube.com/watch?v=KWXWt-spemk",
+      "variants": [
+        {
+          "videoId": "vnihfDZtiDA",
+          "youtube": "https://www.youtube.com/watch?v=vnihfDZtiDA",
+          "description": "Main scene"
+        },
+        {
+          "videoId": "AbFP0ay5vME",
+          "youtube": "https://www.youtube.com/watch?v=AbFP0ay5vME",
+          "description": "Main scene"
+        },
+        {
+          "videoId": "mc6pk2FRhbA",
+          "youtube": "https://www.youtube.com/watch?v=mc6pk2FRhbA",
+          "description": "Main scene"
+        },
+        {
+          "videoId": "DLvOEuRIK0U",
+          "youtube": "https://www.youtube.com/watch?v=DLvOEuRIK0U",
+          "description": "Main scene"
+        },
+        {
+          "videoId": "ZNyqYeIyOUc",
+          "youtube": "https://www.youtube.com/watch?v=ZNyqYeIyOUc",
+          "description": "Main scene"
+        },
+        {
+          "videoId": "K0ZsMG48C7Y",
+          "youtube": "https://www.youtube.com/watch?v=K0ZsMG48C7Y",
+          "description": "Main scene"
+        },
+        {
+          "videoId": "m-B93hwsQcs",
+          "youtube": "https://www.youtube.com/watch?v=m-B93hwsQcs",
+          "description": "Main scene"
+        },
+        {
+          "videoId": "pnaBKx7xcAY",
+          "youtube": "https://www.youtube.com/watch?v=pnaBKx7xcAY",
+          "description": "Main scene"
+        },
+        {
+          "videoId": "SUnymteHMno",
+          "youtube": "https://www.youtube.com/watch?v=SUnymteHMno",
+          "description": "Main scene"
+        },
+        {
+          "videoId": "C_Nl8NZjhmg",
+          "youtube": "https://www.youtube.com/watch?v=C_Nl8NZjhmg",
+          "description": "Main scene"
+        },
+        {
+          "videoId": "OHn7CGutwWY",
+          "youtube": "https://www.youtube.com/watch?v=OHn7CGutwWY",
+          "description": "Main scene"
+        }
+      ],
+      "tooltip": {
+        "description": "Christmas movie from 1983. 12 scenes available."
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "beat-street-1984",
+      "label": "Beat Street",
+      "date": 1984,
+      "year": 1984,
+      "videoId": "Ph6hXpPbl0s",
+      "youtube": "https://www.youtube.com/watch?v=Ph6hXpPbl0s",
+      "tooltip": {
+        "description": "Christmas movie from 1984"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "about-last-night-1986",
+      "label": "About Last Night",
+      "date": 1986,
+      "year": 1986,
+      "videoId": "6-HoEnxMUvg",
+      "youtube": "https://www.youtube.com/watch?v=6-HoEnxMUvg",
+      "tooltip": {
+        "description": "Christmas movie from 1986"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "scrooged-1988",
+      "label": "Scrooged",
+      "date": 1988,
+      "year": 1988,
+      "videoId": "3kX6rf9uw7w",
+      "youtube": "https://www.youtube.com/watch?v=3kX6rf9uw7w",
+      "tooltip": {
+        "description": "Christmas movie from 1988"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "national-lampoons-christmas-vacation-1989",
+      "label": "National Lampoon's Christmas Vacation",
+      "date": 1989,
+      "year": 1989,
+      "videoId": "gTKpKBzd7jg",
+      "youtube": "https://www.youtube.com/watch?v=gTKpKBzd7jg",
+      "variants": [
+        {
+          "videoId": "k507sETuMhg",
+          "youtube": "https://www.youtube.com/watch?v=k507sETuMhg",
+          "description": "Christmas VacationFunniest"
+        }
+      ],
+      "tooltip": {
+        "description": "Christmas movie from 1989. 2 scenes available."
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "home-alone-1990",
+      "label": "Home Alone",
+      "date": 1990,
+      "year": 1990,
+      "videoId": "S7OWoc-j8qQ",
+      "youtube": "https://www.youtube.com/watch?v=S7OWoc-j8qQ",
+      "variants": [
+        {
+          "videoId": "DTPq0mNS0-0",
+          "youtube": "https://www.youtube.com/watch?v=DTPq0mNS0-0",
+          "description": "2: Lost in New York"
+        }
+      ],
+      "tooltip": {
+        "description": "Christmas movie from 1990. 2 scenes available."
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "the-nightmare-before-christmas-1993",
+      "label": "The Nightmare Before Christmas",
+      "date": 1993,
+      "year": 1993,
+      "videoId": "wr6N_hZyBCk",
+      "youtube": "https://www.youtube.com/watch?v=wr6N_hZyBCk",
+      "tooltip": {
+        "description": "Christmas movie from 1993"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "mixed-nuts-1994",
+      "label": "Mixed Nuts",
+      "date": 1994,
+      "year": 1994,
+      "videoId": "kaPrCtRkFPo",
+      "youtube": "https://www.youtube.com/watch?v=kaPrCtRkFPo",
+      "variants": [
+        {
+          "videoId": "rZiPfrSgAdw",
+          "youtube": "https://www.youtube.com/watch?v=rZiPfrSgAdw",
+          "description": "Main scene"
+        }
+      ],
+      "tooltip": {
+        "description": "Christmas movie from 1994. 2 scenes available."
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "jingle-all-the-way-1996",
+      "label": "Jingle All the Way",
+      "date": 1996,
+      "year": 1996,
+      "videoId": "YTcFsdIJ_Xo",
+      "youtube": "https://www.youtube.com/watch?v=YTcFsdIJ_Xo",
+      "tooltip": {
+        "description": "Christmas movie from 1996"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "how-the-grinch-stole-christmas-2000",
+      "label": "How the Grinch Stole Christmas",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "BiPY5_H9EIw",
+      "youtube": "https://www.youtube.com/watch?v=BiPY5_H9EIw",
+      "variants": [
+        {
+          "videoId": "MmKlIGkxGyM",
+          "youtube": "https://www.youtube.com/watch?v=MmKlIGkxGyM",
+          "description": "The Grinch"
+        },
+        {
+          "videoId": "DmXp6Pm-uLI",
+          "youtube": "https://www.youtube.com/watch?v=DmXp6Pm-uLI",
+          "description": "The Grinch"
+        },
+        {
+          "videoId": "eVmYZJQxawo",
+          "youtube": "https://www.youtube.com/watch?v=eVmYZJQxawo",
+          "description": "The Grinch"
+        },
+        {
+          "videoId": "96pSGRvBg3I",
+          "youtube": "https://www.youtube.com/watch?v=96pSGRvBg3I",
+          "description": "The Grinch"
+        },
+        {
+          "videoId": "ZhqHIrO4ePo",
+          "youtube": "https://www.youtube.com/watch?v=ZhqHIrO4ePo",
+          "description": "The Grinch"
+        },
+        {
+          "videoId": "8coCtKWysGk",
+          "youtube": "https://www.youtube.com/watch?v=8coCtKWysGk",
+          "description": "The Grinch"
+        },
+        {
+          "videoId": "HGZotWs54rU",
+          "youtube": "https://www.youtube.com/watch?v=HGZotWs54rU",
+          "description": "The Grinch"
+        },
+        {
+          "videoId": "NjUtH1NBFyY",
+          "youtube": "https://www.youtube.com/watch?v=NjUtH1NBFyY",
+          "description": "The Grinch"
+        },
+        {
+          "videoId": "XMGoOSCbul0",
+          "youtube": "https://www.youtube.com/watch?v=XMGoOSCbul0",
+          "description": "The Grinch"
+        },
+        {
+          "videoId": "lnm4kOFBuok",
+          "youtube": "https://www.youtube.com/watch?v=lnm4kOFBuok",
+          "description": "Dr. Seuss' The GrinchBest"
+        },
+        {
+          "videoId": "jbUKmiCfWB0",
+          "youtube": "https://www.youtube.com/watch?v=jbUKmiCfWB0",
+          "description": "Jim Carrey's Grinch Didn't Need to Go THAT Hard"
+        }
+      ],
+      "tooltip": {
+        "description": "Christmas movie from 2000. 12 scenes available."
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "eight-crazy-nights-2002",
+      "label": "Eight Crazy Nights",
+      "date": 2002,
+      "year": 2002,
+      "videoId": "esHXIrYgSzo",
+      "youtube": "https://www.youtube.com/watch?v=esHXIrYgSzo",
+      "variants": [
+        {
+          "videoId": "FQjvyy8gOS0",
+          "youtube": "https://www.youtube.com/watch?v=FQjvyy8gOS0",
+          "description": "Main scene"
+        },
+        {
+          "videoId": "t-dJ4I7rGp8",
+          "youtube": "https://www.youtube.com/watch?v=t-dJ4I7rGp8",
+          "description": "Main scene"
+        },
+        {
+          "videoId": "mA1FWjriD60",
+          "youtube": "https://www.youtube.com/watch?v=mA1FWjriD60",
+          "description": "Main scene"
+        },
+        {
+          "videoId": "Q-MVoUlU-OY",
+          "youtube": "https://www.youtube.com/watch?v=Q-MVoUlU-OY",
+          "description": "Main scene"
+        }
+      ],
+      "tooltip": {
+        "description": "Christmas movie from 2002. 5 scenes available."
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "elf-2003",
+      "label": "Elf",
+      "date": 2003,
+      "year": 2003,
+      "videoId": "44woSCKuu5E",
+      "youtube": "https://www.youtube.com/watch?v=44woSCKuu5E",
+      "variants": [
+        {
+          "videoId": "IgrJkJ8NYrw",
+          "youtube": "https://www.youtube.com/watch?v=IgrJkJ8NYrw",
+          "description": "The Night Before"
+        },
+        {
+          "videoId": "oLUmNV0tmMo",
+          "youtube": "https://www.youtube.com/watch?v=oLUmNV0tmMo",
+          "description": "Arthur Christmas"
+        }
+      ],
+      "tooltip": {
+        "description": "Christmas movie from 2003. 3 scenes available."
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "love-actually-2003",
+      "label": "Love Actually",
+      "date": 2003,
+      "year": 2003,
+      "videoId": "4WP6cg6wx6A",
+      "youtube": "https://www.youtube.com/watch?v=4WP6cg6wx6A",
+      "tooltip": {
+        "description": "Christmas movie from 2003"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "jarhead-2005",
+      "label": "Jarhead",
+      "date": 2005,
+      "year": 2005,
+      "videoId": "uO5ydazAqpg",
+      "youtube": "https://www.youtube.com/watch?v=uO5ydazAqpg",
+      "tooltip": {
+        "description": "Christmas movie from 2005"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "fred-claus-2007",
+      "label": "Fred Claus",
+      "date": 2007,
+      "year": 2007,
+      "videoId": "3a49kwfRAtI",
+      "youtube": "https://www.youtube.com/watch?v=3a49kwfRAtI",
+      "tooltip": {
+        "description": "Christmas movie from 2007"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "this-christmas-2007",
+      "label": "This Christmas",
+      "date": 2007,
+      "year": 2007,
+      "videoId": "zB6OFpzw8qU",
+      "youtube": "https://www.youtube.com/watch?v=zB6OFpzw8qU",
+      "variants": [
+        {
+          "videoId": "jsTqOXlRjw0",
+          "youtube": "https://www.youtube.com/watch?v=jsTqOXlRjw0",
+          "description": "Main scene"
+        },
+        {
+          "videoId": "7hKmNfrOLXI",
+          "youtube": "https://www.youtube.com/watch?v=7hKmNfrOLXI",
+          "description": "Main scene"
+        },
+        {
+          "videoId": "fgf90nPYNjA",
+          "youtube": "https://www.youtube.com/watch?v=fgf90nPYNjA",
+          "description": "Main scene"
+        },
+        {
+          "videoId": "DuumgPXFLUI",
+          "youtube": "https://www.youtube.com/watch?v=DuumgPXFLUI",
+          "description": "Main scene"
+        },
+        {
+          "videoId": "_bjs4-GASfI",
+          "youtube": "https://www.youtube.com/watch?v=_bjs4-GASfI",
+          "description": "Main scene"
+        },
+        {
+          "videoId": "lUM-QCrCOiw",
+          "youtube": "https://www.youtube.com/watch?v=lUM-QCrCOiw",
+          "description": "Main scene"
+        },
+        {
+          "videoId": "5SaioOXfrpY",
+          "youtube": "https://www.youtube.com/watch?v=5SaioOXfrpY",
+          "description": "Main scene"
+        },
+        {
+          "videoId": "Vex7055X9Q4",
+          "youtube": "https://www.youtube.com/watch?v=Vex7055X9Q4",
+          "description": "Main scene"
+        },
+        {
+          "videoId": "HSboDm1LRXA",
+          "youtube": "https://www.youtube.com/watch?v=HSboDm1LRXA",
+          "description": "Main scene"
+        }
+      ],
+      "tooltip": {
+        "description": "Christmas movie from 2007. 10 scenes available."
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "arthur-christmas-2011",
+      "label": "Arthur Christmas",
+      "date": 2011,
+      "year": 2011,
+      "videoId": "wP3TfR9QlwY",
+      "youtube": "https://www.youtube.com/watch?v=wP3TfR9QlwY",
+      "variants": [
+        {
+          "videoId": "t_wR8zbM5VI",
+          "youtube": "https://www.youtube.com/watch?v=t_wR8zbM5VI",
+          "description": "Main scene"
+        },
+        {
+          "videoId": "mqpQgFfidcA",
+          "youtube": "https://www.youtube.com/watch?v=mqpQgFfidcA",
+          "description": "Main scene"
+        },
+        {
+          "videoId": "YpnqA-vr53Q",
+          "youtube": "https://www.youtube.com/watch?v=YpnqA-vr53Q",
+          "description": "Main scene"
+        },
+        {
+          "videoId": "IRRYuq7qYk4",
+          "youtube": "https://www.youtube.com/watch?v=IRRYuq7qYk4",
+          "description": "Main scene"
+        },
+        {
+          "videoId": "vF3sZj6ge18",
+          "youtube": "https://www.youtube.com/watch?v=vF3sZj6ge18",
+          "description": "Main scene"
+        },
+        {
+          "videoId": "v-OKZSh7tQ4",
+          "youtube": "https://www.youtube.com/watch?v=v-OKZSh7tQ4",
+          "description": "Main scene"
+        },
+        {
+          "videoId": "AxpzOZT_C0o",
+          "youtube": "https://www.youtube.com/watch?v=AxpzOZT_C0o",
+          "description": "Main scene"
+        },
+        {
+          "videoId": "Hi_NmfSbE3g",
+          "youtube": "https://www.youtube.com/watch?v=Hi_NmfSbE3g",
+          "description": "Main scene"
+        },
+        {
+          "videoId": "QpqCLenOeAM",
+          "youtube": "https://www.youtube.com/watch?v=QpqCLenOeAM",
+          "description": "Main scene"
+        }
+      ],
+      "tooltip": {
+        "description": "Christmas movie from 2011. 10 scenes available."
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "angels-sing-2013",
+      "label": "Angels Sing",
+      "date": 2013,
+      "year": 2013,
+      "videoId": "kC1Q45BQbY4",
+      "youtube": "https://www.youtube.com/watch?v=kC1Q45BQbY4",
+      "variants": [
+        {
+          "videoId": "pgDUFZ9TfPc",
+          "youtube": "https://www.youtube.com/watch?v=pgDUFZ9TfPc",
+          "description": "Main scene"
+        },
+        {
+          "videoId": "JOXYV6UN3S0",
+          "youtube": "https://www.youtube.com/watch?v=JOXYV6UN3S0",
+          "description": "Main scene"
+        },
+        {
+          "videoId": "IrU4ze3VfD8",
+          "youtube": "https://www.youtube.com/watch?v=IrU4ze3VfD8",
+          "description": "Main scene"
+        },
+        {
+          "videoId": "c1K32XLhn1M",
+          "youtube": "https://www.youtube.com/watch?v=c1K32XLhn1M",
+          "description": "Main scene"
+        },
+        {
+          "videoId": "p9kL3O1TuMQ",
+          "youtube": "https://www.youtube.com/watch?v=p9kL3O1TuMQ",
+          "description": "Main scene"
+        },
+        {
+          "videoId": "8knM2DiWkUk",
+          "youtube": "https://www.youtube.com/watch?v=8knM2DiWkUk",
+          "description": "Main scene"
+        },
+        {
+          "videoId": "uPcTCWfQbzQ",
+          "youtube": "https://www.youtube.com/watch?v=uPcTCWfQbzQ",
+          "description": "Main scene"
+        },
+        {
+          "videoId": "_q1BSBGTR2M",
+          "youtube": "https://www.youtube.com/watch?v=_q1BSBGTR2M",
+          "description": "Main scene"
+        },
+        {
+          "videoId": "jWP3sgGz2F8",
+          "youtube": "https://www.youtube.com/watch?v=jWP3sgGz2F8",
+          "description": "Main scene"
+        }
+      ],
+      "tooltip": {
+        "description": "Christmas movie from 2013. 10 scenes available."
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "the-night-before-2015",
+      "label": "The Night Before",
+      "date": 2015,
+      "year": 2015,
+      "videoId": "3IiKTJztqFY",
+      "youtube": "https://www.youtube.com/watch?v=3IiKTJztqFY",
+      "variants": [
+        {
+          "videoId": "kptIt3LwGWc",
+          "youtube": "https://www.youtube.com/watch?v=kptIt3LwGWc",
+          "description": "Main scene"
+        },
+        {
+          "videoId": "svytEWJK6Qk",
+          "youtube": "https://www.youtube.com/watch?v=svytEWJK6Qk",
+          "description": "Main scene"
+        },
+        {
+          "videoId": "oQjMZTetuEg",
+          "youtube": "https://www.youtube.com/watch?v=oQjMZTetuEg",
+          "description": "Main scene"
+        },
+        {
+          "videoId": "VLXwMhs4ODU",
+          "youtube": "https://www.youtube.com/watch?v=VLXwMhs4ODU",
+          "description": "Main scene"
+        },
+        {
+          "videoId": "NHDA6rk-bek",
+          "youtube": "https://www.youtube.com/watch?v=NHDA6rk-bek",
+          "description": "Main scene"
+        },
+        {
+          "videoId": "wwDCSzZx37I",
+          "youtube": "https://www.youtube.com/watch?v=wwDCSzZx37I",
+          "description": "Main scene"
+        },
+        {
+          "videoId": "w4-b-D0iByQ",
+          "youtube": "https://www.youtube.com/watch?v=w4-b-D0iByQ",
+          "description": "Main scene"
+        },
+        {
+          "videoId": "b-_C0lWgga0",
+          "youtube": "https://www.youtube.com/watch?v=b-_C0lWgga0",
+          "description": "Main scene"
+        }
+      ],
+      "tooltip": {
+        "description": "Christmas movie from 2015. 9 scenes available."
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "childs-play-2019",
+      "label": "Child's Play",
+      "date": 2019,
+      "year": 2019,
+      "videoId": "T5a8cT23TfU",
+      "youtube": "https://www.youtube.com/watch?v=T5a8cT23TfU",
+      "tooltip": {
+        "description": "Christmas movie from 2019"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "last-christmas-2019",
+      "label": "Last Christmas",
+      "date": 2019,
+      "year": 2019,
+      "videoId": "zPqBVU22fRs",
+      "youtube": "https://www.youtube.com/watch?v=zPqBVU22fRs",
+      "tooltip": {
+        "description": "Christmas movie from 2019"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "fatman-2020",
+      "label": "Fatman",
+      "date": 2020,
+      "year": 2020,
+      "videoId": "FFKCD-OVNcQ",
+      "youtube": "https://www.youtube.com/watch?v=FFKCD-OVNcQ",
+      "tooltip": {
+        "description": "Christmas movie from 2020"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "the-boss-baby-family-business-2021",
+      "label": "The Boss Baby: Family Business",
+      "date": 2021,
+      "year": 2021,
+      "videoId": "PRxkKGDb2Lo",
+      "youtube": "https://www.youtube.com/watch?v=PRxkKGDb2Lo",
+      "tooltip": {
+        "description": "Christmas movie from 2021"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "violent-night-2022",
+      "label": "Violent Night",
+      "date": 2022,
+      "year": 2022,
+      "videoId": "pt5cEarQigE",
+      "youtube": "https://www.youtube.com/watch?v=pt5cEarQigE",
+      "tooltip": {
+        "description": "Christmas movie from 2022"
+      },
+      "showImageOnPlace": false
+    }
+  ]
+}

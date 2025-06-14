@@ -99,8 +99,20 @@ engine,
       try {
         const u = new URL(selectedCard.youtube);
         
-        // Check if this is the randomized music videos puzzle
-        const isRandomizedPuzzle = puzzle?.slug === "best-music-videos-randomized";
+        // Check if this is a randomized puzzle (music videos or dance scenes)
+        const isRandomizedPuzzle = puzzle?.slug === "best-music-videos-randomized" || 
+                                  puzzle?.slug === "iconic-movie-dance-scenes-randomized" ||
+                                  puzzle?.slug?.includes("randomized") || 
+                                  puzzle?.description?.includes("randomized");
+        
+        // Debug logging for randomization detection
+        console.log("🔍 Randomization Debug:", {
+          puzzleSlug: puzzle?.slug,
+          puzzleDescription: puzzle?.description,
+          isRandomizedPuzzle,
+          cardDuration: selectedCard.duration,
+          cardLabel: selectedCard.label
+        });
         
         if (isRandomizedPuzzle && selectedCard.duration && selectedCard.duration >= 45) {
           // Generate random 45-second segment (ONLY ONCE per card selection)
@@ -131,7 +143,7 @@ engine,
     }
     
     return { youTubeStart: start, youTubeEnd: end };
-  }, [selectedCard?.id, selectedCard?.youtube, selectedCard?.duration, puzzle?.slug]); // Only recalculate when card actually changes
+  }, [selectedCard?.id, selectedCard?.youtube, selectedCard?.duration, puzzle?.slug, puzzle?.description]); // Only recalculate when card actually changes
 
   // Calculate the visual timeline cards early so it can be used in drag handlers
   const preAnchor = (timeline ?? []).filter((p) => p?.card?.date !== undefined && p.card.date < anchorCard.date);
@@ -387,7 +399,7 @@ const handlePlace = (attemptedIndex: number) => {
           <div
             className={`${
               videoId ? "w-[min(90vw,calc(100vh*1.6))] max-w-[1400px]" : selectedCard?.deezer?.trackId ? "w-[60vw] max-w-[800px]" : "w-[20vw] min-w-[280px]"
-            } px-[min(0.5vw,2px)] py-[min(0.25vw,1px)] bg-gray-100 shadow rounded text-center text-[clamp(1rem,3vw,2.5rem)] text-black ${
+            } px-[min(0.5vw,2px)] py-[min(0.25vw,1px)] bg-gray-100 shadow rounded-lg text-center text-[clamp(1rem,3vw,2.5rem)] text-black ${
               locked ? 'cursor-not-allowed' : 'cursor-move'
             } relative transition-all duration-300 ${
               locked ? '' : 'hover:shadow-lg hover:scale-105'
@@ -647,6 +659,7 @@ const handlePlace = (attemptedIndex: number) => {
                       hideDates={hideDates ?? false}
                       showTooltip={showTooltips ?? false}
                       showImageOnPlace={showImageOnPlace ?? false}
+                      justPlacedCard={justPlacedCard}
                     />
                   </div>
                   <div className={`h-[4vw] min-h-[32px] w-[0.2vw] min-w-[2px] max-w-[9px] transition-all duration-500 ${

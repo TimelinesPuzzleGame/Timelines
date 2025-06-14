@@ -286,40 +286,6 @@
       "movie": "Monsoon Wedding"
     },
     {
-      "id": "gibboanx-test-30-7",
-      "label": "The Sweet Hereafter",
-      "date": 1997,
-      "year": 1997,
-      "youtube": "https://www.youtube.com/watch?v=DFRkHAhnFu0&t=0s&end=59s",
-      "duration": 59,
-      "variants": [
-        {
-          "id": "DFRkHAhnFu0-variant-0",
-          "youtube": "https://www.youtube.com/watch?v=DFRkHAhnFu0&t=0s&end=59s",
-          "sceneDescription": "The Sweet Hereafter - Full Scene (0:00 - 0:59)",
-          "startTime": 0,
-          "endTime": 59
-        }
-      ],
-      "variantCount": 1,
-      "tooltip": {
-        "description": "The Sweet Hereafter (1997) - Quality Score: 40/100",
-        "genre": "Classic Film",
-        "crawlerScore": 40,
-        "breakdown": {
-          "titleRelevance": 40,
-          "sceneIndicators": 10,
-          "resolutionQuality": 0,
-          "popularityFactor": 0,
-          "penalties": 0
-        },
-        "source": "gibboanx-burn-down-crawler",
-        "qualityChecked": true,
-        "addedDate": "2025-06-08T08:35:15.675Z"
-      },
-      "movie": "The Sweet Hereafter"
-    },
-    {
       "id": "gibboanx-test-30-8",
       "label": "Cube",
       "date": 1997,
@@ -352,40 +318,6 @@
         "addedDate": "2025-06-08T08:35:15.675Z"
       },
       "movie": "Cube"
-    },
-    {
-      "id": "gibboanx-test-30-9",
-      "label": "Breaking the Waves",
-      "date": 1996,
-      "year": 1996,
-      "youtube": "https://www.youtube.com/watch?v=ueqj7jh6TjQ&t=0s&end=92s",
-      "duration": 92,
-      "variants": [
-        {
-          "id": "ueqj7jh6TjQ-variant-0",
-          "youtube": "https://www.youtube.com/watch?v=ueqj7jh6TjQ&t=0s&end=92s",
-          "sceneDescription": "Breaking the Waves - Full Scene (0:00 - 1:32)",
-          "startTime": 0,
-          "endTime": 92
-        }
-      ],
-      "variantCount": 1,
-      "tooltip": {
-        "description": "Breaking the Waves (1996) - Quality Score: 40/100",
-        "genre": "Classic Film",
-        "crawlerScore": 40,
-        "breakdown": {
-          "titleRelevance": 40,
-          "sceneIndicators": 10,
-          "resolutionQuality": 0,
-          "popularityFactor": 0,
-          "penalties": 0
-        },
-        "source": "gibboanx-burn-down-crawler",
-        "qualityChecked": true,
-        "addedDate": "2025-06-08T08:35:15.675Z"
-      },
-      "movie": "Breaking the Waves"
     },
     {
       "id": "gibboanx-test-30-10",

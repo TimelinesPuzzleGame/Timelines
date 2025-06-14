@@ -1,0 +1,1119 @@
+{
+  "slug": "vampires",
+  "topic": "Vampires",
+  "category": "Entertainment",
+  "subcategory": "Movies/TV",
+  "hideDates": false,
+  "showTooltips": true,
+  "showImageOnPlace": false,
+  "description": "A collection of iconic vampire movies and TV shows throughout cinema history",
+  "cards": [
+    {
+      "id": "dracula-310-movie-clip",
+      "label": "Dracula (3/10) Movie CLIP",
+      "date": 1931,
+      "year": 1931,
+      "videoId": "KjDfOAhtWwo",
+      "youtube": "https://www.youtube.com/watch?v=KjDfOAhtWwo",
+      "tooltip": {
+        "description": "Vampire movie/show from 1931"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "blacula-112-movie-clip",
+      "label": "Blacula (1/12) Movie CLIP",
+      "date": 1972,
+      "year": 1972,
+      "videoId": "4uVC-cDpdpg",
+      "youtube": "https://www.youtube.com/watch?v=4uVC-cDpdpg",
+      "tooltip": {
+        "description": "Vampire movie/show from 1972"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "blacula-212-movie-clip",
+      "label": "Blacula (2/12) Movie CLIP",
+      "date": 1972,
+      "year": 1972,
+      "videoId": "lh3qxTgaa1Y",
+      "youtube": "https://www.youtube.com/watch?v=lh3qxTgaa1Y",
+      "tooltip": {
+        "description": "Vampire movie/show from 1972"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "blacula-312-movie-clip",
+      "label": "Blacula (3/12) Movie CLIP",
+      "date": 1972,
+      "year": 1972,
+      "videoId": "Wd7iSbGIDqs",
+      "youtube": "https://www.youtube.com/watch?v=Wd7iSbGIDqs",
+      "tooltip": {
+        "description": "Vampire movie/show from 1972"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "blacula-412-movie-clip",
+      "label": "Blacula (4/12) Movie CLIP",
+      "date": 1972,
+      "year": 1972,
+      "videoId": "SJ671CSV2-M",
+      "youtube": "https://www.youtube.com/watch?v=SJ671CSV2-M",
+      "tooltip": {
+        "description": "Vampire movie/show from 1972"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "blacula-512-movie-clip",
+      "label": "Blacula (5/12) Movie CLIP",
+      "date": 1972,
+      "year": 1972,
+      "videoId": "SATdGPY78z0",
+      "youtube": "https://www.youtube.com/watch?v=SATdGPY78z0",
+      "tooltip": {
+        "description": "Vampire movie/show from 1972"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "blacula-612-movie-clip",
+      "label": "Blacula (6/12) Movie CLIP",
+      "date": 1972,
+      "year": 1972,
+      "videoId": "J_OsoyDByWo",
+      "youtube": "https://www.youtube.com/watch?v=J_OsoyDByWo",
+      "tooltip": {
+        "description": "Vampire movie/show from 1972"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "blacula-712-movie-clip",
+      "label": "Blacula (7/12) Movie CLIP",
+      "date": 1972,
+      "year": 1972,
+      "videoId": "n92XBsqbSF4",
+      "youtube": "https://www.youtube.com/watch?v=n92XBsqbSF4",
+      "tooltip": {
+        "description": "Vampire movie/show from 1972"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "blacula-812-movie-clip",
+      "label": "Blacula (8/12) Movie CLIP",
+      "date": 1972,
+      "year": 1972,
+      "videoId": "4a71NDQWOMM",
+      "youtube": "https://www.youtube.com/watch?v=4a71NDQWOMM",
+      "tooltip": {
+        "description": "Vampire movie/show from 1972"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "blacula-912-movie-clip",
+      "label": "Blacula (9/12) Movie CLIP",
+      "date": 1972,
+      "year": 1972,
+      "videoId": "gboXDP4L4b0",
+      "youtube": "https://www.youtube.com/watch?v=gboXDP4L4b0",
+      "tooltip": {
+        "description": "Vampire movie/show from 1972"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "blacula-1012-movie-clip",
+      "label": "Blacula (10/12) Movie CLIP",
+      "date": 1972,
+      "year": 1972,
+      "videoId": "9gdhd-EerNw",
+      "youtube": "https://www.youtube.com/watch?v=9gdhd-EerNw",
+      "tooltip": {
+        "description": "Vampire movie/show from 1972"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "blacula-1112-movie-clip",
+      "label": "Blacula (11/12) Movie CLIP",
+      "date": 1972,
+      "year": 1972,
+      "videoId": "B22vWcjNR9I",
+      "youtube": "https://www.youtube.com/watch?v=B22vWcjNR9I",
+      "tooltip": {
+        "description": "Vampire movie/show from 1972"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "blacula-1212-movie-clip",
+      "label": "Blacula (12/12) Movie CLIP",
+      "date": 1972,
+      "year": 1972,
+      "videoId": "_lnD3Fh-kYg",
+      "youtube": "https://www.youtube.com/watch?v=_lnD3Fh-kYg",
+      "tooltip": {
+        "description": "Vampire movie/show from 1972"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "dracula",
+      "label": "Dracula",
+      "date": 1979,
+      "year": 1979,
+      "videoId": "0NXkZZqCGjs",
+      "youtube": "https://www.youtube.com/watch?v=0NXkZZqCGjs",
+      "tooltip": {
+        "description": "Vampire movie/show from 1979. 6 scenes available."
+      },
+      "showImageOnPlace": false,
+      "variants": [
+        {
+          "id": "dracula-variant-0",
+          "videoId": "w8mbmSijd4o",
+          "youtube": "https://www.youtube.com/watch?v=w8mbmSijd4o",
+          "description": "Vampire scene 2"
+        },
+        {
+          "id": "dracula-variant-1",
+          "videoId": "15WevUMiJI8",
+          "youtube": "https://www.youtube.com/watch?v=15WevUMiJI8",
+          "description": "Vampire scene 3"
+        },
+        {
+          "id": "dracula-variant-2",
+          "videoId": "cXm_h4Zdwpc",
+          "youtube": "https://www.youtube.com/watch?v=cXm_h4Zdwpc",
+          "description": "Vampire scene 4"
+        },
+        {
+          "id": "dracula-variant-3",
+          "videoId": "NyamI2ALbIA",
+          "youtube": "https://www.youtube.com/watch?v=NyamI2ALbIA",
+          "description": "Vampire scene 5"
+        },
+        {
+          "id": "dracula-variant-4",
+          "videoId": "grdxSWSHJaY",
+          "youtube": "https://www.youtube.com/watch?v=grdxSWSHJaY",
+          "description": "Vampire scene 6"
+        }
+      ],
+      "variantCount": 5
+    },
+    {
+      "id": "fright-night",
+      "label": "Fright Night",
+      "date": 1985,
+      "year": 1985,
+      "videoId": "gnWkYf8Peo8",
+      "youtube": "https://www.youtube.com/watch?v=gnWkYf8Peo8",
+      "tooltip": {
+        "description": "Vampire movie/show from 1985. 10 scenes available."
+      },
+      "showImageOnPlace": false,
+      "variants": [
+        {
+          "id": "fright-night-variant-0",
+          "videoId": "w98xbfLGWro",
+          "youtube": "https://www.youtube.com/watch?v=w98xbfLGWro",
+          "description": "Vampire scene 2"
+        },
+        {
+          "id": "fright-night-variant-1",
+          "videoId": "dshJG5PEOqY",
+          "youtube": "https://www.youtube.com/watch?v=dshJG5PEOqY",
+          "description": "Vampire scene 3"
+        },
+        {
+          "id": "fright-night-variant-2",
+          "videoId": "MBqT-UEySlI",
+          "youtube": "https://www.youtube.com/watch?v=MBqT-UEySlI",
+          "description": "Vampire scene 4"
+        },
+        {
+          "id": "fright-night-variant-3",
+          "videoId": "vfc3TGvcjEY",
+          "youtube": "https://www.youtube.com/watch?v=vfc3TGvcjEY",
+          "description": "Vampire scene 5"
+        },
+        {
+          "id": "fright-night-variant-4",
+          "videoId": "68igl3sbzFI",
+          "youtube": "https://www.youtube.com/watch?v=68igl3sbzFI",
+          "description": "Vampire scene 6"
+        },
+        {
+          "id": "fright-night-variant-5",
+          "videoId": "VNLN5xyxwAY",
+          "youtube": "https://www.youtube.com/watch?v=VNLN5xyxwAY",
+          "description": "Vampire scene 7"
+        },
+        {
+          "id": "fright-night-variant-6",
+          "videoId": "CxrQd6Sn5PA",
+          "youtube": "https://www.youtube.com/watch?v=CxrQd6Sn5PA",
+          "description": "Vampire scene 8"
+        },
+        {
+          "id": "fright-night-variant-7",
+          "videoId": "PvoBUI7uz-w",
+          "youtube": "https://www.youtube.com/watch?v=PvoBUI7uz-w",
+          "description": "Vampire scene 9"
+        },
+        {
+          "id": "fright-night-variant-8",
+          "videoId": "kndeWhsNlJs",
+          "youtube": "https://www.youtube.com/watch?v=kndeWhsNlJs",
+          "description": "Vampire scene 10"
+        }
+      ],
+      "variantCount": 9
+    },
+    {
+      "id": "the-lost-boys-310-movie-clip",
+      "label": "The Lost Boys (3/10) Movie CLIP",
+      "date": 1987,
+      "year": 1987,
+      "videoId": "0A80j2BuMaU",
+      "youtube": "https://www.youtube.com/watch?v=0A80j2BuMaU",
+      "tooltip": {
+        "description": "Vampire movie/show from 1987"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "the-lost-boys-110-movie-clip",
+      "label": "The Lost Boys (1/10) Movie CLIP",
+      "date": 1987,
+      "year": 1987,
+      "videoId": "wmbt1RjPn4M",
+      "youtube": "https://www.youtube.com/watch?v=wmbt1RjPn4M",
+      "tooltip": {
+        "description": "Vampire movie/show from 1987"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "the-lost-boys-210-movie-clip",
+      "label": "The Lost Boys (2/10) Movie CLIP",
+      "date": 1987,
+      "year": 1987,
+      "videoId": "ZynRcyXIGKM",
+      "youtube": "https://www.youtube.com/watch?v=ZynRcyXIGKM",
+      "tooltip": {
+        "description": "Vampire movie/show from 1987"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "the-lost-boys-410-movie-clip",
+      "label": "The Lost Boys (4/10) Movie CLIP",
+      "date": 1987,
+      "year": 1987,
+      "videoId": "9o8gzua-K_E",
+      "youtube": "https://www.youtube.com/watch?v=9o8gzua-K_E",
+      "tooltip": {
+        "description": "Vampire movie/show from 1987"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "the-lost-boys-510-movie-clip",
+      "label": "The Lost Boys (5/10) Movie CLIP",
+      "date": 1987,
+      "year": 1987,
+      "videoId": "iYsOzr1hPl8",
+      "youtube": "https://www.youtube.com/watch?v=iYsOzr1hPl8",
+      "tooltip": {
+        "description": "Vampire movie/show from 1987"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "the-lost-boys-610-movie-clip",
+      "label": "The Lost Boys (6/10) Movie CLIP",
+      "date": 1987,
+      "year": 1987,
+      "videoId": "Kq3nRBxVD3k",
+      "youtube": "https://www.youtube.com/watch?v=Kq3nRBxVD3k",
+      "tooltip": {
+        "description": "Vampire movie/show from 1987"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "the-lost-boys-710-movie-clip",
+      "label": "The Lost Boys (7/10) Movie CLIP",
+      "date": 1987,
+      "year": 1987,
+      "videoId": "5EN8IHljaaE",
+      "youtube": "https://www.youtube.com/watch?v=5EN8IHljaaE",
+      "tooltip": {
+        "description": "Vampire movie/show from 1987"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "the-lost-boys-810-movie-clip",
+      "label": "The Lost Boys (8/10) Movie CLIP",
+      "date": 1987,
+      "year": 1987,
+      "videoId": "XObhhoFp6G8",
+      "youtube": "https://www.youtube.com/watch?v=XObhhoFp6G8",
+      "tooltip": {
+        "description": "Vampire movie/show from 1987"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "the-lost-boys-910-movie-clip",
+      "label": "The Lost Boys (9/10) Movie CLIP",
+      "date": 1987,
+      "year": 1987,
+      "videoId": "F5g7u8WRwqQ",
+      "youtube": "https://www.youtube.com/watch?v=F5g7u8WRwqQ",
+      "tooltip": {
+        "description": "Vampire movie/show from 1987"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "the-lost-boys-1010-movie-clip",
+      "label": "The Lost Boys (10/10) Movie CLIP",
+      "date": 1987,
+      "year": 1987,
+      "videoId": "TgLe98ts0QU",
+      "youtube": "https://www.youtube.com/watch?v=TgLe98ts0QU",
+      "tooltip": {
+        "description": "Vampire movie/show from 1987"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "near-dark-111-movie-clip",
+      "label": "Near Dark (1/11) Movie CLIP",
+      "date": 1987,
+      "year": 1987,
+      "videoId": "QsXsfrk06-I",
+      "youtube": "https://www.youtube.com/watch?v=QsXsfrk06-I",
+      "tooltip": {
+        "description": "Vampire movie/show from 1987"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "near-dark-211-movie-clip",
+      "label": "Near Dark (2/11) Movie CLIP",
+      "date": 1987,
+      "year": 1987,
+      "videoId": "10GtbJs6GEw",
+      "youtube": "https://www.youtube.com/watch?v=10GtbJs6GEw",
+      "tooltip": {
+        "description": "Vampire movie/show from 1987"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "near-dark-311-movie-clip",
+      "label": "Near Dark (3/11) Movie CLIP",
+      "date": 1987,
+      "year": 1987,
+      "videoId": "ZfCZwP2Qe60",
+      "youtube": "https://www.youtube.com/watch?v=ZfCZwP2Qe60",
+      "tooltip": {
+        "description": "Vampire movie/show from 1987"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "near-dark-411-movie-clip",
+      "label": "Near Dark (4/11) Movie CLIP",
+      "date": 1987,
+      "year": 1987,
+      "videoId": "fTEPaF5TjWU",
+      "youtube": "https://www.youtube.com/watch?v=fTEPaF5TjWU",
+      "tooltip": {
+        "description": "Vampire movie/show from 1987"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "near-dark-511-movie-clip",
+      "label": "Near Dark (5/11) Movie CLIP",
+      "date": 1987,
+      "year": 1987,
+      "videoId": "qHm2lHzV7tM",
+      "youtube": "https://www.youtube.com/watch?v=qHm2lHzV7tM",
+      "tooltip": {
+        "description": "Vampire movie/show from 1987"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "finger",
+      "label": "Finger",
+      "date": 1987,
+      "year": 1987,
+      "videoId": "ufcsS9E-JVs",
+      "youtube": "https://www.youtube.com/watch?v=ufcsS9E-JVs",
+      "tooltip": {
+        "description": "Vampire movie/show from 1987"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "near-dark-711-movie-clip",
+      "label": "Near Dark (7/11) Movie CLIP",
+      "date": 1987,
+      "year": 1987,
+      "videoId": "cktXSK7io8U",
+      "youtube": "https://www.youtube.com/watch?v=cktXSK7io8U",
+      "tooltip": {
+        "description": "Vampire movie/show from 1987"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "near-dark-811-movie-clip",
+      "label": "Near Dark (8/11) Movie CLIP",
+      "date": 1987,
+      "year": 1987,
+      "videoId": "odWPv33yKAk",
+      "youtube": "https://www.youtube.com/watch?v=odWPv33yKAk",
+      "tooltip": {
+        "description": "Vampire movie/show from 1987"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "near-dark-911-movie-clip",
+      "label": "Near Dark (9/11) Movie CLIP",
+      "date": 1987,
+      "year": 1987,
+      "videoId": "ClrfnLtqXYo",
+      "youtube": "https://www.youtube.com/watch?v=ClrfnLtqXYo",
+      "tooltip": {
+        "description": "Vampire movie/show from 1987"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "near-dark-1011-movie-clip",
+      "label": "Near Dark (10/11) Movie CLIP",
+      "date": 1987,
+      "year": 1987,
+      "videoId": "2QLbTjd693M",
+      "youtube": "https://www.youtube.com/watch?v=2QLbTjd693M",
+      "tooltip": {
+        "description": "Vampire movie/show from 1987"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "near-dark-1111-movie-clip",
+      "label": "Near Dark (11/11) Movie CLIP",
+      "date": 1987,
+      "year": 1987,
+      "videoId": "1iiGGpwLdQc",
+      "youtube": "https://www.youtube.com/watch?v=1iiGGpwLdQc",
+      "tooltip": {
+        "description": "Vampire movie/show from 1987"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "bram-stokers-dracula",
+      "label": "Bram Stoker's Dracula",
+      "date": 1992,
+      "year": 1992,
+      "videoId": "ojgy7kyNp5g",
+      "youtube": "https://www.youtube.com/watch?v=ojgy7kyNp5g",
+      "tooltip": {
+        "description": "Vampire movie/show from 1992"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "bram-stokers-dracula-18-movie-clip",
+      "label": "Bram Stoker's Dracula (1/8) Movie CLIP",
+      "date": 1992,
+      "year": 1992,
+      "videoId": "onbiOVpX0_w",
+      "youtube": "https://www.youtube.com/watch?v=onbiOVpX0_w",
+      "tooltip": {
+        "description": "Vampire movie/show from 1992"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "bram-stokers-dracula-38-movie-clip",
+      "label": "Bram Stoker's Dracula (3/8) Movie CLIP",
+      "date": 1992,
+      "year": 1992,
+      "videoId": "jrLVuKks6lE",
+      "youtube": "https://www.youtube.com/watch?v=jrLVuKks6lE",
+      "tooltip": {
+        "description": "Vampire movie/show from 1992"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "bram-stokers-dracula-48-movie-clip",
+      "label": "Bram Stoker's Dracula (4/8) Movie CLIP",
+      "date": 1992,
+      "year": 1992,
+      "videoId": "8rlohOLUi9k",
+      "youtube": "https://www.youtube.com/watch?v=8rlohOLUi9k",
+      "tooltip": {
+        "description": "Vampire movie/show from 1992"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "bram-stokers-dracula-58-movie-clip",
+      "label": "Bram Stoker's Dracula (5/8) Movie CLIP",
+      "date": 1992,
+      "year": 1992,
+      "videoId": "V67ozonzKRQ",
+      "youtube": "https://www.youtube.com/watch?v=V67ozonzKRQ",
+      "tooltip": {
+        "description": "Vampire movie/show from 1992"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "bram-stokers-dracula-68-movie-clip",
+      "label": "Bram Stoker's Dracula (6/8) Movie CLIP",
+      "date": 1992,
+      "year": 1992,
+      "videoId": "_OFfuZY_Pvk",
+      "youtube": "https://www.youtube.com/watch?v=_OFfuZY_Pvk",
+      "tooltip": {
+        "description": "Vampire movie/show from 1992"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "bram-stokers-dracula-78-movie-clip",
+      "label": "Bram Stoker's Dracula (7/8) Movie CLIP",
+      "date": 1992,
+      "year": 1992,
+      "videoId": "X1rnBQJxfdk",
+      "youtube": "https://www.youtube.com/watch?v=X1rnBQJxfdk",
+      "tooltip": {
+        "description": "Vampire movie/show from 1992"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "bram-stokers-dracula-88-movie-clip",
+      "label": "Bram Stoker's Dracula (8/8) Movie CLIP",
+      "date": 1992,
+      "year": 1992,
+      "videoId": "9CIAkk-YENU",
+      "youtube": "https://www.youtube.com/watch?v=9CIAkk-YENU",
+      "tooltip": {
+        "description": "Vampire movie/show from 1992"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "interview-with-the-vampire",
+      "label": "Interview with the Vampire",
+      "date": 1994,
+      "year": 1994,
+      "videoId": "c9cV7bFKMNQ",
+      "youtube": "https://www.youtube.com/watch?v=c9cV7bFKMNQ",
+      "tooltip": {
+        "description": "Vampire movie/show from 1994. 4 scenes available."
+      },
+      "showImageOnPlace": false,
+      "variants": [
+        {
+          "id": "interview-with-the-vampire-variant-0",
+          "videoId": "LIm8HfwnmVE",
+          "youtube": "https://www.youtube.com/watch?v=LIm8HfwnmVE",
+          "description": "Vampire scene 2"
+        },
+        {
+          "id": "interview-with-the-vampire-variant-1",
+          "videoId": "5xzDAgFrnf8",
+          "youtube": "https://www.youtube.com/watch?v=5xzDAgFrnf8",
+          "description": "Vampire scene 3"
+        },
+        {
+          "id": "interview-with-the-vampire-variant-2",
+          "videoId": "OsI3mSgTFnk",
+          "youtube": "https://www.youtube.com/watch?v=OsI3mSgTFnk",
+          "description": "Vampire scene 4"
+        }
+      ],
+      "variantCount": 3
+    },
+    {
+      "id": "master-and-apprentice-scene-25-interview-with-the-vampire",
+      "label": "Master and Apprentice Scene (2/5) Interview with the Vampire",
+      "date": 1994,
+      "year": 1994,
+      "videoId": "qsJ6BdQuUxo",
+      "youtube": "https://www.youtube.com/watch?v=qsJ6BdQuUxo",
+      "tooltip": {
+        "description": "Vampire movie/show from 1994"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "from-dusk-till-dawn-712-movie-clip",
+      "label": "From Dusk Till Dawn (7/12) Movie CLIP",
+      "date": 1996,
+      "year": 1996,
+      "videoId": "vtjCVRm2DAM",
+      "youtube": "https://www.youtube.com/watch?v=vtjCVRm2DAM",
+      "tooltip": {
+        "description": "Vampire movie/show from 1996"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "santanico-pandemonium",
+      "label": "Santanico Pandemonium",
+      "date": 1996,
+      "year": 1996,
+      "videoId": "dw7d707e-EI",
+      "youtube": "https://www.youtube.com/watch?v=dw7d707e-EI",
+      "tooltip": {
+        "description": "Vampire movie/show from 1996"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "from-dusk-till-dawn-612-movie-clip",
+      "label": "From Dusk Till Dawn (6/12) Movie CLIP",
+      "date": 1996,
+      "year": 1996,
+      "videoId": "0x6LPfRGAL8",
+      "youtube": "https://www.youtube.com/watch?v=0x6LPfRGAL8",
+      "tooltip": {
+        "description": "Vampire movie/show from 1996"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "from-dusk-till-dawn-812-movie-clip",
+      "label": "From Dusk Till Dawn (8/12) Movie CLIP",
+      "date": 1996,
+      "year": 1996,
+      "videoId": "xFfUAjUMVY8",
+      "youtube": "https://www.youtube.com/watch?v=xFfUAjUMVY8",
+      "tooltip": {
+        "description": "Vampire movie/show from 1996"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "from-dusk-till-dawn-912-movie-clip",
+      "label": "From Dusk Till Dawn (9/12) Movie CLIP",
+      "date": 1996,
+      "year": 1996,
+      "videoId": "YbcfcgX2U3g",
+      "youtube": "https://www.youtube.com/watch?v=YbcfcgX2U3g",
+      "tooltip": {
+        "description": "Vampire movie/show from 1996"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "from-dusk-till-dawn-1012-movie-clip",
+      "label": "From Dusk Till Dawn (10/12) Movie CLIP",
+      "date": 1996,
+      "year": 1996,
+      "videoId": "QTKNzDn8PzA",
+      "youtube": "https://www.youtube.com/watch?v=QTKNzDn8PzA",
+      "tooltip": {
+        "description": "Vampire movie/show from 1996"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "from-dusk-till-dawn-1112-movie-clip",
+      "label": "From Dusk Till Dawn (11/12) Movie CLIP",
+      "date": 1996,
+      "year": 1996,
+      "videoId": "GG4VDjXtt7Q",
+      "youtube": "https://www.youtube.com/watch?v=GG4VDjXtt7Q",
+      "tooltip": {
+        "description": "Vampire movie/show from 1996"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "from-dusk-till-dawn-1212-movie-clip",
+      "label": "From Dusk Till Dawn (12/12) Movie CLIP",
+      "date": 1996,
+      "year": 1996,
+      "videoId": "KqAIrFLuymo",
+      "youtube": "https://www.youtube.com/watch?v=KqAIrFLuymo",
+      "tooltip": {
+        "description": "Vampire movie/show from 1996"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "blade-13-movie-clip",
+      "label": "Blade (1/3) Movie CLIP",
+      "date": 1998,
+      "year": 1998,
+      "videoId": "KTuGK7Ob2QI",
+      "youtube": "https://www.youtube.com/watch?v=KTuGK7Ob2QI",
+      "tooltip": {
+        "description": "Vampire movie/show from 1998"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "blade-23-movie-clip",
+      "label": "Blade (2/3) Movie CLIP",
+      "date": 1998,
+      "year": 1998,
+      "videoId": "PTEskprXZOg",
+      "youtube": "https://www.youtube.com/watch?v=PTEskprXZOg",
+      "tooltip": {
+        "description": "Vampire movie/show from 1998"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "blade-33-movie-clip",
+      "label": "Blade (3/3) Movie CLIP",
+      "date": 1998,
+      "year": 1998,
+      "videoId": "jRYdVUtQs-8",
+      "youtube": "https://www.youtube.com/watch?v=jRYdVUtQs-8",
+      "tooltip": {
+        "description": "Vampire movie/show from 1998"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "shadow-of-the-vampire-110-movie-clip",
+      "label": "Shadow of the Vampire (1/10) Movie CLIP",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "h5jZBcDev1s",
+      "youtube": "https://www.youtube.com/watch?v=h5jZBcDev1s",
+      "tooltip": {
+        "description": "Vampire movie/show from 2000"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "shadow-of-the-vampire-210-movie-clip",
+      "label": "Shadow of the Vampire (2/10) Movie CLIP",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "kVPIOjjbIpY",
+      "youtube": "https://www.youtube.com/watch?v=kVPIOjjbIpY",
+      "tooltip": {
+        "description": "Vampire movie/show from 2000"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "shadow-of-the-vampire-310-movie-clip",
+      "label": "Shadow of the Vampire (3/10) Movie CLIP",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "2nChsqAPyHw",
+      "youtube": "https://www.youtube.com/watch?v=2nChsqAPyHw",
+      "tooltip": {
+        "description": "Vampire movie/show from 2000"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "shadow-of-the-vampire-410-movie-clip",
+      "label": "Shadow of the Vampire (4/10) Movie CLIP",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "ohgN4PexEv4",
+      "youtube": "https://www.youtube.com/watch?v=ohgN4PexEv4",
+      "tooltip": {
+        "description": "Vampire movie/show from 2000"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "shadow-of-the-vampire-510-movie-clip",
+      "label": "Shadow of the Vampire (5/10) Movie CLIP",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "YgqgSaDCgC4",
+      "youtube": "https://www.youtube.com/watch?v=YgqgSaDCgC4",
+      "tooltip": {
+        "description": "Vampire movie/show from 2000"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "shadow-of-the-vampire-610-movie-clip",
+      "label": "Shadow of the Vampire (6/10) Movie CLIP",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "cEafT-GQfv4",
+      "youtube": "https://www.youtube.com/watch?v=cEafT-GQfv4",
+      "tooltip": {
+        "description": "Vampire movie/show from 2000"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "shadow-of-the-vampire-710-movie-clip",
+      "label": "Shadow of the Vampire (7/10) Movie CLIP",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "nALXcRjbVzs",
+      "youtube": "https://www.youtube.com/watch?v=nALXcRjbVzs",
+      "tooltip": {
+        "description": "Vampire movie/show from 2000"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "shadow-of-the-vampire-810-movie-clip",
+      "label": "Shadow of the Vampire (8/10) Movie CLIP",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "JuvJl9iwKb4",
+      "youtube": "https://www.youtube.com/watch?v=JuvJl9iwKb4",
+      "tooltip": {
+        "description": "Vampire movie/show from 2000"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "shadow-of-the-vampire-910-movie-clip",
+      "label": "Shadow of the Vampire (9/10) Movie CLIP",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "SLNBos63EkY",
+      "youtube": "https://www.youtube.com/watch?v=SLNBos63EkY",
+      "tooltip": {
+        "description": "Vampire movie/show from 2000"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "shadow-of-the-vampire-1010-movie-clip",
+      "label": "Shadow of the Vampire (10/10) Movie CLIP",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "-lAXOMpPqYM",
+      "youtube": "https://www.youtube.com/watch?v=-lAXOMpPqYM",
+      "tooltip": {
+        "description": "Vampire movie/show from 2000"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "blade-2-13-movie-clip",
+      "label": "Blade 2 (1/3) Movie CLIP",
+      "date": 2002,
+      "year": 2002,
+      "videoId": "uU6LIbi7NZQ",
+      "youtube": "https://www.youtube.com/watch?v=uU6LIbi7NZQ",
+      "tooltip": {
+        "description": "Vampire movie/show from 2002"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "blade-2-23-movie-clip",
+      "label": "Blade 2 (2/3) Movie CLIP",
+      "date": 2002,
+      "year": 2002,
+      "videoId": "Qs_PHrILn6k",
+      "youtube": "https://www.youtube.com/watch?v=Qs_PHrILn6k",
+      "tooltip": {
+        "description": "Vampire movie/show from 2002"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "blade-2-33-movie-clip",
+      "label": "Blade 2 (3/3) Movie CLIP",
+      "date": 2002,
+      "year": 2002,
+      "videoId": "EFpsSudUhQU",
+      "youtube": "https://www.youtube.com/watch?v=EFpsSudUhQU",
+      "tooltip": {
+        "description": "Vampire movie/show from 2002"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "twilight-1111-movie-clip",
+      "label": "Twilight (11/11) Movie CLIP",
+      "date": 2008,
+      "year": 2008,
+      "videoId": "eDblDj6BISo",
+      "youtube": "https://www.youtube.com/watch?v=eDblDj6BISo",
+      "tooltip": {
+        "description": "Vampire movie/show from 2008"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "let-the-right-one-in-712-movie-clip",
+      "label": "Let the Right One In (7/12) Movie CLIP",
+      "date": 2008,
+      "year": 2008,
+      "videoId": "6i0sEgnPLms",
+      "youtube": "https://www.youtube.com/watch?v=6i0sEgnPLms",
+      "tooltip": {
+        "description": "Vampire movie/show from 2008"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "let-the-right-one-in-112-movie-clip",
+      "label": "Let the Right One In (1/12) Movie CLIP",
+      "date": 2008,
+      "year": 2008,
+      "videoId": "hiO38yFF-Q8",
+      "youtube": "https://www.youtube.com/watch?v=hiO38yFF-Q8",
+      "tooltip": {
+        "description": "Vampire movie/show from 2008"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "let-the-right-one-in-212-movie-clip",
+      "label": "Let the Right One In (2/12) Movie CLIP",
+      "date": 2008,
+      "year": 2008,
+      "videoId": "u31Fyx8g5ZY",
+      "youtube": "https://www.youtube.com/watch?v=u31Fyx8g5ZY",
+      "tooltip": {
+        "description": "Vampire movie/show from 2008"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "let-the-right-one-in-312-movie-clip",
+      "label": "Let the Right One In (3/12) Movie CLIP",
+      "date": 2008,
+      "year": 2008,
+      "videoId": "GYJ-Z5o9gUM",
+      "youtube": "https://www.youtube.com/watch?v=GYJ-Z5o9gUM",
+      "tooltip": {
+        "description": "Vampire movie/show from 2008"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "let-the-right-one-in-412-movie-clip",
+      "label": "Let the Right One In (4/12) Movie CLIP",
+      "date": 2008,
+      "year": 2008,
+      "videoId": "J9z4myiIVww",
+      "youtube": "https://www.youtube.com/watch?v=J9z4myiIVww",
+      "tooltip": {
+        "description": "Vampire movie/show from 2008"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "let-the-right-one-in-512-movie-clip",
+      "label": "Let the Right One In (5/12) Movie CLIP",
+      "date": 2008,
+      "year": 2008,
+      "videoId": "w-_BMZo7mik",
+      "youtube": "https://www.youtube.com/watch?v=w-_BMZo7mik",
+      "tooltip": {
+        "description": "Vampire movie/show from 2008"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "let-the-right-one-in-612-movie-clip",
+      "label": "Let the Right One In (6/12) Movie CLIP",
+      "date": 2008,
+      "year": 2008,
+      "videoId": "AcJq5nGwm4U",
+      "youtube": "https://www.youtube.com/watch?v=AcJq5nGwm4U",
+      "tooltip": {
+        "description": "Vampire movie/show from 2008"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "let-the-right-one-in-812-movie-clip",
+      "label": "Let the Right One In (8/12) Movie CLIP",
+      "date": 2008,
+      "year": 2008,
+      "videoId": "lmqQPyNsXpU",
+      "youtube": "https://www.youtube.com/watch?v=lmqQPyNsXpU",
+      "tooltip": {
+        "description": "Vampire movie/show from 2008"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "let-the-right-one-in-912-movie-clip",
+      "label": "Let the Right One In (9/12) Movie CLIP",
+      "date": 2008,
+      "year": 2008,
+      "videoId": "bdJt1Mggjl4",
+      "youtube": "https://www.youtube.com/watch?v=bdJt1Mggjl4",
+      "tooltip": {
+        "description": "Vampire movie/show from 2008"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "let-the-right-one-in-1012-movie-clip",
+      "label": "Let the Right One In (10/12) Movie CLIP",
+      "date": 2008,
+      "year": 2008,
+      "videoId": "JLTtgzY_7-Y",
+      "youtube": "https://www.youtube.com/watch?v=JLTtgzY_7-Y",
+      "tooltip": {
+        "description": "Vampire movie/show from 2008"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "let-the-right-one-in-1112-movie-clip",
+      "label": "Let the Right One In (11/12) Movie CLIP",
+      "date": 2008,
+      "year": 2008,
+      "videoId": "BUrDm2GmJ5I",
+      "youtube": "https://www.youtube.com/watch?v=BUrDm2GmJ5I",
+      "tooltip": {
+        "description": "Vampire movie/show from 2008"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "let-the-right-one-in-1212-movie-clip",
+      "label": "Let the Right One In (12/12) Movie CLIP",
+      "date": 2008,
+      "year": 2008,
+      "videoId": "vapcFQlS6Qo",
+      "youtube": "https://www.youtube.com/watch?v=vapcFQlS6Qo",
+      "tooltip": {
+        "description": "Vampire movie/show from 2008"
+      },
+      "showImageOnPlace": false
+    }
+  ]
+}

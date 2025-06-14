@@ -4,104 +4,2146 @@
   "category": "Entertainment",
   "subcategory": "Movies/TV",
   "hideDates": false,
-  "cards":
-[
-    { "id": "cabinet-dr-caligari",       "label": "The Cabinet of Dr. Caligari",                          "date": 1920 },
-    { "id": "nosferatu",                 "label": "Nosferatu",                                           "date": 1922 },
-    { "id": "phantom-opera",             "label": "The Phantom of the Opera",                              "date": 1925 },
-    { "id": "dracula-1931",              "label": "Dracula",                                             "date": 1931 },
-    { "id": "frankenstein-1931",         "label": "Frankenstein",                                        "date": 1931 },
-    { "id": "m-1931",                    "label": "M",                                                   "date": 1931 },
-    { "id": "white-zombie",              "label": "White Zombie",                                        "date": 1932 },
-    { "id": "invisible-man",             "label": "The Invisible Man",                                    "date": 1933 },
-    { "id": "bride-of-frankenstein",     "label": "Bride of Frankenstein",                                "date": 1935 },
-    { "id": "freaks-1936",               "label": "Freaks",                                              "date": 1936 },
-    { "id": "wolf-man-1941",             "label": "The Wolf Man",                                        "date": 1941 },
-    { "id": "dead-of-night-1945",        "label": "Dead of Night",                                       "date": 1945 },
-    { "id": "house-of-wax-1953",         "label": "House of Wax",                                        "date": 1953 },
-    { "id": "black-lagoon-1954",         "label": "Creature from the Black Lagoon",                        "date": 1954 },
-    { "id": "body-snatchers-1956",       "label": "Invasion of the Body Snatchers",                        "date": 1956 },
-    { "id": "horror-of-dracula-1958",    "label": "Horror of Dracula",                                     "date": 1958 },
-    { "id": "psycho-1960",               "label": "Psycho",                                              "date": 1960 },
-    { "id": "baby-jane-1962",            "label": "Whatever Happened to Baby Jane?",                       "date": 1962 },
-    { "id": "haunting-1963",             "label": "The Haunting",                                        "date": 1963 },
-    { "id": "witchfinder-1964",          "label": "Witchfinder General",                                 "date": 1964 },
-    { "id": "repulsion-1965",            "label": "Repulsion",                                          "date": 1965 },
-    { "id": "night-dead-1968",           "label": "Night of the Living Dead",                             "date": 1968 },
-    { "id": "rosemarys-baby-1968",       "label": "Rosemary’s Baby",                                     "date": 1968 },
-    { "id": "exorcist-1973",             "label": "The Exorcist",                                        "date": 1973 },
-    { "id": "texas-chain-saw-1974",      "label": "The Texas Chain Saw Massacre",                        "date": 1974 },
-    { "id": "jaws-1975",                  "label": "Jaws",                                                "date": 1975 },
-    { "id": "carrie-1976",                "label": "Carrie",                                              "date": 1976 },
-    { "id": "omen-1976",                  "label": "The Omen",                                            "date": 1976 },
-    { "id": "suspiria-1977",              "label": "Suspiria",                                           "date": 1977 },
-    { "id": "halloween-1978",             "label": "Halloween",                                          "date": 1978 },
-    { "id": "dawn-dead-1978",             "label": "Dawn of the Dead",                                   "date": 1978 },
-    { "id": "alien-1979",                 "label": "Alien",                                              "date": 1979 },
-    { "id": "shining-1980",               "label": "The Shining",                                        "date": 1980 },
-    { "id": "friday-13th-1980",           "label": "Friday the 13th",                                    "date": 1980 },
-    { "id": "werewolf-london-1981",       "label": "An American Werewolf in London",                     "date": 1981 },
-    { "id": "evil-dead-1981",             "label": "The Evil Dead (original)",                                      "date": 1981 },
-    { "id": "poltergeist-1982",           "label": "Poltergeist",                                        "date": 1982 },
-    { "id": "elm-street-1984",            "label": "A Nightmare on Elm Street",                          "date": 1984 },
-    { "id": "re-animator-1985",           "label": "Re-Animator",                                        "date": 1985 },
-    { "id": "aliens-1986",                "label": "Aliens",                                             "date": 1986 },
-    { "id": "fly-1986",                   "label": "The Fly",                                           "date": 1986 },
-    { "id": "hellraiser-1987",            "label": "Hellraiser",                                        "date": 1987 },
-    { "id": "childs-play-1988",           "label": "Child’s Play",                                      "date": 1988 },
-    { "id": "pet-sematary-1989",          "label": "Pet Sematary",                                      "date": 1989 },
-    { "id": "misery-1990",                "label": "Misery",                                            "date": 1990 },
-    { "id": "silence-lambs-1991",         "label": "The Silence of the Lambs",                         "date": 1991 },
-    { "id": "dracula-1992",               "label": "Bram Stoker’s Dracula",                             "date": 1992 },
-    { "id": "interview-vampire-1994",     "label": "Interview with the Vampire",                        "date": 1994 },
-    { "id": "scream-1996",                "label": "Scream",                                            "date": 1996 },
-    { "id": "event-horizon-1997",         "label": "Event Horizon",                                     "date": 1997 },
-    { "id": "blair-witch-1998",           "label": "The Blair Witch Project",                          "date": 1998 },
-    { "id": "sixth-sense-1999",           "label": "The Sixth Sense",                                   "date": 1999 },
-    { "id": "american-psycho-2000",       "label": "American Psycho",                                  "date": 2000 },
-    { "id": "final-destination-2000",     "label": "Final Destination",                                "date": 2000 },
-    { "id": "others-2001",                "label": "The Others",                                       "date": 2001 },
-    { "id": "28-days-later-2002",         "label": "28 Days Later",                                    "date": 2002 },
-    { "id": "ring-2002",                  "label": "The Ring",                                         "date": 2002 },
-    { "id": "house-1000-corpses-2003",    "label": "House of 1000 Corpses",                            "date": 2003 },
-    { "id": "saw-2004",                   "label": "Saw",                                              "date": 2004 },
-    { "id": "shaun-of-dead-2004",         "label": "Shaun of the Dead",                                "date": 2004 },
-    { "id": "descent-2005",               "label": "The Descent",                                      "date": 2005 },
-    { "id": "pans-labyrinth-2006",        "label": "Pan’s Labyrinth",                                  "date": 2006 },
-    { "id": "rec-2007",                   "label": "[REC]",                                          "date": 2007 },
-    { "id": "paranormal-activity-2007",   "label": "Paranormal Activity",                             "date": 2007 },
-    { "id": "let-right-one-in-2008",      "label": "Let the Right One In",                            "date": 2008 },
-    { "id": "cloverfield-2008",           "label": "Cloverfield",                                     "date": 2008 },
-    { "id": "drag-me-to-hell-2009",       "label": "Drag Me to Hell",                                 "date": 2009 },
-    { "id": "insidious-2010",             "label": "Insidious",                                       "date": 2010 },
-    { "id": "let-me-in-2010",             "label": "Let Me In",                                       "date": 2010 },
-    { "id": "cabin-in-woods-2011",        "label": "The Cabin in the Woods",                          "date": 2011 },
-    { "id": "sinister-2012",              "label": "Sinister",                                        "date": 2012 },
-    { "id": "conjuring-2013",             "label": "The Conjuring",                                   "date": 2013 },
-    { "id": "evil-dead-2013",             "label": "Evil Dead (remake)",                                       "date": 2013 },
-    { "id": "it-follows-2014",            "label": "It Follows",                                      "date": 2014 },
-    { "id": "witch-2015",                 "label": "The Witch",                                       "date": 2015 },
-    { "id": "visit-2015",                 "label": "The Visit",                                       "date": 2015 },
-    { "id": "dont-breathe-2016",          "label": "Don’t Breathe",                                   "date": 2016 },
-    { "id": "raw-2016",                   "label": "Raw",                                             "date": 2016 },
-    { "id": "get-out-2017",               "label": "Get Out",                                        "date": 2017 },
-    { "id": "ritual-2017",                "label": "The Ritual",                                      "date": 2017 },
-    { "id": "a-quiet-place-2018",         "label": "A Quiet Place",                                  "date": 2018 },
-    { "id": "hereditary-2018",            "label": "Hereditary",                                     "date": 2018 },
-    { "id": "midsommar-2019",             "label": "Midsommar",                                      "date": 2019 },
-    { "id": "us-2019",                    "label": "Us",                                              "date": 2019 },
-    { "id": "invisible-man-2020",         "label": "The Invisible Man",                              "date": 2020 },
-    { "id": "quiet-place-2-2021",         "label": "A Quiet Place Part II",                          "date": 2021 },
-    { "id": "candyman-2021",              "label": "Candyman",                                       "date": 2021 },
-    { "id": "malignant-2021",             "label": "Malignant",                                      "date": 2021 },
-    { "id": "barbarian-2022",             "label": "Barbarian",                                      "date": 2022 },
-    { "id": "smile-2022",                 "label": "Smile",                                          "date": 2022 },
-    { "id": "nope-2022",                  "label": "Nope",                                           "date": 2022 },
-    { "id": "talk-to-me-2023",            "label": "Talk to Me",                                     "date": 2023 },
-    { "id": "evil-dead-rise-2023",        "label": "Evil Dead Rise",                                 "date": 2023 },
-    { "id": "saw-x-2023",                 "label": "Saw X",                                          "date": 2023 },
-    { "id": "youre-next-2013",            "label": "You’re Next",                                    "date": 2013 },
-    { "id": "x-2022",                     "label": "X",                                              "date": 2022 }
+  "showTooltips": true,
+  "showImageOnPlace": false,
+  "cards": [
+    {
+      "id": "dracula-1931",
+      "label": "Dracula",
+      "date": 1931,
+      "year": 1931,
+      "youtube": "https://www.youtube.com/watch?v=o_N-H_5Pvu8",
+      "tooltip": {
+        "description": "Horror movie that premiered in 1931"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "shes-alive-shes-alive-1935",
+      "label": "She's Alive! She's Alive!",
+      "date": 1935,
+      "year": 1935,
+      "youtube": "https://www.youtube.com/watch?v=3zhqCccFsGc",
+      "tooltip": {
+        "description": "Horror movie that premiered in 1935"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "a-boys-best-friend-1960",
+      "label": "A Boy's Best Friend",
+      "date": 1960,
+      "year": 1960,
+      "youtube": "https://www.youtube.com/watch?v=I9mJ2oBONug",
+      "tooltip": {
+        "description": "Horror movie that premiered in 1960"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "we-all-go-a-little-mad-sometimes-1960",
+      "label": "We All Go a Little Mad Sometimes",
+      "date": 1960,
+      "year": 1960,
+      "youtube": "https://www.youtube.com/watch?v=Nv88ASiLmgk",
+      "tooltip": {
+        "description": "Horror movie that premiered in 1960"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "take-me-1973",
+      "label": "Take Me!",
+      "date": 1973,
+      "year": 1973,
+      "youtube": "https://www.youtube.com/watch?v=Au-u9RWe0Jo",
+      "tooltip": {
+        "description": "Horror movie that premiered in 1973"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "exorcist-1973",
+      "label": "The Exorcist",
+      "date": 1973,
+      "year": 1973,
+      "youtube": "https://www.youtube.com/watch?v=sZazSFEHfg8",
+      "tooltip": {
+        "description": "Horror movie that premiered in 1973"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "exorcist-2-1973",
+      "label": "The Exorcist #2",
+      "date": 1973,
+      "year": 1973,
+      "youtube": "https://www.youtube.com/watch?v=g5m411zcNA4",
+      "tooltip": {
+        "description": "Horror movie that premiered in 1973"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "power-of-christ-compels-you-1973",
+      "label": "The Power of Christ Compels You",
+      "date": 1973,
+      "year": 1973,
+      "youtube": "https://www.youtube.com/watch?v=lpyg94OzHK0",
+      "tooltip": {
+        "description": "Horror movie that premiered in 1973"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "jaws-1975",
+      "label": "Jaws",
+      "date": 1975,
+      "year": 1975,
+      "youtube": "https://www.youtube.com/watch?v=2I91DJZKRxs",
+      "variants": [
+        {
+          "id": "2I91DJZKRxs-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=2I91DJZKRxs",
+          "sceneDescription": "Jaws - Clip 1",
+          "originalTitle": "Jaws (1975) - You're Gonna Need a Bigger Boat Scene (4/10) | Movieclips"
+        },
+        {
+          "id": "u9S41Kplsbs-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=u9S41Kplsbs",
+          "sceneDescription": "Jaws - Clip 2",
+          "originalTitle": "Jaws (1975) - The Indianapolis Speech Scene (7/10) | Movieclips"
+        },
+        {
+          "id": "dPi40lQetew-variant-2",
+          "youtube": "https://www.youtube.com/watch?v=dPi40lQetew",
+          "sceneDescription": "Jaws - Clip 3",
+          "originalTitle": "Jaws (1975) - The Head, the Tail, the Whole Damn Thing Scene (3/10) | Movieclips"
+        }
+      ],
+      "variantCount": 3,
+      "tooltip": {
+        "description": "Horror movie that premiered in 1975 (3 clips available)"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "carrie-1976",
+      "label": "Carrie",
+      "date": 1976,
+      "year": 1976,
+      "youtube": "https://www.youtube.com/watch?v=YOhPdUMzXjY",
+      "variants": [
+        {
+          "id": "YOhPdUMzXjY-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=YOhPdUMzXjY",
+          "sceneDescription": "Carrie - Clip 1",
+          "originalTitle": "Carrie (9/12) Movie CLIP - Carrie Gets Angry (1976) HD"
+        },
+        {
+          "id": "DJcTG-VnLrI-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=DJcTG-VnLrI",
+          "sceneDescription": "Carrie - Clip 2",
+          "originalTitle": "Carrie (8/12) Movie CLIP - Bucket of Blood (1976) HD"
+        }
+      ],
+      "variantCount": 2,
+      "tooltip": {
+        "description": "Horror movie that premiered in 1976 (2 clips available)"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "alien-1979",
+      "label": "Alien",
+      "date": 1979,
+      "year": 1979,
+      "youtube": "https://www.youtube.com/watch?v=AdBu6VAESeI",
+      "variants": [
+        {
+          "id": "AdBu6VAESeI-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=AdBu6VAESeI",
+          "sceneDescription": "Alien - Clip 1",
+          "originalTitle": "Alien (1979) - Chestburster Scene (2/5) | Movieclips"
+        },
+        {
+          "id": "gEqHJ1tomnk-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=gEqHJ1tomnk",
+          "sceneDescription": "Alien - Clip 2",
+          "originalTitle": "Alien (1979) - Acid Blood Scene (1/5) | Movieclips"
+        }
+      ],
+      "variantCount": 2,
+      "tooltip": {
+        "description": "Horror movie that premiered in 1979 (2 clips available)"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "friday-the-13th-1980",
+      "label": "Friday the 13th",
+      "date": 1980,
+      "year": 1980,
+      "youtube": "https://www.youtube.com/watch?v=kk2HQ0hCGTE",
+      "tooltip": {
+        "description": "Horror movie that premiered in 1980"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "shining-1980",
+      "label": "The Shining",
+      "date": 1980,
+      "year": 1980,
+      "youtube": "https://www.youtube.com/watch?v=CMbI7DmLCNI",
+      "variants": [
+        {
+          "id": "CMbI7DmLCNI-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=CMbI7DmLCNI",
+          "sceneDescription": "The Shining - Clip 1",
+          "originalTitle": "The Shining (1980) - Come Play With Us Scene (2/7) | Movieclips"
+        },
+        {
+          "id": "WDpipB4yehk-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=WDpipB4yehk",
+          "sceneDescription": "The Shining - Clip 2",
+          "originalTitle": "The Shining (1980) - Here's Johnny! Scene (7/7) | Movieclips"
+        },
+        {
+          "id": "FLjixsUEj5E-variant-2",
+          "youtube": "https://www.youtube.com/watch?v=FLjixsUEj5E",
+          "sceneDescription": "The Shining - Clip 3",
+          "originalTitle": "The Shining (1980) - Redrum Scene (5/7) | Movieclips"
+        }
+      ],
+      "variantCount": 3,
+      "tooltip": {
+        "description": "Horror movie that premiered in 1980 (3 clips available)"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "halloween-ii-1981",
+      "label": "Halloween II",
+      "date": 1981,
+      "year": 1981,
+      "youtube": "https://www.youtube.com/watch?v=COZxvXx4bSg",
+      "variants": [
+        {
+          "id": "COZxvXx4bSg-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=COZxvXx4bSg",
+          "sceneDescription": "Halloween II - Clip 1",
+          "originalTitle": "Halloween II (10/10) Movie CLIP - The Death of Michael Myers (1981) HD"
+        },
+        {
+          "id": "h0w6WywbohM-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=h0w6WywbohM",
+          "sceneDescription": "Halloween II - Clip 2",
+          "originalTitle": "Halloween II (4/10) Movie CLIP - Hot Tub Horror (1981) HD"
+        }
+      ],
+      "variantCount": 2,
+      "tooltip": {
+        "description": "Horror movie that premiered in 1981 (2 clips available)"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "creepshow-1982",
+      "label": "Creepshow",
+      "date": 1982,
+      "year": 1982,
+      "youtube": "https://www.youtube.com/watch?v=2LsMNs4hW1s",
+      "tooltip": {
+        "description": "Horror movie that premiered in 1982"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "halloween-ii-1982",
+      "label": "Halloween II",
+      "date": 1982,
+      "year": 1982,
+      "youtube": "https://www.youtube.com/watch?v=u2D0kDFKaxE",
+      "tooltip": {
+        "description": "Horror movie that premiered in 1982"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "beast-within-1982",
+      "label": "The Beast Within",
+      "date": 1982,
+      "year": 1982,
+      "youtube": "https://www.youtube.com/watch?v=WdD2JN10zpY",
+      "tooltip": {
+        "description": "Horror movie that premiered in 1982"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "thing-1982-1982",
+      "label": "The Thing (1982)",
+      "date": 1982,
+      "year": 1982,
+      "youtube": "https://www.youtube.com/watch?v=NtgFKdWcKXY",
+      "variants": [
+        {
+          "id": "NtgFKdWcKXY-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=NtgFKdWcKXY",
+          "sceneDescription": "The Thing (1982) - Clip 1",
+          "originalTitle": "The Thing (2/10) Movie CLIP - It's Weird and Pissed Off (1982) HD"
+        },
+        {
+          "id": "w0Z44BIDPPc-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=w0Z44BIDPPc",
+          "sceneDescription": "The Thing (1982) - Clip 2",
+          "originalTitle": "The Thing (3/10) Movie CLIP - Human Mutant (1982) HD"
+        },
+        {
+          "id": "hqVbOSEsJNo-variant-2",
+          "youtube": "https://www.youtube.com/watch?v=hqVbOSEsJNo",
+          "sceneDescription": "The Thing (1982) - Clip 3",
+          "originalTitle": "The Thing (6/10) Movie CLIP - Tainted Blood Sample (1982) HD"
+        },
+        {
+          "id": "JVgqhPqHPa4-variant-3",
+          "youtube": "https://www.youtube.com/watch?v=JVgqhPqHPa4",
+          "sceneDescription": "The Thing (1982) - Clip 4",
+          "originalTitle": "The Thing (9/10) Movie CLIP - F*** You Too! (1982) HD"
+        }
+      ],
+      "variantCount": 4,
+      "tooltip": {
+        "description": "Horror movie that premiered in 1982 (4 clips available)"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "cujo-1983",
+      "label": "Cujo",
+      "date": 1983,
+      "year": 1983,
+      "youtube": "https://www.youtube.com/watch?v=5CS1t_QtZOU",
+      "variants": [
+        {
+          "id": "5CS1t_QtZOU-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=5CS1t_QtZOU",
+          "sceneDescription": "Cujo - Clip 1",
+          "originalTitle": "Cujo (7/8) Movie CLIP - Donna Is Bitten (1983) HD"
+        },
+        {
+          "id": "T37ezlBVMME-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=T37ezlBVMME",
+          "sceneDescription": "Cujo - Clip 2",
+          "originalTitle": "Cujo (6/8) Movie CLIP - Get Back in That Barn, Damn You (1983) HD"
+        },
+        {
+          "id": "awPDaFp70yI-variant-2",
+          "youtube": "https://www.youtube.com/watch?v=awPDaFp70yI",
+          "sceneDescription": "Cujo - Clip 3",
+          "originalTitle": "Cujo (1/8) Movie CLIP - A Bat Bites Cujo (1983) HD"
+        }
+      ],
+      "variantCount": 3,
+      "tooltip": {
+        "description": "Horror movie that premiered in 1983 (3 clips available)"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "title": "Sleepaway Camp",
+      "year": 1983,
+      "videoId": "72fMPAyRj5c",
+      "youtube": "https://www.youtube.com/watch?v=72fMPAyRj5c",
+      "id": "sleepaway-camp-1983",
+      "label": "Sleepaway Camp",
+      "date": 1983,
+      "tooltip": {
+        "description": "Horror movie that premiered in 1983"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "a-nightmare-on-elm-street-1984",
+      "label": "A Nightmare on Elm Street",
+      "date": 1984,
+      "year": 1984,
+      "youtube": "https://www.youtube.com/watch?v=Tf9j5763-Gc",
+      "variants": [
+        {
+          "id": "Tf9j5763-Gc-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=Tf9j5763-Gc",
+          "sceneDescription": "A Nightmare on Elm Street - Clip 1",
+          "originalTitle": "A Nightmare on Elm Street (1984) - Bathtime with Freddy Scene (3/10) | Movieclips"
+        },
+        {
+          "id": "cl3sud_uDhc-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=cl3sud_uDhc",
+          "sceneDescription": "A Nightmare on Elm Street - Clip 2",
+          "originalTitle": "A Nightmare on Elm Street (1984) - Not Just a Dream Scene (4/10) | Movieclips"
+        }
+      ],
+      "variantCount": 2,
+      "tooltip": {
+        "description": "Horror movie that premiered in 1984 (2 clips available)"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "children-of-the-corn-1984",
+      "label": "Children of the Corn",
+      "date": 1984,
+      "year": 1984,
+      "youtube": "https://www.youtube.com/watch?v=1jsZkmosXrY",
+      "tooltip": {
+        "description": "Horror movie that premiered in 1984"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "friday-the-13th-5-1985",
+      "label": "Friday the 13th 5",
+      "date": 1985,
+      "year": 1985,
+      "youtube": "https://www.youtube.com/watch?v=elvtIj_sPwU",
+      "tooltip": {
+        "description": "Horror movie that premiered in 1985"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "fright-night-1985",
+      "label": "Fright Night",
+      "date": 1985,
+      "year": 1985,
+      "youtube": "https://www.youtube.com/watch?v=VNLN5xyxwAY",
+      "variants": [
+        {
+          "id": "VNLN5xyxwAY-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=VNLN5xyxwAY",
+          "sceneDescription": "Fright Night - Clip 1",
+          "originalTitle": "Fright Night (1985) - The Death of Evil Ed Scene (7/10) | Movieclips"
+        },
+        {
+          "id": "PvoBUI7uz-w-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=PvoBUI7uz-w",
+          "sceneDescription": "Fright Night - Clip 2",
+          "originalTitle": "Fright Night (1985) - Dawn Arrives Scene (9/10) | Movieclips"
+        }
+      ],
+      "variantCount": 2,
+      "tooltip": {
+        "description": "Horror movie that premiered in 1985 (2 clips available)"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "return-of-the-living-dead-1985",
+      "label": "The Return of the Living Dead",
+      "date": 1985,
+      "year": 1985,
+      "youtube": "https://www.youtube.com/watch?v=2NhF6zphSx8",
+      "variants": [
+        {
+          "id": "2NhF6zphSx8-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=2NhF6zphSx8",
+          "sceneDescription": "The Return of the Living Dead - Clip 1",
+          "originalTitle": "The Return of the Living Dead (9/10) Movie CLIP - Why Do You Eat People? (1985) HD"
+        },
+        {
+          "id": "D_xUviDPUOE-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=D_xUviDPUOE",
+          "sceneDescription": "The Return of the Living Dead - Clip 2",
+          "originalTitle": "The Return of the Living Dead (5/10) Movie CLIP - Headless Zombie (1985) HD"
+        },
+        {
+          "id": "d6zX6-Rf4JY-variant-2",
+          "youtube": "https://www.youtube.com/watch?v=d6zX6-Rf4JY",
+          "sceneDescription": "The Return of the Living Dead - Clip 3",
+          "originalTitle": "The Return of the Living Dead (7/10) Movie CLIP - Brains! (1985) HD"
+        }
+      ],
+      "variantCount": 3,
+      "tooltip": {
+        "description": "Horror movie that premiered in 1985 (3 clips available)"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "poltergeist-ii-the-other-side-1986",
+      "label": "Poltergeist II: The Other Side",
+      "date": 1986,
+      "year": 1986,
+      "youtube": "https://www.youtube.com/watch?v=ayOLECuygTQ",
+      "tooltip": {
+        "description": "Horror movie that premiered in 1986"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "fly-1986",
+      "label": "The Fly",
+      "date": 1986,
+      "year": 1986,
+      "youtube": "https://www.youtube.com/watch?v=NH-8L1iZq20",
+      "tooltip": {
+        "description": "Horror movie that premiered in 1986"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "texas-chainsaw-massacre-2-1986",
+      "label": "The Texas Chainsaw Massacre 2",
+      "date": 1986,
+      "year": 1986,
+      "youtube": "https://www.youtube.com/watch?v=AebCDidbqI8",
+      "tooltip": {
+        "description": "Horror movie that premiered in 1986"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "childs-play-1988",
+      "label": "Child's Play",
+      "date": 1988,
+      "year": 1988,
+      "youtube": "https://www.youtube.com/watch?v=HSH9SG55kBU",
+      "variants": [
+        {
+          "id": "HSH9SG55kBU-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=HSH9SG55kBU",
+          "sceneDescription": "Child's Play - Clip 1",
+          "originalTitle": "Child's Play (1988) - This Is the End, Friend Scene (10/12) | Movieclips"
+        },
+        {
+          "id": "MM42NkUhSnM-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=MM42NkUhSnM",
+          "sceneDescription": "Child's Play - Clip 2",
+          "originalTitle": "Child's Play (1988) - Chucky Doesn't Need Batteries Scene (3/12) | Movieclips"
+        },
+        {
+          "id": "4GUk-1i2_Zo-variant-2",
+          "youtube": "https://www.youtube.com/watch?v=4GUk-1i2_Zo",
+          "sceneDescription": "Child's Play - Clip 3",
+          "originalTitle": "Child's Play (1988) - Frying the Doctor Scene (8/12) | Movieclips"
+        },
+        {
+          "id": "CSuwuvVcRHU-variant-3",
+          "youtube": "https://www.youtube.com/watch?v=CSuwuvVcRHU",
+          "sceneDescription": "Child's Play - Clip 4",
+          "originalTitle": "Child's Play (1988) - Dr. Death's Voodoo Scene (7/12) | Movieclips"
+        },
+        {
+          "id": "Js0YTLpY9bY-variant-4",
+          "youtube": "https://www.youtube.com/watch?v=Js0YTLpY9bY",
+          "sceneDescription": "Child's Play - Clip 5",
+          "originalTitle": "Child's Play (1988) - Chucky Dies Scene (12/12) | Movieclips"
+        },
+        {
+          "id": "WcSLuxBdYJ8-variant-5",
+          "youtube": "https://www.youtube.com/watch?v=WcSLuxBdYJ8",
+          "sceneDescription": "Child's Play - Clip 6",
+          "originalTitle": "Child's Play (1988) - Batter up! Scene (9/12) | Movieclips"
+        },
+        {
+          "id": "XY3urIUUizU-variant-6",
+          "youtube": "https://www.youtube.com/watch?v=XY3urIUUizU",
+          "sceneDescription": "Child's Play - Clip 7",
+          "originalTitle": "Child's Play (1988) - Chucky Attacks Mike Scene (5/12) | Movieclips"
+        },
+        {
+          "id": "5xl30KAt6-w-variant-7",
+          "youtube": "https://www.youtube.com/watch?v=5xl30KAt6-w",
+          "sceneDescription": "Child's Play - Clip 8",
+          "originalTitle": "Child's Play (1988) - You Can't Hurt Me Scene (6/12) | Movieclips"
+        }
+      ],
+      "variantCount": 8,
+      "tooltip": {
+        "description": "Horror movie that premiered in 1988 (8 clips available)"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "killer-klowns-from-outer-space-1988",
+      "label": "Killer Klowns from Outer Space",
+      "date": 1988,
+      "year": 1988,
+      "youtube": "https://www.youtube.com/watch?v=hFoLv3bTLSc",
+      "variants": [
+        {
+          "id": "hFoLv3bTLSc-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=hFoLv3bTLSc",
+          "sceneDescription": "Killer Klowns from Outer Space - Clip 1",
+          "originalTitle": "Killer Klowns from Outer Space (4/11) Movie CLIP - Gonna Knock My Block Off? (1988) HD"
+        },
+        {
+          "id": "F5GWqOrzQ3g-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=F5GWqOrzQ3g",
+          "sceneDescription": "Killer Klowns from Outer Space - Clip 2",
+          "originalTitle": "Killer Klowns from Outer Space (5/11) Movie CLIP - Shadow Puppets (1988) HD"
+        },
+        {
+          "id": "d9ykU9FkH-g-variant-2",
+          "youtube": "https://www.youtube.com/watch?v=d9ykU9FkH-g",
+          "sceneDescription": "Killer Klowns from Outer Space - Clip 3",
+          "originalTitle": "Killer Klowns from Outer Space (8/11) Movie CLIP - Capturing Debbie (1988) HD"
+        },
+        {
+          "id": "M7Ot2vswJLE-variant-3",
+          "youtube": "https://www.youtube.com/watch?v=M7Ot2vswJLE",
+          "sceneDescription": "Killer Klowns from Outer Space - Clip 4",
+          "originalTitle": "Killer Klowns from Outer Space (9/11) Movie CLIP - Pied to Death (1988) HD"
+        },
+        {
+          "id": "I3LIwgA7Qpk-variant-4",
+          "youtube": "https://www.youtube.com/watch?v=I3LIwgA7Qpk",
+          "sceneDescription": "Killer Klowns from Outer Space - Clip 5",
+          "originalTitle": "Killer Klowns from Outer Space (10/11) Movie CLIP - Escaping the Circus (1988) HD"
+        },
+        {
+          "id": "plUXguATsTQ-variant-5",
+          "youtube": "https://www.youtube.com/watch?v=plUXguATsTQ",
+          "sceneDescription": "Killer Klowns from Outer Space - Clip 6",
+          "originalTitle": "Killer Klowns from Outer Space (2/11) Movie CLIP - Cotton Candy Cocoons (1988) HD"
+        }
+      ],
+      "variantCount": 6,
+      "tooltip": {
+        "description": "Horror movie that premiered in 1988 (6 clips available)"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "leviathan-1989",
+      "label": "Leviathan",
+      "date": 1989,
+      "year": 1989,
+      "youtube": "https://www.youtube.com/watch?v=zeSe5X9ALXg",
+      "tooltip": {
+        "description": "Horror movie that premiered in 1989"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "pet-sematary-1989",
+      "label": "Pet Sematary",
+      "date": 1989,
+      "year": 1989,
+      "youtube": "https://www.youtube.com/watch?v=AwJNj-EGWTk",
+      "tooltip": {
+        "description": "Horror movie that premiered in 1989"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "youve-been-very-naughty-miss-kettlewell-1990",
+      "label": "\"You've been very naughty Miss Kettlewell!\"",
+      "date": 1990,
+      "year": 1990,
+      "youtube": "https://www.youtube.com/watch?v=OijdNUEuuEk",
+      "tooltip": {
+        "description": "Horror movie that premiered in 1990"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "childs-play-2-1990",
+      "label": "Child's Play 2",
+      "date": 1990,
+      "year": 1990,
+      "youtube": "https://www.youtube.com/watch?v=ttU5gs0lj38",
+      "variants": [
+        {
+          "id": "ttU5gs0lj38-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=ttU5gs0lj38",
+          "sceneDescription": "Child's Play 2 - Clip 1",
+          "originalTitle": "Child's Play 2 (10/10) Movie CLIP - Exploding Chucky (1990) HD"
+        },
+        {
+          "id": "pDnPZ0Ccdus-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=pDnPZ0Ccdus",
+          "sceneDescription": "Child's Play 2 - Clip 2",
+          "originalTitle": "Child's Play 2 (7/10) Movie CLIP - I'm Trapped in Here! (1990) HD"
+        },
+        {
+          "id": "PM5TJ6vZ9YM-variant-2",
+          "youtube": "https://www.youtube.com/watch?v=PM5TJ6vZ9YM",
+          "sceneDescription": "Child's Play 2 - Clip 3",
+          "originalTitle": "Child's Play 2 (8/10) Movie CLIP - I'm Gonna Kill You! (1990) HD"
+        },
+        {
+          "id": "UvFclgKfUQA-variant-3",
+          "youtube": "https://www.youtube.com/watch?v=UvFclgKfUQA",
+          "sceneDescription": "Child's Play 2 - Clip 4",
+          "originalTitle": "Child's Play 2 (2/10) Movie CLIP - You've Been Very Naughty (1990) HD"
+        },
+        {
+          "id": "zjFMyK_bRso-variant-4",
+          "youtube": "https://www.youtube.com/watch?v=zjFMyK_bRso",
+          "sceneDescription": "Child's Play 2 - Clip 5",
+          "originalTitle": "Child's Play 2 (9/10) Movie CLIP - I Hate Kids (1990) HD"
+        },
+        {
+          "id": "PHFG3ZC0fZI-variant-5",
+          "youtube": "https://www.youtube.com/watch?v=PHFG3ZC0fZI",
+          "sceneDescription": "Child's Play 2 - Clip 6",
+          "originalTitle": "Child's Play 2 (4/10) Movie CLIP - You Hurt Me (1990) HD"
+        },
+        {
+          "id": "3AfqCkqJVt0-variant-6",
+          "youtube": "https://www.youtube.com/watch?v=3AfqCkqJVt0",
+          "sceneDescription": "Child's Play 2 - Clip 7",
+          "originalTitle": "Child's Play 2 (1/10) Movie CLIP - Bang! You're Dead (1990) HD"
+        },
+        {
+          "id": "Qe5hop7o4ZI-variant-7",
+          "youtube": "https://www.youtube.com/watch?v=Qe5hop7o4ZI",
+          "sceneDescription": "Child's Play 2 - Clip 8",
+          "originalTitle": "Child's Play 2 (3/10) Movie CLIP - How's It Hanging? (1990) HD"
+        },
+        {
+          "id": "TuafKNbgTCA-variant-8",
+          "youtube": "https://www.youtube.com/watch?v=TuafKNbgTCA",
+          "sceneDescription": "Child's Play 2 - Clip 9",
+          "originalTitle": "Child's Play 2 (5/10) Movie CLIP - Women Drivers (1990) HD"
+        }
+      ],
+      "variantCount": 9,
+      "tooltip": {
+        "description": "Horror movie that premiered in 1990 (9 clips available)"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "more-best-of-it-1990",
+      "label": "More best of: IT",
+      "date": 1990,
+      "year": 1990,
+      "youtube": "https://www.youtube.com/watch?v=tSqjjWQLil4",
+      "tooltip": {
+        "description": "Horror movie that premiered in 1990"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "witches-1990",
+      "label": "The Witches",
+      "date": 1990,
+      "year": 1990,
+      "youtube": "https://www.youtube.com/watch?v=TrjLNpfDTi0",
+      "tooltip": {
+        "description": "Horror movie that premiered in 1990"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "tremors-1990",
+      "label": "Tremors",
+      "date": 1990,
+      "year": 1990,
+      "youtube": "https://www.youtube.com/watch?v=mbKEarx9CCs",
+      "tooltip": {
+        "description": "Horror movie that premiered in 1990"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "title": "Child's Play 2",
+      "year": 1990,
+      "videoId": "xUfinZMN71E",
+      "youtube": "https://www.youtube.com/watch?v=xUfinZMN71E",
+      "id": "childs-play-2-1990",
+      "label": "Child's Play 2",
+      "date": 1990,
+      "tooltip": {
+        "description": "Horror movie that premiered in 1990"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "childs-play-3-1991",
+      "label": "Child's Play 3",
+      "date": 1991,
+      "year": 1991,
+      "youtube": "https://www.youtube.com/watch?v=tQl5ypxi69U",
+      "variants": [
+        {
+          "id": "tQl5ypxi69U-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=tQl5ypxi69U",
+          "sceneDescription": "Child's Play 3 - Clip 1",
+          "originalTitle": "Child's Play 3 (1991) - Taking Out the Trash Scene (3/10) | Movieclips"
+        },
+        {
+          "id": "azot-mIuW3Y-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=azot-mIuW3Y",
+          "sceneDescription": "Child's Play 3 - Clip 2",
+          "originalTitle": "Child's Play 3 (1991) - Scared to Death Scene (5/10) | Movieclips"
+        }
+      ],
+      "variantCount": 2,
+      "tooltip": {
+        "description": "Horror movie that premiered in 1991 (2 clips available)"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "bram-stokers-dracula-1992",
+      "label": "Bram Stoker's Dracula",
+      "date": 1992,
+      "year": 1992,
+      "youtube": "https://www.youtube.com/watch?v=8rlohOLUi9k",
+      "tooltip": {
+        "description": "Horror movie that premiered in 1992"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "pet-sematary-two-1992",
+      "label": "Pet Sematary Two",
+      "date": 1992,
+      "year": 1992,
+      "youtube": "https://www.youtube.com/watch?v=WYh9ffbF1yE",
+      "tooltip": {
+        "description": "Horror movie that premiered in 1992"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "leprechaun-2-1994",
+      "label": "Leprechaun 2",
+      "date": 1994,
+      "year": 1994,
+      "youtube": "https://www.youtube.com/watch?v=qcFM5Xhg8W8",
+      "tooltip": {
+        "description": "Horror movie that premiered in 1994"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "wes-cravens-new-nightmare-1994",
+      "label": "Wes Craven's New Nightmare",
+      "date": 1994,
+      "year": 1994,
+      "youtube": "https://www.youtube.com/watch?v=XTtjLtf_Tw8",
+      "variants": [
+        {
+          "id": "XTtjLtf_Tw8-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=XTtjLtf_Tw8",
+          "sceneDescription": "Wes Craven's New Nightmare - Clip 1",
+          "originalTitle": "Wes Craven's New Nightmare (1994) - Die, Freddy, Die Scene (10/10) | Movieclips"
+        },
+        {
+          "id": "IOUbfaHj2HU-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=IOUbfaHj2HU",
+          "sceneDescription": "Wes Craven's New Nightmare - Clip 2",
+          "originalTitle": "Wes Craven's New Nightmare (1994) - A Familiar Slaughter Scene (7/10) | Movieclips"
+        }
+      ],
+      "variantCount": 2,
+      "tooltip": {
+        "description": "Horror movie that premiered in 1994 (2 clips available)"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "ice-cream-man-1995",
+      "label": "Ice Cream Man",
+      "date": 1995,
+      "year": 1995,
+      "youtube": "https://www.youtube.com/watch?v=U9K_YEg5_mk",
+      "tooltip": {
+        "description": "Horror movie that premiered in 1995"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "leprechaun-3-1995",
+      "label": "Leprechaun 3",
+      "date": 1995,
+      "year": 1995,
+      "youtube": "https://www.youtube.com/watch?v=aQq3mHLZ-X0",
+      "tooltip": {
+        "description": "Horror movie that premiered in 1995"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "scream-1996",
+      "label": "Scream",
+      "date": 1996,
+      "year": 1996,
+      "youtube": "https://www.youtube.com/watch?v=LWxSBbBX4fs",
+      "variants": [
+        {
+          "id": "LWxSBbBX4fs-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=LWxSBbBX4fs",
+          "sceneDescription": "Scream - Clip 1",
+          "originalTitle": "Scream (1996) - Do You Like Scary Movies? Scene (1/12) | Movieclips"
+        },
+        {
+          "id": "p8Ejl4eeFXM-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=p8Ejl4eeFXM",
+          "sceneDescription": "Scream - Clip 2",
+          "originalTitle": "Scream (1996) - Do You Want to Die, Sidney? Scene (5/12) | Movieclips"
+        },
+        {
+          "id": "zyVKJXfRm_g-variant-2",
+          "youtube": "https://www.youtube.com/watch?v=zyVKJXfRm_g",
+          "sceneDescription": "Scream - Clip 3",
+          "originalTitle": "Scream (1996) - Surprise, Sidney! Scene (10/12) | Movieclips"
+        }
+      ],
+      "variantCount": 3,
+      "tooltip": {
+        "description": "Horror movie that premiered in 1996 (3 clips available)"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "leprechaun-4-in-space-1997",
+      "label": "Leprechaun 4: In Space",
+      "date": 1997,
+      "year": 1997,
+      "youtube": "https://www.youtube.com/watch?v=1hiv8o-SRZ0",
+      "tooltip": {
+        "description": "Horror movie that premiered in 1997"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "scream-2-1997",
+      "label": "Scream 2",
+      "date": 1997,
+      "year": 1997,
+      "youtube": "https://www.youtube.com/watch?v=fnTckzsYgg0",
+      "tooltip": {
+        "description": "Horror movie that premiered in 1997"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "bride-of-chucky-1998",
+      "label": "Bride of Chucky",
+      "date": 1998,
+      "year": 1998,
+      "youtube": "https://www.youtube.com/watch?v=p4yCboEAjLk",
+      "variants": [
+        {
+          "id": "p4yCboEAjLk-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=p4yCboEAjLk",
+          "sceneDescription": "Bride of Chucky - Clip 1",
+          "originalTitle": "Bride of Chucky (4/7) Movie CLIP - That is a Rude Doll (1998) HD"
+        },
+        {
+          "id": "37yJV-YPBJY-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=37yJV-YPBJY",
+          "sceneDescription": "Bride of Chucky - Clip 2",
+          "originalTitle": "Bride of Chucky (5/7) Movie CLIP - Right Place, Wrong Time (1998) HD"
+        },
+        {
+          "id": "sggwHnudtH0-variant-2",
+          "youtube": "https://www.youtube.com/watch?v=sggwHnudtH0",
+          "sceneDescription": "Bride of Chucky - Clip 3",
+          "originalTitle": "Bride of Chucky (7/7) Movie CLIP - I Always Come Back (1998) HD"
+        },
+        {
+          "id": "cqD8XBONBHY-variant-3",
+          "youtube": "https://www.youtube.com/watch?v=cqD8XBONBHY",
+          "sceneDescription": "Bride of Chucky - Clip 4",
+          "originalTitle": "Bride of Chucky (2/7) Movie CLIP - Chucky Makes a Bride (1998) HD"
+        },
+        {
+          "id": "nID1enI2xW8-variant-4",
+          "youtube": "https://www.youtube.com/watch?v=nID1enI2xW8",
+          "sceneDescription": "Bride of Chucky - Clip 5",
+          "originalTitle": "Bride of Chucky (3/7) Movie CLIP - A True Homicidal Genius (1998) HD"
+        }
+      ],
+      "variantCount": 5,
+      "tooltip": {
+        "description": "Horror movie that premiered in 1998 (5 clips available)"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "chucky-electrocutes-tiffany-in-the-bathtub-1998",
+      "label": "Chucky Electrocutes Tiffany In The Bathtub",
+      "date": 1998,
+      "year": 1998,
+      "youtube": "https://www.youtube.com/watch?v=rocVfg8AYh0",
+      "tooltip": {
+        "description": "Horror movie that premiered in 1998"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "halloween-h20-20-years-later-1998",
+      "label": "Halloween H20: 20 Years Later",
+      "date": 1998,
+      "year": 1998,
+      "youtube": "https://www.youtube.com/watch?v=bBbLZ6m_9MA",
+      "tooltip": {
+        "description": "Horror movie that premiered in 1998"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "i-still-know-what-you-did-last-summer-1998",
+      "label": "I Still Know What You Did Last Summer",
+      "date": 1998,
+      "year": 1998,
+      "youtube": "https://www.youtube.com/watch?v=CShHiYrQPGM",
+      "tooltip": {
+        "description": "Horror movie that premiered in 1998"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "faculty-1998",
+      "label": "The Faculty",
+      "date": 1998,
+      "year": 1998,
+      "youtube": "https://www.youtube.com/watch?v=BNWvtfCdBcA",
+      "variants": [
+        {
+          "id": "BNWvtfCdBcA-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=BNWvtfCdBcA",
+          "sceneDescription": "The Faculty - Clip 1",
+          "originalTitle": "The Faculty (1/11) Movie CLIP - A New Species (1998) HD"
+        },
+        {
+          "id": "l6StIaMaRsg-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=l6StIaMaRsg",
+          "sceneDescription": "The Faculty - Clip 2",
+          "originalTitle": "The Faculty (2/11) Movie CLIP - They Want Everyone! (1998) HD"
+        },
+        {
+          "id": "FEAmUOrMd3o-variant-2",
+          "youtube": "https://www.youtube.com/watch?v=FEAmUOrMd3o",
+          "sceneDescription": "The Faculty - Clip 3",
+          "originalTitle": "The Faculty (3/11) Movie CLIP - Hostile Takeover (1998) HD"
+        },
+        {
+          "id": "vE_xjjCJWng-variant-3",
+          "youtube": "https://www.youtube.com/watch?v=vE_xjjCJWng",
+          "sceneDescription": "The Faculty - Clip 4",
+          "originalTitle": "The Faculty (8/11) Movie CLIP - Head Case (1998) HD"
+        }
+      ],
+      "variantCount": 4,
+      "tooltip": {
+        "description": "Horror movie that premiered in 1998 (4 clips available)"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "apology-1999",
+      "label": "Apology",
+      "date": 1999,
+      "year": 1999,
+      "youtube": "https://www.youtube.com/watch?v=2m_lqGnLtWA",
+      "tooltip": {
+        "description": "Horror movie that premiered in 1999"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "blair-witch-project-1999",
+      "label": "The Blair Witch Project",
+      "date": 1999,
+      "year": 1999,
+      "youtube": "https://www.youtube.com/watch?v=cmYsRcLMvO8",
+      "tooltip": {
+        "description": "Horror movie that premiered in 1999"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "scary-movie-2000",
+      "label": "Scary Movie",
+      "date": 2000,
+      "year": 2000,
+      "youtube": "https://www.youtube.com/watch?v=i34GZtS8Q3I",
+      "tooltip": {
+        "description": "Horror movie that premiered in 2000"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "cabin-fever-2002",
+      "label": "Cabin Fever",
+      "date": 2002,
+      "year": 2002,
+      "youtube": "https://www.youtube.com/watch?v=MJJ8AJUn-p4",
+      "tooltip": {
+        "description": "Horror movie that premiered in 2002"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "ju-2002",
+      "label": "Ju",
+      "date": 2002,
+      "year": 2002,
+      "youtube": "https://www.youtube.com/watch?v=h1KasQ7pdL4",
+      "tooltip": {
+        "description": "Horror movie that premiered in 2002"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "samara-comes-to-you-2002",
+      "label": "Samara Comes to You",
+      "date": 2002,
+      "year": 2002,
+      "youtube": "https://www.youtube.com/watch?v=hpb2-ZOzc_o",
+      "tooltip": {
+        "description": "Horror movie that premiered in 2002"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "ring-2002",
+      "label": "The Ring",
+      "date": 2002,
+      "year": 2002,
+      "youtube": "https://www.youtube.com/watch?v=PFsl1cGHzp4",
+      "tooltip": {
+        "description": "Horror movie that premiered in 2002"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "house-of-1000-corpses-2003",
+      "label": "House of 1000 Corpses",
+      "date": 2003,
+      "year": 2003,
+      "youtube": "https://www.youtube.com/watch?v=V82hFRJcrj0",
+      "tooltip": {
+        "description": "Horror movie that premiered in 2003"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "jeepers-creepers-2-2003",
+      "label": "Jeepers Creepers 2",
+      "date": 2003,
+      "year": 2003,
+      "youtube": "https://www.youtube.com/watch?v=lPB6exj8Kgo",
+      "tooltip": {
+        "description": "Horror movie that premiered in 2003"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "leprechaun-back-2-tha-hood-2003",
+      "label": "Leprechaun: Back 2 tha Hood",
+      "date": 2003,
+      "year": 2003,
+      "youtube": "https://www.youtube.com/watch?v=j67MZXY33c0",
+      "variants": [
+        {
+          "id": "j67MZXY33c0-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=j67MZXY33c0",
+          "sceneDescription": "Leprechaun: Back 2 tha Hood - Clip 1",
+          "originalTitle": "Leprechaun: Back 2 tha Hood (10/11) Movie CLIP - Police Brutality! (2003) HD"
+        },
+        {
+          "id": "BAqabMWnAmk-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=BAqabMWnAmk",
+          "sceneDescription": "Leprechaun: Back 2 tha Hood - Clip 2",
+          "originalTitle": "Leprechaun: Back 2 tha Hood (11/11) Movie CLIP - You Hit Like a Wee Lass (2003) HD"
+        }
+      ],
+      "variantCount": 2,
+      "tooltip": {
+        "description": "Horror movie that premiered in 2003 (2 clips available)"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "scary-movie-3-2003",
+      "label": "Scary Movie 3",
+      "date": 2003,
+      "year": 2003,
+      "youtube": "https://www.youtube.com/watch?v=pIWh28WPyxQ",
+      "tooltip": {
+        "description": "Horror movie that premiered in 2003"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "title": "Freddy vs Jason",
+      "year": 2003,
+      "videoId": "VMa0iUV-RYc",
+      "youtube": "https://www.youtube.com/watch?v=VMa0iUV-RYc",
+      "id": "freddy-vs-jason-2003",
+      "label": "Freddy vs Jason",
+      "date": 2003,
+      "tooltip": {
+        "description": "Horror movie that premiered in 2003"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "dawn-of-the-dead-2004",
+      "label": "Dawn of the Dead",
+      "date": 2004,
+      "year": 2004,
+      "youtube": "https://www.youtube.com/watch?v=qeZ0SIG2eJY",
+      "tooltip": {
+        "description": "Horror movie that premiered in 2004"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "saw-2004",
+      "label": "Saw",
+      "date": 2004,
+      "year": 2004,
+      "youtube": "https://www.youtube.com/watch?v=iNSN6QhIWeA",
+      "tooltip": {
+        "description": "Horror movie that premiered in 2004"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "seed-of-chucky-2004",
+      "label": "Seed of Chucky",
+      "date": 2004,
+      "year": 2004,
+      "youtube": "https://www.youtube.com/watch?v=7RsohcD0tS8",
+      "variants": [
+        {
+          "id": "7RsohcD0tS8-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=7RsohcD0tS8",
+          "sceneDescription": "Seed of Chucky - Clip 1",
+          "originalTitle": "Seed of Chucky (9/9) Movie CLIP - The End of the Family (2004) HD"
+        },
+        {
+          "id": "WSADpIlmqQ8-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=WSADpIlmqQ8",
+          "sceneDescription": "Seed of Chucky - Clip 2",
+          "originalTitle": "Seed of Chucky (8/9) Movie CLIP - A Voodoo Pregnancy (2004) HD"
+        },
+        {
+          "id": "iFEr1xsuksI-variant-2",
+          "youtube": "https://www.youtube.com/watch?v=iFEr1xsuksI",
+          "sceneDescription": "Seed of Chucky - Clip 3",
+          "originalTitle": "Seed of Chucky (7/9) Movie CLIP - Tiffany Guts Redman (2004) HD"
+        },
+        {
+          "id": "lN4oFlIKm7A-variant-3",
+          "youtube": "https://www.youtube.com/watch?v=lN4oFlIKm7A",
+          "sceneDescription": "Seed of Chucky - Clip 4",
+          "originalTitle": "Seed of Chucky (6/9) Movie CLIP - Father Son Bonding (2004) HD"
+        },
+        {
+          "id": "5lBfYlWmDC8-variant-4",
+          "youtube": "https://www.youtube.com/watch?v=5lBfYlWmDC8",
+          "sceneDescription": "Seed of Chucky - Clip 5",
+          "originalTitle": "Seed of Chucky (2/9) Movie CLIP - Chucky Meets His Son (2004) HD"
+        }
+      ],
+      "variantCount": 5,
+      "tooltip": {
+        "description": "Horror movie that premiered in 2004 (5 clips available)"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "shaun-of-the-dead-2004",
+      "label": "Shaun of the Dead",
+      "date": 2004,
+      "year": 2004,
+      "youtube": "https://www.youtube.com/watch?v=mqQ8Y9Sjp7o",
+      "tooltip": {
+        "description": "Horror movie that premiered in 2004"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "saw-2-2005",
+      "label": "Saw 2",
+      "date": 2005,
+      "year": 2005,
+      "youtube": "https://www.youtube.com/watch?v=3CAQ0iZKP08",
+      "tooltip": {
+        "description": "Horror movie that premiered in 2005"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "slither-2006",
+      "label": "Slither",
+      "date": 2006,
+      "year": 2006,
+      "youtube": "https://www.youtube.com/watch?v=LWCK6VFF6n4",
+      "variants": [
+        {
+          "id": "LWCK6VFF6n4-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=LWCK6VFF6n4",
+          "sceneDescription": "Slither - Clip 1",
+          "originalTitle": "Slither (2006) - For Better or Worse Scene (5/10) | Movieclips"
+        },
+        {
+          "id": "YqRnYf2cyI0-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=YqRnYf2cyI0",
+          "sceneDescription": "Slither - Clip 2",
+          "originalTitle": "Slither (2006) - Bathtime Scene (7/10) | Movieclips"
+        },
+        {
+          "id": "71kAAVlpENY-variant-2",
+          "youtube": "https://www.youtube.com/watch?v=71kAAVlpENY",
+          "sceneDescription": "Slither - Clip 3",
+          "originalTitle": "Slither (2006) - Ripped Apart From the Inside Scene (6/10) | Movieclips"
+        },
+        {
+          "id": "ZQ6XwJOrBiE-variant-3",
+          "youtube": "https://www.youtube.com/watch?v=ZQ6XwJOrBiE",
+          "sceneDescription": "Slither - Clip 4",
+          "originalTitle": "Slither (2006) - Tentacle Temptation Scene (2/10) | Movieclips"
+        },
+        {
+          "id": "UAa5Lw5lseQ-variant-4",
+          "youtube": "https://www.youtube.com/watch?v=UAa5Lw5lseQ",
+          "sceneDescription": "Slither - Clip 5",
+          "originalTitle": "Slither (2006) - The Worms Are in Their Brains Scene (8/10) | Movieclips"
+        }
+      ],
+      "variantCount": 5,
+      "tooltip": {
+        "description": "Horror movie that premiered in 2006 (5 clips available)"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "grudge-2-2006",
+      "label": "The Grudge 2",
+      "date": 2006,
+      "year": 2006,
+      "youtube": "https://www.youtube.com/watch?v=t31U3QAkClM",
+      "variants": [
+        {
+          "id": "t31U3QAkClM-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=t31U3QAkClM",
+          "sceneDescription": "The Grudge 2 - Clip 1",
+          "originalTitle": "The Grudge 2 (5/7) Movie CLIP - Dark Room of Death (2006) HD"
+        },
+        {
+          "id": "RUJeDvZRsps-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=RUJeDvZRsps",
+          "sceneDescription": "The Grudge 2 - Clip 2",
+          "originalTitle": "The Grudge 2 (4/7) Movie CLIP - Haunted Phone Booth (2006) HD"
+        },
+        {
+          "id": "5poOduTF5pM-variant-2",
+          "youtube": "https://www.youtube.com/watch?v=5poOduTF5pM",
+          "sceneDescription": "The Grudge 2 - Clip 3",
+          "originalTitle": "The Grudge 2 (6/7) Movie CLIP - Creepy Counseling (2006) HD"
+        }
+      ],
+      "variantCount": 3,
+      "tooltip": {
+        "description": "Horror movie that premiered in 2006 (3 clips available)"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "i-am-legend-2007",
+      "label": "I Am Legend",
+      "date": 2007,
+      "year": 2007,
+      "youtube": "https://www.youtube.com/watch?v=er6wSXJC57U",
+      "tooltip": {
+        "description": "Horror movie that premiered in 2007"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "eye-2008",
+      "label": "The Eye",
+      "date": 2008,
+      "year": 2008,
+      "youtube": "https://www.youtube.com/watch?v=KtBMZ6VAZyI",
+      "tooltip": {
+        "description": "Horror movie that premiered in 2008"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "drag-me-to-hell-2009",
+      "label": "Drag Me to Hell",
+      "date": 2009,
+      "year": 2009,
+      "youtube": "https://www.youtube.com/watch?v=v0KOJWyR4SU",
+      "variants": [
+        {
+          "id": "v0KOJWyR4SU-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=v0KOJWyR4SU",
+          "sceneDescription": "Drag Me to Hell - Clip 1",
+          "originalTitle": "Drag Me to Hell (1/9) Movie CLIP - Button Curse (2009) HD"
+        },
+        {
+          "id": "pE4-ePx_OAI-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=pE4-ePx_OAI",
+          "sceneDescription": "Drag Me to Hell - Clip 2",
+          "originalTitle": "Drag Me to Hell (6/9) Movie CLIP - Harvest Cake (2009) HD"
+        },
+        {
+          "id": "Od1ZBTstSHg-variant-2",
+          "youtube": "https://www.youtube.com/watch?v=Od1ZBTstSHg",
+          "sceneDescription": "Drag Me to Hell - Clip 3",
+          "originalTitle": "Drag Me to Hell (2/9) Movie CLIP - Fly Nightmare (2009) HD"
+        }
+      ],
+      "variantCount": 3,
+      "tooltip": {
+        "description": "Horror movie that premiered in 2009 (3 clips available)"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "grudge-3-2009",
+      "label": "The Grudge 3",
+      "date": 2009,
+      "year": 2009,
+      "youtube": "https://www.youtube.com/watch?v=YMA_1YDqjYc",
+      "variants": [
+        {
+          "id": "YMA_1YDqjYc-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=YMA_1YDqjYc",
+          "sceneDescription": "The Grudge 3 - Clip 1",
+          "originalTitle": "The Grudge 3 (4/9) Movie CLIP - Paintings of Blood (2009) HD"
+        },
+        {
+          "id": "6mQAgXT_lVM-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=6mQAgXT_lVM",
+          "sceneDescription": "The Grudge 3 - Clip 2",
+          "originalTitle": "The Grudge 3 (9/9) Movie CLIP - A Final Confrontation (2009) HD"
+        }
+      ],
+      "variantCount": 2,
+      "tooltip": {
+        "description": "Horror movie that premiered in 2009 (2 clips available)"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "zombieland-2009",
+      "label": "Zombieland",
+      "date": 2009,
+      "year": 2009,
+      "youtube": "https://www.youtube.com/watch?v=OK7Hm5IztPc",
+      "tooltip": {
+        "description": "Horror movie that premiered in 2009"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "legion-2010",
+      "label": "Legion",
+      "date": 2010,
+      "year": 2010,
+      "youtube": "https://www.youtube.com/watch?v=P5Q7apxWucc",
+      "variants": [
+        {
+          "id": "P5Q7apxWucc-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=P5Q7apxWucc",
+          "sceneDescription": "Legion - Clip 1",
+          "originalTitle": "Legion (4/10) Movie CLIP - The Ice Cream Man (2010) HD"
+        },
+        {
+          "id": "Z0l0sXacQ9Y-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=Z0l0sXacQ9Y",
+          "sceneDescription": "Legion - Clip 2",
+          "originalTitle": "Legion (6/10) Movie CLIP - You're Gonna Die Now (2010) HD"
+        },
+        {
+          "id": "LFT504CjJFA-variant-2",
+          "youtube": "https://www.youtube.com/watch?v=LFT504CjJFA",
+          "sceneDescription": "Legion - Clip 3",
+          "originalTitle": "Legion (7/10) Movie CLIP - I Just Wanna Play With the Baby (2010) HD"
+        },
+        {
+          "id": "tWEBbYoDaU8-variant-3",
+          "youtube": "https://www.youtube.com/watch?v=tWEBbYoDaU8",
+          "sceneDescription": "Legion - Clip 4",
+          "originalTitle": "Legion (2/10) Movie CLIP - Granny's Got Teeth (2010) HD"
+        }
+      ],
+      "variantCount": 4,
+      "tooltip": {
+        "description": "Horror movie that premiered in 2010 (4 clips available)"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "saw-the-final-chapter-2010",
+      "label": "Saw: The Final Chapter",
+      "date": 2010,
+      "year": 2010,
+      "youtube": "https://www.youtube.com/watch?v=QEkSX1S4kwg",
+      "tooltip": {
+        "description": "Horror movie that premiered in 2010"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "thing-2011-2011",
+      "label": "The Thing (2011)",
+      "date": 2011,
+      "year": 2011,
+      "youtube": "https://www.youtube.com/watch?v=4TgJgyypajE",
+      "variants": [
+        {
+          "id": "4TgJgyypajE-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=4TgJgyypajE",
+          "sceneDescription": "The Thing (2011) - Clip 1",
+          "originalTitle": "The Thing (6/10) Movie CLIP - The Thing Reveals Itself (2011) HD"
+        },
+        {
+          "id": "FFGm__skOH4-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=FFGm__skOH4",
+          "sceneDescription": "The Thing (2011) - Clip 2",
+          "originalTitle": "The Thing (9/10) Movie CLIP - Kate Confronts the Thing (2011) HD"
+        },
+        {
+          "id": "3PRuMx1gqdM-variant-2",
+          "youtube": "https://www.youtube.com/watch?v=3PRuMx1gqdM",
+          "sceneDescription": "The Thing (2011) - Clip 3",
+          "originalTitle": "The Thing (4/10) Movie CLIP - Let's See Your Teeth (2011) HD"
+        },
+        {
+          "id": "DZwobit-Zy4-variant-3",
+          "youtube": "https://www.youtube.com/watch?v=DZwobit-Zy4",
+          "sceneDescription": "The Thing (2011) - Clip 4",
+          "originalTitle": "The Thing (1/10) Movie CLIP - Alien Autopsy (2011) HD"
+        },
+        {
+          "id": "tz-XJMspLOA-variant-4",
+          "youtube": "https://www.youtube.com/watch?v=tz-XJMspLOA",
+          "sceneDescription": "The Thing (2011) - Clip 5",
+          "originalTitle": "The Thing (10/10) Movie CLIP - How I Knew You Were Human (2011) HD"
+        },
+        {
+          "id": "ZMURdEkb_3Y-variant-5",
+          "youtube": "https://www.youtube.com/watch?v=ZMURdEkb_3Y",
+          "sceneDescription": "The Thing (2011) - Clip 6",
+          "originalTitle": "The Thing (3/10) Movie CLIP - Juliette Transforms (2011) HD"
+        }
+      ],
+      "variantCount": 6,
+      "tooltip": {
+        "description": "Horror movie that premiered in 2011 (6 clips available)"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "cabin-in-the-woods-2012",
+      "label": "The Cabin in the Woods",
+      "date": 2012,
+      "year": 2012,
+      "youtube": "https://www.youtube.com/watch?v=a0dkF8CZxks",
+      "tooltip": {
+        "description": "Horror movie that premiered in 2012"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "possession-2012",
+      "label": "The Possession",
+      "date": 2012,
+      "year": 2012,
+      "youtube": "https://www.youtube.com/watch?v=uztZUqKrHVo",
+      "variants": [
+        {
+          "id": "uztZUqKrHVo-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=uztZUqKrHVo",
+          "sceneDescription": "The Possession - Clip 1",
+          "originalTitle": "The Possession (9/10) Movie CLIP - Jewish Exorcism (2012) HD"
+        },
+        {
+          "id": "aJHRyOrRnQk-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=aJHRyOrRnQk",
+          "sceneDescription": "The Possession - Clip 2",
+          "originalTitle": "The Possession (10/10) Movie CLIP - Demonic Expulsion (2012) HD"
+        },
+        {
+          "id": "Mmcr5WLNtZA-variant-2",
+          "youtube": "https://www.youtube.com/watch?v=Mmcr5WLNtZA",
+          "sceneDescription": "The Possession - Clip 3",
+          "originalTitle": "The Possession (1/10) Movie CLIP - Fork You (2012) HD"
+        },
+        {
+          "id": "D-QqctD6nCw-variant-3",
+          "youtube": "https://www.youtube.com/watch?v=D-QqctD6nCw",
+          "sceneDescription": "The Possession - Clip 4",
+          "originalTitle": "The Possession (3/10) Movie CLIP - Hand to Mouth (2012) HD"
+        },
+        {
+          "id": "oY0IQEEQ35g-variant-4",
+          "youtube": "https://www.youtube.com/watch?v=oY0IQEEQ35g",
+          "sceneDescription": "The Possession - Clip 5",
+          "originalTitle": "The Possession (8/10) Movie CLIP - The Demon Within (2012) HD"
+        },
+        {
+          "id": "LZhbH4pHMQ8-variant-5",
+          "youtube": "https://www.youtube.com/watch?v=LZhbH4pHMQ8",
+          "sceneDescription": "The Possession - Clip 6",
+          "originalTitle": "The Possession (7/10) Movie CLIP - Toothless (2012) HD"
+        },
+        {
+          "id": "4SD245xSSVk-variant-6",
+          "youtube": "https://www.youtube.com/watch?v=4SD245xSSVk",
+          "sceneDescription": "The Possession - Clip 7",
+          "originalTitle": "The Possession (5/10) Movie CLIP - Who Are You? (2012) HD"
+        },
+        {
+          "id": "qGf3--y_rcQ-variant-7",
+          "youtube": "https://www.youtube.com/watch?v=qGf3--y_rcQ",
+          "sceneDescription": "The Possession - Clip 8",
+          "originalTitle": "The Possession (6/10) Movie CLIP - Em's Not Here! (2012) HD"
+        }
+      ],
+      "variantCount": 8,
+      "tooltip": {
+        "description": "Horror movie that premiered in 2012 (8 clips available)"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "curse-of-chucky-2013",
+      "label": "Curse of Chucky",
+      "date": 2013,
+      "year": 2013,
+      "youtube": "https://www.youtube.com/watch?v=f505OHOUHoU",
+      "variants": [
+        {
+          "id": "f505OHOUHoU-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=f505OHOUHoU",
+          "sceneDescription": "Curse of Chucky - Clip 1",
+          "originalTitle": "Curse of Chucky (4/10) Movie CLIP - Your Mother's Eyes (2013) HD"
+        },
+        {
+          "id": "rdEbjNy5BNs-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=rdEbjNy5BNs",
+          "sceneDescription": "Curse of Chucky - Clip 2",
+          "originalTitle": "Curse of Chucky (1/10) Movie CLIP - He Scared Me Half to Death (2013) HD"
+        },
+        {
+          "id": "_7pkwL7yY5g-variant-2",
+          "youtube": "https://www.youtube.com/watch?v=_7pkwL7yY5g",
+          "sceneDescription": "Curse of Chucky - Clip 3",
+          "originalTitle": "Curse of Chucky (3/10) Movie CLIP - We're All Going to Die (2013) HD"
+        }
+      ],
+      "variantCount": 3,
+      "tooltip": {
+        "description": "Horror movie that premiered in 2013 (3 clips available)"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "evil-dead-2013",
+      "label": "Evil Dead",
+      "date": 2013,
+      "year": 2013,
+      "youtube": "https://www.youtube.com/watch?v=XAuxvhZzUhE",
+      "variants": [
+        {
+          "id": "XAuxvhZzUhE-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=XAuxvhZzUhE",
+          "sceneDescription": "Evil Dead - Clip 1",
+          "originalTitle": "Evil Dead (1/10) Movie CLIP - I Will Rip Your Soul Out (2013) HD"
+        },
+        {
+          "id": "t4pLZtTuryE-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=t4pLZtTuryE",
+          "sceneDescription": "Evil Dead - Clip 2",
+          "originalTitle": "Evil Dead (5/10) Movie CLIP - Face Carving and Head Bashing (2013) HD"
+        },
+        {
+          "id": "FHXzsBsOVjY-variant-2",
+          "youtube": "https://www.youtube.com/watch?v=FHXzsBsOVjY",
+          "sceneDescription": "Evil Dead - Clip 3",
+          "originalTitle": "Evil Dead (6/10) Movie CLIP - Bloody Kiss (2013) HD"
+        }
+      ],
+      "variantCount": 3,
+      "tooltip": {
+        "description": "Horror movie that premiered in 2013 (3 clips available)"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "mama-2013",
+      "label": "Mama",
+      "date": 2013,
+      "year": 2013,
+      "youtube": "https://www.youtube.com/watch?v=o3w6MouV4NE",
+      "variants": [
+        {
+          "id": "o3w6MouV4NE-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=o3w6MouV4NE",
+          "sceneDescription": "Mama - Clip 1",
+          "originalTitle": "Mama (7/10) Movie CLIP - I Know What You Want (2013) HD"
+        },
+        {
+          "id": "yGGZUbqbTWg-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=yGGZUbqbTWg",
+          "sceneDescription": "Mama - Clip 2",
+          "originalTitle": "Mama (9/10) Movie CLIP - She's Mad (2013) HD"
+        },
+        {
+          "id": "Frwrlztd8C4-variant-2",
+          "youtube": "https://www.youtube.com/watch?v=Frwrlztd8C4",
+          "sceneDescription": "Mama - Clip 3",
+          "originalTitle": "Mama (3/10) Movie CLIP - Mama and the Kids (2013) HD"
+        }
+      ],
+      "variantCount": 3,
+      "tooltip": {
+        "description": "Horror movie that premiered in 2013 (3 clips available)"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "last-supper-poisoned-chilli-2013",
+      "label": "The Last Supper (Poisoned Chilli",
+      "date": 2013,
+      "year": 2013,
+      "youtube": "https://www.youtube.com/watch?v=wJ8uAkFyzY0",
+      "tooltip": {
+        "description": "Horror movie that premiered in 2013"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "purge-2013",
+      "label": "The Purge",
+      "date": 2013,
+      "year": 2013,
+      "youtube": "https://www.youtube.com/watch?v=e3mwmwPhr08",
+      "tooltip": {
+        "description": "Horror movie that premiered in 2013"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "purge-official-2013",
+      "label": "The Purge Official",
+      "date": 2013,
+      "year": 2013,
+      "youtube": "https://www.youtube.com/watch?v=K0LLaybEuzA",
+      "tooltip": {
+        "description": "Horror movie that premiered in 2013"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "annabelle-2014",
+      "label": "Annabelle",
+      "date": 2014,
+      "year": 2014,
+      "youtube": "https://www.youtube.com/watch?v=EPj1eq1csm4",
+      "variants": [
+        {
+          "id": "EPj1eq1csm4-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=EPj1eq1csm4",
+          "sceneDescription": "Annabelle - Clip 1",
+          "originalTitle": "Annabelle (2014) - What Do You Want? Scene (9/10) | Movieclips"
+        },
+        {
+          "id": "KTVlvs7mtkM-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=KTVlvs7mtkM",
+          "sceneDescription": "Annabelle - Clip 2",
+          "originalTitle": "Annabelle (2014) - Have Mercy on Your Soul Scene (8/10) | Movieclips"
+        }
+      ],
+      "variantCount": 2,
+      "tooltip": {
+        "description": "Horror movie that premiered in 2014 (2 clips available)"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "cooties-2014",
+      "label": "Cooties",
+      "date": 2014,
+      "year": 2014,
+      "youtube": "https://www.youtube.com/watch?v=y5cSt5uqt3E",
+      "tooltip": {
+        "description": "Horror movie that premiered in 2014"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "deliver-us-from-evil-2014",
+      "label": "Deliver Us From Evil",
+      "date": 2014,
+      "year": 2014,
+      "youtube": "https://www.youtube.com/watch?v=iVsfWht3zmo",
+      "tooltip": {
+        "description": "Horror movie that premiered in 2014"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "babadook-official-2014",
+      "label": "The Babadook Official",
+      "date": 2014,
+      "year": 2014,
+      "youtube": "https://www.youtube.com/watch?v=k5WQZzDRVtw",
+      "tooltip": {
+        "description": "Horror movie that premiered in 2014"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "sinister-2-official-2015",
+      "label": "Sinister 2 Official",
+      "date": 2015,
+      "year": 2015,
+      "youtube": "https://www.youtube.com/watch?v=fChx_YZUAR0",
+      "tooltip": {
+        "description": "Horror movie that premiered in 2015"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "title": "Krampus",
+      "year": 2015,
+      "videoId": "oUXPpeE2pv4",
+      "youtube": "https://www.youtube.com/watch?v=oUXPpeE2pv4",
+      "variants": [
+        {
+          "videoId": "sl1Jjq82XUA",
+          "youtube": "https://www.youtube.com/watch?v=sl1Jjq82XUA",
+          "id": "oUXPpeE2pv4-variant-0",
+          "sceneDescription": "Krampus - Clip 2",
+          "originalTitle": "Krampus - Der Klown, Eater of Children Scene (5/10) | Movieclips"
+        }
+      ],
+      "id": "krampus-2015",
+      "label": "Krampus",
+      "date": 2015,
+      "tooltip": {
+        "description": "Horror movie that premiered in 2015 (2 clips available)"
+      },
+      "showImageOnPlace": false,
+      "variantCount": 1
+    },
+    {
+      "id": "clown-2016",
+      "label": "Clown",
+      "date": 2016,
+      "year": 2016,
+      "youtube": "https://www.youtube.com/watch?v=EypYZOrckKs",
+      "variants": [
+        {
+          "id": "EypYZOrckKs-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=EypYZOrckKs",
+          "sceneDescription": "Clown - Clip 1",
+          "originalTitle": "Clown Movie CLIP - Nose Operation (2016) - Andy Powers Horror Movie HD"
+        },
+        {
+          "id": "3_12V07f0As-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=3_12V07f0As",
+          "sceneDescription": "Clown - Clip 2",
+          "originalTitle": "Clown Movie CLIP - Play Place (2016) - Peter Stormare, Laura Allen Movie HD"
+        }
+      ],
+      "variantCount": 2,
+      "tooltip": {
+        "description": "Horror movie that premiered in 2016 (2 clips available)"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "terrifier-2016",
+      "label": "Terrifier",
+      "date": 2016,
+      "year": 2016,
+      "youtube": "https://www.youtube.com/watch?v=37_u34N6wi0",
+      "tooltip": {
+        "description": "Horror movie that premiered in 2016"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "boy-official-2016",
+      "label": "The Boy Official",
+      "date": 2016,
+      "year": 2016,
+      "youtube": "https://www.youtube.com/watch?v=XGbB9UQ6r1g",
+      "tooltip": {
+        "description": "Horror movie that premiered in 2016"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "conjuring-2-2016",
+      "label": "The Conjuring 2",
+      "date": 2016,
+      "year": 2016,
+      "youtube": "https://www.youtube.com/watch?v=LKrcDYvwV1Q",
+      "variants": [
+        {
+          "id": "LKrcDYvwV1Q-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=LKrcDYvwV1Q",
+          "sceneDescription": "The Conjuring 2 - Clip 1",
+          "originalTitle": "The Conjuring 2 (2016) - The Crooked Man Scene (2/10) | Movieclips"
+        },
+        {
+          "id": "W8EhiYDVPEU-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=W8EhiYDVPEU",
+          "sceneDescription": "The Conjuring 2 - Clip 2",
+          "originalTitle": "The Conjuring 2 (2016) - I Come From the Grave Scene (3/10) | Movieclips"
+        }
+      ],
+      "variantCount": 2,
+      "tooltip": {
+        "description": "Horror movie that premiered in 2016 (2 clips available)"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "title": "Lights Out",
+      "year": 2016,
+      "videoId": "6LiKKFZyhRU",
+      "youtube": "https://www.youtube.com/watch?v=6LiKKFZyhRU",
+      "id": "lights-out-2016",
+      "label": "Lights Out",
+      "date": 2016,
+      "tooltip": {
+        "description": "Horror movie that premiered in 2016"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "cult-of-chucky-2017",
+      "label": "Cult of Chucky",
+      "date": 2017,
+      "year": 2017,
+      "youtube": "https://www.youtube.com/watch?v=AC9URVogG3g",
+      "variants": [
+        {
+          "id": "AC9URVogG3g-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=AC9URVogG3g",
+          "sceneDescription": "Cult of Chucky - Clip 1",
+          "originalTitle": "Cult of Chucky (2017) - Andy vs. Chucky Scene (9/10) | Movieclips"
+        },
+        {
+          "id": "bdFo-WtjOmA-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=bdFo-WtjOmA",
+          "sceneDescription": "Cult of Chucky - Clip 2",
+          "originalTitle": "Cult of Chucky (2017) - Let's Play Scene (1/10) | Movieclips"
+        },
+        {
+          "id": "uQR_i0ydJik-variant-2",
+          "youtube": "https://www.youtube.com/watch?v=uQR_i0ydJik",
+          "sceneDescription": "Cult of Chucky - Clip 3",
+          "originalTitle": "Cult of Chucky (2017) - I'm a Toy From the 80s Scene (2/10) | Movieclips"
+        },
+        {
+          "id": "I4mtL3Zs0Zs-variant-3",
+          "youtube": "https://www.youtube.com/watch?v=I4mtL3Zs0Zs",
+          "sceneDescription": "Cult of Chucky - Clip 4",
+          "originalTitle": "Cult of Chucky (2017) - New Playmates Scene (6/10) | Movieclips"
+        }
+      ],
+      "variantCount": 4,
+      "tooltip": {
+        "description": "Horror movie that premiered in 2017 (4 clips available)"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "cult-of-chucky-official-2017",
+      "label": "Cult of Chucky Official",
+      "date": 2017,
+      "year": 2017,
+      "youtube": "https://www.youtube.com/watch?v=ytcEmtee2OE",
+      "tooltip": {
+        "description": "Horror movie that premiered in 2017"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "happy-death-day-2017",
+      "label": "Happy Death Day",
+      "date": 2017,
+      "year": 2017,
+      "youtube": "https://www.youtube.com/watch?v=1NTaDm3atkc",
+      "tooltip": {
+        "description": "Horror movie that premiered in 2017"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "it-2017",
+      "label": "It",
+      "date": 2017,
+      "year": 2017,
+      "youtube": "https://www.youtube.com/watch?v=hAUTdjf9rko",
+      "tooltip": {
+        "description": "Horror movie that premiered in 2017"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "rings-2017",
+      "label": "Rings",
+      "date": 2017,
+      "year": 2017,
+      "youtube": "https://www.youtube.com/watch?v=pN5RlyFWJBA",
+      "tooltip": {
+        "description": "Horror movie that premiered in 2017"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "rings-tv-store-prank-2017",
+      "label": "RINGS TV Store Prank",
+      "date": 2017,
+      "year": 2017,
+      "youtube": "https://www.youtube.com/watch?v=7qsITlhXPF8",
+      "tooltip": {
+        "description": "Horror movie that premiered in 2017"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "halloween-2018",
+      "label": "Halloween",
+      "date": 2018,
+      "year": 2018,
+      "youtube": "https://www.youtube.com/watch?v=aMCLVSlk1Tk",
+      "variants": [
+        {
+          "id": "aMCLVSlk1Tk-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=aMCLVSlk1Tk",
+          "sceneDescription": "Halloween - Clip 1",
+          "originalTitle": "Halloween Trailer #1 (2018) | Movieclips Trailers"
+        },
+        {
+          "id": "bEBQWhgGM1g-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=bEBQWhgGM1g",
+          "sceneDescription": "Halloween - Clip 2",
+          "originalTitle": "Halloween (2018) - Bathroom Bloodshed Scene (2/10) | Movieclips"
+        }
+      ],
+      "variantCount": 2,
+      "tooltip": {
+        "description": "Horror movie that premiered in 2018 (2 clips available)"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "nun-official-2018",
+      "label": "THE NUN Official",
+      "date": 2018,
+      "year": 2018,
+      "youtube": "https://www.youtube.com/watch?v=EQRFgGwGeok",
+      "tooltip": {
+        "description": "Horror movie that premiered in 2018"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "strangers-prey-at-night-2018",
+      "label": "The Strangers: Prey at Night",
+      "date": 2018,
+      "year": 2018,
+      "youtube": "https://www.youtube.com/watch?v=91-Z20uttEk",
+      "tooltip": {
+        "description": "Horror movie that premiered in 2018"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "truth-or-dare-2018",
+      "label": "Truth or Dare",
+      "date": 2018,
+      "year": 2018,
+      "youtube": "https://www.youtube.com/watch?v=P6c_kQL3ZdU",
+      "tooltip": {
+        "description": "Horror movie that premiered in 2018"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "annabelle-comes-home-2019",
+      "label": "Annabelle Comes Home",
+      "date": 2019,
+      "year": 2019,
+      "youtube": "https://www.youtube.com/watch?v=f3IuS1o_oN8",
+      "tooltip": {
+        "description": "Horror movie that premiered in 2019"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "childs-play-official-2019",
+      "label": "CHILD'S PLAY Official",
+      "date": 2019,
+      "year": 2019,
+      "youtube": "https://www.youtube.com/watch?v=ZFy8ZgLd574",
+      "variants": [
+        {
+          "id": "ZFy8ZgLd574-variant-0",
+          "youtube": "https://www.youtube.com/watch?v=ZFy8ZgLd574",
+          "sceneDescription": "CHILD'S PLAY Official - Clip 1",
+          "originalTitle": "CHILD'S PLAY Official Trailer (2019)"
+        },
+        {
+          "id": "PeHNLikDiVw-variant-1",
+          "youtube": "https://www.youtube.com/watch?v=PeHNLikDiVw",
+          "sceneDescription": "CHILD'S PLAY Official - Clip 2",
+          "originalTitle": "CHILD'S PLAY Official Trailer #2 - (2019)"
+        }
+      ],
+      "variantCount": 2,
+      "tooltip": {
+        "description": "Horror movie that premiered in 2019 (2 clips available)"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "crawl-2019",
+      "label": "Crawl",
+      "date": 2019,
+      "year": 2019,
+      "youtube": "https://www.youtube.com/watch?v=H6MLJG0RdDE",
+      "tooltip": {
+        "description": "Horror movie that premiered in 2019"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "happy-death-day-2u-2019",
+      "label": "Happy Death Day 2U",
+      "date": 2019,
+      "year": 2019,
+      "youtube": "https://www.youtube.com/watch?v=THq6KlWgiqw",
+      "tooltip": {
+        "description": "Horror movie that premiered in 2019"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "ma-2019",
+      "label": "Ma",
+      "date": 2019,
+      "year": 2019,
+      "youtube": "https://www.youtube.com/watch?v=dvpKRSHIkzM",
+      "tooltip": {
+        "description": "Horror movie that premiered in 2019"
+      },
+      "showImageOnPlace": false
+    }
   ]
 }
-  

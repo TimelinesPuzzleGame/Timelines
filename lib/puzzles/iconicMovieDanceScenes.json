@@ -1,76 +1,3245 @@
 {
-  "slug": "iconic-movie-dance-scenes",
-  "topic": "Iconic Movie Dance Scenes",
+  "slug": "iconic-movie-dance-scenes-randomized",
+  "topic": "Movie Songs & Dances",
+  "description": "A collection of the most iconic and memorable dance scenes from movies and TV shows, enhanced with randomized 45-second video segments for improved replay value and dynamic content discovery",
   "category": "Entertainment",
   "subcategory": "Movies/TV",
   "hideDates": false,
   "cards": [
     {
-      "id": "anchorsAweigh",
-      "label": "Anchors Aweigh – Gene Kelly and Jerry",
-      "date": 1945,
-      "youtube": "https://www.youtube.com/watch?v=Ddm8l1VlFgg&t=80s"
-    },
-     {
-      "id": "rockyHorrorPictureShow",
-      "label": "Rocky Horror Picture Show – Tim Curry and Susan Sarandon",
-      "date": 1975,
-      "youtube": "https://www.youtube.com/watch?v=YC1E8yVJIS4&t=53s"
-    },
-         {
-      "id": "titanic",
-      "label": "Titanic – Leonardo DiCaprio and Kate Winslet",
-      "date": 1997,
-      "youtube": "https://www.youtube.com/watch?v=vaU0o52Hy2g&t=124s"
-    },
-    {
-      "id": "houseParty",
-      "label": "House Party – Kid 'n Play",
-      "date": 1990,
-      "youtube": "https://www.youtube.com/watch?v=NLpzg-QLE-o&t=145s"
-    },
-     {
-      "id": "saturdayNightFever",
-      "label": "Saturday Night Fever – John Travolta",
-      "date": 1977,
-      "youtube": "https://www.youtube.com/watch?v=LUID0jSh2Ic&t=92s"
-    },
-         {
-      "id": "breakin",
-      "label": "Breakin' – Turbo and Ozone",
-      "date": 1984,
-      "youtube": "https://www.youtube.com/watch?v=yEoaN9qIxFs&t=37s"
-    },
-    {
-      "id": "austinpowers1",
-      "label": "Austin Powers Goldmember – Mike Myers",
-      "date": 2002,
-      "youtube": "https://www.youtube.com/watch?v=rXRzcRi2frU&t=1289s&end=1404s"
-    },
-    {
       "id": "stormyWeather",
       "label": "Stormy Weather – Cab Calloway and Nicholas Brothers",
       "date": 1943,
-      "youtube": "https://www.youtube.com/watch?v=_8yGGtVKrD8&t=109s"
-    },
-        {
-      "id": "napoleonDynamite",
-      "label": "Napoleon Dynamite – Jon Heder",
-      "date": 2004,
-      "youtube": "https://www.youtube.com/watch?v=BiAwpYIkRmU&t=42s"
+      "youtube": "https://www.youtube.com/watch?v=_8yGGtVKrD8&t=109s",
+      "duration": 162
     },
     {
-      "id": "dirtyDancing",
-      "label": "Dirty Dancing – Patrick Swayze and Jennifer Grey",
-      "date": 1987,
-      "youtube": "https://www.youtube.com/watch?v=XINddkzfTzM&t=159s"
+      "id": "anchorsAweigh",
+      "label": "Anchors Aweigh – Gene Kelly and Jerry",
+      "date": 1945,
+      "youtube": "https://www.youtube.com/watch?v=Ddm8l1VlFgg&t=80s",
+      "duration": 127
     },
     {
       "id": "SingingInTheRain",
       "label": "Singing in the Rain – Gene Kelly",
       "date": 1952,
-      "youtube": "https://www.youtube.com/watch?v=gAI6hhsDNxc&t=96s"
+      "youtube": "https://www.youtube.com/watch?v=gAI6hhsDNxc&t=96s",
+      "duration": 427
+    },
+    {
+      "id": "rockyHorrorPictureShow",
+      "label": "Rocky Horror Picture Show – Tim Curry and Susan Sarandon",
+      "date": 1975,
+      "youtube": "https://www.youtube.com/watch?v=YC1E8yVJIS4&t=53s",
+      "duration": 103
+    },
+    {
+      "id": "saturdayNightFever",
+      "label": "Saturday Night Fever – John Travolta",
+      "date": 1977,
+      "youtube": "https://www.youtube.com/watch?v=LUID0jSh2Ic&t=92s",
+      "duration": 222
+    },
+    {
+      "id": "breakin",
+      "label": "Breakin' – Turbo and Ozone",
+      "date": 1984,
+      "youtube": "https://www.youtube.com/watch?v=yEoaN9qIxFs&t=37s",
+      "duration": 155
+    },
+    {
+      "id": "dirtyDancing",
+      "label": "Dirty Dancing – Patrick Swayze and Jennifer Grey",
+      "date": 1987,
+      "youtube": "https://www.youtube.com/watch?v=XINddkzfTzM&t=159s",
+      "duration": 123
+    },
+    {
+      "id": "houseParty",
+      "label": "House Party – Kid 'n Play",
+      "date": 1990,
+      "youtube": "https://www.youtube.com/watch?v=NLpzg-QLE-o&t=145s",
+      "duration": 242
+    },
+    {
+      "id": "titanic",
+      "label": "Titanic – Leonardo DiCaprio and Kate Winslet",
+      "date": 1997,
+      "youtube": "https://www.youtube.com/watch?v=vaU0o52Hy2g&t=124s",
+      "duration": 172
+    },
+    {
+      "id": "dance-PSZxmZmBfnU",
+      "label": "Somewhere Over the Rainbow",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "PSZxmZmBfnU",
+      "youtube": "https://www.youtube.com/watch?v=PSZxmZmBfnU",
+      "tooltip": {
+        "description": "Iconic dance scene from Somewhere Over the Rainbow"
+      },
+      "showImageOnPlace": false,
+      "variants": [
+        {
+          "id": "PSZxmZmBfnU-dance-variant",
+          "videoId": "PSZxmZmBfnU",
+          "youtube": "https://www.youtube.com/watch?v=PSZxmZmBfnU",
+          "sceneDescription": "Somewhere Over the Rainbow - The Wizard of Oz (1/8) Movie CLIP (1939) HD",
+          "originalTitle": "Somewhere Over the Rainbow - The Wizard of Oz (1/8) Movie CLIP (1939) HD",
+          "duration": 82
+        }
+      ],
+      "variantCount": 1,
+      "duration": 168
+    },
+    {
+      "id": "dance-QRoWiTcO7dk",
+      "label": "Mamma Mia!",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "QRoWiTcO7dk",
+      "youtube": "https://www.youtube.com/watch?v=QRoWiTcO7dk",
+      "tooltip": {
+        "description": "Iconic dance scene from Mamma Mia!"
+      },
+      "showImageOnPlace": false,
+      "duration": 73
+    },
+    {
+      "id": "dance-DyofWTw0bqY",
+      "label": "West Side Story (3/10) Movie CLIP",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "DyofWTw0bqY",
+      "youtube": "https://www.youtube.com/watch?v=DyofWTw0bqY",
+      "tooltip": {
+        "description": "Iconic dance scene from West Side Story (3/10) Movie CLIP"
+      },
+      "showImageOnPlace": false,
+      "duration": 287
+    },
+    {
+      "id": "dance-vOTtCjGqXYo",
+      "label": "Pitch Perfect (10/10) Movie CLIP",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "vOTtCjGqXYo",
+      "youtube": "https://www.youtube.com/watch?v=vOTtCjGqXYo",
+      "tooltip": {
+        "description": "Iconic dance scene from Pitch Perfect (10/10) Movie CLIP"
+      },
+      "showImageOnPlace": false,
+      "duration": 145
+    },
+    {
+      "id": "dance-AePRD1Ud3Lw",
+      "label": "The Sound of Music (1/5) Movie CLIP",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "AePRD1Ud3Lw",
+      "youtube": "https://www.youtube.com/watch?v=AePRD1Ud3Lw",
+      "tooltip": {
+        "description": "Iconic dance scene from The Sound of Music (1/5) Movie CLIP"
+      },
+      "showImageOnPlace": false,
+      "duration": 324
+    },
+    {
+      "id": "dance-_8w9rOpV3gc",
+      "label": "La La Land",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "_8w9rOpV3gc",
+      "youtube": "https://www.youtube.com/watch?v=_8w9rOpV3gc",
+      "tooltip": {
+        "description": "Iconic dance scene from La La Land"
+      },
+      "showImageOnPlace": false,
+      "duration": 409
+    },
+    {
+      "id": "dance-LIYNk4ARUR8",
+      "label": "Willy Wonka & the Chocolate Factory",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "LIYNk4ARUR8",
+      "youtube": "https://www.youtube.com/watch?v=LIYNk4ARUR8",
+      "tooltip": {
+        "description": "Iconic dance scene from Willy Wonka & the Chocolate Factory"
+      },
+      "showImageOnPlace": false,
+      "duration": 348
+    },
+    {
+      "id": "dance-zZK_bkxhJes",
+      "label": "Dreamgirls (9/9) Movie CLIP",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "zZK_bkxhJes",
+      "youtube": "https://www.youtube.com/watch?v=zZK_bkxhJes",
+      "tooltip": {
+        "description": "Iconic dance scene from Dreamgirls (9/9) Movie CLIP"
+      },
+      "showImageOnPlace": false,
+      "duration": 186
+    },
+    {
+      "id": "dance-kHRe9qdfLsw",
+      "label": "Fiddler on the Roof (10/10) Movie CLIP",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "kHRe9qdfLsw",
+      "youtube": "https://www.youtube.com/watch?v=kHRe9qdfLsw",
+      "tooltip": {
+        "description": "Iconic dance scene from Fiddler on the Roof (10/10) Movie CLIP"
+      },
+      "showImageOnPlace": false,
+      "duration": 85
+    },
+    {
+      "id": "dance-B0asbGJbLKc",
+      "label": "Singing in the Rain",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "B0asbGJbLKc",
+      "youtube": "https://www.youtube.com/watch?v=B0asbGJbLKc",
+      "tooltip": {
+        "description": "Iconic dance scene from Singing in the Rain"
+      },
+      "showImageOnPlace": false,
+      "duration": 130
+    },
+    {
+      "id": "dance--w0WPkB3XJ4",
+      "label": "The Rocky Horror Picture Show",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "-w0WPkB3XJ4",
+      "youtube": "https://www.youtube.com/watch?v=-w0WPkB3XJ4",
+      "tooltip": {
+        "description": "Iconic dance scene from The Rocky Horror Picture Show"
+      },
+      "showImageOnPlace": false,
+      "duration": 217
+    },
+    {
+      "id": "dance-_ZfmXzIbHI8",
+      "label": "Grease",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "_ZfmXzIbHI8",
+      "youtube": "https://www.youtube.com/watch?v=_ZfmXzIbHI8",
+      "tooltip": {
+        "description": "Iconic dance scene from Grease"
+      },
+      "showImageOnPlace": false,
+      "duration": 225
+    },
+    {
+      "id": "dance-a1REfTIc5po",
+      "label": "Moulin Rouge! (1/5) Movie CLIP",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "a1REfTIc5po",
+      "youtube": "https://www.youtube.com/watch?v=a1REfTIc5po",
+      "tooltip": {
+        "description": "Iconic dance scene from Moulin Rouge! (1/5) Movie CLIP"
+      },
+      "showImageOnPlace": false,
+      "duration": 212
+    },
+    {
+      "id": "dance--iXZP4Gc8Tk",
+      "label": "Annie",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "-iXZP4Gc8Tk",
+      "youtube": "https://www.youtube.com/watch?v=-iXZP4Gc8Tk",
+      "tooltip": {
+        "description": "Iconic dance scene from Annie"
+      },
+      "showImageOnPlace": false,
+      "variants": [
+        {
+          "id": "81_KaR-h-Sg-dance-variant",
+          "videoId": "81_KaR-h-Sg",
+          "youtube": "https://www.youtube.com/watch?v=81_KaR-h-Sg",
+          "sceneDescription": "Annie (2014) - It's the Hard Knock Life Scene (3/9) | Movieclips",
+          "originalTitle": "Annie (2014) - It's the Hard Knock Life Scene (3/9) | Movieclips",
+          "duration": 189
+        }
+      ],
+      "variantCount": 1,
+      "duration": 81
+    },
+    {
+      "id": "dance-BGGyUpO3W-A",
+      "label": "Rocketman",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "BGGyUpO3W-A",
+      "youtube": "https://www.youtube.com/watch?v=BGGyUpO3W-A",
+      "tooltip": {
+        "description": "Iconic dance scene from Rocketman"
+      },
+      "showImageOnPlace": false,
+      "duration": 60
+    },
+    {
+      "id": "dance-xamDprXBtBg",
+      "label": "Sweeney Todd (1/8) Movie CLIP",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "xamDprXBtBg",
+      "youtube": "https://www.youtube.com/watch?v=xamDprXBtBg",
+      "tooltip": {
+        "description": "Iconic dance scene from Sweeney Todd (1/8) Movie CLIP"
+      },
+      "showImageOnPlace": false,
+      "duration": 152
+    },
+    {
+      "id": "dance-1B8juGIsDl8",
+      "label": "Hairspray (1/5) Movie CLIP",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "1B8juGIsDl8",
+      "youtube": "https://www.youtube.com/watch?v=1B8juGIsDl8",
+      "tooltip": {
+        "description": "Iconic dance scene from Hairspray (1/5) Movie CLIP"
+      },
+      "showImageOnPlace": false,
+      "duration": 359
+    },
+    {
+      "id": "dance-TYmMagkfjfI",
+      "label": "Chicago (4/12) Movie CLIP",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "TYmMagkfjfI",
+      "youtube": "https://www.youtube.com/watch?v=TYmMagkfjfI",
+      "tooltip": {
+        "description": "Iconic dance scene from Chicago (4/12) Movie CLIP"
+      },
+      "showImageOnPlace": false,
+      "duration": 201
+    },
+    {
+      "id": "dance-sey4abqJwBM",
+      "label": "Xanadu",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "sey4abqJwBM",
+      "youtube": "https://www.youtube.com/watch?v=sey4abqJwBM",
+      "tooltip": {
+        "description": "Iconic dance scene from Xanadu"
+      },
+      "showImageOnPlace": false,
+      "duration": 180
+    },
+    {
+      "id": "dance-XDsNy_vxKY4",
+      "label": "Jesus Christ Superstar",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "XDsNy_vxKY4",
+      "youtube": "https://www.youtube.com/watch?v=XDsNy_vxKY4",
+      "tooltip": {
+        "description": "Iconic dance scene from Jesus Christ Superstar"
+      },
+      "showImageOnPlace": false,
+      "duration": 206
+    },
+    {
+      "id": "dance-hcfrgk8ns9w",
+      "label": "Cadillac Records",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "hcfrgk8ns9w",
+      "youtube": "https://www.youtube.com/watch?v=hcfrgk8ns9w",
+      "tooltip": {
+        "description": "Iconic dance scene from Cadillac Records"
+      },
+      "showImageOnPlace": false,
+      "duration": 67
+    },
+    {
+      "id": "dance-Ad2-FiCzJxc",
+      "label": "The Best Little Whorehouse in Texas",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "Ad2-FiCzJxc",
+      "youtube": "https://www.youtube.com/watch?v=Ad2-FiCzJxc",
+      "tooltip": {
+        "description": "Iconic dance scene from The Best Little Whorehouse in Texas"
+      },
+      "showImageOnPlace": false,
+      "duration": 212
+    },
+    {
+      "id": "dance-lWC8I5DMXm0",
+      "label": "In the Heights Movie Clip",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "lWC8I5DMXm0",
+      "youtube": "https://www.youtube.com/watch?v=lWC8I5DMXm0",
+      "tooltip": {
+        "description": "Iconic dance scene from In the Heights Movie Clip"
+      },
+      "showImageOnPlace": false,
+      "duration": 472
+    },
+    {
+      "id": "dance-QbzJtP75NqM",
+      "label": "Seven Brides for Seven Brothers (5/10) Movie CLIP",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "QbzJtP75NqM",
+      "youtube": "https://www.youtube.com/watch?v=QbzJtP75NqM",
+      "tooltip": {
+        "description": "Iconic dance scene from Seven Brides for Seven Brothers (5/10) Movie CLIP"
+      },
+      "showImageOnPlace": false,
+      "duration": 257
+    },
+    {
+      "id": "dance-jq_tO6NAlPI",
+      "label": "Mamma Mia! Here We Go Again",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "jq_tO6NAlPI",
+      "youtube": "https://www.youtube.com/watch?v=jq_tO6NAlPI",
+      "tooltip": {
+        "description": "Iconic dance scene from Mamma Mia! Here We Go Again"
+      },
+      "showImageOnPlace": false,
+      "duration": 175
+    },
+    {
+      "id": "dance-U45CzgrLE9s",
+      "label": "Hair (7/10) Movie CLIP",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "U45CzgrLE9s",
+      "youtube": "https://www.youtube.com/watch?v=U45CzgrLE9s",
+      "tooltip": {
+        "description": "Iconic dance scene from Hair (7/10) Movie CLIP"
+      },
+      "showImageOnPlace": false,
+      "duration": 212
+    },
+    {
+      "id": "dance-ljK_2ZT44jA",
+      "label": "Funny Face (5/9) Movie CLIP",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "ljK_2ZT44jA",
+      "youtube": "https://www.youtube.com/watch?v=ljK_2ZT44jA",
+      "tooltip": {
+        "description": "Iconic dance scene from Funny Face (5/9) Movie CLIP"
+      },
+      "showImageOnPlace": false,
+      "duration": 216
+    },
+    {
+      "id": "dance-WCES5LXQn9M",
+      "label": "Yentl (2/7) Movie CLIP",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "WCES5LXQn9M",
+      "youtube": "https://www.youtube.com/watch?v=WCES5LXQn9M",
+      "tooltip": {
+        "description": "Iconic dance scene from Yentl (2/7) Movie CLIP"
+      },
+      "showImageOnPlace": false,
+      "duration": 470
+    },
+    {
+      "id": "dance-ulJXiB5i_q0",
+      "label": "Les Misérables",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "ulJXiB5i_q0",
+      "youtube": "https://www.youtube.com/watch?v=ulJXiB5i_q0",
+      "tooltip": {
+        "description": "Iconic dance scene from Les Misérables"
+      },
+      "showImageOnPlace": false,
+      "duration": 275
+    },
+    {
+      "id": "dance-foV6LGohzBI",
+      "label": "Pitch Perfect 3",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "foV6LGohzBI",
+      "youtube": "https://www.youtube.com/watch?v=foV6LGohzBI",
+      "tooltip": {
+        "description": "Iconic dance scene from Pitch Perfect 3"
+      },
+      "showImageOnPlace": false,
+      "duration": 246
+    },
+    {
+      "id": "dance-Hk3IpNbltyw",
+      "label": "Grease 2",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "Hk3IpNbltyw",
+      "youtube": "https://www.youtube.com/watch?v=Hk3IpNbltyw",
+      "tooltip": {
+        "description": "Iconic dance scene from Grease 2"
+      },
+      "showImageOnPlace": false,
+      "duration": 291
+    },
+    {
+      "id": "dance-qdbrIrFxas0",
+      "label": "The Blues Brothers",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "qdbrIrFxas0",
+      "youtube": "https://www.youtube.com/watch?v=qdbrIrFxas0",
+      "tooltip": {
+        "description": "Iconic dance scene from The Blues Brothers"
+      },
+      "showImageOnPlace": false,
+      "duration": 118
+    },
+    {
+      "id": "dance-XMrWXjOuv0g",
+      "label": "Cry",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "XMrWXjOuv0g",
+      "youtube": "https://www.youtube.com/watch?v=XMrWXjOuv0g",
+      "tooltip": {
+        "description": "Iconic dance scene from Cry"
+      },
+      "showImageOnPlace": false,
+      "duration": 187
+    },
+    {
+      "id": "dance-emda_fIsz2o",
+      "label": "Earth Girls Are Easy (1/10) Movie CLIP",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "emda_fIsz2o",
+      "youtube": "https://www.youtube.com/watch?v=emda_fIsz2o",
+      "tooltip": {
+        "description": "Iconic dance scene from Earth Girls Are Easy (1/10) Movie CLIP"
+      },
+      "showImageOnPlace": false,
+      "duration": 135
+    },
+    {
+      "id": "dance-zwv5XWJhD6A",
+      "label": "Idlewild",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "zwv5XWJhD6A",
+      "youtube": "https://www.youtube.com/watch?v=zwv5XWJhD6A",
+      "tooltip": {
+        "description": "Iconic dance scene from Idlewild"
+      },
+      "showImageOnPlace": false,
+      "duration": 254
+    },
+
+
+    {
+      "id": "dance-lX4H0NmDMck",
+      "label": "Pitch Perfect 2 (10/10) Movie CLIP",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "lX4H0NmDMck",
+      "youtube": "https://www.youtube.com/watch?v=lX4H0NmDMck",
+      "tooltip": {
+        "description": "Iconic dance scene from Pitch Perfect 2 (10/10) Movie CLIP"
+      },
+      "showImageOnPlace": false,
+      "duration": 227
+    },
+
+    {
+      "id": "dance-hdEouRM7Xv8",
+      "label": "Meet Me in St. Louis Trailer",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "hdEouRM7Xv8",
+      "youtube": "https://www.youtube.com/watch?v=hdEouRM7Xv8",
+      "tooltip": {
+        "description": "Iconic dance scene from Meet Me in St. Louis Trailer"
+      },
+      "showImageOnPlace": false,
+      "duration": 78
+    },
+    {
+      "id": "dance-N91AL8sAh9o",
+      "label": "The Phantom of the Opera Trailer",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "N91AL8sAh9o",
+      "youtube": "https://www.youtube.com/watch?v=N91AL8sAh9o",
+      "tooltip": {
+        "description": "Iconic dance scene from The Phantom of the Opera Trailer"
+      },
+      "showImageOnPlace": false,
+      "duration": 161
+    },
+    {
+      "id": "dance-c880_rbzbxk",
+      "label": "My Fair Lady Trailer #1 | Movieclips Classic Trailers",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "c880_rbzbxk",
+      "youtube": "https://www.youtube.com/watch?v=c880_rbzbxk",
+      "tooltip": {
+        "description": "Iconic dance scene from My Fair Lady Trailer #1 | Movieclips Classic Trailers"
+      },
+      "showImageOnPlace": false,
+      "duration": 212
+    },
+    {
+      "id": "dance-TgimMImX-VE",
+      "label": "Swing Time Trailer",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "TgimMImX-VE",
+      "youtube": "https://www.youtube.com/watch?v=TgimMImX-VE",
+      "tooltip": {
+        "description": "Iconic dance scene from Swing Time Trailer"
+      },
+      "showImageOnPlace": false,
+      "duration": 172
+    },
+    {
+      "id": "dance-a9hW0Evk2jA",
+      "label": "Yankee Doodle Dandy Trailer #1",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "a9hW0Evk2jA",
+      "youtube": "https://www.youtube.com/watch?v=a9hW0Evk2jA",
+      "tooltip": {
+        "description": "Iconic dance scene from Yankee Doodle Dandy Trailer #1"
+      },
+      "showImageOnPlace": false,
+      "duration": 85
+    },
+    {
+      "id": "dance-ykzP_64l-xk",
+      "label": "Guys and Dolls Trailer #1",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "ykzP_64l-xk",
+      "youtube": "https://www.youtube.com/watch?v=ykzP_64l-xk",
+      "tooltip": {
+        "description": "Iconic dance scene from Guys and Dolls Trailer #1"
+      },
+      "showImageOnPlace": false,
+      "duration": 181
+    },
+    {
+      "id": "dance-e74V0nEEOIY",
+      "label": "The Music Man Trailer",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "e74V0nEEOIY",
+      "youtube": "https://www.youtube.com/watch?v=e74V0nEEOIY",
+      "tooltip": {
+        "description": "Iconic dance scene from The Music Man Trailer"
+      },
+      "showImageOnPlace": false,
+      "duration": 169
+    },
+    {
+      "id": "dance-0bnlAso3p7A",
+      "label": "Hedwig and the Angry Inch Trailer #1 | Movieclips Classic Trailers",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "0bnlAso3p7A",
+      "youtube": "https://www.youtube.com/watch?v=0bnlAso3p7A",
+      "tooltip": {
+        "description": "Iconic dance scene from Hedwig and the Angry Inch Trailer #1 | Movieclips Classic Trailers"
+      },
+      "showImageOnPlace": false,
+      "duration": 179
+    },
+    {
+      "id": "dance-ri4OegFn3Jk",
+      "label": "On the Town Trailer",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "ri4OegFn3Jk",
+      "youtube": "https://www.youtube.com/watch?v=ri4OegFn3Jk",
+      "tooltip": {
+        "description": "Iconic dance scene from On the Town Trailer"
+      },
+      "showImageOnPlace": false,
+      "duration": 299
+    },
+    {
+      "id": "dance-qzOFC4XiqL0",
+      "label": "Funny Girl Trailer #1 | Movieclips Classic Trailers",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "qzOFC4XiqL0",
+      "youtube": "https://www.youtube.com/watch?v=qzOFC4XiqL0",
+      "tooltip": {
+        "description": "Iconic dance scene from Funny Girl Trailer #1 | Movieclips Classic Trailers"
+      },
+      "showImageOnPlace": false,
+      "duration": 198
+    },
+    {
+      "id": "dance-EfL1J4QVhSM",
+      "label": "Cabaret Trailer #1 | Movieclips Classic Trailers",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "EfL1J4QVhSM",
+      "youtube": "https://www.youtube.com/watch?v=EfL1J4QVhSM",
+      "tooltip": {
+        "description": "Iconic dance scene from Cabaret Trailer #1 | Movieclips Classic Trailers"
+      },
+      "showImageOnPlace": false,
+      "duration": 209
+    },
+    {
+      "id": "dance-IJwUFq8uOr0",
+      "label": "Enchanted Trailer #1 | Movieclips Classic Trailers",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "IJwUFq8uOr0",
+      "youtube": "https://www.youtube.com/watch?v=IJwUFq8uOr0",
+      "tooltip": {
+        "description": "Iconic dance scene from Enchanted Trailer #1 | Movieclips Classic Trailers"
+      },
+      "showImageOnPlace": false,
+      "duration": 60
+    },
+    {
+      "id": "dance-eQHX1Qczp6E",
+      "label": "Victor Victoria Trailer #1",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "eQHX1Qczp6E",
+      "youtube": "https://www.youtube.com/watch?v=eQHX1Qczp6E",
+      "tooltip": {
+        "description": "Iconic dance scene from Victor Victoria Trailer #1"
+      },
+      "showImageOnPlace": false,
+      "duration": 85
+    },
+    {
+      "id": "dance-ZOwfC09LnZM",
+      "label": "Blinded by the Light Trailer #1 | Movieclips Indie",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "ZOwfC09LnZM",
+      "youtube": "https://www.youtube.com/watch?v=ZOwfC09LnZM",
+      "tooltip": {
+        "description": "Iconic dance scene from Blinded by the Light Trailer #1 | Movieclips Indie"
+      },
+      "showImageOnPlace": false,
+      "duration": 199
+    },
+    {
+      "id": "dance-AuXK8ZbTmLk",
+      "label": "Purple Rain Trailer",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "AuXK8ZbTmLk",
+      "youtube": "https://www.youtube.com/watch?v=AuXK8ZbTmLk",
+      "tooltip": {
+        "description": "Iconic dance scene from Purple Rain Trailer"
+      },
+      "showImageOnPlace": false,
+      "duration": 463
+    },
+    {
+      "id": "dance-pNo-Q0IDJi0",
+      "label": "The Muppet Christmas Carol Trailer #1 | Movieclips Classic Trailers",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "pNo-Q0IDJi0",
+      "youtube": "https://www.youtube.com/watch?v=pNo-Q0IDJi0",
+      "tooltip": {
+        "description": "Iconic dance scene from The Muppet Christmas Carol Trailer #1 | Movieclips Classic Trailers"
+      },
+      "showImageOnPlace": false,
+      "duration": 132
+    },
+    {
+      "id": "dance-7pjy5MK1X70",
+      "label": "Into the Woods Trailer #1",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "7pjy5MK1X70",
+      "youtube": "https://www.youtube.com/watch?v=7pjy5MK1X70",
+      "tooltip": {
+        "description": "Iconic dance scene from Into the Woods Trailer #1"
+      },
+      "showImageOnPlace": false,
+      "duration": 212
+    },
+    {
+      "id": "dance-4K2C0gcEV3Q",
+      "label": "White Christmas Trailer #1 | Movieclips Classic Trailers",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "4K2C0gcEV3Q",
+      "youtube": "https://www.youtube.com/watch?v=4K2C0gcEV3Q",
+      "tooltip": {
+        "description": "Iconic dance scene from White Christmas Trailer #1 | Movieclips Classic Trailers"
+      },
+      "showImageOnPlace": false,
+      "duration": 263
+    },
+    {
+      "id": "dance-4CUpdmvx9Ok",
+      "label": "Viva Las Vegas Trailer #1",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "4CUpdmvx9Ok",
+      "youtube": "https://www.youtube.com/watch?v=4CUpdmvx9Ok",
+      "tooltip": {
+        "description": "Iconic dance scene from Viva Las Vegas Trailer #1"
+      },
+      "showImageOnPlace": false,
+      "duration": 199
+    },
+    {
+      "id": "dance-KXQjEInvGrQ",
+      "label": "Cats",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "KXQjEInvGrQ",
+      "youtube": "https://www.youtube.com/watch?v=KXQjEInvGrQ",
+      "tooltip": {
+        "description": "Iconic dance scene from Cats"
+      },
+      "showImageOnPlace": false,
+      "duration": 151
+    },
+    {
+      "id": "dance-Uze3sBn5ObQ",
+      "label": "Bugsy Malone",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "Uze3sBn5ObQ",
+      "youtube": "https://www.youtube.com/watch?v=Uze3sBn5ObQ",
+      "tooltip": {
+        "description": "Iconic dance scene from Bugsy Malone"
+      },
+      "showImageOnPlace": false,
+      "duration": 111
+    },
+    {
+      "id": "dance-eesYEZ3pp5Q",
+      "label": "Alleluia! The Devil's Carnival",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "eesYEZ3pp5Q",
+      "youtube": "https://www.youtube.com/watch?v=eesYEZ3pp5Q",
+      "tooltip": {
+        "description": "Iconic dance scene from Alleluia! The Devil's Carnival"
+      },
+      "showImageOnPlace": false,
+      "duration": 90
+    },
+    {
+      "id": "dance-0udu4KYv1zI",
+      "label": "ON THE STREET WHERE YOU LIVE",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "0udu4KYv1zI",
+      "youtube": "https://www.youtube.com/watch?v=0udu4KYv1zI",
+      "tooltip": {
+        "description": "Iconic dance scene from ON THE STREET WHERE YOU LIVE"
+      },
+      "showImageOnPlace": false,
+      "duration": 146
+    },
+    {
+      "id": "dance-4zLjF9hlH2k",
+      "label": "An American In Paris 1951",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "4zLjF9hlH2k",
+      "youtube": "https://www.youtube.com/watch?v=4zLjF9hlH2k",
+      "tooltip": {
+        "description": "Iconic dance scene from An American In Paris 1951"
+      },
+      "showImageOnPlace": false,
+      "duration": 120
+    },
+    {
+      "id": "dance-Ss1CXo8QMi8",
+      "label": "OKLAHOMA \"The Surrey With The Fringe On Top\" with lyrics",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "Ss1CXo8QMi8",
+      "youtube": "https://www.youtube.com/watch?v=Ss1CXo8QMi8",
+      "tooltip": {
+        "description": "Iconic dance scene from OKLAHOMA \"The Surrey With The Fringe On Top\" with lyrics"
+      },
+      "showImageOnPlace": false,
+      "duration": 315
+    },
+    {
+      "id": "dance-uirBWk-qd9A",
+      "label": "Breakfast at Tiffany's (3/9) Movie CLIP",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "uirBWk-qd9A",
+      "youtube": "https://www.youtube.com/watch?v=uirBWk-qd9A",
+      "tooltip": {
+        "description": "Iconic dance scene from Breakfast at Tiffany's (3/9) Movie CLIP"
+      },
+      "showImageOnPlace": false,
+      "duration": 328
+    },
+    {
+      "id": "dance-iuHAh-2xGxw",
+      "label": "Carousel",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "iuHAh-2xGxw",
+      "youtube": "https://www.youtube.com/watch?v=iuHAh-2xGxw",
+      "tooltip": {
+        "description": "Iconic dance scene from Carousel"
+      },
+      "showImageOnPlace": false,
+      "duration": 197
+    },
+    {
+      "id": "dance-ZbrnXl2gO_k",
+      "label": "Oklahoma!",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "ZbrnXl2gO_k",
+      "youtube": "https://www.youtube.com/watch?v=ZbrnXl2gO_k",
+      "tooltip": {
+        "description": "Iconic dance scene from Oklahoma!"
+      },
+      "showImageOnPlace": false,
+      "duration": 363
+    },
+    {
+      "id": "dance-zHtLvFbWqoQ",
+      "label": "OKLAHOMA \"Many A New Day\" with lyrics",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "zHtLvFbWqoQ",
+      "youtube": "https://www.youtube.com/watch?v=zHtLvFbWqoQ",
+      "tooltip": {
+        "description": "Iconic dance scene from OKLAHOMA \"Many A New Day\" with lyrics"
+      },
+      "showImageOnPlace": false,
+      "duration": 60
+    },
+    {
+      "id": "dance-JLDsLeVxOaU",
+      "label": "The Music Man Shirley Jones \"Till There Was You\"",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "JLDsLeVxOaU",
+      "youtube": "https://www.youtube.com/watch?v=JLDsLeVxOaU",
+      "tooltip": {
+        "description": "Iconic dance scene from The Music Man Shirley Jones \"Till There Was You\""
+      },
+      "showImageOnPlace": false,
+      "duration": 340
+    },
+    {
+      "id": "dance-59Hj7bp38f8",
+      "label": "Fiddler on the roof",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "59Hj7bp38f8",
+      "youtube": "https://www.youtube.com/watch?v=59Hj7bp38f8",
+      "tooltip": {
+        "description": "Iconic dance scene from Fiddler on the roof"
+      },
+      "showImageOnPlace": false,
+      "duration": 140
+    },
+    {
+      "id": "dance-iMO72_TF9JY",
+      "label": "South Pacific",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "iMO72_TF9JY",
+      "youtube": "https://www.youtube.com/watch?v=iMO72_TF9JY",
+      "tooltip": {
+        "description": "Iconic dance scene from South Pacific"
+      },
+      "showImageOnPlace": false,
+      "variants": [
+        {
+          "id": "81NROmUb7o0-dance-variant",
+          "videoId": "81NROmUb7o0",
+          "youtube": "https://www.youtube.com/watch?v=81NROmUb7o0",
+          "sceneDescription": "South Pacific-Bali Hai",
+          "originalTitle": "South Pacific-Bali Hai",
+          "duration": 225
+        }
+      ],
+      "variantCount": 1,
+      "duration": 241
+    },
+    {
+      "id": "dance-VEwVAV3VPw4",
+      "label": "OKLAHOMA \"People Will Say We're In Love\" with lyrics",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "VEwVAV3VPw4",
+      "youtube": "https://www.youtube.com/watch?v=VEwVAV3VPw4",
+      "tooltip": {
+        "description": "Iconic dance scene from OKLAHOMA \"People Will Say We're In Love\" with lyrics"
+      },
+      "showImageOnPlace": false,
+      "duration": 306
+    },
+    {
+      "id": "dance-O7-Qa92Rzbk",
+      "label": "Porgy & Bess \"Summertime\"",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "O7-Qa92Rzbk",
+      "youtube": "https://www.youtube.com/watch?v=O7-Qa92Rzbk",
+      "tooltip": {
+        "description": "Iconic dance scene from Porgy & Bess \"Summertime\""
+      },
+      "showImageOnPlace": false,
+      "duration": 351
+    },
+    {
+      "id": "dance-ePj0c-BNR8U",
+      "label": "Camelot",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "ePj0c-BNR8U",
+      "youtube": "https://www.youtube.com/watch?v=ePj0c-BNR8U",
+      "tooltip": {
+        "description": "Iconic dance scene from Camelot"
+      },
+      "showImageOnPlace": false,
+      "duration": 114
+    },
+    {
+      "id": "dance-QgVPnWmUqd4",
+      "label": "Yul Brynner and Deborah Kerr perform \"Shall We Dance\" from The King and I",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "QgVPnWmUqd4",
+      "youtube": "https://www.youtube.com/watch?v=QgVPnWmUqd4",
+      "tooltip": {
+        "description": "Iconic dance scene from Yul Brynner and Deborah Kerr perform \"Shall We Dance\" from The King and I"
+      },
+      "showImageOnPlace": false,
+      "duration": 210
+    },
+    {
+      "id": "dance-nLLEBAQLZ3Q",
+      "label": "SUNRISE SUNSET",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "nLLEBAQLZ3Q",
+      "youtube": "https://www.youtube.com/watch?v=nLLEBAQLZ3Q",
+      "tooltip": {
+        "description": "Iconic dance scene from SUNRISE SUNSET"
+      },
+      "showImageOnPlace": false,
+      "duration": 146
+    },
+    {
+      "id": "dance-Ye7PIyIcCro",
+      "label": "West Side Story 1961",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "Ye7PIyIcCro",
+      "youtube": "https://www.youtube.com/watch?v=Ye7PIyIcCro",
+      "tooltip": {
+        "description": "Iconic dance scene from West Side Story 1961"
+      },
+      "showImageOnPlace": false,
+      "duration": 228
+    },
+    {
+      "id": "dance-fU8tQpCZEzg",
+      "label": "Doris Day sings \"Secret Love\" from \"Calamity Jane\"",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "fU8tQpCZEzg",
+      "youtube": "https://www.youtube.com/watch?v=fU8tQpCZEzg",
+      "tooltip": {
+        "description": "Iconic dance scene from Doris Day sings \"Secret Love\" from \"Calamity Jane\""
+      },
+      "showImageOnPlace": false,
+      "duration": 148
+    },
+    {
+      "id": "dance-sJPJ7jsUOgw",
+      "label": "Gene Kelly and Frank Sinatra",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "sJPJ7jsUOgw",
+      "youtube": "https://www.youtube.com/watch?v=sJPJ7jsUOgw",
+      "tooltip": {
+        "description": "Iconic dance scene from Gene Kelly and Frank Sinatra"
+      },
+      "showImageOnPlace": false,
+      "duration": 340
+    },
+    {
+      "id": "dance-eNOSj0gQ1PU",
+      "label": "Gene Kelly",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "eNOSj0gQ1PU",
+      "youtube": "https://www.youtube.com/watch?v=eNOSj0gQ1PU",
+      "tooltip": {
+        "description": "Iconic dance scene from Gene Kelly"
+      },
+      "showImageOnPlace": false,
+      "duration": 89
+    },
+    {
+      "id": "dance-BKY4EoHU3dc",
+      "label": "JUDY GARLAND: 'SWANEE' FROM 'A STAR IS BORN'.",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "BKY4EoHU3dc",
+      "youtube": "https://www.youtube.com/watch?v=BKY4EoHU3dc",
+      "tooltip": {
+        "description": "Iconic dance scene from JUDY GARLAND: 'SWANEE' FROM 'A STAR IS BORN'."
+      },
+      "showImageOnPlace": false,
+      "duration": 90
+    },
+    {
+      "id": "dance-moOamKxW844",
+      "label": "Cabaret, Liza Minnelli",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "moOamKxW844",
+      "youtube": "https://www.youtube.com/watch?v=moOamKxW844",
+      "tooltip": {
+        "description": "Iconic dance scene from Cabaret, Liza Minnelli"
+      },
+      "showImageOnPlace": false,
+      "duration": 321
+    },
+    {
+      "id": "dance-7vThuwa5RZU",
+      "label": "Play it, Sam",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "7vThuwa5RZU",
+      "youtube": "https://www.youtube.com/watch?v=7vThuwa5RZU",
+      "tooltip": {
+        "description": "Iconic dance scene from Play it, Sam"
+      },
+      "showImageOnPlace": false,
+      "duration": 218
+    },
+    {
+      "id": "dance-WQIvhotZSUw",
+      "label": "\"I Wanna Be Loved By You\",Marilyn Monroe",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "WQIvhotZSUw",
+      "youtube": "https://www.youtube.com/watch?v=WQIvhotZSUw",
+      "tooltip": {
+        "description": "Iconic dance scene from \"I Wanna Be Loved By You\",Marilyn Monroe"
+      },
+      "showImageOnPlace": false,
+      "duration": 181
+    },
+    {
+      "id": "dance-mFfuUu5xmMA",
+      "label": "lauren bacall: to have and have not \"how little we know\"",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "mFfuUu5xmMA",
+      "youtube": "https://www.youtube.com/watch?v=mFfuUu5xmMA",
+      "tooltip": {
+        "description": "Iconic dance scene from lauren bacall: to have and have not \"how little we know\""
+      },
+      "showImageOnPlace": false,
+      "duration": 147
+    },
+    {
+      "id": "dance-n-7DyOhbs6Q",
+      "label": "Ava Gardner",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "n-7DyOhbs6Q",
+      "youtube": "https://www.youtube.com/watch?v=n-7DyOhbs6Q",
+      "tooltip": {
+        "description": "Iconic dance scene from Ava Gardner"
+      },
+      "showImageOnPlace": false,
+      "variants": [
+        {
+          "id": "rGOyycNqiWA-dance-variant",
+          "videoId": "rGOyycNqiWA",
+          "youtube": "https://www.youtube.com/watch?v=rGOyycNqiWA",
+          "sceneDescription": "Ava Gardner - Can't Help lovin´dat man",
+          "originalTitle": "Ava Gardner - Can't Help lovin´dat man",
+          "duration": 62
+        }
+      ],
+      "variantCount": 1,
+      "duration": 236
+    },
+    {
+      "id": "dance-dCvqTRHGIrg",
+      "label": "LENA HORNE Sings \"Moon River\" 1965",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "dCvqTRHGIrg",
+      "youtube": "https://www.youtube.com/watch?v=dCvqTRHGIrg",
+      "tooltip": {
+        "description": "Iconic dance scene from LENA HORNE Sings \"Moon River\" 1965"
+      },
+      "showImageOnPlace": false,
+      "duration": 349
+    },
+    {
+      "id": "dance-nauLgZISozs",
+      "label": "If I Only Had a Brain",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "nauLgZISozs",
+      "youtube": "https://www.youtube.com/watch?v=nauLgZISozs",
+      "tooltip": {
+        "description": "Iconic dance scene from If I Only Had a Brain"
+      },
+      "showImageOnPlace": false,
+      "duration": 221
+    },
+    {
+      "id": "dance-TXMEVTtAZkI",
+      "label": "It Might As Well Be Spring",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "TXMEVTtAZkI",
+      "youtube": "https://www.youtube.com/watch?v=TXMEVTtAZkI",
+      "tooltip": {
+        "description": "Iconic dance scene from It Might As Well Be Spring"
+      },
+      "showImageOnPlace": false,
+      "duration": 72
+    },
+    {
+      "id": "dance-puSgWX4DbZ4",
+      "label": "Cool, Cool, Cool of the Evening [from HERE COMES THE GROOM]",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "puSgWX4DbZ4",
+      "youtube": "https://www.youtube.com/watch?v=puSgWX4DbZ4",
+      "tooltip": {
+        "description": "Iconic dance scene from Cool, Cool, Cool of the Evening [from HERE COMES THE GROOM]"
+      },
+      "showImageOnPlace": false,
+      "duration": 161
+    },
+    {
+      "id": "dance-VmyHZA4GAk8",
+      "label": "What's The Use Of Wonderin",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "VmyHZA4GAk8",
+      "youtube": "https://www.youtube.com/watch?v=VmyHZA4GAk8",
+      "tooltip": {
+        "description": "Iconic dance scene from What's The Use Of Wonderin"
+      },
+      "showImageOnPlace": false,
+      "duration": 194
+    },
+    {
+      "id": "dance-FL87sHjXlVU",
+      "label": "Doris Day Secret Love 1953",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "FL87sHjXlVU",
+      "youtube": "https://www.youtube.com/watch?v=FL87sHjXlVU",
+      "tooltip": {
+        "description": "Iconic dance scene from Doris Day Secret Love 1953"
+      },
+      "showImageOnPlace": false,
+      "duration": 246
+    },
+    {
+      "id": "dance-nKgUq5dziEk",
+      "label": "Thanks for the Memory",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "nKgUq5dziEk",
+      "youtube": "https://www.youtube.com/watch?v=nKgUq5dziEk",
+      "tooltip": {
+        "description": "Iconic dance scene from Thanks for the Memory"
+      },
+      "showImageOnPlace": false,
+      "duration": 125
+    },
+    {
+      "id": "dance-7v3d_lJ6UKk",
+      "label": "Jane Russell",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "7v3d_lJ6UKk",
+      "youtube": "https://www.youtube.com/watch?v=7v3d_lJ6UKk",
+      "tooltip": {
+        "description": "Iconic dance scene from Jane Russell"
+      },
+      "showImageOnPlace": false,
+      "duration": 304
+    },
+    {
+      "id": "dance-uVmU3iANbgk",
+      "label": "My Fair Lady",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "uVmU3iANbgk",
+      "youtube": "https://www.youtube.com/watch?v=uVmU3iANbgk",
+      "tooltip": {
+        "description": "Iconic dance scene from My Fair Lady"
+      },
+      "showImageOnPlace": false,
+      "duration": 129
+    },
+    {
+      "id": "dance-UzyPMRo8ZUQ",
+      "label": "Judy Garland",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "UzyPMRo8ZUQ",
+      "youtube": "https://www.youtube.com/watch?v=UzyPMRo8ZUQ",
+      "tooltip": {
+        "description": "Iconic dance scene from Judy Garland"
+      },
+      "showImageOnPlace": false,
+      "variants": [
+        {
+          "id": "Kq0_G9mYppo-dance-variant",
+          "videoId": "Kq0_G9mYppo",
+          "youtube": "https://www.youtube.com/watch?v=Kq0_G9mYppo",
+          "sceneDescription": "Judy Garland - Zing! Went the Strings of My Heart",
+          "originalTitle": "Judy Garland - Zing! Went the Strings of My Heart",
+          "duration": 88
+        }
+      ],
+      "variantCount": 1,
+      "duration": 262
+    },
+    {
+      "id": "dance-WO23WBji_Z0",
+      "label": "Annie Get Your Gun",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "WO23WBji_Z0",
+      "youtube": "https://www.youtube.com/watch?v=WO23WBji_Z0",
+      "tooltip": {
+        "description": "Iconic dance scene from Annie Get Your Gun"
+      },
+      "showImageOnPlace": false,
+      "duration": 111
+    },
+    {
+      "id": "dance-5MnUrhptPSo",
+      "label": "The Windy City from Calamity Jane",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "5MnUrhptPSo",
+      "youtube": "https://www.youtube.com/watch?v=5MnUrhptPSo",
+      "tooltip": {
+        "description": "Iconic dance scene from The Windy City from Calamity Jane"
+      },
+      "showImageOnPlace": false,
+      "duration": 149
+    },
+    {
+      "id": "dance-LCfqIXiLxSE",
+      "label": "Ethel Merman and Bing Crosby Sing \"You're the Top\"",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "LCfqIXiLxSE",
+      "youtube": "https://www.youtube.com/watch?v=LCfqIXiLxSE",
+      "tooltip": {
+        "description": "Iconic dance scene from Ethel Merman and Bing Crosby Sing \"You're the Top\""
+      },
+      "showImageOnPlace": false,
+      "duration": 197
+    },
+    {
+      "id": "dance-KmhC_M93bLA",
+      "label": "Anything Goes",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "KmhC_M93bLA",
+      "youtube": "https://www.youtube.com/watch?v=KmhC_M93bLA",
+      "tooltip": {
+        "description": "Iconic dance scene from Anything Goes"
+      },
+      "showImageOnPlace": false,
+      "duration": 194
+    },
+    {
+      "id": "dance-7N9C2JS9mWc",
+      "label": "03_Marian The Librarian",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "7N9C2JS9mWc",
+      "youtube": "https://www.youtube.com/watch?v=7N9C2JS9mWc",
+      "tooltip": {
+        "description": "Iconic dance scene from 03_Marian The Librarian"
+      },
+      "showImageOnPlace": false,
+      "duration": 156
+    },
+    {
+      "id": "dance-aQyQeOxU6co",
+      "label": "Begin The Beguine",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "aQyQeOxU6co",
+      "youtube": "https://www.youtube.com/watch?v=aQyQeOxU6co",
+      "tooltip": {
+        "description": "Iconic dance scene from Begin The Beguine"
+      },
+      "showImageOnPlace": false,
+      "duration": 87
+    },
+    {
+      "id": "dance-V2aj0zhXlLA",
+      "label": "Glenn Miller",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "V2aj0zhXlLA",
+      "youtube": "https://www.youtube.com/watch?v=V2aj0zhXlLA",
+      "tooltip": {
+        "description": "Iconic dance scene from Glenn Miller"
+      },
+      "showImageOnPlace": false,
+      "duration": 67
+    },
+    {
+      "id": "dance-alDm-qVoO7g",
+      "label": "Debbie Reynolds \"I Wanna Be Loved By You\"",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "alDm-qVoO7g",
+      "youtube": "https://www.youtube.com/watch?v=alDm-qVoO7g",
+      "tooltip": {
+        "description": "Iconic dance scene from Debbie Reynolds \"I Wanna Be Loved By You\""
+      },
+      "showImageOnPlace": false,
+      "duration": 133
+    },
+    {
+      "id": "dance-otlCe0-oFIU",
+      "label": "Gloria DeHaven",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "otlCe0-oFIU",
+      "youtube": "https://www.youtube.com/watch?v=otlCe0-oFIU",
+      "tooltip": {
+        "description": "Iconic dance scene from Gloria DeHaven"
+      },
+      "showImageOnPlace": false,
+      "duration": 226
+    },
+    {
+      "id": "dance-UjW_yvrC0cE",
+      "label": "Triplets",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "UjW_yvrC0cE",
+      "youtube": "https://www.youtube.com/watch?v=UjW_yvrC0cE",
+      "tooltip": {
+        "description": "Iconic dance scene from Triplets"
+      },
+      "showImageOnPlace": false,
+      "duration": 215
+    },
+    {
+      "id": "dance-7kq1JQUhwVQ",
+      "label": "Bing Crosby & Frank Sinatra",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "7kq1JQUhwVQ",
+      "youtube": "https://www.youtube.com/watch?v=7kq1JQUhwVQ",
+      "tooltip": {
+        "description": "Iconic dance scene from Bing Crosby & Frank Sinatra"
+      },
+      "showImageOnPlace": false,
+      "duration": 372
+    },
+    {
+      "id": "dance-H0k4t5yj5M8",
+      "label": "Strike Up the Band Finale (1)",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "H0k4t5yj5M8",
+      "youtube": "https://www.youtube.com/watch?v=H0k4t5yj5M8",
+      "tooltip": {
+        "description": "Iconic dance scene from Strike Up the Band Finale (1)"
+      },
+      "showImageOnPlace": false,
+      "duration": 126
+    },
+    {
+      "id": "dance-8C8z1wUn9A4",
+      "label": "Hi",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "8C8z1wUn9A4",
+      "youtube": "https://www.youtube.com/watch?v=8C8z1wUn9A4",
+      "tooltip": {
+        "description": "Iconic dance scene from Hi"
+      },
+      "showImageOnPlace": false,
+      "duration": 238
+    },
+    {
+      "id": "dance-0C3OxlpoIRI",
+      "label": "Smoke Gets In Your Eyes",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "0C3OxlpoIRI",
+      "youtube": "https://www.youtube.com/watch?v=0C3OxlpoIRI",
+      "tooltip": {
+        "description": "Iconic dance scene from Smoke Gets In Your Eyes"
+      },
+      "showImageOnPlace": false,
+      "duration": 87
+    },
+    {
+      "id": "dance-2hqm1mPrrh8",
+      "label": "[HQ] It's A Most Unusual Day (Finale) (A Date With Judy",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "2hqm1mPrrh8",
+      "youtube": "https://www.youtube.com/watch?v=2hqm1mPrrh8",
+      "tooltip": {
+        "description": "Iconic dance scene from [HQ] It's A Most Unusual Day (Finale) (A Date With Judy"
+      },
+      "showImageOnPlace": false,
+      "duration": 346
+    },
+    {
+      "id": "dance-BqwZ36mHoZU",
+      "label": "JEANETTE MacDONALD & NELSON EDDY sing 'PRETTY AS A PICTURE'.wmv",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "BqwZ36mHoZU",
+      "youtube": "https://www.youtube.com/watch?v=BqwZ36mHoZU",
+      "tooltip": {
+        "description": "Iconic dance scene from JEANETTE MacDONALD & NELSON EDDY sing 'PRETTY AS A PICTURE'.wmv"
+      },
+      "showImageOnPlace": false,
+      "duration": 197
+    },
+    {
+      "id": "dance-PWI9787jkVo",
+      "label": "Lanza and Grayson sing Libiamo... (Traviata)",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "PWI9787jkVo",
+      "youtube": "https://www.youtube.com/watch?v=PWI9787jkVo",
+      "tooltip": {
+        "description": "Iconic dance scene from Lanza and Grayson sing Libiamo... (Traviata)"
+      },
+      "showImageOnPlace": false,
+      "duration": 106
+    },
+    {
+      "id": "dance-7MFJ7ie_yGU",
+      "label": "Baby it's cold outside",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "7MFJ7ie_yGU",
+      "youtube": "https://www.youtube.com/watch?v=7MFJ7ie_yGU",
+      "tooltip": {
+        "description": "Iconic dance scene from Baby it's cold outside"
+      },
+      "showImageOnPlace": false,
+      "duration": 158
+    },
+    {
+      "id": "dance-ieTpurj3tCU",
+      "label": "Lanza and Grayson sing BE MY LOVE for 2 time",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "ieTpurj3tCU",
+      "youtube": "https://www.youtube.com/watch?v=ieTpurj3tCU",
+      "tooltip": {
+        "description": "Iconic dance scene from Lanza and Grayson sing BE MY LOVE for 2 time"
+      },
+      "showImageOnPlace": false,
+      "duration": 71
+    },
+    {
+      "id": "dance-4lakGIwI9u0",
+      "label": "There's No Business Like Show Business",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "4lakGIwI9u0",
+      "youtube": "https://www.youtube.com/watch?v=4lakGIwI9u0",
+      "tooltip": {
+        "description": "Iconic dance scene from There's No Business Like Show Business"
+      },
+      "showImageOnPlace": false,
+      "duration": 450
+    },
+    {
+      "id": "dance-YG6UllZwj9c",
+      "label": "Frank Sinatra",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "YG6UllZwj9c",
+      "youtube": "https://www.youtube.com/watch?v=YG6UllZwj9c",
+      "tooltip": {
+        "description": "Iconic dance scene from Frank Sinatra"
+      },
+      "showImageOnPlace": false,
+      "variants": [
+        {
+          "id": "xTnw_MmVptQ-dance-variant",
+          "videoId": "xTnw_MmVptQ",
+          "youtube": "https://www.youtube.com/watch?v=xTnw_MmVptQ",
+          "sceneDescription": "Frank Sinatra - Old Man River (1946)",
+          "originalTitle": "Frank Sinatra - Old Man River (1946)",
+          "duration": 108
+        }
+      ],
+      "variantCount": 1,
+      "duration": 91
+    },
+    {
+      "id": "dance-Haq_Wdbe9qk",
+      "label": "''Honeysuckle Rose''",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "Haq_Wdbe9qk",
+      "youtube": "https://www.youtube.com/watch?v=Haq_Wdbe9qk",
+      "tooltip": {
+        "description": "Iconic dance scene from ''Honeysuckle Rose''"
+      },
+      "showImageOnPlace": false,
+      "duration": 146
+    },
+    {
+      "id": "dance-RKt54TFrxMc",
+      "label": "Easter Parade | Digital Trailer | Warner Bros. Entertainment",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "RKt54TFrxMc",
+      "youtube": "https://www.youtube.com/watch?v=RKt54TFrxMc",
+      "tooltip": {
+        "description": "Iconic dance scene from Easter Parade | Digital Trailer | Warner Bros. Entertainment"
+      },
+      "showImageOnPlace": false,
+      "duration": 201
+    },
+    {
+      "id": "dance-QvK_gD3ulaw",
+      "label": "Jeanette MacDonald sings 'San Francisco'",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "QvK_gD3ulaw",
+      "youtube": "https://www.youtube.com/watch?v=QvK_gD3ulaw",
+      "tooltip": {
+        "description": "Iconic dance scene from Jeanette MacDonald sings 'San Francisco'"
+      },
+      "showImageOnPlace": false,
+      "duration": 341
+    },
+    {
+      "id": "dance-4H1pn0yI5A8",
+      "label": "Judy Garland Stereo",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "4H1pn0yI5A8",
+      "youtube": "https://www.youtube.com/watch?v=4H1pn0yI5A8",
+      "tooltip": {
+        "description": "Iconic dance scene from Judy Garland Stereo"
+      },
+      "showImageOnPlace": false,
+      "duration": 275
+    },
+    {
+      "id": "dance-0z2ZxP6nSbA",
+      "label": "Gigi from Gigi",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "0z2ZxP6nSbA",
+      "youtube": "https://www.youtube.com/watch?v=0z2ZxP6nSbA",
+      "tooltip": {
+        "description": "Iconic dance scene from Gigi from Gigi"
+      },
+      "showImageOnPlace": false,
+      "duration": 200
+    },
+    {
+      "id": "dance-y2yGab9PII8",
+      "label": "On The Town",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "y2yGab9PII8",
+      "youtube": "https://www.youtube.com/watch?v=y2yGab9PII8",
+      "tooltip": {
+        "description": "Iconic dance scene from On The Town"
+      },
+      "showImageOnPlace": false,
+      "duration": 302
+    },
+    {
+      "id": "dance-Omb2kItC-JY",
+      "label": "'Can't Help Lovin' Dat Man' | Till The Clouds Roll By | Lena Horne ( Print)",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "Omb2kItC-JY",
+      "youtube": "https://www.youtube.com/watch?v=Omb2kItC-JY",
+      "tooltip": {
+        "description": "Iconic dance scene from 'Can't Help Lovin' Dat Man' | Till The Clouds Roll By | Lena Horne ( Print)"
+      },
+      "showImageOnPlace": false,
+      "duration": 210
+    },
+    {
+      "id": "dance-TEaZ5xotL_o",
+      "label": "Tom Dick or Harry",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "TEaZ5xotL_o",
+      "youtube": "https://www.youtube.com/watch?v=TEaZ5xotL_o",
+      "tooltip": {
+        "description": "Iconic dance scene from Tom Dick or Harry"
+      },
+      "showImageOnPlace": false,
+      "duration": 159
+    },
+    {
+      "id": "dance-W3WGkx1MYDQ",
+      "label": "Always True To You In My Fashion",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "W3WGkx1MYDQ",
+      "youtube": "https://www.youtube.com/watch?v=W3WGkx1MYDQ",
+      "tooltip": {
+        "description": "Iconic dance scene from Always True To You In My Fashion"
+      },
+      "showImageOnPlace": false,
+      "duration": 227
+    },
+    {
+      "id": "dance--PMLs4usPDc",
+      "label": "Ann Miller & Ray Bolger Puttin' On the Ritz",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "-PMLs4usPDc",
+      "youtube": "https://www.youtube.com/watch?v=-PMLs4usPDc",
+      "tooltip": {
+        "description": "Iconic dance scene from Ann Miller & Ray Bolger Puttin' On the Ritz"
+      },
+      "showImageOnPlace": false,
+      "duration": 185
+    },
+    {
+      "id": "dance-M6pmZE1Qtyw",
+      "label": "Kansas City",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "M6pmZE1Qtyw",
+      "youtube": "https://www.youtube.com/watch?v=M6pmZE1Qtyw",
+      "tooltip": {
+        "description": "Iconic dance scene from Kansas City"
+      },
+      "showImageOnPlace": false,
+      "duration": 157
+    },
+    {
+      "id": "dance-CWhNTbehIhM",
+      "label": "Lucille Ball",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "CWhNTbehIhM",
+      "youtube": "https://www.youtube.com/watch?v=CWhNTbehIhM",
+      "tooltip": {
+        "description": "Iconic dance scene from Lucille Ball"
+      },
+      "showImageOnPlace": false,
+      "duration": 115
+    },
+    {
+      "id": "dance-xlqdEca3hks",
+      "label": "I Can Do Without You from Calamity Jane",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "xlqdEca3hks",
+      "youtube": "https://www.youtube.com/watch?v=xlqdEca3hks",
+      "tooltip": {
+        "description": "Iconic dance scene from I Can Do Without You from Calamity Jane"
+      },
+      "showImageOnPlace": false,
+      "duration": 172
+    },
+    {
+      "id": "dance-hIsmINWdkVQ",
+      "label": "\"How'd You Like to Spoon With Me?\"",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "hIsmINWdkVQ",
+      "youtube": "https://www.youtube.com/watch?v=hIsmINWdkVQ",
+      "tooltip": {
+        "description": "Iconic dance scene from \"How'd You Like to Spoon With Me?\""
+      },
+      "showImageOnPlace": false,
+      "duration": 84
+    },
+    {
+      "id": "dance-8mq4UT4VnbE",
+      "label": "Cab Calloway",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "8mq4UT4VnbE",
+      "youtube": "https://www.youtube.com/watch?v=8mq4UT4VnbE",
+      "tooltip": {
+        "description": "Iconic dance scene from Cab Calloway"
+      },
+      "showImageOnPlace": false,
+      "duration": 327
+    },
+    {
+      "id": "dance-1wCXr_6wgns",
+      "label": "Bye Bye Birdie",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "1wCXr_6wgns",
+      "youtube": "https://www.youtube.com/watch?v=1wCXr_6wgns",
+      "tooltip": {
+        "description": "Iconic dance scene from Bye Bye Birdie"
+      },
+      "showImageOnPlace": false,
+      "duration": 101
+    },
+    {
+      "id": "dance-G_9R0vrvYa8",
+      "label": "\"Who?\"",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "G_9R0vrvYa8",
+      "youtube": "https://www.youtube.com/watch?v=G_9R0vrvYa8",
+      "tooltip": {
+        "description": "Iconic dance scene from \"Who?\""
+      },
+      "showImageOnPlace": false,
+      "duration": 263
+    },
+    {
+      "id": "dance-9k429BOuUGo",
+      "label": "Doris Day Sings, \"Mean to Me\"",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "9k429BOuUGo",
+      "youtube": "https://www.youtube.com/watch?v=9k429BOuUGo",
+      "tooltip": {
+        "description": "Iconic dance scene from Doris Day Sings, \"Mean to Me\""
+      },
+      "showImageOnPlace": false,
+      "duration": 74
+    },
+    {
+      "id": "dance-qDQpZT3GhDg",
+      "label": "Duke Ellington",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "qDQpZT3GhDg",
+      "youtube": "https://www.youtube.com/watch?v=qDQpZT3GhDg",
+      "tooltip": {
+        "description": "Iconic dance scene from Duke Ellington"
+      },
+      "showImageOnPlace": false,
+      "duration": 330
+    },
+    {
+      "id": "dance-aSmZfnax1yw",
+      "label": "Kiss Me, Kate",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "aSmZfnax1yw",
+      "youtube": "https://www.youtube.com/watch?v=aSmZfnax1yw",
+      "tooltip": {
+        "description": "Iconic dance scene from Kiss Me, Kate"
+      },
+      "showImageOnPlace": false,
+      "duration": 271
+    },
+    {
+      "id": "dance-0IagRZBvLtw",
+      "label": "My Favorite Things from The Sound of Music ( Video)",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "0IagRZBvLtw",
+      "youtube": "https://www.youtube.com/watch?v=0IagRZBvLtw",
+      "tooltip": {
+        "description": "Iconic dance scene from My Favorite Things from The Sound of Music ( Video)"
+      },
+      "showImageOnPlace": false,
+      "duration": 84
+    },
+    {
+      "id": "dance-jITsImZdlMQ",
+      "label": "Do",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "jITsImZdlMQ",
+      "youtube": "https://www.youtube.com/watch?v=jITsImZdlMQ",
+      "tooltip": {
+        "description": "Iconic dance scene from Do"
+      },
+      "showImageOnPlace": false,
+      "duration": 284
+    },
+    {
+      "id": "dance-RfHnzYEHAow",
+      "label": "The Impossible Dream",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "RfHnzYEHAow",
+      "youtube": "https://www.youtube.com/watch?v=RfHnzYEHAow",
+      "tooltip": {
+        "description": "Iconic dance scene from The Impossible Dream"
+      },
+      "showImageOnPlace": false,
+      "duration": 434
+    },
+    {
+      "id": "dance-eh9WayN7R-s",
+      "label": "Paul Robeson",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "eh9WayN7R-s",
+      "youtube": "https://www.youtube.com/watch?v=eh9WayN7R-s",
+      "tooltip": {
+        "description": "Iconic dance scene from Paul Robeson"
+      },
+      "showImageOnPlace": false,
+      "duration": 126
+    },
+    {
+      "id": "dance-KJzwC_8f6nA",
+      "label": "Danny Kaye",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "KJzwC_8f6nA",
+      "youtube": "https://www.youtube.com/watch?v=KJzwC_8f6nA",
+      "tooltip": {
+        "description": "Iconic dance scene from Danny Kaye"
+      },
+      "showImageOnPlace": false,
+      "duration": 171
+    },
+    {
+      "id": "dance-fjtW5fdNNYE",
+      "label": "Gene Nelson",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "fjtW5fdNNYE",
+      "youtube": "https://www.youtube.com/watch?v=fjtW5fdNNYE",
+      "tooltip": {
+        "description": "Iconic dance scene from Gene Nelson"
+      },
+      "showImageOnPlace": false,
+      "duration": 125
+    },
+    {
+      "id": "dance-c58AAcnaPTo",
+      "label": "Cabin in the Sky",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "c58AAcnaPTo",
+      "youtube": "https://www.youtube.com/watch?v=c58AAcnaPTo",
+      "tooltip": {
+        "description": "Iconic dance scene from Cabin in the Sky"
+      },
+      "showImageOnPlace": false,
+      "duration": 182
+    },
+    {
+      "id": "dance-GibiNy4d4gc",
+      "label": "Carmen Twillie, Lebo M.",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "GibiNy4d4gc",
+      "youtube": "https://www.youtube.com/watch?v=GibiNy4d4gc",
+      "tooltip": {
+        "description": "Iconic dance scene from Carmen Twillie, Lebo M."
+      },
+      "showImageOnPlace": false,
+      "duration": 149
+    },
+    {
+      "id": "dance-GC_mV1IpjWA",
+      "label": "The Little Mermaid",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "GC_mV1IpjWA",
+      "youtube": "https://www.youtube.com/watch?v=GC_mV1IpjWA",
+      "tooltip": {
+        "description": "Iconic dance scene from The Little Mermaid"
+      },
+      "showImageOnPlace": false,
+      "duration": 114
+    },
+    {
+      "id": "dance-08NlhjpVFsU",
+      "label": "The Bare Necessities (from The Jungle Book)",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "08NlhjpVFsU",
+      "youtube": "https://www.youtube.com/watch?v=08NlhjpVFsU",
+      "tooltip": {
+        "description": "Iconic dance scene from The Bare Necessities (from The Jungle Book)"
+      },
+      "showImageOnPlace": false,
+      "duration": 85
+    },
+    {
+      "id": "dance-jURRsAMGuZk",
+      "label": "Cars Life is a Highway",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "jURRsAMGuZk",
+      "youtube": "https://www.youtube.com/watch?v=jURRsAMGuZk",
+      "tooltip": {
+        "description": "Iconic dance scene from Cars Life is a Highway"
+      },
+      "showImageOnPlace": false,
+      "duration": 178
+    },
+    {
+      "id": "dance-TXbHShUnwxY",
+      "label": "An Unusual Prince/Once Upon a Dream (From \"Sleeping Beauty\")",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "TXbHShUnwxY",
+      "youtube": "https://www.youtube.com/watch?v=TXbHShUnwxY",
+      "tooltip": {
+        "description": "Iconic dance scene from An Unusual Prince/Once Upon a Dream (From \"Sleeping Beauty\")"
+      },
+      "showImageOnPlace": false,
+      "duration": 148
+    },
+    {
+      "id": "dance-L0MK7qz13bU",
+      "label": "FROZEN | Let It Go Sing",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "L0MK7qz13bU",
+      "youtube": "https://www.youtube.com/watch?v=L0MK7qz13bU",
+      "tooltip": {
+        "description": "Iconic dance scene from FROZEN | Let It Go Sing"
+      },
+      "showImageOnPlace": false,
+      "duration": 309
+    },
+    {
+      "id": "dance-zgnHF2CwrPs",
+      "label": "Hercules | I can Go The Distance 720p",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "zgnHF2CwrPs",
+      "youtube": "https://www.youtube.com/watch?v=zgnHF2CwrPs",
+      "tooltip": {
+        "description": "Iconic dance scene from Hercules | I can Go The Distance 720p"
+      },
+      "showImageOnPlace": false,
+      "duration": 234
+    },
+    {
+      "id": "dance-mIwa9sPFT5I",
+      "label": "Whistle While You Work",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "mIwa9sPFT5I",
+      "youtube": "https://www.youtube.com/watch?v=mIwa9sPFT5I",
+      "tooltip": {
+        "description": "Iconic dance scene from Whistle While You Work"
+      },
+      "showImageOnPlace": false,
+      "duration": 471
+    },
+    {
+      "id": "dance-SXKlJuO07eM",
+      "label": "Jodi Benson",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "SXKlJuO07eM",
+      "youtube": "https://www.youtube.com/watch?v=SXKlJuO07eM",
+      "tooltip": {
+        "description": "Iconic dance scene from Jodi Benson"
+      },
+      "showImageOnPlace": false,
+      "duration": 314
+    },
+    {
+      "id": "dance-25QyCxVkXwQ",
+      "label": "The Lion King",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "25QyCxVkXwQ",
+      "youtube": "https://www.youtube.com/watch?v=25QyCxVkXwQ",
+      "tooltip": {
+        "description": "Iconic dance scene from The Lion King"
+      },
+      "showImageOnPlace": false,
+      "duration": 466
+    },
+    {
+      "id": "dance-VNKuARjkWEg",
+      "label": "Bibbidi",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "VNKuARjkWEg",
+      "youtube": "https://www.youtube.com/watch?v=VNKuARjkWEg",
+      "tooltip": {
+        "description": "Iconic dance scene from Bibbidi"
+      },
+      "showImageOnPlace": false,
+      "duration": 266
+    },
+    {
+      "id": "dance-HI0x0KYChq4",
+      "label": "Heigh Ho",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "HI0x0KYChq4",
+      "youtube": "https://www.youtube.com/watch?v=HI0x0KYChq4",
+      "tooltip": {
+        "description": "Iconic dance scene from Heigh Ho"
+      },
+      "showImageOnPlace": false,
+      "duration": 331
+    },
+    {
+      "id": "dance-MRhnWA84qwc",
+      "label": "If I Didn't Have You (from Monsters, Inc.)",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "MRhnWA84qwc",
+      "youtube": "https://www.youtube.com/watch?v=MRhnWA84qwc",
+      "tooltip": {
+        "description": "Iconic dance scene from If I Didn't Have You (from Monsters, Inc.)"
+      },
+      "showImageOnPlace": false,
+      "duration": 234
+    },
+    {
+      "id": "dance-1_BtlAw4trg",
+      "label": "Mulan",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "1_BtlAw4trg",
+      "youtube": "https://www.youtube.com/watch?v=1_BtlAw4trg",
+      "tooltip": {
+        "description": "Iconic dance scene from Mulan"
+      },
+      "showImageOnPlace": false,
+      "variants": [
+        {
+          "id": "j9MfuWSQoWc-dance-variant",
+          "videoId": "j9MfuWSQoWc",
+          "youtube": "https://www.youtube.com/watch?v=j9MfuWSQoWc",
+          "sceneDescription": "Mulan- I'll Make A Man Out of You (FULL HD)",
+          "originalTitle": "Mulan- I'll Make A Man Out of You (FULL HD)",
+          "duration": 74
+        },
+        {
+          "id": "fO263dPKqns-dance-variant",
+          "videoId": "fO263dPKqns",
+          "youtube": "https://www.youtube.com/watch?v=fO263dPKqns",
+          "sceneDescription": "Mulan- Honor to Us All Clip (HD)",
+          "originalTitle": "Mulan- Honor to Us All Clip (HD)",
+          "duration": 290
+        }
+      ],
+      "variantCount": 2,
+      "duration": 155
+    },
+    {
+      "id": "dance-O297xF_tsds",
+      "label": "Married Life",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "O297xF_tsds",
+      "youtube": "https://www.youtube.com/watch?v=O297xF_tsds",
+      "tooltip": {
+        "description": "Iconic dance scene from Married Life"
+      },
+      "showImageOnPlace": false,
+      "duration": 172
+    },
+    {
+      "id": "dance-fbHbRipzRgE",
+      "label": "Our Town (from Cars)",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "fbHbRipzRgE",
+      "youtube": "https://www.youtube.com/watch?v=fbHbRipzRgE",
+      "tooltip": {
+        "description": "Iconic dance scene from Our Town (from Cars)"
+      },
+      "showImageOnPlace": false,
+      "duration": 352
+    },
+    {
+      "id": "dance-Tl0DMTlwLw4",
+      "label": "Hercules",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "Tl0DMTlwLw4",
+      "youtube": "https://www.youtube.com/watch?v=Tl0DMTlwLw4",
+      "tooltip": {
+        "description": "Iconic dance scene from Hercules"
+      },
+      "showImageOnPlace": false,
+      "variants": [
+        {
+          "id": "qokXWHEViVc-dance-variant",
+          "videoId": "qokXWHEViVc",
+          "youtube": "https://www.youtube.com/watch?v=qokXWHEViVc",
+          "sceneDescription": "Hercules - A star is born (english) HD",
+          "originalTitle": "Hercules - A star is born (english) HD",
+          "duration": 91
+        }
+      ],
+      "variantCount": 1,
+      "duration": 315
+    },
+    {
+      "id": "dance-w1ht2WHkBM0",
+      "label": "Le Festin (from Ratatouille)",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "w1ht2WHkBM0",
+      "youtube": "https://www.youtube.com/watch?v=w1ht2WHkBM0",
+      "tooltip": {
+        "description": "Iconic dance scene from Le Festin (from Ratatouille)"
+      },
+      "showImageOnPlace": false,
+      "duration": 131
+    },
+    {
+      "id": "dance-p1I2HqXIMRo",
+      "label": "DuckTales Theme Song (HQ)",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "p1I2HqXIMRo",
+      "youtube": "https://www.youtube.com/watch?v=p1I2HqXIMRo",
+      "tooltip": {
+        "description": "Iconic dance scene from DuckTales Theme Song (HQ)"
+      },
+      "showImageOnPlace": false,
+      "duration": 79
+    },
+    {
+      "id": "dance-vddEvqS6M4o",
+      "label": "Toy Story | I will Go Sailing No More 720p",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "vddEvqS6M4o",
+      "youtube": "https://www.youtube.com/watch?v=vddEvqS6M4o",
+      "tooltip": {
+        "description": "Iconic dance scene from Toy Story | I will Go Sailing No More 720p"
+      },
+      "showImageOnPlace": false,
+      "duration": 267
+    },
+    {
+      "id": "dance-FaIbELk8Tzg",
+      "label": "Tarzan Phil Collins",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "FaIbELk8Tzg",
+      "youtube": "https://www.youtube.com/watch?v=FaIbELk8Tzg",
+      "tooltip": {
+        "description": "Iconic dance scene from Tarzan Phil Collins"
+      },
+      "showImageOnPlace": false,
+      "duration": 179
+    },
+    {
+      "id": "dance-Jb7kJ-j_dKA",
+      "label": "Oliver And Company",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "Jb7kJ-j_dKA",
+      "youtube": "https://www.youtube.com/watch?v=Jb7kJ-j_dKA",
+      "tooltip": {
+        "description": "Iconic dance scene from Oliver And Company"
+      },
+      "showImageOnPlace": false,
+      "variants": [
+        {
+          "id": "-M6UYwaYRqw-dance-variant",
+          "videoId": "-M6UYwaYRqw",
+          "youtube": "https://www.youtube.com/watch?v=-M6UYwaYRqw",
+          "sceneDescription": "Oliver And Company - Perfect Isn't Easy (English)",
+          "originalTitle": "Oliver And Company - Perfect Isn't Easy (English)",
+          "duration": 199
+        }
+      ],
+      "variantCount": 1,
+      "duration": 142
+    },
+    {
+      "id": "dance-Ojso-lIQm1M",
+      "label": "When She Loved Me (from Toy Story 2)",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "Ojso-lIQm1M",
+      "youtube": "https://www.youtube.com/watch?v=Ojso-lIQm1M",
+      "tooltip": {
+        "description": "Iconic dance scene from When She Loved Me (from Toy Story 2)"
+      },
+      "showImageOnPlace": false,
+      "duration": 140
+    },
+    {
+      "id": "dance-CLnADKgurvc",
+      "label": "winnie the pooh heffalumps and woozles song",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "CLnADKgurvc",
+      "youtube": "https://www.youtube.com/watch?v=CLnADKgurvc",
+      "tooltip": {
+        "description": "Iconic dance scene from winnie the pooh heffalumps and woozles song"
+      },
+      "showImageOnPlace": false,
+      "duration": 227
+    },
+    {
+      "id": "dance-ovhdfa1sUoM",
+      "label": "Belle's Song \"Little Town\"",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "ovhdfa1sUoM",
+      "youtube": "https://www.youtube.com/watch?v=ovhdfa1sUoM",
+      "tooltip": {
+        "description": "Iconic dance scene from Belle's Song \"Little Town\""
+      },
+      "showImageOnPlace": false,
+      "duration": 210
+    },
+    {
+      "id": "dance-lIYL-PQa010",
+      "label": "Aladdin",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "lIYL-PQa010",
+      "youtube": "https://www.youtube.com/watch?v=lIYL-PQa010",
+      "tooltip": {
+        "description": "Iconic dance scene from Aladdin"
+      },
+      "showImageOnPlace": false,
+      "variants": [
+        {
+          "id": "fcTC7RkmHac-dance-variant",
+          "videoId": "fcTC7RkmHac",
+          "youtube": "https://www.youtube.com/watch?v=fcTC7RkmHac",
+          "sceneDescription": "Aladdin-One Jump Ahead HD (1080p)",
+          "originalTitle": "Aladdin-One Jump Ahead HD (1080p)",
+          "duration": 72
+        }
+      ],
+      "variantCount": 1,
+      "duration": 214
+    },
+    {
+      "id": "dance-N2B5hzGeCWY",
+      "label": "The Work Song (from Cinderella)",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "N2B5hzGeCWY",
+      "youtube": "https://www.youtube.com/watch?v=N2B5hzGeCWY",
+      "tooltip": {
+        "description": "Iconic dance scene from The Work Song (from Cinderella)"
+      },
+      "showImageOnPlace": false,
+      "duration": 213
+    },
+    {
+      "id": "dance-bsOwYw9TkJM",
+      "label": "I'm Still Here",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "bsOwYw9TkJM",
+      "youtube": "https://www.youtube.com/watch?v=bsOwYw9TkJM",
+      "tooltip": {
+        "description": "Iconic dance scene from I'm Still Here"
+      },
+      "showImageOnPlace": false,
+      "duration": 113
+    },
+    {
+      "id": "dance-EchU-2S4SwA",
+      "label": "Finding Nemo",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "EchU-2S4SwA",
+      "youtube": "https://www.youtube.com/watch?v=EchU-2S4SwA",
+      "tooltip": {
+        "description": "Iconic dance scene from Finding Nemo"
+      },
+      "showImageOnPlace": false,
+      "duration": 176
+    },
+    {
+      "id": "dance-U3NoDEu7kpg",
+      "label": "The hunchback of notre dame",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "U3NoDEu7kpg",
+      "youtube": "https://www.youtube.com/watch?v=U3NoDEu7kpg",
+      "tooltip": {
+        "description": "Iconic dance scene from The hunchback of notre dame"
+      },
+      "showImageOnPlace": false,
+      "duration": 154
+    },
+    {
+      "id": "dance-nUv387M7vUU",
+      "label": "The Time of Your Life (from A Bug's Life)",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "nUv387M7vUU",
+      "youtube": "https://www.youtube.com/watch?v=nUv387M7vUU",
+      "tooltip": {
+        "description": "Iconic dance scene from The Time of Your Life (from A Bug's Life)"
+      },
+      "showImageOnPlace": false,
+      "duration": 133
+    },
+    {
+      "id": "dance-bcGU8OUXCDE",
+      "label": "Robin Hood Oo De Lally",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "bcGU8OUXCDE",
+      "youtube": "https://www.youtube.com/watch?v=bcGU8OUXCDE",
+      "tooltip": {
+        "description": "Iconic dance scene from Robin Hood Oo De Lally"
+      },
+      "showImageOnPlace": false,
+      "duration": 121
+    },
+    {
+      "id": "dance-97QkO7nAn68",
+      "label": "Disney's Gummi Bears",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "97QkO7nAn68",
+      "youtube": "https://www.youtube.com/watch?v=97QkO7nAn68",
+      "tooltip": {
+        "description": "Iconic dance scene from Disney's Gummi Bears"
+      },
+      "showImageOnPlace": false,
+      "duration": 264
+    },
+    {
+      "id": "dance-nXpB1rixnPQ",
+      "label": "Lilo & Stitch",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "nXpB1rixnPQ",
+      "youtube": "https://www.youtube.com/watch?v=nXpB1rixnPQ",
+      "tooltip": {
+        "description": "Iconic dance scene from Lilo & Stitch"
+      },
+      "showImageOnPlace": false,
+      "duration": 317
+    },
+    {
+      "id": "dance-z7PjTIG47kQ",
+      "label": "Wreck",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "z7PjTIG47kQ",
+      "youtube": "https://www.youtube.com/watch?v=z7PjTIG47kQ",
+      "tooltip": {
+        "description": "Iconic dance scene from Wreck"
+      },
+      "showImageOnPlace": false,
+      "duration": 84
+    },
+    {
+      "id": "dance-4rrXR6n0RTY",
+      "label": "The Aristocats",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "4rrXR6n0RTY",
+      "youtube": "https://www.youtube.com/watch?v=4rrXR6n0RTY",
+      "tooltip": {
+        "description": "Iconic dance scene from The Aristocats"
+      },
+      "showImageOnPlace": false,
+      "duration": 180
+    },
+    {
+      "id": "dance-tqaHBfBSSuc",
+      "label": "Monsters, Inc. \"Put that thing back where it came from, or so help me!\"",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "tqaHBfBSSuc",
+      "youtube": "https://www.youtube.com/watch?v=tqaHBfBSSuc",
+      "tooltip": {
+        "description": "Iconic dance scene from Monsters, Inc. \"Put that thing back where it came from, or so help me!\""
+      },
+      "showImageOnPlace": false,
+      "duration": 181
+    },
+    {
+      "id": "dance-BMfzPbONyVA",
+      "label": "Meet The Robinsons",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "BMfzPbONyVA",
+      "youtube": "https://www.youtube.com/watch?v=BMfzPbONyVA",
+      "tooltip": {
+        "description": "Iconic dance scene from Meet The Robinsons"
+      },
+      "showImageOnPlace": false,
+      "duration": 83
+    },
+    {
+      "id": "dance-saa98l0yDYQ",
+      "label": "Bambi",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "saa98l0yDYQ",
+      "youtube": "https://www.youtube.com/watch?v=saa98l0yDYQ",
+      "tooltip": {
+        "description": "Iconic dance scene from Bambi"
+      },
+      "showImageOnPlace": false,
+      "duration": 140
+    },
+    {
+      "id": "dance-wZtLswP69LQ",
+      "label": "Dumbo",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "wZtLswP69LQ",
+      "youtube": "https://www.youtube.com/watch?v=wZtLswP69LQ",
+      "tooltip": {
+        "description": "Iconic dance scene from Dumbo"
+      },
+      "showImageOnPlace": false,
+      "duration": 311
+    },
+    {
+      "id": "dance-YIQjw3U4aMY",
+      "label": "Jenny Lewis",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "YIQjw3U4aMY",
+      "youtube": "https://www.youtube.com/watch?v=YIQjw3U4aMY",
+      "tooltip": {
+        "description": "Iconic dance scene from Jenny Lewis"
+      },
+      "showImageOnPlace": false,
+      "duration": 114
+    },
+    {
+      "id": "dance-6-N0YZkZ1gs",
+      "label": "John Mayer",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "6-N0YZkZ1gs",
+      "youtube": "https://www.youtube.com/watch?v=6-N0YZkZ1gs",
+      "tooltip": {
+        "description": "Iconic dance scene from John Mayer"
+      },
+      "showImageOnPlace": false,
+      "duration": 204
+    },
+    {
+      "id": "dance-1N_HGEeyyrk",
+      "label": "Pete's Dragon",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "1N_HGEeyyrk",
+      "youtube": "https://www.youtube.com/watch?v=1N_HGEeyyrk",
+      "tooltip": {
+        "description": "Iconic dance scene from Pete's Dragon"
+      },
+      "showImageOnPlace": false,
+      "duration": 193
+    },
+    {
+      "id": "dance-yy5THitqPBw",
+      "label": "Jessica Rabbit",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "yy5THitqPBw",
+      "youtube": "https://www.youtube.com/watch?v=yy5THitqPBw",
+      "tooltip": {
+        "description": "Iconic dance scene from Jessica Rabbit"
+      },
+      "showImageOnPlace": false,
+      "duration": 146
+    },
+    {
+      "id": "dance-e2IctxaCPqw",
+      "label": "Let Me Be Good To You",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "e2IctxaCPqw",
+      "youtube": "https://www.youtube.com/watch?v=e2IctxaCPqw",
+      "tooltip": {
+        "description": "Iconic dance scene from Let Me Be Good To You"
+      },
+      "showImageOnPlace": false,
+      "duration": 121
+    },
+    {
+      "id": "dance-yRET1vsfiJM",
+      "label": "The Aristocats: Thomas O'Malley",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "yRET1vsfiJM",
+      "youtube": "https://www.youtube.com/watch?v=yRET1vsfiJM",
+      "tooltip": {
+        "description": "Iconic dance scene from The Aristocats: Thomas O'Malley"
+      },
+      "showImageOnPlace": false,
+      "duration": 332
+    },
+    {
+      "id": "dance-CFpZSND3DYM",
+      "label": "TaleSpin",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "CFpZSND3DYM",
+      "youtube": "https://www.youtube.com/watch?v=CFpZSND3DYM",
+      "tooltip": {
+        "description": "Iconic dance scene from TaleSpin"
+      },
+      "showImageOnPlace": false,
+      "duration": 122
+    },
+    {
+      "id": "dance-DyDjpGzdNE4",
+      "label": "We Belong Together",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "DyDjpGzdNE4",
+      "youtube": "https://www.youtube.com/watch?v=DyDjpGzdNE4",
+      "tooltip": {
+        "description": "Iconic dance scene from We Belong Together"
+      },
+      "showImageOnPlace": false,
+      "duration": 149
+    },
+    {
+      "id": "dance-4DE5a80I8EU",
+      "label": "Pocahontas",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "4DE5a80I8EU",
+      "youtube": "https://www.youtube.com/watch?v=4DE5a80I8EU",
+      "tooltip": {
+        "description": "Iconic dance scene from Pocahontas"
+      },
+      "showImageOnPlace": false,
+      "duration": 309
+    },
+    {
+      "id": "dance-6Lm3Guw_UN0",
+      "label": "Sting",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "6Lm3Guw_UN0",
+      "youtube": "https://www.youtube.com/watch?v=6Lm3Guw_UN0",
+      "tooltip": {
+        "description": "Iconic dance scene from Sting"
+      },
+      "showImageOnPlace": false,
+      "duration": 155
+    },
+    {
+      "id": "dance-uh4dTLJ9q9o",
+      "label": "Disney Music",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "uh4dTLJ9q9o",
+      "youtube": "https://www.youtube.com/watch?v=uh4dTLJ9q9o",
+      "tooltip": {
+        "description": "Iconic dance scene from Disney Music"
+      },
+      "showImageOnPlace": false,
+      "duration": 111
+    },
+    {
+      "id": "dance-yIwUjrvaXjM",
+      "label": "[] He Mele No Lilo",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "yIwUjrvaXjM",
+      "youtube": "https://www.youtube.com/watch?v=yIwUjrvaXjM",
+      "tooltip": {
+        "description": "Iconic dance scene from [] He Mele No Lilo"
+      },
+      "showImageOnPlace": false,
+      "duration": 216
+    },
+    {
+      "id": "dance-IxznGHxP5tY",
+      "label": "Brother Bear",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "IxznGHxP5tY",
+      "youtube": "https://www.youtube.com/watch?v=IxznGHxP5tY",
+      "tooltip": {
+        "description": "Iconic dance scene from Brother Bear"
+      },
+      "showImageOnPlace": false,
+      "variants": [
+        {
+          "id": "d3tLOIvwDzs-dance-variant",
+          "videoId": "d3tLOIvwDzs",
+          "youtube": "https://www.youtube.com/watch?v=d3tLOIvwDzs",
+          "sceneDescription": "Brother Bear - No Way Out (English Blu-Ray Version) [HD]",
+          "originalTitle": "Brother Bear - No Way Out (English Blu-Ray Version) [HD]",
+          "duration": 279
+        }
+      ],
+      "variantCount": 1,
+      "duration": 119
+    },
+    {
+      "id": "dance-iL2Wm-PcfPo",
+      "label": "A Very Merry Unbirtay to You",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "iL2Wm-PcfPo",
+      "youtube": "https://www.youtube.com/watch?v=iL2Wm-PcfPo",
+      "tooltip": {
+        "description": "Iconic dance scene from A Very Merry Unbirtay to You"
+      },
+      "showImageOnPlace": false,
+      "duration": 238
+    },
+    {
+      "id": "dance-5BwTJyL8XGc",
+      "label": "Peter Pan 2 Return to Neverland",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "5BwTJyL8XGc",
+      "youtube": "https://www.youtube.com/watch?v=5BwTJyL8XGc",
+      "tooltip": {
+        "description": "Iconic dance scene from Peter Pan 2 Return to Neverland"
+      },
+      "showImageOnPlace": false,
+      "duration": 173
+    },
+    {
+      "id": "dance-sb3tHsCLWsI",
+      "label": "The Muppets",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "sb3tHsCLWsI",
+      "youtube": "https://www.youtube.com/watch?v=sb3tHsCLWsI",
+      "tooltip": {
+        "description": "Iconic dance scene from The Muppets"
+      },
+      "showImageOnPlace": false,
+      "variants": [
+        {
+          "id": "H4g4oV8lK4s-dance-variant",
+          "videoId": "H4g4oV8lK4s",
+          "youtube": "https://www.youtube.com/watch?v=H4g4oV8lK4s",
+          "sceneDescription": "The Muppets - I'll Get You What You Want (Cockatoo In Malibu) (from \"Muppets Most Wanted\")",
+          "originalTitle": "The Muppets - I'll Get You What You Want (Cockatoo In Malibu) (from \"Muppets Most Wanted\")",
+          "duration": 215
+        }
+      ],
+      "variantCount": 1,
+      "duration": 179
+    },
+    {
+      "id": "dance-V-zXT5bIBM0",
+      "label": "Frozen",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "V-zXT5bIBM0",
+      "youtube": "https://www.youtube.com/watch?v=V-zXT5bIBM0",
+      "tooltip": {
+        "description": "Iconic dance scene from Frozen"
+      },
+      "showImageOnPlace": false,
+      "variants": [
+        {
+          "id": "SmE1Q9qClyg-dance-variant",
+          "videoId": "SmE1Q9qClyg",
+          "youtube": "https://www.youtube.com/watch?v=SmE1Q9qClyg",
+          "sceneDescription": "Frozen - For The First Time in Forever Reprise (Full HD 1080p)",
+          "originalTitle": "Frozen - For The First Time in Forever Reprise (Full HD 1080p)",
+          "duration": 359
+        }
+      ],
+      "variantCount": 1,
+      "duration": 293
+    },
+    {
+      "id": "dance-dJFyz73MRcg",
+      "label": "The Wonderful Thing About Tiggers (Sing Along Songs)",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "dJFyz73MRcg",
+      "youtube": "https://www.youtube.com/watch?v=dJFyz73MRcg",
+      "tooltip": {
+        "description": "Iconic dance scene from The Wonderful Thing About Tiggers (Sing Along Songs)"
+      },
+      "showImageOnPlace": false,
+      "duration": 248
+    },
+    {
+      "id": "dance-80Q_r50ardI",
+      "label": "Darkwing Duck Intro",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "80Q_r50ardI",
+      "youtube": "https://www.youtube.com/watch?v=80Q_r50ardI",
+      "tooltip": {
+        "description": "Iconic dance scene from Darkwing Duck Intro"
+      },
+      "showImageOnPlace": false,
+      "duration": 170
+    },
+    {
+      "id": "dance-ZMa4azcmS-4",
+      "label": "Dig a Little Deeper (from The Princess and The Frog)",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "ZMa4azcmS-4",
+      "youtube": "https://www.youtube.com/watch?v=ZMa4azcmS-4",
+      "tooltip": {
+        "description": "Iconic dance scene from Dig a Little Deeper (from The Princess and The Frog)"
+      },
+      "showImageOnPlace": false,
+      "duration": 235
+    },
+    {
+      "id": "dance-h_eK42Sw7DY",
+      "label": "Woody's Roundup (from Toy Story 2)",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "h_eK42Sw7DY",
+      "youtube": "https://www.youtube.com/watch?v=h_eK42Sw7DY",
+      "tooltip": {
+        "description": "Iconic dance scene from Woody's Roundup (from Toy Story 2)"
+      },
+      "showImageOnPlace": false,
+      "duration": 233
+    },
+    {
+      "id": "dance-ljdAYTH5QSY",
+      "label": "Almost there, Princess and the Frog",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "ljdAYTH5QSY",
+      "youtube": "https://www.youtube.com/watch?v=ljdAYTH5QSY",
+      "tooltip": {
+        "description": "Iconic dance scene from Almost there, Princess and the Frog"
+      },
+      "showImageOnPlace": false,
+      "duration": 205
+    },
+    {
+      "id": "dance-PKYEKhxWy6o",
+      "label": "Disneys Robin Hood Intro",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "PKYEKhxWy6o",
+      "youtube": "https://www.youtube.com/watch?v=PKYEKhxWy6o",
+      "tooltip": {
+        "description": "Iconic dance scene from Disneys Robin Hood Intro"
+      },
+      "showImageOnPlace": false,
+      "duration": 94
+    },
+    {
+      "id": "dance-nPImqZo0D74",
+      "label": "Love is an Open Door",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "nPImqZo0D74",
+      "youtube": "https://www.youtube.com/watch?v=nPImqZo0D74",
+      "tooltip": {
+        "description": "Iconic dance scene from Love is an Open Door"
+      },
+      "showImageOnPlace": false,
+      "duration": 226
+    },
+    {
+      "id": "dance-t5wNX_mIraA",
+      "label": "Goof Troop Intro [HQ]",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "t5wNX_mIraA",
+      "youtube": "https://www.youtube.com/watch?v=t5wNX_mIraA",
+      "tooltip": {
+        "description": "Iconic dance scene from Goof Troop Intro [HQ]"
+      },
+      "showImageOnPlace": false,
+      "duration": 199
+    },
+    {
+      "id": "dance-V88Sud73sRo",
+      "label": "Pepper Ann Intro",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "V88Sud73sRo",
+      "youtube": "https://www.youtube.com/watch?v=V88Sud73sRo",
+      "tooltip": {
+        "description": "Iconic dance scene from Pepper Ann Intro"
+      },
+      "showImageOnPlace": false,
+      "duration": 107
+    },
+    {
+      "id": "dance-g00kEcGh4j8",
+      "label": "Friends on the Other Side",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "g00kEcGh4j8",
+      "youtube": "https://www.youtube.com/watch?v=g00kEcGh4j8",
+      "tooltip": {
+        "description": "Iconic dance scene from Friends on the Other Side"
+      },
+      "showImageOnPlace": false,
+      "duration": 354
+    },
+    {
+      "id": "dance-79DijItQXMM",
+      "label": "Dwayne Johnson",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "79DijItQXMM",
+      "youtube": "https://www.youtube.com/watch?v=79DijItQXMM",
+      "tooltip": {
+        "description": "Iconic dance scene from Dwayne Johnson"
+      },
+      "showImageOnPlace": false,
+      "duration": 212
+    },
+    {
+      "id": "dance-w_h2VHtFNa4",
+      "label": "Disney's Doug Intro (HQ)",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "w_h2VHtFNa4",
+      "youtube": "https://www.youtube.com/watch?v=w_h2VHtFNa4",
+      "tooltip": {
+        "description": "Iconic dance scene from Disney's Doug Intro (HQ)"
+      },
+      "showImageOnPlace": false,
+      "duration": 128
+    },
+    {
+      "id": "dance-cPAbx5kgCJo",
+      "label": "Auli'i Cravalho",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "cPAbx5kgCJo",
+      "youtube": "https://www.youtube.com/watch?v=cPAbx5kgCJo",
+      "tooltip": {
+        "description": "Iconic dance scene from Auli'i Cravalho"
+      },
+      "showImageOnPlace": false,
+      "duration": 458
+    },
+    {
+      "id": "dance-I4AR-eBF9G4",
+      "label": "Real Gone (from Cars)",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "I4AR-eBF9G4",
+      "youtube": "https://www.youtube.com/watch?v=I4AR-eBF9G4",
+      "tooltip": {
+        "description": "Iconic dance scene from Real Gone (from Cars)"
+      },
+      "showImageOnPlace": false,
+      "duration": 207
+    },
+    {
+      "id": "dance-zObiglKZKZc",
+      "label": "Disney's Recess (Opening Theme)",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "zObiglKZKZc",
+      "youtube": "https://www.youtube.com/watch?v=zObiglKZKZc",
+      "tooltip": {
+        "description": "Iconic dance scene from Disney's Recess (Opening Theme)"
+      },
+      "showImageOnPlace": false,
+      "duration": 105
+    },
+    {
+      "id": "dance-93lrosBEW-Q",
+      "label": "Jemaine Clement",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "93lrosBEW-Q",
+      "youtube": "https://www.youtube.com/watch?v=93lrosBEW-Q",
+      "tooltip": {
+        "description": "Iconic dance scene from Jemaine Clement"
+      },
+      "showImageOnPlace": false,
+      "duration": 257
+    },
+    {
+      "id": "dance-5Oni8_k5twU",
+      "label": "Belle (Reprise)",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "5Oni8_k5twU",
+      "youtube": "https://www.youtube.com/watch?v=5Oni8_k5twU",
+      "tooltip": {
+        "description": "Iconic dance scene from Belle (Reprise)"
+      },
+      "showImageOnPlace": false,
+      "duration": 212
+    },
+    {
+      "id": "dance-7Zh-0dRS-4U",
+      "label": "Disney's Tangled/Rapunzel",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "7Zh-0dRS-4U",
+      "youtube": "https://www.youtube.com/watch?v=7Zh-0dRS-4U",
+      "tooltip": {
+        "description": "Iconic dance scene from Disney's Tangled/Rapunzel"
+      },
+      "showImageOnPlace": false,
+      "duration": 421
+    },
+    {
+      "id": "dance-SkTCDnxRxEw",
+      "label": "Disney's \"Snow White and the Seven Dwarfs\"",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "SkTCDnxRxEw",
+      "youtube": "https://www.youtube.com/watch?v=SkTCDnxRxEw",
+      "tooltip": {
+        "description": "Iconic dance scene from Disney's \"Snow White and the Seven Dwarfs\""
+      },
+      "showImageOnPlace": false,
+      "duration": 125
+    },
+    {
+      "id": "dance-cJLslzazfIc",
+      "label": "The Little Mermaid OST",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "cJLslzazfIc",
+      "youtube": "https://www.youtube.com/watch?v=cJLslzazfIc",
+      "tooltip": {
+        "description": "Iconic dance scene from The Little Mermaid OST"
+      },
+      "showImageOnPlace": false,
+      "duration": 93
+    },
+    {
+      "id": "dance-iVXSfgAnxkk",
+      "label": "Toy Story soundtrack",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "iVXSfgAnxkk",
+      "youtube": "https://www.youtube.com/watch?v=iVXSfgAnxkk",
+      "tooltip": {
+        "description": "Iconic dance scene from Toy Story soundtrack"
+      },
+      "showImageOnPlace": false,
+      "duration": 103
+    },
+    {
+      "id": "dance-0oyxywZJsIs",
+      "label": "Pinocchio OST",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "0oyxywZJsIs",
+      "youtube": "https://www.youtube.com/watch?v=0oyxywZJsIs",
+      "tooltip": {
+        "description": "Iconic dance scene from Pinocchio OST"
+      },
+      "showImageOnPlace": false,
+      "duration": 354
+    },
+    {
+      "id": "dance-Gkj2QeogAsU",
+      "label": "08 The Sorcerer's Apprentice [Paul Dukas]",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "Gkj2QeogAsU",
+      "youtube": "https://www.youtube.com/watch?v=Gkj2QeogAsU",
+      "tooltip": {
+        "description": "Iconic dance scene from 08 The Sorcerer's Apprentice [Paul Dukas]"
+      },
+      "showImageOnPlace": false,
+      "duration": 81
+    },
+    {
+      "id": "dance-v_U4in8WeS0",
+      "label": "Lion King Soundtrack",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "v_U4in8WeS0",
+      "youtube": "https://www.youtube.com/watch?v=v_U4in8WeS0",
+      "tooltip": {
+        "description": "Iconic dance scene from Lion King Soundtrack"
+      },
+      "showImageOnPlace": false,
+      "duration": 64
+    },
+    {
+      "id": "dance-o-lKs6G3hhM",
+      "label": "Dumbo OST",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "o-lKs6G3hhM",
+      "youtube": "https://www.youtube.com/watch?v=o-lKs6G3hhM",
+      "tooltip": {
+        "description": "Iconic dance scene from Dumbo OST"
+      },
+      "showImageOnPlace": false,
+      "duration": 73
+    },
+    {
+      "id": "dance-tHKV8XHGHWc",
+      "label": "Peter Pan",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "tHKV8XHGHWc",
+      "youtube": "https://www.youtube.com/watch?v=tHKV8XHGHWc",
+      "tooltip": {
+        "description": "Iconic dance scene from Peter Pan"
+      },
+      "showImageOnPlace": false,
+      "duration": 125
+    },
+    {
+      "id": "dance-ZdTx0IZUvgY",
+      "label": "1",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "ZdTx0IZUvgY",
+      "youtube": "https://www.youtube.com/watch?v=ZdTx0IZUvgY",
+      "tooltip": {
+        "description": "Iconic dance scene from 1"
+      },
+      "showImageOnPlace": false,
+      "duration": 75
+    },
+    {
+      "id": "dance-y7vvMAPeP_I",
+      "label": "Bambi OST",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "y7vvMAPeP_I",
+      "youtube": "https://www.youtube.com/watch?v=y7vvMAPeP_I",
+      "tooltip": {
+        "description": "Iconic dance scene from Bambi OST"
+      },
+      "showImageOnPlace": false,
+      "duration": 127
+    },
+    {
+      "id": "dance-7F7Ctdp7Oqs",
+      "label": "Sleeping Beauty OST",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "7F7Ctdp7Oqs",
+      "youtube": "https://www.youtube.com/watch?v=7F7Ctdp7Oqs",
+      "tooltip": {
+        "description": "Iconic dance scene from Sleeping Beauty OST"
+      },
+      "showImageOnPlace": false,
+      "duration": 235
+    },
+    {
+      "id": "dance-15rUJuKCM90",
+      "label": "Christopher Walken",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "15rUJuKCM90",
+      "youtube": "https://www.youtube.com/watch?v=15rUJuKCM90",
+      "tooltip": {
+        "description": "Iconic dance scene from Christopher Walken"
+      },
+      "showImageOnPlace": false,
+      "duration": 218
+    },
+    {
+      "id": "dance-qNhG3NULjsc",
+      "label": "Bedknobs and Broomsticks OST",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "qNhG3NULjsc",
+      "youtube": "https://www.youtube.com/watch?v=qNhG3NULjsc",
+      "tooltip": {
+        "description": "Iconic dance scene from Bedknobs and Broomsticks OST"
+      },
+      "showImageOnPlace": false,
+      "duration": 216
+    },
+    {
+      "id": "dance-dFBBKfw59kA",
+      "label": "Pirates of the Caribbean",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "dFBBKfw59kA",
+      "youtube": "https://www.youtube.com/watch?v=dFBBKfw59kA",
+      "tooltip": {
+        "description": "Iconic dance scene from Pirates of the Caribbean"
+      },
+      "showImageOnPlace": false,
+      "duration": 180
+    },
+    {
+      "id": "dance-_WRKbu5j0O0",
+      "label": "01. Main Theme",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "_WRKbu5j0O0",
+      "youtube": "https://www.youtube.com/watch?v=_WRKbu5j0O0",
+      "tooltip": {
+        "description": "Iconic dance scene from 01. Main Theme"
+      },
+      "showImageOnPlace": false,
+      "duration": 374
+    },
+    {
+      "id": "austinpowers1",
+      "label": "Austin Powers Goldmember – Mike Myers",
+      "date": 2002,
+      "youtube": "https://www.youtube.com/watch?v=rXRzcRi2frU&t=1289s&end=1404s",
+      "duration": 89
+    },
+    {
+      "id": "napoleonDynamite",
+      "label": "Napoleon Dynamite – Jon Heder",
+      "date": 2004,
+      "youtube": "https://www.youtube.com/watch?v=BiAwpYIkRmU&t=42s",
+      "duration": 105
     }
-]
+  ],
+  "description": "A collection of the most iconic and memorable dance scenes from movies and TV shows, enhanced with randomized 45-second video segments for improved replay value and dynamic content discovery"
 }
-  

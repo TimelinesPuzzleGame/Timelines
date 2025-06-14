@@ -7,7 +7,7 @@ export type EventCard = {
   image?: string;
   tooltip?: {
     description: string;
-    quote: string;
+    quote?: string;
   };
   // new:
   spotify?: {

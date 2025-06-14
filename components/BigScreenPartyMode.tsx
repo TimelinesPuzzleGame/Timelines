@@ -39,6 +39,10 @@ export default function BigScreenPartyMode({
   onQuit,
   onContinue,
 }: BigScreenPartyModeProps) {
+  // 🎯 EASILY REVERTABLE PING EFFECT SETTINGS
+  const CARD_PING_COUNT = 6; // Change back to 3 to revert
+  const CARD_PING_SCALE = 2.0; // Change back to 1.5 to revert
+  const CARD_PING_DELAY = 80; // Change back to 100 to revert (ms between pings)
   // Animation state management - replacing 12+ scattered state variables
   const { state: animationState, context: animationContext, transition, reset: resetAnimation, updateContext } = useAnimationState();
   
@@ -93,12 +97,17 @@ export default function BigScreenPartyMode({
   const [videoEnded, setVideoEnded] = useState(false);
   const [isOverVideo, setIsOverVideo] = useState(false);
   const [burstEffects, setBurstEffects] = useState<Array<{ x: number, y: number, id: number }>>([]);
+  const [scorePingEffects, setScorePingEffects] = useState<Array<{ teamIndex: number, pointIndex: number, id: number }>>([]);
+  const [cardPingEffects, setCardPingEffects] = useState<Array<{ cardId: string, isCorrect: boolean, id: number }>>([]);
 
   // Add aspect ratio state
   const [aspectRatio, setAspectRatio] = useState<number>(window.innerWidth / window.innerHeight);
 
   // State for the placeable area
   const [placeableArea, setPlaceableArea] = useState<{ top: number; height: number } | null>(null);
+
+  // Add new state for full screen mode
+  const [isFullScreen, setIsFullScreen] = useState(false);
 
   // Add effect to update aspect ratio on resize
   useEffect(() => {
@@ -141,6 +150,12 @@ export default function BigScreenPartyMode({
       100% { transform: scale(1); }
     }
     
+    @keyframes team-bounce-in {
+      0% { transform: scale(0.7); opacity: 0.7; }
+      50% { transform: scale(1.1); opacity: 1; }
+      100% { transform: scale(1); opacity: 1; }
+    }
+    
     @keyframes placementMove {
       0% { transform: translate(-50%, -50%); }
       100% { transform: translate(calc(-50% + var(--to-x)), calc(-50% + var(--to-y))); }
@@ -180,6 +195,16 @@ export default function BigScreenPartyMode({
       0% { transform: scale(0); opacity: 1; }
       100% { transform: scale(2); opacity: 0; }
     }
+    
+    @keyframes scorePing {
+      0% { transform: scale(1); opacity: 1; }
+      100% { transform: scale(3); opacity: 0; }
+    }
+    
+    @keyframes cardPing {
+      0% { transform: scale(1); opacity: 1; }
+      100% { transform: scale(${CARD_PING_SCALE}); opacity: 0; }
+    }
   `;
 
   // Calculate timeline cards (excluding incorrect cards)
@@ -202,8 +227,14 @@ export default function BigScreenPartyMode({
     const handleMouseMove = (e: MouseEvent) => {
       setCursorPosition({ x: e.clientX, y: e.clientY });
       
-      // Check if cursor is over video area
-      const videoBottom = document.querySelector('iframe, img, div[class*="youtube"]')?.getBoundingClientRect()?.bottom || 0;
+      // Check if cursor is over video area - adjust for fullscreen mode
+      let videoBottom = 0;
+      if (isFullScreen) {
+        // In fullscreen, video takes up entire viewport, so use a different approach
+        videoBottom = window.innerHeight * 0.5; // Use middle of screen as cutoff
+      } else {
+        videoBottom = document.querySelector('iframe, img, div[class*="youtube"]')?.getBoundingClientRect()?.bottom || 0;
+      }
       const overVideo = e.clientY < videoBottom;
       
       // Update video state
@@ -232,7 +263,7 @@ export default function BigScreenPartyMode({
             let targetIndex = Math.floor(x / slotWidth);
             targetIndex = Math.max(0, Math.min(targetIndex, allCards.length));
             
-            // Calculate where this slot would be positioned in the final flexbox layout
+                        // Calculate where this slot would be positioned in the final flexbox layout
             const finalCardX = timelineRect.left + (targetIndex + 0.5) * slotWidth;
             
             // MEASURE actual timeline card position instead of guessing
@@ -280,7 +311,7 @@ export default function BigScreenPartyMode({
     return () => {
       document.removeEventListener('mousemove', handleMouseMove);
     };
-  }, [showCursorCard, locked, allCards, anchorCard.id, tetherTarget, flyingBall]);
+  }, [showCursorCard, locked, allCards, anchorCard.id, tetherTarget, flyingBall, isFullScreen]);
 
   // Show/hide cursor card based on turn state
   // useEffect(() => {
@@ -386,6 +417,80 @@ export default function BigScreenPartyMode({
       }
     }
     console.log('targetIndex:', targetIndex, 'correctIndex:', correctIndex, 'isCorrect:', isCorrect);
+    
+    // Show feedback circle at the actual placed card position
+    if (timelineRef.current) {
+      // Calculate where the card will actually be placed after insertion
+      const timelineRect = timelineRef.current.getBoundingClientRect();
+      
+      // Find the actual card position after placement
+      setTimeout(() => {
+        // Wait a frame for the card to be inserted into the DOM
+        const placedCardElement = timelineRef.current?.querySelector(`[data-card-id="${currentCard.id}"]`) as HTMLElement;
+        if (placedCardElement) {
+          const cardRect = placedCardElement.getBoundingClientRect();
+          setFeedbackPosition({
+            x: cardRect.left + cardRect.width / 2,
+            y: cardRect.top - 60, // Position above the actual placed card
+            isCorrect: isCorrect
+          });
+          
+          // Clear feedback after animation completes
+          setTimeout(() => {
+            setFeedbackPosition(null);
+          }, 750);
+        }
+      }, 50); // Small delay to let the card render
+    }
+    
+    // Trigger score ping effect for correct answers
+    if (isCorrect) {
+      // Find which point index this will be (current score)
+      const currentScore = teams[currentTurn]?.score || 0;
+      
+      // Create multiple ping effects in rapid succession
+      const newEffects = [];
+      for (let i = 0; i < 3; i++) {
+        newEffects.push({
+          teamIndex: currentTurn,
+          pointIndex: currentScore,
+          id: Date.now() + i
+        });
+      }
+      
+              // Add effects with staggered timing
+        newEffects.forEach((effect, index) => {
+          setTimeout(() => {
+            setScorePingEffects(prev => [...prev, effect]);
+            // Remove this effect after animation completes
+            setTimeout(() => {
+              setScorePingEffects(prev => prev.filter(e => e.id !== effect.id));
+            }, 400);
+          }, index * 100); // 100ms delay between each ping
+        });
+      }
+
+      // Create card ping effects for both correct and incorrect placements
+      const cardPingEffectsToAdd = [];
+      for (let i = 0; i < CARD_PING_COUNT; i++) {
+        cardPingEffectsToAdd.push({
+          cardId: currentCard.id,
+          isCorrect: isCorrect,
+          id: Date.now() + 1000 + i // Offset to avoid collision with score pings
+        });
+      }
+      
+      // Add card ping effects with staggered timing
+      cardPingEffectsToAdd.forEach((effect, index) => {
+        setTimeout(() => {
+          setCardPingEffects(prev => [...prev, effect]);
+          // Remove this effect after animation completes
+                      setTimeout(() => {
+              setCardPingEffects(prev => prev.filter(e => e.id !== effect.id));
+            }, 500);
+        }, index * CARD_PING_DELAY); // Configurable delay between each ping
+      });
+    
     onCardPlacement(isCorrect);
   };
 
@@ -448,61 +553,169 @@ export default function BigScreenPartyMode({
     return () => clearTimeout(timer);
   }, [currentCard.id, youTubeStart, youTubeEnd]);
 
+  // Function to handle full screen toggle
+  const handleFullScreenToggle = async () => {
+    try {
+      if (!document.fullscreenElement) {
+        await document.documentElement.requestFullscreen();
+      } else {
+        await document.exitFullscreen();
+      }
+      setIsFullScreen(!isFullScreen);
+    } catch (err) {
+      console.error('Error toggling fullscreen:', err);
+    }
+  };
+
+  // Add fullscreen change event listener
+  useEffect(() => {
+    const handleFullscreenChange = () => {
+      setIsFullScreen(!!document.fullscreenElement);
+    };
+
+    document.addEventListener('fullscreenchange', handleFullscreenChange);
+    return () => {
+      document.removeEventListener('fullscreenchange', handleFullscreenChange);
+    };
+  }, []);
+
   return (
-    <div className="h-screen bg-gray-900 flex flex-col overflow-y-auto">
+    <div className="h-screen bg-gray-900 flex flex-col overflow-y-auto" style={{ zIndex: 1 }}>
       <style>{bounceScaleCSS}</style>
-      {/* Debug info */}
-      <div className="fixed top-0 left-0 bg-black text-white p-2 z-50">
-        Aspect Ratio: {aspectRatio.toFixed(2)}
+      {/* Debug info and Full Screen button */}
+      <div className="fixed top-0 left-0 bg-black text-white p-2 z-[9999]" style={{width: '532px'}}>
+        <div>Aspect Ratio: {aspectRatio.toFixed(2)}</div>
+        {videoId && (
+          <button
+            onClick={handleFullScreenToggle}
+            className="mt-1 px-2 py-1 bg-gray-700 hover:bg-gray-600 rounded text-sm transition-colors"
+          >
+            Full Screen
+          </button>
+        )}
       </div>
+
+      {/* Video container that handles both normal and fullscreen states */}
+      <div 
+        ref={videoContainerRef} 
+        className={`${isFullScreen ? 'fixed inset-0' : 'relative'}`}
+        style={{
+          aspectRatio: '16/9',
+          ...(isFullScreen ? {
+            height: '100vh',
+            width: '100vw',
+            backgroundColor: '#000',
+            display: 'flex',
+            alignItems: 'center',
+            justifyContent: 'center',
+            zIndex: 1,
+            pointerEvents: 'none'
+          } : {
+            position: 'absolute',
+            top: aspectRatio >= 1.75 ? '0' : '0',
+            left: aspectRatio >= 1.75 ? 'auto' : '50%',
+            right: aspectRatio >= 1.75 ? '0' : 'auto',
+            transform: aspectRatio >= 1.75 ? 'none' : 'translateX(-50%)',
+            maxHeight: aspectRatio >= 1.75 ? '85vh' : '70vh',
+            maxWidth: aspectRatio >= 1.75 ? 
+              'min(100vw, calc(85vh * 16/9))' : 
+              'min(100vw, calc(70vh * 16/9))',
+            width: aspectRatio >= 1.75 ? 
+              'min(100vw, calc(85vh * 16/9))' : 
+              'min(100vw, calc(70vh * 16/9))',
+            zIndex: 10
+          })
+        }}
+      >
+        {videoId && (
+          <div style={{
+            position: 'relative',
+            width: '100%',
+            height: '100%',
+            ...(isFullScreen && {
+              maxWidth: '177.78vh', // 16:9 aspect ratio
+              maxHeight: '100vh',
+            })
+          }}>
+            <YouTubeClipPlayer
+              key={`youtube-${currentCard.id}-${videoId}`}
+              videoId={videoId}
+              start={youTubeStart}
+              {...(youTubeEnd ? { end: youTubeEnd } : {})}
+            />
+          </div>
+        )}
+      </div>
+
       {aspectRatio >= 1.75 ? (
-        // --- ULTRAWIDE LAYOUT (now for aspectRatio >= 1.75) ---
-        <div className="flex flex-col h-full w-full bg-black" style={{height: '100vh', background: '#000'}}>
+        // --- ULTRAWIDE LAYOUT ---
+        <div className="flex flex-col h-full w-full bg-black relative" style={{height: '100vh', background: '#000'}}>
           {/* Main content: UI and Video in a single row, no negative space */}
           <div className="flex flex-row flex-shrink-0 w-full bg-black" style={{flex: '1 1 auto', alignItems: 'flex-start', minHeight: 0, background: '#000'}}>
-            {/* UI block on the left, fills all space left of video, background matches main */}
-            <div className="flex flex-col justify-start items-start bg-black py-16 px-8 gap-16" style={{flex: 1, minWidth: 0, background: '#000'}}>
+            {/* UI block on the left, fills all space left of video, background transparent for team names */}
+            <div className="flex-1 flex flex-col items-center justify-start p-[min(4vw,32px)]" style={{zIndex: 10}}>
               {/* Title */}
               {puzzle && (
-                <div className="text-left w-full">
+                <div className="text-left w-full" style={{zIndex: 10, marginTop: '80px'}}>
                   <h1 className="text-6xl font-light italic text-white mb-16">{puzzle.topic}</h1>
                 </div>
               )}
               {/* Teams */}
-              <div className="w-full flex flex-col gap-16">
-                {/* Current Team */}
-                <div className="text-left">
-                  <div className="font-bold text-8xl text-white mb-6">{teams[0]?.name || 'Team 1'}</div>
-                  <div className="flex space-x-4 mb-6">
-                    {Array.from({ length: 9 }, (_, i) => (
-                      <div
-                        key={i}
-                        className={`rounded-full w-12 h-12 ${i < (teams[0]?.score || 0) ? 'bg-green-400' : 'bg-gray-600'}`}
-                      />
-                    ))}
-                  </div>
-                </div>
-                {/* Next Team(s) */}
-                {teams[1] && (
-                  <div className="text-left opacity-70">
-                    <div className="font-bold text-5xl text-gray-400 mb-6">{teams[1]?.name || 'Team 2'}</div>
-                    <div className="flex space-x-4 mb-6">
+              <div className="w-full flex flex-col gap-16" style={{zIndex: 10}}>
+                {teams.map((team, teamIndex) => (
+                  <div key={teamIndex} className={`text-left ${currentTurn === teamIndex ? '' : 'opacity-70'}`}>
+                    <div 
+                      className={`font-bold mb-6 ${
+                        currentTurn === teamIndex ? 'text-8xl text-white' : 'text-5xl text-gray-400'
+                      }`}
+                      style={{
+                        ...(bounceTeam === teamIndex && currentTurn === teamIndex ? { animation: 'team-bounce-in 0.4s ease-out forwards' } : {}),
+                        ...(currentTurn === teamIndex ? { transform: 'scale(1.15)', transformOrigin: 'left center' } : {})
+                      }}
+                    >
+                      {team?.name || `Team ${teamIndex + 1}`}
+                    </div>
+                    <div 
+                      className="flex space-x-4 mb-6"
+                      style={{
+                        ...(bounceTeam === teamIndex && currentTurn === teamIndex ? { animation: 'team-bounce-in 0.4s ease-out forwards' } : {}),
+                        ...(currentTurn === teamIndex ? { transform: 'scale(1.15)', transformOrigin: 'left center' } : {})
+                      }}
+                    >
                       {Array.from({ length: 9 }, (_, i) => (
-                        <div
-                          key={i}
-                          className={`rounded-full w-8 h-8 ${i < (teams[1]?.score || 0) ? 'bg-green-600' : 'bg-gray-700'}`}
-                        />
+                        <div key={i} className="relative">
+                          <div
+                            className={`rounded-full ${
+                              currentTurn === teamIndex 
+                                ? `w-12 h-12 ${i < (team?.score || 0) ? 'bg-green-400' : 'bg-gray-600'}`
+                                : `w-8 h-8 ${i < (team?.score || 0) ? 'bg-green-600' : 'bg-gray-700'}`
+                            }`}
+                          />
+                          {/* Ping effects for this specific point */}
+                          {scorePingEffects.filter(effect => effect.teamIndex === teamIndex && effect.pointIndex === i).map(effect => (
+                            <div
+                              key={effect.id}
+                              className={`absolute inset-0 rounded-full border-2 border-green-400 ${
+                                currentTurn === teamIndex ? 'w-12 h-12' : 'w-8 h-8'
+                              }`}
+                              style={{
+                                animation: 'scorePing 0.4s ease-out forwards',
+                                backgroundColor: 'transparent'
+                              }}
+                            />
+                          ))}
+                        </div>
                       ))}
                     </div>
                   </div>
-                )}
+                ))}
               </div>
               {/* Continue Button */}
               {(justPlacedCard || videoEnded) && (
                 <button
                   onClick={handleContinueClick}
                   className="bg-blue-600 hover:bg-blue-700 text-white font-bold px-20 py-12 rounded-lg text-5xl transition-all mt-16 w-full"
-                  style={{ animation: 'bounce-scale 0.3s ease-out forwards' }}
+                  style={{ animation: 'bounce-scale 0.3s ease-out forwards', zIndex: 10 }}
                 >
                   {videoEnded && !justPlacedCard ? 'Next Turn' : 'Continue'}
                 </button>
@@ -510,43 +723,31 @@ export default function BigScreenPartyMode({
             </div>
             {/* Video flush with UI, right-justified, no overlap */}
             <div className="flex-shrink-0 flex items-start justify-end bg-black" style={{minHeight: 0, height: 'auto', background: '#000'}}>
-              {/* Add ref to video container for bounding rect */}
-              <div ref={videoContainerRef} className="max-h-[85vh] relative flex items-start justify-end bg-black" style={{
-                aspectRatio: '16/9',
-                height: 'auto',
-                maxWidth: 'min(100vw, calc(85vh * 16/9))',
-                width: 'min(100vw, calc(85vh * 16/9))',
-                background: '#000'
-              }}>
-                {videoId ? (
-                  <YouTubeClipPlayer
-                    key={`youtube-${currentCard.id}-${videoId}`}
-                    videoId={videoId}
-                    start={youTubeStart}
-                    {...(youTubeEnd ? { end: youTubeEnd } : {})}
-                  />
-                ) : (
-                  currentCard.image && (
-                    <Image
-                      src={currentCard.image}
-                      alt={currentCard.title || 'Timeline card'}
-                      fill
-                      className="object-contain"
-                      priority
-                    />
-                  )
-                )}
+              {/* Placeholder for video - actual video is rendered above */}
+              <div 
+                className="max-h-[85vh] relative"
+                style={{
+                  aspectRatio: '16/9',
+                  maxWidth: 'min(100vw, calc(85vh * 16/9))',
+                  width: 'min(100vw, calc(85vh * 16/9))',
+                  visibility: 'hidden' // Hide this placeholder
+                }}
+              >
+                {/* Empty placeholder to maintain layout */}
               </div>
             </div>
           </div>
-          {/* Timeline fixed to bottom, no overlap, fully interactive */}
+          
+            {/* Timeline fixed to bottom, no overlap, fully interactive */}
           <div className="fixed left-0 right-0 bottom-0 px-8 pb-4 z-40 bg-black" style={{pointerEvents: 'auto', background: '#000'}}>
             {/* Large invisible clickable area for drop zone */}
             {!locked && !videoEnded && (
               <div
                 className="fixed left-0 right-0 z-30 cursor-pointer"
                 style={{
-                  top: `${Math.max(document.querySelector('iframe, img, div[class*="youtube"]')?.getBoundingClientRect()?.bottom || 0, window.innerHeight * 0.5)}px`,
+                  top: isFullScreen ? 
+                    `${window.innerHeight * 0.5}px` : 
+                    `${Math.max(document.querySelector('iframe, img, div[class*="youtube"]')?.getBoundingClientRect()?.bottom || 0, window.innerHeight * 0.5)}px`,
                   bottom: 0,
                 }}
                 onMouseMove={handleTimelineMouseMove}
@@ -590,16 +791,32 @@ export default function BigScreenPartyMode({
                         };
                       })() : {}) }}
                     >
-                      <div className={justPlacedCard && card.id === justPlacedCard.id ? 'animate-[bounce-scale_0.3s_ease-out_forwards]' : ''}>
+                      <div className={`relative ${justPlacedCard && card.id === justPlacedCard.id ? 'animate-[bounce-scale_0.3s_ease-out_forwards]' : ''}`}>
                         <TimelineCardWithTooltip
                           card={card}
                           isLatest={false}
                           isAnchor={card.id === anchorCard.id}
-                          bgClass={card.id === anchorCard.id ? "bg-gray-300 text-black" : (timeline.find((p) => p.card.id === card.id)?.correct === true ? "bg-green-300 text-black" : (timeline.find((p) => p.card.id === card.id)?.correct === false ? "bg-red-400 text-black" : "bg-gray-200 text-black"))}
+                          bgClass={card.id === anchorCard.id ? "bg-gray-300 text-black" : (timeline.find((p) => p.card.id === card.id)?.correct === true ? "bg-green-500 text-black" : (timeline.find((p) => p.card.id === card.id)?.correct === false ? "bg-red-600 text-black" : "bg-gray-200 text-black"))}
                           hideDates={false}
                           showTooltip={false}
                           showImageOnPlace={false}
+                          isFullScreen={aspectRatio >= 1.75}
+                          justPlacedCard={justPlacedCard}
                         />
+                        {/* Card ping effects */}
+                        {cardPingEffects.filter(effect => effect.cardId === card.id).map(effect => (
+                          <div
+                            key={effect.id}
+                            className={`absolute inset-0 rounded-lg border-2 ${
+                              effect.isCorrect ? 'border-green-400' : 'border-red-400'
+                            }`}
+                            style={{
+                              animation: 'cardPing 0.5s ease-out forwards',
+                              backgroundColor: 'transparent',
+                              pointerEvents: 'none'
+                            }}
+                          />
+                        ))}
                       </div>
                       <div className="bg-gray-600" style={{ 
                         height: `max(48px, min(96px, 4.2vw))`,
@@ -638,49 +855,32 @@ export default function BigScreenPartyMode({
         </div>
       ) : (
         // --- DEFAULT LAYOUT ---
-        <>
+        <div className="flex flex-col relative">
           {/* Video and Timeline grouped together */}
           <div className="flex flex-col">
             {/* Massive Video Section - only the space it needs */}
             <div className="flex items-center justify-center relative">
-              {videoId ? (
-                <div className="w-full max-h-[70vh] relative" style={{
-                  aspectRatio: '16/9',
-                  maxWidth: 'min(100vw, calc(70vh * 16/9))'
-                }}>
-                  <YouTubeClipPlayer
-                    key={`youtube-${currentCard.id}-${videoId}`}
-                    videoId={videoId}
-                    start={youTubeStart}
-                    {...(youTubeEnd ? { end: youTubeEnd } : {})}
-                  />
-                </div>
-              ) : (
-                <div className="w-full max-h-[70vh] relative" style={{
-                  aspectRatio: '16/9',
-                  maxWidth: 'min(100vw, calc(70vh * 16/9))'
-                }}>
-                  {currentCard.image && (
-                    <Image
-                      src={currentCard.image}
-                      alt={currentCard.title || 'Timeline card'}
-                      fill
-                      className="object-contain"
-                      priority
-                    />
-                  )}
-                </div>
-              )}
+              {/* Placeholder for video - actual video is rendered above */}
+              <div className="w-full max-h-[70vh] relative" style={{
+                aspectRatio: '16/9',
+                maxWidth: 'min(100vw, calc(70vh * 16/9))',
+                visibility: 'hidden' // Hide this placeholder
+              }}>
+                {/* Empty placeholder to maintain layout */}
+              </div>
             </div>
 
-            {/* Timeline Section - locked to bottom of video */}
-            <div className="bg-gray-900 px-6 py-4" style={{ marginTop: 'min(438px, 40vh)' }}>
+            
+              {/* Timeline Section - locked to bottom of video */}
+            <div className="relative w-full">
               {/* Large invisible clickable area for drop zone */}
               {!locked && !videoEnded && (
                 <div
                   className="fixed left-0 right-0 z-30 cursor-pointer"
                   style={{
-                    top: `${Math.max(document.querySelector('iframe, img, div[class*="youtube"]')?.getBoundingClientRect()?.bottom || 0, window.innerHeight * 0.5)}px`,
+                    top: isFullScreen ? 
+                      `${window.innerHeight * 0.5}px` : 
+                      `${Math.max(document.querySelector('iframe, img, div[class*="youtube"]')?.getBoundingClientRect()?.bottom || 0, window.innerHeight * 0.5)}px`,
                     bottom: 0,
                   }}
                   onMouseMove={handleTimelineMouseMove}
@@ -719,16 +919,32 @@ export default function BigScreenPartyMode({
                         };
                       })() : {}) }}
                     >
-                      <div className={justPlacedCard && card.id === justPlacedCard.id ? 'animate-[bounce-scale_0.3s_ease-out_forwards]' : ''}>
+                      <div className={`relative ${justPlacedCard && card.id === justPlacedCard.id ? 'animate-[bounce-scale_0.3s_ease-out_forwards]' : ''}`}>
                         <TimelineCardWithTooltip
                           card={card}
                           isLatest={false}
                           isAnchor={card.id === anchorCard.id}
-                          bgClass={card.id === anchorCard.id ? "bg-gray-300 text-black" : (timeline.find((p) => p.card.id === card.id)?.correct === true ? "bg-green-300 text-black" : (timeline.find((p) => p.card.id === card.id)?.correct === false ? "bg-red-400 text-black" : "bg-gray-200 text-black"))}
+                          bgClass={card.id === anchorCard.id ? "bg-gray-300 text-black" : (timeline.find((p) => p.card.id === card.id)?.correct === true ? "bg-green-500 text-black" : (timeline.find((p) => p.card.id === card.id)?.correct === false ? "bg-red-600 text-black" : "bg-gray-200 text-black"))}
                           hideDates={false}
                           showTooltip={false}
                           showImageOnPlace={false}
+                          isFullScreen={false}
+                          justPlacedCard={justPlacedCard}
                         />
+                        {/* Card ping effects */}
+                        {cardPingEffects.filter(effect => effect.cardId === card.id).map(effect => (
+                          <div
+                            key={effect.id}
+                            className={`absolute inset-0 rounded-lg border-2 ${
+                              effect.isCorrect ? 'border-green-400' : 'border-red-400'
+                            }`}
+                            style={{
+                              animation: 'cardPing 0.5s ease-out forwards',
+                              backgroundColor: 'transparent',
+                              pointerEvents: 'none'
+                            }}
+                          />
+                        ))}
                       </div>
                       <div className="bg-gray-600" style={{ 
                         height: `max(48px, min(96px, 4.2vw))`,
@@ -750,6 +966,19 @@ export default function BigScreenPartyMode({
                   ])}
                 </div>
               </div>
+              
+              {/* Drop zone indicators */}
+              {!locked && hoveredIndex !== null && (
+                <div className="absolute inset-0 pointer-events-none">
+                  <div
+                    className="absolute top-0 bottom-0 w-1 bg-blue-400 z-20"
+                    style={{
+                      left: `${(hoveredIndex / (allCards.length + 1)) * 100}%`,
+                      transform: 'translateX(-50%)'
+                    }}
+                  />
+                </div>
+              )}
 
               {/* Puzzle Title - moved below timeline */}
               {puzzle && (
@@ -760,76 +989,80 @@ export default function BigScreenPartyMode({
                 </div>
               )}
 
-              {/* Team Indicators - Fixed positioning */}
-              <div className="flex items-center mt-[100px]">
-                {/* Left Team - Centered in left half */}
-                <div className="flex-1 flex justify-center">
-                  <div className="text-center">
-                    <div className={`font-bold mb-14 ${
-                      0 === currentTurn ? 'text-9xl text-white' : 'text-6xl text-gray-600'
-                    }`}
-                    style={bounceTeam === 0 ? { animation: 'bounce-scale 0.3s ease-out forwards' } : {}}>
-                      {teams[0]?.name || 'Team 1'}
+              {/* Team Indicators - Dynamic grid for 2-4 teams */}
+              <div className="mt-[100px]" style={{zIndex: 10}}>
+                {/* Teams Grid */}
+                <div className={`grid gap-8 ${
+                  teams.length <= 2 ? 'grid-cols-2' : 'grid-cols-2 grid-rows-2'
+                }`}>
+                  {teams.map((team, teamIndex) => (
+                    <div key={teamIndex} className="flex justify-center">
+                      <div className="text-center">
+                        <div className={`font-bold mb-14 ${
+                          teamIndex === currentTurn ? 'text-9xl text-white' : 'text-6xl text-gray-600'
+                        }`}
+                        style={{
+                          ...(bounceTeam === teamIndex && currentTurn === teamIndex ? { animation: 'team-bounce-in 0.4s ease-out forwards' } : {}),
+                          ...(currentTurn === teamIndex ? { transform: 'scale(1.15)', transformOrigin: 'center center' } : {}),
+                          zIndex: 10
+                        }}>
+                          {team?.name || `Team ${teamIndex + 1}`}
+                        </div>
+                        <div className="flex space-x-3 justify-center"
+                        style={{
+                          ...(bounceTeam === teamIndex && currentTurn === teamIndex ? { animation: 'team-bounce-in 0.4s ease-out forwards' } : {}),
+                          ...(currentTurn === teamIndex ? { transform: 'scale(1.15)', transformOrigin: 'center center' } : {}),
+                          zIndex: 10
+                        }}>
+                          {Array.from({ length: 9 }, (_, i) => (
+                            <div key={i} className="relative">
+                              <div
+                                className={`rounded-full ${
+                                  teamIndex === currentTurn
+                                    ? `w-14 h-14 ${i < (team?.score || 0) ? 'bg-green-400' : 'bg-gray-600'}`
+                                    : `w-10 h-10 ${i < (team?.score || 0) ? 'bg-green-600' : 'bg-gray-700'}`
+                                }`}
+                              />
+                              {/* Ping effects for this specific point */}
+                              {scorePingEffects.filter(effect => effect.teamIndex === teamIndex && effect.pointIndex === i).map(effect => (
+                                <div
+                                  key={effect.id}
+                                  className={`absolute inset-0 rounded-full border-2 border-green-400 ${
+                                    teamIndex === currentTurn ? 'w-14 h-14' : 'w-10 h-10'
+                                  }`}
+                                  style={{
+                                    animation: 'scorePing 0.4s ease-out forwards',
+                                    backgroundColor: 'transparent'
+                                  }}
+                                />
+                              ))}
+                            </div>
+                          ))}
+                        </div>
+                      </div>
                     </div>
-                    <div className="flex space-x-3 justify-center"
-                    style={bounceTeam === 0 ? { animation: 'bounce-scale 0.3s ease-out forwards' } : {}}>
-                      {Array.from({ length: 9 }, (_, i) => (
-                        <div
-                          key={i}
-                          className={`rounded-full ${
-                            0 === currentTurn
-                              ? `w-14 h-14 ${i < (teams[0]?.score || 0) ? 'bg-green-400' : 'bg-gray-600'}`
-                              : `w-10 h-10 ${i < (teams[0]?.score || 0) ? 'bg-green-600' : 'bg-gray-700'}`
-                          }`}
-                        />
-                      ))}
-                    </div>
-                  </div>
+                  ))}
                 </div>
 
-                {/* Continue Button - Centered between teams, after card placement OR video ending */}
+                {/* Continue Button - Centered below teams */}
                 {(justPlacedCard || videoEnded) && (
-                  <div className="flex justify-center">
+                  <div className="flex justify-center mt-8">
                     <button
                       onClick={handleContinueClick}
                       className="bg-blue-600 hover:bg-blue-700 text-white font-bold px-20 py-10 rounded-lg text-6xl transition-all"
                       style={{
-                        animation: 'bounce-scale 0.3s ease-out forwards'
+                        animation: 'bounce-scale 0.3s ease-out forwards',
+                        zIndex: 10
                       }}
                     >
                       {videoEnded && !justPlacedCard ? 'Next Turn' : 'Continue'}
                     </button>
                   </div>
                 )}
-
-                {/* Right Team - Centered in right half */}
-                <div className="flex-1 flex justify-center">
-                  <div className="text-center">
-                    <div className={`font-bold mb-14 ${
-                      1 === currentTurn ? 'text-9xl text-white' : 'text-6xl text-gray-600'
-                    }`}
-                    style={bounceTeam === 1 ? { animation: 'bounce-scale 0.3s ease-out forwards' } : {}}>
-                      {teams[1]?.name || 'Team 2'}
-                    </div>
-                    <div className="flex space-x-3 justify-center"
-                    style={bounceTeam === 1 ? { animation: 'bounce-scale 0.3s ease-out forwards' } : {}}>
-                      {Array.from({ length: 9 }, (_, i) => (
-                        <div
-                          key={i}
-                          className={`rounded-full ${
-                            1 === currentTurn
-                              ? `w-14 h-14 ${i < (teams[1]?.score || 0) ? 'bg-green-400' : 'bg-gray-600'}`
-                              : `w-10 h-10 ${i < (teams[1]?.score || 0) ? 'bg-green-600' : 'bg-gray-700'}`
-                          }`}
-                        />
-                      ))}
-                    </div>
-                  </div>
-                </div>
               </div>
             </div>
           </div>
-        </>
+        </div>
       )}
 
       {/* Incorrect Cards Positioned as Proper Timeline Cards */}
@@ -853,7 +1086,7 @@ export default function BigScreenPartyMode({
             }}
           >
             {/* Just the card - no timeline elements to avoid duplication */}
-            <div className={isJustPlaced ? 'animate-[bounce-scale_0.3s_ease-out_forwards]' : ''}>
+            <div className={`relative ${isJustPlaced ? 'animate-[bounce-scale_0.3s_ease-out_forwards]' : ''}`}>
               <TimelineCardWithTooltip
                 card={card}
                 isLatest={false}
@@ -862,7 +1095,22 @@ export default function BigScreenPartyMode({
                 hideDates={false}
                 showTooltip={false}
                 showImageOnPlace={false}
+                justPlacedCard={justPlacedCard}
               />
+              {/* Card ping effects for incorrect cards */}
+              {cardPingEffects.filter(effect => effect.cardId === card.id).map(effect => (
+                <div
+                  key={effect.id}
+                  className={`absolute inset-0 rounded-lg border-2 ${
+                    effect.isCorrect ? 'border-green-400' : 'border-red-400'
+                  }`}
+                  style={{
+                    animation: 'cardPing 0.5s ease-out forwards',
+                    backgroundColor: 'transparent',
+                    pointerEvents: 'none'
+                  }}
+                />
+              ))}
             </div>
           </div>
         );
@@ -930,7 +1178,7 @@ export default function BigScreenPartyMode({
                 opacity: 0.3
               }}
             >
-              <div className="w-[12vw] min-w-[120px] max-w-[320px] px-[0.8vw] py-[0.5vw] aspect-[3/2] shadow rounded text-center bg-blue-400 text-black flex items-center justify-center">
+              <div className="w-[12vw] min-w-[120px] max-w-[320px] px-[0.8vw] py-[0.5vw] aspect-[3/2] shadow rounded-lg text-center bg-blue-400 text-black flex items-center justify-center">
                 <span className="text-black text-[clamp(2rem,8vw,8rem)] font-bold">?</span>
               </div>
             </div>
@@ -1034,7 +1282,7 @@ export default function BigScreenPartyMode({
               opacity: 0.3 // Make transparent to match preview card
             }}
           >
-            <div className="w-[12vw] min-w-[120px] max-w-[320px] px-[0.8vw] py-[0.5vw] aspect-[3/2] shadow rounded text-center bg-gray-200 text-black flex items-center justify-center">
+            <div className="w-[12vw] min-w-[120px] max-w-[320px] px-[0.8vw] py-[0.5vw] aspect-[3/2] shadow rounded-lg text-center bg-gray-200 text-black flex items-center justify-center">
               <span className="text-black text-[clamp(2rem,8vw,8rem)] font-bold">?</span>
             </div>
           </div>
@@ -1081,7 +1329,7 @@ export default function BigScreenPartyMode({
           <div className={`
             w-24 h-24 border-4 border-white rounded-full flex items-center justify-center
             ${feedbackPosition.isCorrect ? 'bg-green-500' : 'bg-red-500'}
-            animate-[feedbackPoof_1.5s_ease-out_forwards]
+            animate-[feedbackPoof_0.75s_ease-out_forwards]
           `}>
             <span className="text-white text-4xl font-bold">
               {feedbackPosition.isCorrect ? '✓' : '✕'}

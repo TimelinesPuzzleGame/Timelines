@@ -1,0 +1,1923 @@
+{
+  "slug": "romance",
+  "topic": "Romance",
+  "category": "Entertainment",
+  "subcategory": "Movies/TV",
+  "hideDates": false,
+  "showTooltips": true,
+  "showImageOnPlace": false,
+  "description": "A collection of romantic movies and memorable scenes from cinema history",
+  "cards": [
+    {
+      "id": "horse-feathers",
+      "label": "Horse Feathers",
+      "date": 1932,
+      "year": 1932,
+      "videoId": "0lCPmaq960E",
+      "youtube": "https://www.youtube.com/watch?v=0lCPmaq960E",
+      "tooltip": {
+        "description": "Romance movie from 1932"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "bringing-up-baby",
+      "label": "Bringing Up Baby",
+      "date": 1938,
+      "year": 1938,
+      "videoId": "0JoIRmQW2es",
+      "youtube": "https://www.youtube.com/watch?v=0JoIRmQW2es",
+      "tooltip": {
+        "description": "Romance movie from 1938"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "the-philadelphia-story",
+      "label": "The Philadelphia Story",
+      "date": 1940,
+      "year": 1940,
+      "videoId": "htCHOTJBiSc",
+      "youtube": "https://www.youtube.com/watch?v=htCHOTJBiSc",
+      "tooltip": {
+        "description": "Romance movie from 1940"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "roman-holiday",
+      "label": "Roman Holiday",
+      "date": 1953,
+      "year": 1953,
+      "videoId": "l-PmluGC2wk",
+      "youtube": "https://www.youtube.com/watch?v=l-PmluGC2wk",
+      "tooltip": {
+        "description": "Romance movie from 1953. 2 scenes available."
+      },
+      "showImageOnPlace": false,
+      "variants": [
+        {
+          "id": "roman-holiday-variant-0",
+          "videoId": "6af1dAc9rXo",
+          "youtube": "https://www.youtube.com/watch?v=6af1dAc9rXo",
+          "description": "Roman Holiday (2/10) Movie CLIP - The Mouth of Truth (1953) HD"
+        }
+      ],
+      "variantCount": 1
+    },
+    {
+      "id": "on-the-waterfront",
+      "label": "On the Waterfront",
+      "date": 1954,
+      "year": 1954,
+      "videoId": "UZqpweWv5_0",
+      "youtube": "https://www.youtube.com/watch?v=UZqpweWv5_0",
+      "tooltip": {
+        "description": "Romance movie from 1954"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "marty",
+      "label": "Marty",
+      "date": 1955,
+      "year": 1955,
+      "videoId": "ns_HTpxc-g4",
+      "youtube": "https://www.youtube.com/watch?v=ns_HTpxc-g4",
+      "tooltip": {
+        "description": "Romance movie from 1955"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "the-big-country",
+      "label": "The Big Country",
+      "date": 1958,
+      "year": 1958,
+      "videoId": "tYGiUUnoZhk",
+      "youtube": "https://www.youtube.com/watch?v=tYGiUUnoZhk",
+      "tooltip": {
+        "description": "Romance movie from 1958"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "breakfast-at-tiffany-s",
+      "label": "Breakfast at Tiffany's",
+      "date": 1961,
+      "year": 1961,
+      "videoId": "YQdnuL6YRBc",
+      "youtube": "https://www.youtube.com/watch?v=YQdnuL6YRBc",
+      "tooltip": {
+        "description": "Romance movie from 1961. 2 scenes available."
+      },
+      "showImageOnPlace": false,
+      "variants": [
+        {
+          "id": "breakfast-at-tiffany-s-variant-0",
+          "videoId": "rVFi-yeTe5g",
+          "youtube": "https://www.youtube.com/watch?v=rVFi-yeTe5g",
+          "description": "Breakfast at Tiffany's (6/9) Movie CLIP - Cracker Jack Prizes (1961) HD"
+        }
+      ],
+      "variantCount": 1
+    },
+    {
+      "id": "goodbye-columbus",
+      "label": "Goodbye, Columbus",
+      "date": 1969,
+      "year": 1969,
+      "videoId": "HapeoGg80EA",
+      "youtube": "https://www.youtube.com/watch?v=HapeoGg80EA",
+      "tooltip": {
+        "description": "Romance movie from 1969"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "love-story",
+      "label": "Love Story",
+      "date": 1970,
+      "year": 1970,
+      "videoId": "qb4Rfj1wp0Q",
+      "youtube": "https://www.youtube.com/watch?v=qb4Rfj1wp0Q",
+      "tooltip": {
+        "description": "Romance movie from 1970"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "harold-and-maude",
+      "label": "Harold and Maude",
+      "date": 1971,
+      "year": 1971,
+      "videoId": "LYppdp_2GCk",
+      "youtube": "https://www.youtube.com/watch?v=LYppdp_2GCk",
+      "tooltip": {
+        "description": "Romance movie from 1971. 2 scenes available."
+      },
+      "showImageOnPlace": false,
+      "variants": [
+        {
+          "id": "harold-and-maude-variant-0",
+          "videoId": "RU3F4QPUVQw",
+          "youtube": "https://www.youtube.com/watch?v=RU3F4QPUVQw",
+          "description": "Harold and Maude (4/8) Movie CLIP - He Seems Very Nice (1971) HD"
+        }
+      ],
+      "variantCount": 1
+    },
+    {
+      "id": "play-it-again-sam",
+      "label": "Play It Again, Sam",
+      "date": 1972,
+      "year": 1972,
+      "videoId": "au5XE48PEeU",
+      "youtube": "https://www.youtube.com/watch?v=au5XE48PEeU",
+      "tooltip": {
+        "description": "Romance movie from 1972. 2 scenes available."
+      },
+      "showImageOnPlace": false,
+      "variants": [
+        {
+          "id": "play-it-again-sam-variant-0",
+          "videoId": "WdfgoDKArzM",
+          "youtube": "https://www.youtube.com/watch?v=WdfgoDKArzM",
+          "description": "Play It Again, Sam (3/10) Movie CLIP - She Digs Me (1972) HD"
+        }
+      ],
+      "variantCount": 1
+    },
+    {
+      "id": "last-tango-in-paris",
+      "label": "Last Tango in Paris",
+      "date": 1972,
+      "year": 1972,
+      "videoId": "dQGlAzHgPw8",
+      "youtube": "https://www.youtube.com/watch?v=dQGlAzHgPw8",
+      "tooltip": {
+        "description": "Romance movie from 1972"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "american-graffiti",
+      "label": "American Graffiti",
+      "date": 1973,
+      "year": 1973,
+      "videoId": "6e3dn30X5D4",
+      "youtube": "https://www.youtube.com/watch?v=6e3dn30X5D4",
+      "tooltip": {
+        "description": "Romance movie from 1973"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "rocky",
+      "label": "Rocky",
+      "date": 1976,
+      "year": 1976,
+      "videoId": "jK4lxjvrhHs",
+      "youtube": "https://www.youtube.com/watch?v=jK4lxjvrhHs",
+      "tooltip": {
+        "description": "Romance movie from 1976"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "stay-hungry",
+      "label": "Stay Hungry",
+      "date": 1976,
+      "year": 1976,
+      "videoId": "SQ_rMhKlNFE",
+      "youtube": "https://www.youtube.com/watch?v=SQ_rMhKlNFE",
+      "tooltip": {
+        "description": "Romance movie from 1976. 2 scenes available."
+      },
+      "showImageOnPlace": false,
+      "variants": [
+        {
+          "id": "stay-hungry-variant-0",
+          "videoId": "Xk7IjHYLVH4",
+          "youtube": "https://www.youtube.com/watch?v=Xk7IjHYLVH4",
+          "description": "Stay Hungry (5/11) Movie CLIP - Making Out with Mary Tate (1976) HD"
+        }
+      ],
+      "variantCount": 1
+    },
+    {
+      "id": "annie-hall",
+      "label": "Annie Hall",
+      "date": 1977,
+      "year": 1977,
+      "videoId": "lXy9Lp8bu98",
+      "youtube": "https://www.youtube.com/watch?v=lXy9Lp8bu98",
+      "tooltip": {
+        "description": "Romance movie from 1977"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "grease",
+      "label": "Grease",
+      "date": 1978,
+      "year": 1978,
+      "videoId": "FWrh6KWGFo0",
+      "youtube": "https://www.youtube.com/watch?v=FWrh6KWGFo0",
+      "tooltip": {
+        "description": "Romance movie from 1978. 2 scenes available."
+      },
+      "showImageOnPlace": false,
+      "variants": [
+        {
+          "id": "grease-variant-0",
+          "videoId": "wsQJVAzezrc",
+          "youtube": "https://www.youtube.com/watch?v=wsQJVAzezrc",
+          "description": "Grease (1978) - Sin Wagon Scene (8/10) | Movieclips"
+        }
+      ],
+      "variantCount": 1
+    },
+    {
+      "id": "an-almost-perfect-affair",
+      "label": "An Almost Perfect Affair",
+      "date": 1979,
+      "year": 1979,
+      "videoId": "j3k3xWKZIn8",
+      "youtube": "https://www.youtube.com/watch?v=j3k3xWKZIn8",
+      "tooltip": {
+        "description": "Romance movie from 1979. 2 scenes available."
+      },
+      "showImageOnPlace": false,
+      "variants": [
+        {
+          "id": "an-almost-perfect-affair-variant-0",
+          "videoId": "pFxOuE_0wqc",
+          "youtube": "https://www.youtube.com/watch?v=pFxOuE_0wqc",
+          "description": "An Almost Perfect Affair (4/8) Movie CLIP - Something Better to Worry About (1979) HD"
+        }
+      ],
+      "variantCount": 1
+    },
+    {
+      "id": "the-jerk",
+      "label": "The Jerk",
+      "date": 1979,
+      "year": 1979,
+      "videoId": "yJJA6WRpvlg",
+      "youtube": "https://www.youtube.com/watch?v=yJJA6WRpvlg",
+      "tooltip": {
+        "description": "Romance movie from 1979"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "the-best-little-whorehouse-in-texas",
+      "label": "The Best Little Whorehouse in Texas",
+      "date": 1982,
+      "year": 1982,
+      "videoId": "wr5-v7rYg70",
+      "youtube": "https://www.youtube.com/watch?v=wr5-v7rYg70",
+      "tooltip": {
+        "description": "Romance movie from 1982"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "daniel-and-ali-s-first-date",
+      "label": "Daniel and Ali's First Date",
+      "date": 1984,
+      "year": 1984,
+      "videoId": "zJfuNE2rsPY",
+      "youtube": "https://www.youtube.com/watch?v=zJfuNE2rsPY",
+      "tooltip": {
+        "description": "Romance movie from 1984"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "about-last-night",
+      "label": "About Last Night",
+      "date": 1986,
+      "year": 1986,
+      "videoId": "Pr1d-Hv45Ck",
+      "youtube": "https://www.youtube.com/watch?v=Pr1d-Hv45Ck",
+      "tooltip": {
+        "description": "Romance movie from 1986"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "pretty-in-pink",
+      "label": "Pretty in Pink",
+      "date": 1986,
+      "year": 1986,
+      "videoId": "t8HQInlblys",
+      "youtube": "https://www.youtube.com/watch?v=t8HQInlblys",
+      "tooltip": {
+        "description": "Romance movie from 1986"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "moonstruck",
+      "label": "Moonstruck",
+      "date": 1987,
+      "year": 1987,
+      "videoId": "k7WkN_gPNaM",
+      "youtube": "https://www.youtube.com/watch?v=k7WkN_gPNaM",
+      "tooltip": {
+        "description": "Romance movie from 1987. 3 scenes available."
+      },
+      "showImageOnPlace": false,
+      "variants": [
+        {
+          "id": "moonstruck-variant-0",
+          "videoId": "AXgHBzoymaQ",
+          "youtube": "https://www.youtube.com/watch?v=AXgHBzoymaQ",
+          "description": "Moonstruck (8/11) Movie CLIP - Pop and Mona (1987) HD"
+        },
+        {
+          "id": "moonstruck-variant-1",
+          "videoId": "-n3qpOM31Pc",
+          "youtube": "https://www.youtube.com/watch?v=-n3qpOM31Pc",
+          "description": "Moonstruck (6/11) Movie CLIP - A Wolf Without a Foot (1987) HD"
+        }
+      ],
+      "variantCount": 2
+    },
+    {
+      "id": "overboard",
+      "label": "Overboard",
+      "date": 1987,
+      "year": 1987,
+      "videoId": "YtWJKXNMmhI",
+      "youtube": "https://www.youtube.com/watch?v=YtWJKXNMmhI",
+      "tooltip": {
+        "description": "Romance movie from 1987. 2 scenes available."
+      },
+      "showImageOnPlace": false,
+      "variants": [
+        {
+          "id": "overboard-variant-0",
+          "videoId": "eFF1grhBvsE",
+          "youtube": "https://www.youtube.com/watch?v=eFF1grhBvsE",
+          "description": "Overboard (2018) - I'm Married?! Scene (3/10) | Movieclips"
+        }
+      ],
+      "variantCount": 1
+    },
+    {
+      "id": "blind-date",
+      "label": "Blind Date",
+      "date": 1987,
+      "year": 1987,
+      "videoId": "CjNjDaNpU0s",
+      "youtube": "https://www.youtube.com/watch?v=CjNjDaNpU0s",
+      "tooltip": {
+        "description": "Romance movie from 1987"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "the-princess-bride",
+      "label": "The Princess Bride",
+      "date": 1987,
+      "year": 1987,
+      "videoId": "niul8Hy-3wk",
+      "youtube": "https://www.youtube.com/watch?v=niul8Hy-3wk",
+      "tooltip": {
+        "description": "Romance movie from 1987"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "hunting-for-words",
+      "label": "Hunting for Words",
+      "date": 1987,
+      "year": 1987,
+      "videoId": "_PZ_LyJfYe8",
+      "youtube": "https://www.youtube.com/watch?v=_PZ_LyJfYe8",
+      "tooltip": {
+        "description": "Romance movie from 1987"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "say-anything-",
+      "label": "Say Anything...",
+      "date": 1989,
+      "year": 1989,
+      "videoId": "S5Y8tFQ01OY",
+      "youtube": "https://www.youtube.com/watch?v=S5Y8tFQ01OY",
+      "tooltip": {
+        "description": "Romance movie from 1989"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "when-harry-met-sally-",
+      "label": "When Harry Met Sally...",
+      "date": 1989,
+      "year": 1989,
+      "videoId": "lNEX0fbGePg",
+      "youtube": "https://www.youtube.com/watch?v=lNEX0fbGePg",
+      "tooltip": {
+        "description": "Romance movie from 1989"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "cry",
+      "label": "Cry",
+      "date": 1990,
+      "year": 1990,
+      "videoId": "sTDhNLLglf8",
+      "youtube": "https://www.youtube.com/watch?v=sTDhNLLglf8",
+      "tooltip": {
+        "description": "Romance movie from 1990"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "frankie-and-johnny",
+      "label": "Frankie and Johnny",
+      "date": 1991,
+      "year": 1991,
+      "videoId": "KwnTYy2p0AE",
+      "youtube": "https://www.youtube.com/watch?v=KwnTYy2p0AE",
+      "tooltip": {
+        "description": "Romance movie from 1991"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "the-butcher-s-wife",
+      "label": "The Butcher's Wife",
+      "date": 1991,
+      "year": 1991,
+      "videoId": "-uhpev-dp2M",
+      "youtube": "https://www.youtube.com/watch?v=-uhpev-dp2M",
+      "tooltip": {
+        "description": "Romance movie from 1991"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "wayne-s-world",
+      "label": "Wayne's World",
+      "date": 1992,
+      "year": 1992,
+      "videoId": "nV9U23YXgiY",
+      "youtube": "https://www.youtube.com/watch?v=nV9U23YXgiY",
+      "tooltip": {
+        "description": "Romance movie from 1992"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "boomerang",
+      "label": "Boomerang",
+      "date": 1992,
+      "year": 1992,
+      "videoId": "NP7_SIRfo-c",
+      "youtube": "https://www.youtube.com/watch?v=NP7_SIRfo-c",
+      "tooltip": {
+        "description": "Romance movie from 1992"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "jonah-interrupts-sam-s-date",
+      "label": "Jonah Interrupts Sam's Date",
+      "date": 1993,
+      "year": 1993,
+      "videoId": "VCRyYN8DfUU",
+      "youtube": "https://www.youtube.com/watch?v=VCRyYN8DfUU",
+      "tooltip": {
+        "description": "Romance movie from 1993"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "finally-meeting",
+      "label": "Finally Meeting",
+      "date": 1993,
+      "year": 1993,
+      "videoId": "qeY1mkXqKgk",
+      "youtube": "https://www.youtube.com/watch?v=qeY1mkXqKgk",
+      "tooltip": {
+        "description": "Romance movie from 1993"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "groundhog-day",
+      "label": "Groundhog Day",
+      "date": 1993,
+      "year": 1993,
+      "videoId": "ZNn6J56J5HE",
+      "youtube": "https://www.youtube.com/watch?v=ZNn6J56J5HE",
+      "tooltip": {
+        "description": "Romance movie from 1993"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "pulp-fiction",
+      "label": "Pulp Fiction",
+      "date": 1994,
+      "year": 1994,
+      "videoId": "MWkN3akP3cU",
+      "youtube": "https://www.youtube.com/watch?v=MWkN3akP3cU",
+      "tooltip": {
+        "description": "Romance movie from 1994"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "reality-bites",
+      "label": "Reality Bites",
+      "date": 1994,
+      "year": 1994,
+      "videoId": "YVOKgKYJB2E",
+      "youtube": "https://www.youtube.com/watch?v=YVOKgKYJB2E",
+      "tooltip": {
+        "description": "Romance movie from 1994"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "four-weddings-and-a-funeral",
+      "label": "Four Weddings and a Funeral",
+      "date": 1994,
+      "year": 1994,
+      "videoId": "mw3M1fIiegc",
+      "youtube": "https://www.youtube.com/watch?v=mw3M1fIiegc",
+      "tooltip": {
+        "description": "Romance movie from 1994"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "the-brady-bunch-movie",
+      "label": "The Brady Bunch Movie",
+      "date": 1995,
+      "year": 1995,
+      "videoId": "mVqKHUtKh8Y",
+      "youtube": "https://www.youtube.com/watch?v=mVqKHUtKh8Y",
+      "tooltip": {
+        "description": "Romance movie from 1995. 2 scenes available."
+      },
+      "showImageOnPlace": false,
+      "variants": [
+        {
+          "id": "the-brady-bunch-movie-variant-0",
+          "videoId": "EIz94vt-Opo",
+          "youtube": "https://www.youtube.com/watch?v=EIz94vt-Opo",
+          "description": "The Brady Bunch Movie (7/10) Movie CLIP - Marsha's French Kiss (1995) HD"
+        }
+      ],
+      "variantCount": 1
+    },
+    {
+      "id": "heat",
+      "label": "Heat",
+      "date": 1995,
+      "year": 1995,
+      "videoId": "JqDoUCcJHPU",
+      "youtube": "https://www.youtube.com/watch?v=JqDoUCcJHPU",
+      "tooltip": {
+        "description": "Romance movie from 1995"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "kicking-and-screaming",
+      "label": "Kicking and Screaming",
+      "date": 1995,
+      "year": 1995,
+      "videoId": "cLmDqUnUEE0",
+      "youtube": "https://www.youtube.com/watch?v=cLmDqUnUEE0",
+      "tooltip": {
+        "description": "Romance movie from 1995"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "clueless",
+      "label": "Clueless",
+      "date": 1995,
+      "year": 1995,
+      "videoId": "0_ArO8UCfyk",
+      "youtube": "https://www.youtube.com/watch?v=0_ArO8UCfyk",
+      "tooltip": {
+        "description": "Romance movie from 1995"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "the-pallbearer",
+      "label": "The Pallbearer",
+      "date": 1996,
+      "year": 1996,
+      "videoId": "P5GNspEWA68",
+      "youtube": "https://www.youtube.com/watch?v=P5GNspEWA68",
+      "tooltip": {
+        "description": "Romance movie from 1996"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "the-evening-star",
+      "label": "The Evening Star",
+      "date": 1996,
+      "year": 1996,
+      "videoId": "Hv-n7C1EU3U",
+      "youtube": "https://www.youtube.com/watch?v=Hv-n7C1EU3U",
+      "tooltip": {
+        "description": "Romance movie from 1996"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "a-very-brady-sequel",
+      "label": "A Very Brady Sequel",
+      "date": 1996,
+      "year": 1996,
+      "videoId": "JR_bnlkaEss",
+      "youtube": "https://www.youtube.com/watch?v=JR_bnlkaEss",
+      "tooltip": {
+        "description": "Romance movie from 1996"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "the-nutty-professor",
+      "label": "The Nutty Professor",
+      "date": 1996,
+      "year": 1996,
+      "videoId": "iB25eDhWImc",
+      "youtube": "https://www.youtube.com/watch?v=iB25eDhWImc",
+      "tooltip": {
+        "description": "Romance movie from 1996"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "you-make-me-want-to-be-a-better-man",
+      "label": "You Make Me Want to Be a Better Man",
+      "date": 1997,
+      "year": 1997,
+      "videoId": "A75AgrH5eqc",
+      "youtube": "https://www.youtube.com/watch?v=A75AgrH5eqc",
+      "tooltip": {
+        "description": "Romance movie from 1997"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "life-is-beautiful",
+      "label": "Life is Beautiful",
+      "date": 1997,
+      "year": 1997,
+      "videoId": "Am-uvoQN72E",
+      "youtube": "https://www.youtube.com/watch?v=Am-uvoQN72E",
+      "tooltip": {
+        "description": "Romance movie from 1997"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "how-you-like-them-apples-",
+      "label": "How You Like Them Apples?",
+      "date": 1997,
+      "year": 1997,
+      "videoId": "gcZPWkNY6x8",
+      "youtube": "https://www.youtube.com/watch?v=gcZPWkNY6x8",
+      "tooltip": {
+        "description": "Romance movie from 1997"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "as-good-as-it-gets",
+      "label": "As Good as It Gets",
+      "date": 1997,
+      "year": 1997,
+      "videoId": "l59t24vh3QI",
+      "youtube": "https://www.youtube.com/watch?v=l59t24vh3QI",
+      "tooltip": {
+        "description": "Romance movie from 1997"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "my-best-friend-s-wedding",
+      "label": "My Best Friend's Wedding",
+      "date": 1997,
+      "year": 1997,
+      "videoId": "9ExnVKy8hao",
+      "youtube": "https://www.youtube.com/watch?v=9ExnVKy8hao",
+      "tooltip": {
+        "description": "Romance movie from 1997"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "chasing-amy",
+      "label": "Chasing Amy",
+      "date": 1997,
+      "year": 1997,
+      "videoId": "g1JAILio6-s",
+      "youtube": "https://www.youtube.com/watch?v=g1JAILio6-s",
+      "tooltip": {
+        "description": "Romance movie from 1997"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "half-baked",
+      "label": "Half Baked",
+      "date": 1998,
+      "year": 1998,
+      "videoId": "dHPnUPFcxdE",
+      "youtube": "https://www.youtube.com/watch?v=dHPnUPFcxdE",
+      "tooltip": {
+        "description": "Romance movie from 1998"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "you-ve-got-mail",
+      "label": "You've Got Mail",
+      "date": 1998,
+      "year": 1998,
+      "videoId": "3TA-GALQJfM",
+      "youtube": "https://www.youtube.com/watch?v=3TA-GALQJfM",
+      "tooltip": {
+        "description": "Romance movie from 1998. 4 scenes available."
+      },
+      "showImageOnPlace": false,
+      "variants": [
+        {
+          "id": "you-ve-got-mail-variant-0",
+          "videoId": "8yX0E-XQcms",
+          "youtube": "https://www.youtube.com/watch?v=8yX0E-XQcms",
+          "description": "You've Got Mail (1/5) Movie CLIP - Very First Zinger (1998) HD"
+        },
+        {
+          "id": "you-ve-got-mail-variant-1",
+          "videoId": "EVlaur-kEds",
+          "youtube": "https://www.youtube.com/watch?v=EVlaur-kEds",
+          "description": "You've Got Mail (4/5) Movie CLIP - What If (1998) HD"
+        },
+        {
+          "id": "you-ve-got-mail-variant-2",
+          "videoId": "2cjvwTzhG8g",
+          "youtube": "https://www.youtube.com/watch?v=2cjvwTzhG8g",
+          "description": "You've Got Mail (5/5) Movie CLIP - I Wanted It To Be You (1998) HD"
+        }
+      ],
+      "variantCount": 3
+    },
+    {
+      "id": "sliding-doors",
+      "label": "Sliding Doors",
+      "date": 1998,
+      "year": 1998,
+      "videoId": "sj93sTcEJYA",
+      "youtube": "https://www.youtube.com/watch?v=sj93sTcEJYA",
+      "tooltip": {
+        "description": "Romance movie from 1998. 2 scenes available."
+      },
+      "showImageOnPlace": false,
+      "variants": [
+        {
+          "id": "sliding-doors-variant-0",
+          "videoId": "X5wAXtQ0oDY",
+          "youtube": "https://www.youtube.com/watch?v=X5wAXtQ0oDY",
+          "description": "Sliding Doors (5/12) Movie CLIP - An Ideal Kissing Moment (1998) HD"
+        }
+      ],
+      "variantCount": 1
+    },
+    {
+      "id": "how-stella-got-her-groove-back",
+      "label": "How Stella Got Her Groove Back",
+      "date": 1998,
+      "year": 1998,
+      "videoId": "0PCcz5_8IEI",
+      "youtube": "https://www.youtube.com/watch?v=0PCcz5_8IEI",
+      "tooltip": {
+        "description": "Romance movie from 1998"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "the-wedding-singer",
+      "label": "The Wedding Singer",
+      "date": 1998,
+      "year": 1998,
+      "videoId": "TPsW2FYprfI",
+      "youtube": "https://www.youtube.com/watch?v=TPsW2FYprfI",
+      "tooltip": {
+        "description": "Romance movie from 1998"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "shakespeare-in-love",
+      "label": "Shakespeare in Love",
+      "date": 1998,
+      "year": 1998,
+      "videoId": "XrxIR2uja8w",
+      "youtube": "https://www.youtube.com/watch?v=XrxIR2uja8w",
+      "tooltip": {
+        "description": "Romance movie from 1998"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "there-s-something-about-mary",
+      "label": "There's Something About Mary",
+      "date": 1998,
+      "year": 1998,
+      "videoId": "4PcxtcrI9_U",
+      "youtube": "https://www.youtube.com/watch?v=4PcxtcrI9_U",
+      "tooltip": {
+        "description": "Romance movie from 1998"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "notting-hill",
+      "label": "Notting Hill",
+      "date": 1999,
+      "year": 1999,
+      "videoId": "RESwG23_YGw",
+      "youtube": "https://www.youtube.com/watch?v=RESwG23_YGw",
+      "tooltip": {
+        "description": "Romance movie from 1999"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "never-been-kissed",
+      "label": "Never Been Kissed",
+      "date": 1999,
+      "year": 1999,
+      "videoId": "hEY2L9sXjwU",
+      "youtube": "https://www.youtube.com/watch?v=hEY2L9sXjwU",
+      "tooltip": {
+        "description": "Romance movie from 1999"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "runaway-bride",
+      "label": "Runaway Bride",
+      "date": 1999,
+      "year": 1999,
+      "videoId": "qYbwQoq9XfI",
+      "youtube": "https://www.youtube.com/watch?v=qYbwQoq9XfI",
+      "tooltip": {
+        "description": "Romance movie from 1999"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "she-s-all-that",
+      "label": "She's All That",
+      "date": 1999,
+      "year": 1999,
+      "videoId": "nimkNFEKUkY",
+      "youtube": "https://www.youtube.com/watch?v=nimkNFEKUkY",
+      "tooltip": {
+        "description": "Romance movie from 1999"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "anchorman-the-legend-of-ron-burgundy",
+      "label": "Anchorman: The Legend of Ron Burgundy",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "_c_ufaxeSTs",
+      "youtube": "https://www.youtube.com/watch?v=_c_ufaxeSTs",
+      "tooltip": {
+        "description": "Romance movie from 2000"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "love-sex",
+      "label": "Love & Sex",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "4nGA9zBslBg",
+      "youtube": "https://www.youtube.com/watch?v=4nGA9zBslBg",
+      "tooltip": {
+        "description": "Romance movie from 2000"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "down-to-you",
+      "label": "Down to You",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "hohZbtTAtRA",
+      "youtube": "https://www.youtube.com/watch?v=hohZbtTAtRA",
+      "tooltip": {
+        "description": "Romance movie from 2000"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "what-women-want",
+      "label": "What Women Want",
+      "date": 2000,
+      "year": 2000,
+      "videoId": "FeoFv3dOeqo",
+      "youtube": "https://www.youtube.com/watch?v=FeoFv3dOeqo",
+      "tooltip": {
+        "description": "Romance movie from 2000"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "kate-leopold",
+      "label": "Kate & Leopold",
+      "date": 2001,
+      "year": 2001,
+      "videoId": "tBw_BTLbjJI",
+      "youtube": "https://www.youtube.com/watch?v=tBw_BTLbjJI",
+      "tooltip": {
+        "description": "Romance movie from 2001. 2 scenes available."
+      },
+      "showImageOnPlace": false,
+      "variants": [
+        {
+          "id": "kate-leopold-variant-0",
+          "videoId": "bSE3gq6Sf6Y",
+          "youtube": "https://www.youtube.com/watch?v=bSE3gq6Sf6Y",
+          "description": "Kate & Leopold (6/12) Movie CLIP - Rooftop Date (2001) HD"
+        }
+      ],
+      "variantCount": 1
+    },
+    {
+      "id": "the-score",
+      "label": "The Score",
+      "date": 2001,
+      "year": 2001,
+      "videoId": "ph2dq-pPBnA",
+      "youtube": "https://www.youtube.com/watch?v=ph2dq-pPBnA",
+      "tooltip": {
+        "description": "Romance movie from 2001"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "lovely-amazing",
+      "label": "Lovely & Amazing",
+      "date": 2001,
+      "year": 2001,
+      "videoId": "yfrnQMbd64w",
+      "youtube": "https://www.youtube.com/watch?v=yfrnQMbd64w",
+      "tooltip": {
+        "description": "Romance movie from 2001"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "bridget-jones-s-diary",
+      "label": "Bridget Jones's Diary",
+      "date": 2001,
+      "year": 2001,
+      "videoId": "MCXx5saaKOk",
+      "youtube": "https://www.youtube.com/watch?v=MCXx5saaKOk",
+      "tooltip": {
+        "description": "Romance movie from 2001"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "kissing-jessica-stein",
+      "label": "Kissing Jessica Stein",
+      "date": 2001,
+      "year": 2001,
+      "videoId": "uy_2GCNyzgk",
+      "youtube": "https://www.youtube.com/watch?v=uy_2GCNyzgk",
+      "tooltip": {
+        "description": "Romance movie from 2001"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "far-from-heaven",
+      "label": "Far from Heaven",
+      "date": 2002,
+      "year": 2002,
+      "videoId": "EbyOz1yJgYs",
+      "youtube": "https://www.youtube.com/watch?v=EbyOz1yJgYs",
+      "tooltip": {
+        "description": "Romance movie from 2002"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "40-days-and-40-nights",
+      "label": "40 Days and 40 Nights",
+      "date": 2002,
+      "year": 2002,
+      "videoId": "97QNsiDKamk",
+      "youtube": "https://www.youtube.com/watch?v=97QNsiDKamk",
+      "tooltip": {
+        "description": "Romance movie from 2002. 2 scenes available."
+      },
+      "showImageOnPlace": false,
+      "variants": [
+        {
+          "id": "40-days-and-40-nights-variant-0",
+          "videoId": "I2rWcnXUllw",
+          "youtube": "https://www.youtube.com/watch?v=I2rWcnXUllw",
+          "description": "40 Days and 40 Nights (8/12) Movie CLIP - All That Matters is the Kiss (2002) HD"
+        }
+      ],
+      "variantCount": 1
+    },
+    {
+      "id": "about-a-boy",
+      "label": "About a Boy",
+      "date": 2002,
+      "year": 2002,
+      "videoId": "gWB-uAtqUIs",
+      "youtube": "https://www.youtube.com/watch?v=gWB-uAtqUIs",
+      "tooltip": {
+        "description": "Romance movie from 2002"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "two-weeks-notice",
+      "label": "Two Weeks Notice",
+      "date": 2002,
+      "year": 2002,
+      "videoId": "aG55Y-zpxyo",
+      "youtube": "https://www.youtube.com/watch?v=aG55Y-zpxyo",
+      "tooltip": {
+        "description": "Romance movie from 2002. 2 scenes available."
+      },
+      "showImageOnPlace": false,
+      "variants": [
+        {
+          "id": "two-weeks-notice-variant-0",
+          "videoId": "W59U7VWHZ1Y",
+          "youtube": "https://www.youtube.com/watch?v=W59U7VWHZ1Y",
+          "description": "Two Weeks Notice (4/6) Movie CLIP - Not in a Good Way (2002) HD"
+        }
+      ],
+      "variantCount": 1
+    },
+    {
+      "id": "assassination-tango",
+      "label": "Assassination Tango",
+      "date": 2002,
+      "year": 2002,
+      "videoId": "kNMc5CKw4G0",
+      "youtube": "https://www.youtube.com/watch?v=kNMc5CKw4G0",
+      "tooltip": {
+        "description": "Romance movie from 2002"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "brown-sugar",
+      "label": "Brown Sugar",
+      "date": 2002,
+      "year": 2002,
+      "videoId": "___OJkS9RK0",
+      "youtube": "https://www.youtube.com/watch?v=___OJkS9RK0",
+      "tooltip": {
+        "description": "Romance movie from 2002"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "anger-management",
+      "label": "Anger Management",
+      "date": 2003,
+      "year": 2003,
+      "videoId": "bQzh5ugYzPg",
+      "youtube": "https://www.youtube.com/watch?v=bQzh5ugYzPg",
+      "tooltip": {
+        "description": "Romance movie from 2003"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "our-family-album",
+      "label": "Our Family Album",
+      "date": 2003,
+      "year": 2003,
+      "videoId": "HcHdy_Vc1DY",
+      "youtube": "https://www.youtube.com/watch?v=HcHdy_Vc1DY",
+      "tooltip": {
+        "description": "Romance movie from 2003"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "how-to-lose-a-guy-in-10-days",
+      "label": "How to Lose a Guy in 10 Days",
+      "date": 2003,
+      "year": 2003,
+      "videoId": "AkOcZ0S8vDg",
+      "youtube": "https://www.youtube.com/watch?v=AkOcZ0S8vDg",
+      "tooltip": {
+        "description": "Romance movie from 2003"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "love-actually",
+      "label": "Love Actually",
+      "date": 2003,
+      "year": 2003,
+      "videoId": "_ghkHlthIqM",
+      "youtube": "https://www.youtube.com/watch?v=_ghkHlthIqM",
+      "tooltip": {
+        "description": "Romance movie from 2003"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "before-sunset",
+      "label": "Before Sunset",
+      "date": 2004,
+      "year": 2004,
+      "videoId": "60ldo3xGfGY",
+      "youtube": "https://www.youtube.com/watch?v=60ldo3xGfGY",
+      "tooltip": {
+        "description": "Romance movie from 2004"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "win-a-date-with-tad-hamilton-",
+      "label": "Win a Date with Tad Hamilton!",
+      "date": 2004,
+      "year": 2004,
+      "videoId": "RKBZx9XsCuE",
+      "youtube": "https://www.youtube.com/watch?v=RKBZx9XsCuE",
+      "tooltip": {
+        "description": "Romance movie from 2004. 2 scenes available."
+      },
+      "showImageOnPlace": false,
+      "variants": [
+        {
+          "id": "win-a-date-with-tad-hamilton--variant-0",
+          "videoId": "kh1sYuFgUAM",
+          "youtube": "https://www.youtube.com/watch?v=kh1sYuFgUAM",
+          "description": "Win a Date with Tad Hamilton! (4/10) Movie CLIP - A Kiss Goodbye (2004) HD"
+        }
+      ],
+      "variantCount": 1
+    },
+    {
+      "id": "nothing-beats-a-first-kiss",
+      "label": "Nothing Beats a First Kiss",
+      "date": 2004,
+      "year": 2004,
+      "videoId": "xHrOaF4Dq5U",
+      "youtube": "https://www.youtube.com/watch?v=xHrOaF4Dq5U",
+      "tooltip": {
+        "description": "Romance movie from 2004"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "hitch",
+      "label": "Hitch",
+      "date": 2005,
+      "year": 2005,
+      "videoId": "50YQeugOMOw",
+      "youtube": "https://www.youtube.com/watch?v=50YQeugOMOw",
+      "tooltip": {
+        "description": "Romance movie from 2005. 3 scenes available."
+      },
+      "showImageOnPlace": false,
+      "variants": [
+        {
+          "id": "hitch-variant-0",
+          "videoId": "eKKd33QEB3I",
+          "youtube": "https://www.youtube.com/watch?v=eKKd33QEB3I",
+          "description": "Hitch (5/8) Movie CLIP - Jet Ski Mishap (2005) HD"
+        },
+        {
+          "id": "hitch-variant-1",
+          "videoId": "j2e41FeccuA",
+          "youtube": "https://www.youtube.com/watch?v=j2e41FeccuA",
+          "description": "Hitch (8/8) Movie CLIP - I'm Just As Scared As You Are (2005) HD"
+        }
+      ],
+      "variantCount": 2
+    },
+    {
+      "id": "cake",
+      "label": "Cake",
+      "date": 2005,
+      "year": 2005,
+      "videoId": "FdvsQb7f7uM",
+      "youtube": "https://www.youtube.com/watch?v=FdvsQb7f7uM",
+      "tooltip": {
+        "description": "Romance movie from 2005"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "the-40-year-old-virgin",
+      "label": "The 40 Year Old Virgin",
+      "date": 2005,
+      "year": 2005,
+      "videoId": "99UdqbS8q2M",
+      "youtube": "https://www.youtube.com/watch?v=99UdqbS8q2M",
+      "tooltip": {
+        "description": "Romance movie from 2005. 2 scenes available."
+      },
+      "showImageOnPlace": false,
+      "variants": [
+        {
+          "id": "the-40-year-old-virgin-variant-0",
+          "videoId": "dvm7mLmAtTM",
+          "youtube": "https://www.youtube.com/watch?v=dvm7mLmAtTM",
+          "description": "The 40 Year Old Virgin (8/8) Movie CLIP - I'm a Virgin (2005) HD"
+        }
+      ],
+      "variantCount": 1
+    },
+    {
+      "id": "employee-of-the-month",
+      "label": "Employee of the Month",
+      "date": 2006,
+      "year": 2006,
+      "videoId": "EKd7hAoXDPU",
+      "youtube": "https://www.youtube.com/watch?v=EKd7hAoXDPU",
+      "tooltip": {
+        "description": "Romance movie from 2006"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "something-new",
+      "label": "Something New",
+      "date": 2006,
+      "year": 2006,
+      "videoId": "OSQkcSAw3Ng",
+      "youtube": "https://www.youtube.com/watch?v=OSQkcSAw3Ng",
+      "tooltip": {
+        "description": "Romance movie from 2006"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "she-s-the-man",
+      "label": "She's the Man",
+      "date": 2006,
+      "year": 2006,
+      "videoId": "ntQrC5iclmI",
+      "youtube": "https://www.youtube.com/watch?v=ntQrC5iclmI",
+      "tooltip": {
+        "description": "Romance movie from 2006"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "the-break",
+      "label": "The Break",
+      "date": 2006,
+      "year": 2006,
+      "videoId": "1wc_mZ86ypg",
+      "youtube": "https://www.youtube.com/watch?v=1wc_mZ86ypg",
+      "tooltip": {
+        "description": "Romance movie from 2006"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "the-holiday",
+      "label": "The Holiday",
+      "date": 2006,
+      "year": 2006,
+      "videoId": "5OGX-e6WT88",
+      "youtube": "https://www.youtube.com/watch?v=5OGX-e6WT88",
+      "tooltip": {
+        "description": "Romance movie from 2006"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "the-nanny-diaries",
+      "label": "The Nanny Diaries",
+      "date": 2007,
+      "year": 2007,
+      "videoId": "9sAv5P29YIY",
+      "youtube": "https://www.youtube.com/watch?v=9sAv5P29YIY",
+      "tooltip": {
+        "description": "Romance movie from 2007. 2 scenes available."
+      },
+      "showImageOnPlace": false,
+      "variants": [
+        {
+          "id": "the-nanny-diaries-variant-0",
+          "videoId": "xsnWRnOdpS4",
+          "youtube": "https://www.youtube.com/watch?v=xsnWRnOdpS4",
+          "description": "The Nanny Diaries (7/11) Movie CLIP - Pizza Date (2007) HD"
+        }
+      ],
+      "variantCount": 1
+    },
+    {
+      "id": "how-did-she-die-",
+      "label": "How Did She Die?",
+      "date": 2007,
+      "year": 2007,
+      "videoId": "RupELElQj6E",
+      "youtube": "https://www.youtube.com/watch?v=RupELElQj6E",
+      "tooltip": {
+        "description": "Romance movie from 2007"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "knocked-up",
+      "label": "Knocked Up",
+      "date": 2007,
+      "year": 2007,
+      "videoId": "_qG67vGwgcY",
+      "youtube": "https://www.youtube.com/watch?v=_qG67vGwgcY",
+      "tooltip": {
+        "description": "Romance movie from 2007. 2 scenes available."
+      },
+      "showImageOnPlace": false,
+      "variants": [
+        {
+          "id": "knocked-up-variant-0",
+          "videoId": "rpp930f_fhU",
+          "youtube": "https://www.youtube.com/watch?v=rpp930f_fhU",
+          "description": "Knocked Up (2/10) Movie CLIP - Did We Have Sex? (2007) HD"
+        }
+      ],
+      "variantCount": 1
+    },
+    {
+      "id": "smart-people",
+      "label": "Smart People",
+      "date": 2008,
+      "year": 2008,
+      "videoId": "9pT5FVBFunA",
+      "youtube": "https://www.youtube.com/watch?v=9pT5FVBFunA",
+      "tooltip": {
+        "description": "Romance movie from 2008"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "baby-mama",
+      "label": "Baby Mama",
+      "date": 2008,
+      "year": 2008,
+      "videoId": "kK6QQIvO9gE",
+      "youtube": "https://www.youtube.com/watch?v=kK6QQIvO9gE",
+      "tooltip": {
+        "description": "Romance movie from 2008"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "w-",
+      "label": "W.",
+      "date": 2008,
+      "year": 2008,
+      "videoId": "WriOEr0A1tQ",
+      "youtube": "https://www.youtube.com/watch?v=WriOEr0A1tQ",
+      "tooltip": {
+        "description": "Romance movie from 2008"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "twilight",
+      "label": "Twilight",
+      "date": 2008,
+      "year": 2008,
+      "videoId": "FY2kKLvUL2c",
+      "youtube": "https://www.youtube.com/watch?v=FY2kKLvUL2c",
+      "tooltip": {
+        "description": "Romance movie from 2008"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "the-house-bunny",
+      "label": "The House Bunny",
+      "date": 2008,
+      "year": 2008,
+      "videoId": "jEKFfdQEbcg",
+      "youtube": "https://www.youtube.com/watch?v=jEKFfdQEbcg",
+      "tooltip": {
+        "description": "Romance movie from 2008. 2 scenes available."
+      },
+      "showImageOnPlace": false,
+      "variants": [
+        {
+          "id": "the-house-bunny-variant-0",
+          "videoId": "OJyRbpjlrmA",
+          "youtube": "https://www.youtube.com/watch?v=OJyRbpjlrmA",
+          "description": "The House Bunny (2008) - Second Date Scene (8/10) | Movieclips"
+        }
+      ],
+      "variantCount": 1
+    },
+    {
+      "id": "27-dresses",
+      "label": "27 Dresses",
+      "date": 2008,
+      "year": 2008,
+      "videoId": "eiLeBJUf1iE",
+      "youtube": "https://www.youtube.com/watch?v=eiLeBJUf1iE",
+      "tooltip": {
+        "description": "Romance movie from 2008"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "definitely-maybe",
+      "label": "Definitely, Maybe",
+      "date": 2008,
+      "year": 2008,
+      "videoId": "MFd88DSTPgI",
+      "youtube": "https://www.youtube.com/watch?v=MFd88DSTPgI",
+      "tooltip": {
+        "description": "Romance movie from 2008"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "mamma-mia-",
+      "label": "Mamma Mia!",
+      "date": 2008,
+      "year": 2008,
+      "videoId": "QRoWiTcO7dk",
+      "youtube": "https://www.youtube.com/watch?v=QRoWiTcO7dk",
+      "tooltip": {
+        "description": "Romance movie from 2008"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "forgetting-sarah-marshall",
+      "label": "Forgetting Sarah Marshall",
+      "date": 2008,
+      "year": 2008,
+      "videoId": "4Z3s1fJgCEE",
+      "youtube": "https://www.youtube.com/watch?v=4Z3s1fJgCEE",
+      "tooltip": {
+        "description": "Romance movie from 2008"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "nick-and-norah-s-infinite-playlist",
+      "label": "Nick and Norah's Infinite Playlist",
+      "date": 2008,
+      "year": 2008,
+      "videoId": "zTueXqC-xfI",
+      "youtube": "https://www.youtube.com/watch?v=zTueXqC-xfI",
+      "tooltip": {
+        "description": "Romance movie from 2008"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "adventureland",
+      "label": "Adventureland",
+      "date": 2009,
+      "year": 2009,
+      "videoId": "-xTty5scUwM",
+      "youtube": "https://www.youtube.com/watch?v=-xTty5scUwM",
+      "tooltip": {
+        "description": "Romance movie from 2009. 2 scenes available."
+      },
+      "showImageOnPlace": false,
+      "variants": [
+        {
+          "id": "adventureland-variant-0",
+          "videoId": "kYlPy24WJzU",
+          "youtube": "https://www.youtube.com/watch?v=kYlPy24WJzU",
+          "description": "Adventureland (7/12) Movie CLIP - A Date with Lisa P. (2009) HD"
+        }
+      ],
+      "variantCount": 1
+    },
+    {
+      "id": "up-in-the-air",
+      "label": "Up in the Air",
+      "date": 2009,
+      "year": 2009,
+      "videoId": "EePcWVFtRCU",
+      "youtube": "https://www.youtube.com/watch?v=EePcWVFtRCU",
+      "tooltip": {
+        "description": "Romance movie from 2009"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "public-enemies",
+      "label": "Public Enemies",
+      "date": 2009,
+      "year": 2009,
+      "videoId": "gRNkQRhMUiE",
+      "youtube": "https://www.youtube.com/watch?v=gRNkQRhMUiE",
+      "tooltip": {
+        "description": "Romance movie from 2009"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "-500-days-of-summer",
+      "label": "(500) Days of Summer",
+      "date": 2009,
+      "year": 2009,
+      "videoId": "ARoB1nWPsxo",
+      "youtube": "https://www.youtube.com/watch?v=ARoB1nWPsxo",
+      "tooltip": {
+        "description": "Romance movie from 2009"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "the-ugly-truth",
+      "label": "The Ugly Truth",
+      "date": 2009,
+      "year": 2009,
+      "videoId": "63dFewqs5d4",
+      "youtube": "https://www.youtube.com/watch?v=63dFewqs5d4",
+      "tooltip": {
+        "description": "Romance movie from 2009"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "did-you-hear-about-the-morgans-",
+      "label": "Did You Hear About the Morgans?",
+      "date": 2009,
+      "year": 2009,
+      "videoId": "rYAqCGHF0oM",
+      "youtube": "https://www.youtube.com/watch?v=rYAqCGHF0oM",
+      "tooltip": {
+        "description": "Romance movie from 2009"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "going-the-distance-2",
+      "label": "Going the Distance #2",
+      "date": 2010,
+      "year": 2010,
+      "videoId": "ftAorMqqjy8",
+      "youtube": "https://www.youtube.com/watch?v=ftAorMqqjy8",
+      "tooltip": {
+        "description": "Romance movie from 2010"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "the-fighter",
+      "label": "The Fighter",
+      "date": 2010,
+      "year": 2010,
+      "videoId": "OELFAF76DEU",
+      "youtube": "https://www.youtube.com/watch?v=OELFAF76DEU",
+      "tooltip": {
+        "description": "Romance movie from 2010"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "how-do-you-know",
+      "label": "How Do You Know",
+      "date": 2010,
+      "year": 2010,
+      "videoId": "0vUGHucgEic",
+      "youtube": "https://www.youtube.com/watch?v=0vUGHucgEic",
+      "tooltip": {
+        "description": "Romance movie from 2010"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "my-week-with-marilyn",
+      "label": "My Week with Marilyn",
+      "date": 2011,
+      "year": 2011,
+      "videoId": "nfoIqJWYqX4",
+      "youtube": "https://www.youtube.com/watch?v=nfoIqJWYqX4",
+      "tooltip": {
+        "description": "Romance movie from 2011"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "the-lincoln-lawyer",
+      "label": "The Lincoln Lawyer",
+      "date": 2011,
+      "year": 2011,
+      "videoId": "CcKPNcDGDLs",
+      "youtube": "https://www.youtube.com/watch?v=CcKPNcDGDLs",
+      "tooltip": {
+        "description": "Romance movie from 2011"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "crazy-stupid-love-3",
+      "label": "Crazy, Stupid, Love. #3",
+      "date": 2011,
+      "year": 2011,
+      "videoId": "5e9vyyrP4Zs",
+      "youtube": "https://www.youtube.com/watch?v=5e9vyyrP4Zs",
+      "tooltip": {
+        "description": "Romance movie from 2011"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "crazy-stupid-love-4",
+      "label": "Crazy, Stupid, Love. #4",
+      "date": 2011,
+      "year": 2011,
+      "videoId": "dQoqvTs4lvg",
+      "youtube": "https://www.youtube.com/watch?v=dQoqvTs4lvg",
+      "tooltip": {
+        "description": "Romance movie from 2011"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "jumping-the-broom",
+      "label": "Jumping the Broom",
+      "date": 2011,
+      "year": 2011,
+      "videoId": "s7ougTo-pGg",
+      "youtube": "https://www.youtube.com/watch?v=s7ougTo-pGg",
+      "tooltip": {
+        "description": "Romance movie from 2011"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "just-go-with-it",
+      "label": "Just Go With It",
+      "date": 2011,
+      "year": 2011,
+      "videoId": "Wmo60ltq-TA",
+      "youtube": "https://www.youtube.com/watch?v=Wmo60ltq-TA",
+      "tooltip": {
+        "description": "Romance movie from 2011"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "no-strings-attached",
+      "label": "No Strings Attached",
+      "date": 2011,
+      "year": 2011,
+      "videoId": "EBLS3sCB4rk",
+      "youtube": "https://www.youtube.com/watch?v=EBLS3sCB4rk",
+      "tooltip": {
+        "description": "Romance movie from 2011"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "friends-with-benefits",
+      "label": "Friends with Benefits",
+      "date": 2011,
+      "year": 2011,
+      "videoId": "Y9b8tw9TR2k",
+      "youtube": "https://www.youtube.com/watch?v=Y9b8tw9TR2k",
+      "tooltip": {
+        "description": "Romance movie from 2011"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "think-like-a-man",
+      "label": "Think Like a Man",
+      "date": 2012,
+      "year": 2012,
+      "videoId": "3A97Vc1eExE",
+      "youtube": "https://www.youtube.com/watch?v=3A97Vc1eExE",
+      "tooltip": {
+        "description": "Romance movie from 2012"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "the-five",
+      "label": "The Five",
+      "date": 2012,
+      "year": 2012,
+      "videoId": "UYYIYehBS_s",
+      "youtube": "https://www.youtube.com/watch?v=UYYIYehBS_s",
+      "tooltip": {
+        "description": "Romance movie from 2012"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "bad-words",
+      "label": "Bad Words",
+      "date": 2013,
+      "year": 2013,
+      "videoId": "ssK4Uc8SXnU",
+      "youtube": "https://www.youtube.com/watch?v=ssK4Uc8SXnU",
+      "tooltip": {
+        "description": "Romance movie from 2013"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "think-like-a-man-too",
+      "label": "Think Like a Man Too",
+      "date": 2014,
+      "year": 2014,
+      "videoId": "8VhgYX8xRuw",
+      "youtube": "https://www.youtube.com/watch?v=8VhgYX8xRuw",
+      "tooltip": {
+        "description": "Romance movie from 2014"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "trainwreck",
+      "label": "Trainwreck",
+      "date": 2015,
+      "year": 2015,
+      "videoId": "OCvg2G2SEhU",
+      "youtube": "https://www.youtube.com/watch?v=OCvg2G2SEhU",
+      "tooltip": {
+        "description": "Romance movie from 2015. 2 scenes available."
+      },
+      "showImageOnPlace": false,
+      "variants": [
+        {
+          "id": "trainwreck-variant-0",
+          "videoId": "iHheroBxkuE",
+          "youtube": "https://www.youtube.com/watch?v=iHheroBxkuE",
+          "description": "Trainwreck (2015) - Breathe up Towards the Sky Scene (5/10) | Movieclips"
+        }
+      ],
+      "variantCount": 1
+    },
+    {
+      "id": "la-la-land",
+      "label": "La La Land",
+      "date": 2016,
+      "year": 2016,
+      "videoId": "_8w9rOpV3gc",
+      "youtube": "https://www.youtube.com/watch?v=_8w9rOpV3gc",
+      "tooltip": {
+        "description": "Romance movie from 2016"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "wonder-woman",
+      "label": "Wonder Woman",
+      "date": 2017,
+      "year": 2017,
+      "videoId": "FNA0Ejpu22Y",
+      "youtube": "https://www.youtube.com/watch?v=FNA0Ejpu22Y",
+      "tooltip": {
+        "description": "Romance movie from 2017"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "the-big-sick",
+      "label": "The Big Sick",
+      "date": 2017,
+      "year": 2017,
+      "videoId": "QiK2W8YshS4",
+      "youtube": "https://www.youtube.com/watch?v=QiK2W8YshS4",
+      "tooltip": {
+        "description": "Romance movie from 2017"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "crazy-rich-asians",
+      "label": "Crazy Rich Asians",
+      "date": 2018,
+      "year": 2018,
+      "videoId": "x3sH0RqVPhg",
+      "youtube": "https://www.youtube.com/watch?v=x3sH0RqVPhg",
+      "tooltip": {
+        "description": "Romance movie from 2018"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "long-shot",
+      "label": "Long Shot",
+      "date": 2019,
+      "year": 2019,
+      "videoId": "9_aix5kIORI",
+      "youtube": "https://www.youtube.com/watch?v=9_aix5kIORI",
+      "tooltip": {
+        "description": "Romance movie from 2019"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "what-men-want",
+      "label": "What Men Want",
+      "date": 2019,
+      "year": 2019,
+      "videoId": "75k4CoAyT4I",
+      "youtube": "https://www.youtube.com/watch?v=75k4CoAyT4I",
+      "tooltip": {
+        "description": "Romance movie from 2019"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "last-christmas",
+      "label": "Last Christmas",
+      "date": 2019,
+      "year": 2019,
+      "videoId": "E4XW86WBg2Y",
+      "youtube": "https://www.youtube.com/watch?v=E4XW86WBg2Y",
+      "tooltip": {
+        "description": "Romance movie from 2019"
+      },
+      "showImageOnPlace": false
+    },
+    {
+      "id": "top-gun-maverick",
+      "label": "Top Gun: Maverick",
+      "date": 2022,
+      "year": 2022,
+      "videoId": "FcMWGGr6aRs",
+      "youtube": "https://www.youtube.com/watch?v=FcMWGGr6aRs",
+      "tooltip": {
+        "description": "Romance movie from 2022"
+      },
+      "showImageOnPlace": false
+    }
+  ]
+}
