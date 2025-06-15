@@ -172,6 +172,7 @@ import tvShowIntros from './puzzles/tv-show-intros.json' assert { type: "json" }
 import christmasMovies from './puzzles/christmasMovies.json' assert { type: "json" };
 import westernMovies from './puzzles/westernMovies.json' assert { type: "json" };
 import vampires from './puzzles/vampires.json' assert { type: "json" };
+import bestSongs from './puzzles/BestSongs.json' assert { type: "json" };
 // END IMPORTS
 
 export const puzzles: Puzzle[] = [
@@ -179,6 +180,7 @@ export const puzzles: Puzzle[] = [
   christmasMovies as unknown as Puzzle,
   westernMovies as unknown as Puzzle,
   vampires as unknown as Puzzle,
+  bestSongs as unknown as Puzzle,
   popCulture as Puzzle,
   nbaEvents as Puzzle,
   hitSongs as Puzzle,
