@@ -4,18 +4,9 @@
   "category": "Entertainment",
   "subcategory": "Movies/TV",
   "hideDates": false,
-  "showTooltips": true,
+  "showTooltips": false,
   "showImageOnPlace": false,
   "cards": [
-    {
-      "id": "tv-show-38",
-      "label": "You Bet Your Life",
-      "date": 1950,
-      "youtube": "https://www.youtube.com/watch?v=0oks7gPszxg&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=38&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1950"
-      }
-    },
     {
       "id": "tv-show-191",
       "label": "I Love Lucy",
@@ -26,10 +17,28 @@
       }
     },
     {
+      "id": "tv-show-238",
+      "label": "Adventures of Superman",
+      "date": 1952,
+      "youtube": "https://www.youtube.com/watch?v=Q2l4bz1FT8U&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=238&pp=iAQB",
+      "tooltip": {
+        "description": "Classic TV show that premiered in 1952"
+      }
+    },
+    {
       "id": "tv-show-221",
       "label": "Gunsmoke",
       "date": 1955,
       "youtube": "https://www.youtube.com/watch?v=mskeyYS_2uw&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=221&pp=iAQB",
+      "tooltip": {
+        "description": "Classic TV show that premiered in 1955"
+      }
+    },
+    {
+      "id": "tv-show-296",
+      "label": "The Mighty Mouse Playhouse",
+      "date": 1955,
+      "youtube": "https://www.youtube.com/watch?v=X78i13q-atk&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=296&pp=iAQB",
       "tooltip": {
         "description": "Classic TV show that premiered in 1955"
       }
@@ -44,10 +53,10 @@
       }
     },
     {
-      "id": "tv-show-220",
-      "label": "The Rifleman",
+      "id": "tv-show-213",
+      "label": "Felix the Cat",
       "date": 1958,
-      "youtube": "https://www.youtube.com/watch?v=RsitJZUcFL4&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=220&pp=iAQB0gcJCd4JAYcqIYzv",
+      "youtube": "https://www.youtube.com/watch?v=h2YJduDyFA4&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=213&pp=iAQB",
       "tooltip": {
         "description": "Classic TV show that premiered in 1958"
       }
@@ -71,10 +80,28 @@
       }
     },
     {
-      "id": "tv-show-218",
-      "label": "Rawhide",
+      "id": "tv-show-226",
+      "label": "The Three Stooges",
       "date": 1959,
-      "youtube": "https://www.youtube.com/watch?v=3_rHrLHIeyI&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=218&pp=iAQB",
+      "youtube": "https://www.youtube.com/watch?v=ftc61ciUm1w&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=226&pp=iAQB",
+      "tooltip": {
+        "description": "Classic TV show that premiered in 1959"
+      }
+    },
+    {
+      "id": "tv-show-287",
+      "label": "Bozo the Clown",
+      "date": 1959,
+      "youtube": "https://www.youtube.com/watch?v=hmemTw56_kc&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=287&pp=iAQB",
+      "tooltip": {
+        "description": "Classic TV show that premiered in 1959"
+      }
+    },
+    {
+      "id": "tv-show-451",
+      "label": "Dennis the Menace",
+      "date": 1959,
+      "youtube": "https://www.youtube.com/watch?v=_xtdYavoFkQ&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=451&pp=iAQB",
       "tooltip": {
         "description": "Classic TV show that premiered in 1959"
       }
@@ -107,30 +134,48 @@
       }
     },
     {
-      "id": "tv-show-187",
-      "label": "The Mike Douglas Show",
+      "id": "tv-show-132",
+      "label": "The Famous Adventures of Mr. Magoo",
+      "date": 1960,
+      "youtube": "https://www.youtube.com/watch?v=UUMjRn6AqKo&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=132&pp=iAQB",
+      "tooltip": {
+        "description": "Classic TV show that premiered in 1960"
+      }
+    },
+    {
+      "id": "tv-show-182",
+      "label": "The Flintstones",
+      "date": 1960,
+      "youtube": "https://www.youtube.com/watch?v=2PPf3aaZmUw",
+      "tooltip": {
+        "description": "Classic TV show that premiered in 1960"
+      }
+    },
+    {
+      "id": "tv-show-262",
+      "label": "Candid Camera",
+      "date": 1960,
+      "youtube": "https://www.youtube.com/watch?v=9eH28oAP4bM&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=262&pp=iAQB",
+      "tooltip": {
+        "description": "Classic TV show that premiered in 1960"
+      }
+    },
+    {
+      "id": "tv-show-128",
+      "label": "The Bullwinkle Show",
       "date": 1961,
-      "youtube": "https://www.youtube.com/watch?v=YdCvBCF_o0Y&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=187&pp=iAQB",
+      "youtube": "https://www.youtube.com/watch?v=ejgfnRvAOno&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=128&pp=iAQB",
       "tooltip": {
         "description": "Classic TV show that premiered in 1961"
       }
     },
     {
-      "id": "tv-show-414",
-      "label": "Password",
+      "id": "tv-show-473",
+      "label": "The Joey Bishop Show",
       "date": 1961,
-      "youtube": "https://www.youtube.com/watch?v=gjF2EkKTI18&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=414&pp=iAQB0gcJCd4JAYcqIYzv",
+      "youtube": "https://www.youtube.com/watch?v=HrBjDUEd984&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=473&pp=iAQB",
       "tooltip": {
         "description": "Classic TV show that premiered in 1961"
-      }
-    },
-    {
-      "id": "tv-show-5",
-      "label": "Combat!",
-      "date": 1962,
-      "youtube": "https://www.youtube.com/watch?v=TP5Dhz1LXUg&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=5&pp=iAQB0gcJCd4JAYcqIYzv",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1962"
       }
     },
     {
@@ -152,39 +197,12 @@
       }
     },
     {
-      "id": "tv-show-31",
-      "label": "The Lucy Show",
-      "date": 1962,
-      "youtube": "https://www.youtube.com/watch?v=Eyb-vsES5Qo&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=31&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1962"
-      }
-    },
-    {
-      "id": "tv-show-20",
-      "label": "Petticoat Junction",
+      "id": "tv-show-405",
+      "label": "General Hospital",
       "date": 1963,
-      "youtube": "https://www.youtube.com/watch?v=2Jx2jEPvh88&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=20&pp=iAQB",
+      "youtube": "https://www.youtube.com/watch?v=FB2irpDzC0Y&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=405&pp=iAQB",
       "tooltip": {
         "description": "Classic TV show that premiered in 1963"
-      }
-    },
-    {
-      "id": "tv-show-452",
-      "label": "My Favorite Martian",
-      "date": 1963,
-      "youtube": "https://www.youtube.com/watch?v=-wAUrUbI2hU&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=452&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1963"
-      }
-    },
-    {
-      "id": "tv-show-91",
-      "label": "Jeopardy!",
-      "date": 1964,
-      "youtube": "https://www.youtube.com/watch?v=Md2AQRbRnJM&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=91&pp=iAQB0gcJCd4JAYcqIYzv",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1964"
       }
     },
     {
@@ -215,6 +233,24 @@
       }
     },
     {
+      "id": "tv-show-214",
+      "label": "The Munsters",
+      "date": 1964,
+      "youtube": "https://www.youtube.com/watch?v=8TTIqK9nFH8&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=214&pp=iAQB",
+      "tooltip": {
+        "description": "Classic TV show that premiered in 1964"
+      }
+    },
+    {
+      "id": "tv-show-435",
+      "label": "Flipper",
+      "date": 1964,
+      "youtube": "https://www.youtube.com/watch?v=azEOeTX1LqM&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=435&pp=iAQB",
+      "tooltip": {
+        "description": "Classic TV show that premiered in 1964"
+      }
+    },
+    {
       "id": "tv-show-102",
       "label": "The Big Valley",
       "date": 1965,
@@ -233,15 +269,6 @@
       }
     },
     {
-      "id": "tv-show-374",
-      "label": "The Big Valley",
-      "date": 1965,
-      "youtube": "https://www.youtube.com/watch?v=x6H7k3XBlk4&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=374&pp=iAQB0gcJCd4JAYcqIYzv",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1965"
-      }
-    },
-    {
       "id": "tv-show-18",
       "label": "Green Acres",
       "date": 1965,
@@ -251,10 +278,28 @@
       }
     },
     {
-      "id": "tv-show-251",
-      "label": "Lost in Space",
+      "id": "tv-show-41",
+      "label": "The F.B.I.",
       "date": 1965,
-      "youtube": "https://www.youtube.com/watch?v=Tp1bEpmmGMs&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=251&pp=iAQB",
+      "youtube": "https://www.youtube.com/watch?v=-K4BvF_sb3Y&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=41&pp=iAQB",
+      "tooltip": {
+        "description": "Classic TV show that premiered in 1965"
+      }
+    },
+    {
+      "id": "tv-show-60",
+      "label": "George of the Jungle",
+      "date": 1965,
+      "youtube": "https://www.youtube.com/watch?v=EaXWy-HQefc&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=60&pp=iAQB",
+      "tooltip": {
+        "description": "Classic TV show that premiered in 1965"
+      }
+    },
+    {
+      "id": "tv-show-279",
+      "label": "Hogan's Heroes",
+      "date": 1965,
+      "youtube": "https://www.youtube.com/watch?v=2UnB-9tIZAo&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=279&pp=iAQB",
       "tooltip": {
         "description": "Classic TV show that premiered in 1965"
       }
@@ -278,19 +323,10 @@
       }
     },
     {
-      "id": "tv-show-93",
-      "label": "Dark Shadows",
+      "id": "tv-show-208",
+      "label": "Green Hornet",
       "date": 1966,
-      "youtube": "https://www.youtube.com/watch?v=OSbCqp_a3iE&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=93&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1966"
-      }
-    },
-    {
-      "id": "tv-show-392",
-      "label": "The New Dick Van Dyke Show",
-      "date": 1966,
-      "youtube": "https://www.youtube.com/watch?v=oZ2wUVZpuik&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=392&pp=iAQB",
+      "youtube": "https://www.youtube.com/watch?v=wIwsqFjfKPs&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=208&pp=iAQB",
       "tooltip": {
         "description": "Classic TV show that premiered in 1966"
       }
@@ -305,10 +341,10 @@
       }
     },
     {
-      "id": "tv-show-75",
-      "label": "Mannix",
+      "id": "tv-show-184",
+      "label": "Speed Racer",
       "date": 1967,
-      "youtube": "https://www.youtube.com/watch?v=H7TdnvEpgl0&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=75&pp=iAQB",
+      "youtube": "https://www.youtube.com/watch?v=e5XmMWnsiqU&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=184&pp=iAQB",
       "tooltip": {
         "description": "Classic TV show that premiered in 1967"
       }
@@ -317,16 +353,25 @@
       "id": "tv-show-3",
       "label": "Hawaii Five-O",
       "date": 1968,
-      "youtube": "https://www.youtube.com/watch?v=Wr9WEFZ29FY&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=3&pp=iAQB",
+      "youtube": "https://www.youtube.com/watch?v=AepyGm9Me6w&t=10s",
       "tooltip": {
         "description": "Classic TV show that premiered in 1968"
       }
     },
     {
-      "id": "tv-show-167",
-      "label": "Julia",
+      "id": "tv-show-253",
+      "label": "Adam-12",
       "date": 1968,
-      "youtube": "https://www.youtube.com/watch?v=WBOEtKpv8ug&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=167&pp=iAQB",
+      "youtube": "https://www.youtube.com/watch?v=57gSH8qxpCU&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=253&pp=iAQB",
+      "tooltip": {
+        "description": "Classic TV show that premiered in 1968"
+      }
+    },
+    {
+      "id": "tv-show-230",
+      "label": "Mister Rogers' Neighborhood",
+      "date": 1968,
+      "youtube": "https://www.youtube.com/watch?v=FhAJnx5uwUU&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=230&pp=iAQB",
       "tooltip": {
         "description": "Classic TV show that premiered in 1968"
       }
@@ -341,408 +386,12 @@
       }
     },
     {
-      "id": "tv-show-6",
-      "label": "Love, American Style",
-      "date": 1969,
-      "youtube": "https://www.youtube.com/watch?v=IvUkUdX2Lak&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=6&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1969"
-      }
-    },
-    {
       "id": "tv-show-33",
       "label": "Sesame Street",
       "date": 1969,
       "youtube": "https://www.youtube.com/watch?v=8yBlQDw0fnI&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=33&pp=iAQB",
       "tooltip": {
         "description": "Classic TV show that premiered in 1969"
-      }
-    },
-    {
-      "id": "tv-show-59",
-      "label": "The Courtship of Eddie's Father",
-      "date": 1969,
-      "youtube": "https://www.youtube.com/watch?v=D_QMRDmA7-s&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=59&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1969"
-      }
-    },
-    {
-      "id": "tv-show-92",
-      "label": "Medical Center",
-      "date": 1969,
-      "youtube": "https://www.youtube.com/watch?v=6AwtXYa8tCk&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=92&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1969"
-      }
-    },
-    {
-      "id": "tv-show-378",
-      "label": "The Pink Panther Show",
-      "date": 1969,
-      "youtube": "https://www.youtube.com/watch?v=ZI8jjbhm4OE&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=378&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1969"
-      }
-    },
-    {
-      "id": "tv-show-10",
-      "label": "Lancelot Link, Secret Chimp",
-      "date": 1970,
-      "youtube": "https://www.youtube.com/watch?v=ZEhjUjN8B5o&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=10&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1970"
-      }
-    },
-    {
-      "id": "tv-show-19",
-      "label": "The Rocky and Bullwinkle Show",
-      "date": 1959,
-      "youtube": "https://www.youtube.com/watch?v=5bHW-O-uLjQ&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=19&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1959"
-      }
-    },
-    {
-      "id": "tv-show-27",
-      "label": "227",
-      "date": 1985,
-      "youtube": "https://www.youtube.com/watch?v=beiTw8b-CiQ&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=27&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1985"
-      }
-    },
-    {
-      "id": "tv-show-29",
-      "label": "Mama's Family",
-      "date": 1983,
-      "youtube": "https://www.youtube.com/watch?v=2hKxc5yGBz0&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=29&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1983"
-      }
-    },
-    {
-      "id": "tv-show-39",
-      "label": "Eight Is Enough",
-      "date": 1977,
-      "youtube": "https://www.youtube.com/watch?v=M9AXU2rWH88&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=39&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1977"
-      }
-    },
-    {
-      "id": "tv-show-40",
-      "label": "The Wild Wild West",
-      "date": 1965,
-      "youtube": "https://www.youtube.com/watch?v=xuCuf5tvTqE&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=40&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1965"
-      }
-    },
-    {
-      "id": "tv-show-41",
-      "label": "The F.B.I.",
-      "date": 1965,
-      "youtube": "https://www.youtube.com/watch?v=-K4BvF_sb3Y&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=41&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1965"
-      }
-    },
-    {
-      "id": "tv-show-54",
-      "label": "Hawaii Five-O",
-      "date": 1979,
-      "youtube": "https://www.youtube.com/watch?v=ZHC-YsXYTsg&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=54&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1979"
-      }
-    },
-    {
-      "id": "tv-show-55",
-      "label": "B.J. and the Bear",
-      "date": 1979,
-      "youtube": "https://www.youtube.com/watch?v=N2maOGkKE_A&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=55&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1979"
-      }
-    },
-    {
-      "id": "tv-show-60",
-      "label": "George of the Jungle",
-      "date": 1965,
-      "youtube": "https://www.youtube.com/watch?v=EaXWy-HQefc&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=60&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1965"
-      }
-    },
-    {
-      "id": "tv-show-62",
-      "label": "The Young and the Restless",
-      "date": 1973,
-      "youtube": "https://www.youtube.com/watch?v=torz_CwzaTM&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=62&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1973"
-      }
-    },
-    {
-      "id": "tv-show-67",
-      "label": "Private Benjamin",
-      "date": 1981,
-      "youtube": "https://www.youtube.com/watch?v=l-0fPk6bpX4&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=67&pp=iAQB0gcJCd4JAYcqIYzv",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1981"
-      }
-    },
-    {
-      "id": "tv-show-88",
-      "label": "The Flip Wilson Show",
-      "date": 1970,
-      "youtube": "https://www.youtube.com/watch?v=1q2Jh4JF4oQ&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=88&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1970"
-      }
-    },
-    {
-      "id": "tv-show-99",
-      "label": "B.J. and the Bear",
-      "date": 1979,
-      "youtube": "https://www.youtube.com/watch?v=Rcozed_BJWM&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=99&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1979"
-      }
-    },
-    {
-      "id": "tv-show-103",
-      "label": "Nanny and the Professor",
-      "date": 1970,
-      "youtube": "https://www.youtube.com/watch?v=X9NX9a9GUzA&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=103&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1970"
-      }
-    },
-    {
-      "id": "tv-show-109",
-      "label": "The Hillbilly Bears",
-      "date": 1965,
-      "youtube": "https://www.youtube.com/watch?v=qfvvPhTM1T0&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=109&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1965"
-      }
-    },
-    {
-      "id": "tv-show-111",
-      "label": "Joey",
-      "date": 2004,
-      "youtube": "https://www.youtube.com/watch?v=2s3AZbkTs2Q&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=111&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1961"
-      }
-    },
-    {
-      "id": "tv-show-118",
-      "label": "McCloud",
-      "date": 1970,
-      "youtube": "https://www.youtube.com/watch?v=Kc2wjvoOmVM&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=118&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1970"
-      }
-    },
-    {
-      "id": "tv-show-123",
-      "label": "Shazam!",
-      "date": 1974,
-      "youtube": "https://www.youtube.com/watch?v=TgXeXTuKGhM&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=123&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1974"
-      }
-    },
-    {
-      "id": "tv-show-124",
-      "label": "The Nanny",
-      "date": 1993,
-      "youtube": "https://www.youtube.com/watch?v=GGFAlgsZkik&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=124&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1993"
-      }
-    },
-    {
-      "id": "tv-show-127",
-      "label": "The Drew Carey Show",
-      "date": 1995,
-      "youtube": "https://www.youtube.com/watch?v=i47lyjYF5As&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=127&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1995"
-      }
-    },
-    {
-      "id": "tv-show-128",
-      "label": "The Bullwinkle Show",
-      "date": 1961,
-      "youtube": "https://www.youtube.com/watch?v=ejgfnRvAOno&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=128&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1961"
-      }
-    },
-    {
-      "id": "tv-show-132",
-      "label": "The Famous Adventures of Mr. Magoo",
-      "date": 1960,
-      "youtube": "https://www.youtube.com/watch?v=UUMjRn6AqKo&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=132&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1960"
-      }
-    },
-    {
-      "id": "tv-show-134",
-      "label": "Petrocelli",
-      "date": 1974,
-      "youtube": "https://www.youtube.com/watch?v=nohNovS8uhE&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=134&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1974"
-      }
-    },
-    {
-      "id": "tv-show-138",
-      "label": "Just Shoot Me!",
-      "date": 1997,
-      "youtube": "https://www.youtube.com/watch?v=eJQ0oLYS9XM&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=138&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1997"
-      }
-    },
-    {
-      "id": "tv-show-139",
-      "label": "The Cleveland Show",
-      "date": 2009,
-      "youtube": "https://www.youtube.com/watch?v=LNDXrKBOKrw&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=139&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 2009"
-      }
-    },
-    {
-      "id": "tv-show-141",
-      "label": "Dharma & Greg",
-      "date": 1997,
-      "youtube": "https://www.youtube.com/watch?v=uZNZXBlNCN8&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=141&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1997"
-      }
-    },
-    {
-      "id": "tv-show-142",
-      "label": "Classic Concentration",
-      "date": 1970,
-      "youtube": "https://www.youtube.com/watch?v=v0eOqztmBvI&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=142&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1970"
-      }
-    },
-    {
-      "id": "tv-show-143",
-      "label": "Honey, I Shrunk the Kids: The TV Show",
-      "date": 1997,
-      "youtube": "https://www.youtube.com/watch?v=GYUXdmoidBo&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=143&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1997"
-      }
-    },
-    {
-      "id": "tv-show-151",
-      "label": "Classic Concentration",
-      "date": 1987,
-      "youtube": "https://www.youtube.com/watch?v=q3w7w58CREY&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=151&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1987"
-      }
-    },
-    {
-      "id": "tv-show-153",
-      "label": "Rhoda",
-      "date": 1974,
-      "youtube": "https://www.youtube.com/watch?v=HtjZuWxE6ho&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=153&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1974"
-      }
-    },
-    {
-      "id": "tv-show-155",
-      "label": "Fractured Fairy Tales",
-      "date": 1959,
-      "youtube": "https://www.youtube.com/watch?v=H926TwAkhjM&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=155&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1959"
-      }
-    },
-    {
-      "id": "tv-show-158",
-      "label": "New Zoo Revue",
-      "date": 1972,
-      "youtube": "https://www.youtube.com/watch?v=JYhpYG3l7RI&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=158&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1972"
-      }
-    },
-    {
-      "id": "tv-show-163",
-      "label": "Mutual of Omaha's Wild Kingdom",
-      "date": 1963,
-      "youtube": "https://www.youtube.com/watch?v=GNAbAp0NnqI&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=163&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1963"
-      }
-    },
-    {
-      "id": "tv-show-168",
-      "label": "The Gong Show",
-      "date": 1970,
-      "youtube": "https://www.youtube.com/watch?v=xcTvQ2PwQ7U&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=168&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1970"
-      }
-    },
-    {
-      "id": "tv-show-169",
-      "label": "Highway to Heaven",
-      "date": 1984,
-      "youtube": "https://www.youtube.com/watch?v=UrM4AsBkc9w&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=169&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1984"
-      }
-    },
-    {
-      "id": "tv-show-175",
-      "label": "Spin City",
-      "date": 1996,
-      "youtube": "https://www.youtube.com/watch?v=pPQ0g82ZPOs&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=175&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1996"
-      }
-    },
-    {
-      "id": "tv-show-181",
-      "label": "Kimba the White Lion",
-      "date": 1965,
-      "youtube": "https://www.youtube.com/watch?v=lQsQqOlPjhs&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=181&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1965"
-      }
-    },
-    {
-      "id": "tv-show-182",
-      "label": "The Flintstones",
-      "date": 1960,
-      "youtube": "https://www.youtube.com/watch?v=2PPf3aaZmUw",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1960"
-      }
-    },
-    {
-      "id": "tv-show-183",
-      "label": "The Larry Sanders Show",
-      "date": 1992,
-      "youtube": "https://www.youtube.com/watch?v=ixo47O2xZZQ&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=183&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1992"
       }
     },
     {
@@ -755,411 +404,6 @@
       }
     },
     {
-      "id": "tv-show-194",
-      "label": "The F.B.I.",
-      "date": 1965,
-      "youtube": "https://www.youtube.com/watch?v=BrOg5GejKDM&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=194&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1965"
-      }
-    },
-    {
-      "id": "tv-show-195",
-      "label": "Nancy Drew",
-      "date": 1977,
-      "youtube": "https://www.youtube.com/watch?v=tFg-rLFK9aM&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=195&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1977"
-      }
-    },
-    {
-      "id": "tv-show-196",
-      "label": "That's My Mama",
-      "date": 1974,
-      "youtube": "https://www.youtube.com/watch?v=fjiH2jdTe34&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=196&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1974"
-      }
-    },
-    {
-      "id": "tv-show-197",
-      "label": "Viva Valdez",
-      "date": 1976,
-      "youtube": "https://www.youtube.com/watch?v=hU1XOACa99s&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=197&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1976"
-      }
-    },
-    {
-      "id": "tv-show-198",
-      "label": "Fame",
-      "date": 1982,
-      "youtube": "https://www.youtube.com/watch?v=y9U2jqoIF7k&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=198&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1982"
-      }
-    },
-    {
-      "id": "tv-show-201",
-      "label": "Baa Baa Black Sheep",
-      "date": 1976,
-      "youtube": "https://www.youtube.com/watch?v=3pvzA6-tSqE&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=201&pp=iAQB0gcJCd4JAYcqIYzv",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1976"
-      }
-    },
-    {
-      "id": "tv-show-202",
-      "label": "King of the Hill",
-      "date": 1997,
-      "youtube": "https://www.youtube.com/watch?v=-Jv_cYh2MGE&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=202&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1997"
-      }
-    },
-    {
-      "id": "tv-show-206",
-      "label": "Tour of Duty",
-      "date": 1987,
-      "youtube": "https://www.youtube.com/watch?v=fvP1JEUJe1Q&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=206&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1987"
-      }
-    },
-    {
-      "id": "tv-show-208",
-      "label": "Green Hornet",
-      "date": 1966,
-      "youtube": "https://www.youtube.com/watch?v=wIwsqFjfKPs&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=208&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1966"
-      }
-    },
-    {
-      "id": "tv-show-209",
-      "label": "It Takes Two",
-      "date": 1977,
-      "youtube": "https://www.youtube.com/watch?v=NCGmn06uroc&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=209&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1977"
-      }
-    },
-    {
-      "id": "tv-show-210",
-      "label": "NewsRadio",
-      "date": 1995,
-      "youtube": "https://www.youtube.com/watch?v=E3xO9EIrsNQ&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=210&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1995"
-      }
-    },
-    {
-      "id": "tv-show-213",
-      "label": "Felix the Cat",
-      "date": 1958,
-      "youtube": "https://www.youtube.com/watch?v=h2YJduDyFA4&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=213&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1958"
-      }
-    },
-    {
-      "id": "tv-show-217",
-      "label": "The Lawrence Welk Show",
-      "date": 1955,
-      "youtube": "https://www.youtube.com/watch?v=v6vqjVqqP5g&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=217&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1955"
-      }
-    },
-    {
-      "id": "tv-show-225",
-      "label": "The Magilla Gorilla Show",
-      "date": 1964,
-      "youtube": "https://www.youtube.com/watch?v=1_i2llj4OWU&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=225&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1964"
-      }
-    },
-    {
-      "id": "tv-show-226",
-      "label": "The Three Stooges",
-      "date": 1959,
-      "youtube": "https://www.youtube.com/watch?v=ftc61ciUm1w&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=226&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1959"
-      }
-    },
-    {
-      "id": "tv-show-231",
-      "label": "Donny & Marie",
-      "date": 1976,
-      "youtube": "https://www.youtube.com/watch?v=hPmtN_c_BRE&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=231&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1976"
-      }
-    },
-    {
-      "id": "tv-show-232",
-      "label": "That '70s Show",
-      "date": 1998,
-      "youtube": "https://www.youtube.com/watch?v=Fh8QmHcm49U&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=232&pp=iAQB0gcJCd4JAYcqIYzv",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1998"
-      }
-    },
-    {
-      "id": "tv-show-234",
-      "label": "The $25,000 Pyramid",
-      "date": 1973,
-      "youtube": "https://www.youtube.com/watch?v=6Y6zg9nDEfE&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=234&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1973"
-      }
-    },
-    {
-      "id": "tv-show-235",
-      "label": "The Old West",
-      "date": 1970,
-      "youtube": "https://www.youtube.com/watch?v=NCuqlLq1k7o&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=235&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1970"
-      }
-    },
-    {
-      "id": "tv-show-237",
-      "label": "Curious George",
-      "date": 1980,
-      "youtube": "https://www.youtube.com/watch?v=dZR406qHkE0&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=237&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1980"
-      }
-    },
-    {
-      "id": "tv-show-238",
-      "label": "Adventures of Superman",
-      "date": 1952,
-      "youtube": "https://www.youtube.com/watch?v=Q2l4bz1FT8U&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=238&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1952"
-      }
-    },
-    {
-      "id": "tv-show-241",
-      "label": "Adventures of Superman",
-      "date": 1952,
-      "youtube": "https://www.youtube.com/watch?v=Kzn-5Na1wwQ&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=241&pp=iAQB0gcJCd4JAYcqIYzv",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1952"
-      }
-    },
-    {
-      "id": "tv-show-243",
-      "label": "Lamb Chop's Play-Along",
-      "date": 1992,
-      "youtube": "https://www.youtube.com/watch?v=2if743qbpQc&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=243&pp=iAQB0gcJCd4JAYcqIYzv",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1992"
-      }
-    },
-    {
-      "id": "tv-show-245",
-      "label": "Seven Brides for Seven Brothers",
-      "date": 1982,
-      "youtube": "https://www.youtube.com/watch?v=oB3Z_7ITUEE&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=245&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1982"
-      }
-    },
-    {
-      "id": "tv-show-246",
-      "label": "Judge Judy",
-      "date": 1996,
-      "youtube": "https://www.youtube.com/watch?v=_lRhmINhpwo&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=246&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1996"
-      }
-    },
-    {
-      "id": "tv-show-247",
-      "label": "Tony Orlando and Dawn",
-      "date": 1976,
-      "youtube": "https://www.youtube.com/watch?v=Nu9S3zpfZ0I&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=247&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1976"
-      }
-    },
-    {
-      "id": "tv-show-249",
-      "label": "Amen",
-      "date": 1986,
-      "youtube": "https://www.youtube.com/watch?v=4sf1dWPCfe0&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=249&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1986"
-      }
-    },
-    {
-      "id": "tv-show-250",
-      "label": "The People's Court",
-      "date": 1981,
-      "youtube": "https://www.youtube.com/watch?v=fdPq4qExR9Q&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=250&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1981"
-      }
-    },
-    {
-      "id": "tv-show-253",
-      "label": "Adam-12",
-      "date": 1968,
-      "youtube": "https://www.youtube.com/watch?v=57gSH8qxpCU&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=253&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1968"
-      }
-    },
-    {
-      "id": "tv-show-255",
-      "label": "Dudley Do-Right",
-      "date": 1969,
-      "youtube": "https://www.youtube.com/watch?v=Npfi0UZL2ow&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=255&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1969"
-      }
-    },
-    {
-      "id": "tv-show-256",
-      "label": "Hee Haw",
-      "date": 1969,
-      "youtube": "https://www.youtube.com/watch?v=ELQVfKHW8QA&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=256&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1969"
-      }
-    },
-    {
-      "id": "tv-show-258",
-      "label": "Tennessee Tuxedo",
-      "date": 1963,
-      "youtube": "https://www.youtube.com/watch?v=vDm90r3hVQo&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=258&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1963"
-      }
-    },
-    {
-      "id": "tv-show-260",
-      "label": "Rowan & Martin's Laugh-In",
-      "date": 1968,
-      "youtube": "https://www.youtube.com/watch?v=3v_yDm0tvfY&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=260&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1968"
-      }
-    },
-    {
-      "id": "tv-show-266",
-      "label": "Make Room for Daddy",
-      "date": 1953,
-      "youtube": "https://www.youtube.com/watch?v=hJDevXnumo4&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=266&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1953"
-      }
-    },
-    {
-      "id": "tv-show-267",
-      "label": "The Jeffersons",
-      "date": 1975,
-      "youtube": "https://www.youtube.com/watch?v=23GrEhLUF_k&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=267&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1975"
-      }
-    },
-    {
-      "id": "tv-show-270",
-      "label": "Go Go Gophers",
-      "date": 1966,
-      "youtube": "https://www.youtube.com/watch?v=dHHrI47oE30&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=270&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1966"
-      }
-    },
-    {
-      "id": "tv-show-274",
-      "label": "a.k.a. Pablo",
-      "date": 1984,
-      "youtube": "https://www.youtube.com/watch?v=8G--m0JFgG0&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=274&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1984"
-      }
-    },
-    {
-      "id": "tv-show-275",
-      "label": "George Lopez",
-      "date": 2002,
-      "youtube": "https://www.youtube.com/watch?v=KubkTJJbH1Y&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=275&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 2002"
-      }
-    },
-    {
-      "id": "tv-show-282",
-      "label": "Police Squad!",
-      "date": 1982,
-      "youtube": "https://www.youtube.com/watch?v=iQ0XRXaxTWM&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=282&pp=iAQB0gcJCd4JAYcqIYzv",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1982"
-      }
-    },
-    {
-      "id": "tv-show-283",
-      "label": "Arrested Development",
-      "date": 2003,
-      "youtube": "https://www.youtube.com/watch?v=-YNARP9K9MY&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=283&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 2003"
-      }
-    },
-    {
-      "id": "tv-show-284",
-      "label": "Moesha",
-      "date": 1996,
-      "youtube": "https://www.youtube.com/watch?v=lMDuweKaJ0I&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=284&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1996"
-      }
-    },
-    {
-      "id": "tv-show-286",
-      "label": "Boston Legal",
-      "date": 2004,
-      "youtube": "https://www.youtube.com/watch?v=Oniw_CbXo5U&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=286&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 2004"
-      }
-    },
-    {
-      "id": "tv-show-287",
-      "label": "Bozo the Clown",
-      "date": 1959,
-      "youtube": "https://www.youtube.com/watch?v=hmemTw56_kc&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=287&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1959"
-      }
-    },
-    {
-      "id": "tv-show-290",
-      "label": "Ripley's Believe It or Not!",
-      "date": 1982,
-      "youtube": "https://www.youtube.com/watch?v=IXgr-hSJWGU&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=290&pp=iAQB0gcJCd4JAYcqIYzv",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1982"
-      }
-    },
-    {
-      "id": "tv-show-296",
-      "label": "The Mighty Mouse Playhouse",
-      "date": 1955,
-      "youtube": "https://www.youtube.com/watch?v=X78i13q-atk&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=296&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1955"
-      }
-    },
-    {
       "id": "tv-show-297",
       "label": "Scooby-Doo, Where Are You!",
       "date": 1969,
@@ -1169,759 +413,12 @@
       }
     },
     {
-      "id": "tv-show-298",
-      "label": "Love, Sidney",
-      "date": 1981,
-      "youtube": "https://www.youtube.com/watch?v=5X-ssO62rn4&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=298&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1981"
-      }
-    },
-    {
-      "id": "tv-show-299",
-      "label": "Scarecrow and Mrs. King",
-      "date": 1983,
-      "youtube": "https://www.youtube.com/watch?v=vxkDUeW3wmA&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=299&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1983"
-      }
-    },
-    {
-      "id": "tv-show-301",
-      "label": "Dastardly and Muttley in Their Flying Machines",
-      "date": 1969,
-      "youtube": "https://www.youtube.com/watch?v=8zTuWPjYDL8&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=301&pp=iAQB0gcJCd4JAYcqIYzv",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1969"
-      }
-    },
-    {
-      "id": "tv-show-306",
-      "label": "Cops",
-      "date": 1989,
-      "youtube": "https://www.youtube.com/watch?v=d3i7ndJL9YQ&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=306&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1989"
-      }
-    },
-    {
-      "id": "tv-show-308",
-      "label": "Yes, Dear",
-      "date": 2000,
-      "youtube": "https://www.youtube.com/watch?v=j6vVNa7kG_Y&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=308&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 2000"
-      }
-    },
-    {
-      "id": "tv-show-310",
-      "label": "CHiPs",
-      "date": 1977,
-      "youtube": "https://www.youtube.com/watch?v=wyJOrh4y7pI&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=310&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1977"
-      }
-    },
-    {
-      "id": "tv-show-311",
-      "label": "The Sandy Duncan Show",
-      "date": 1972,
-      "youtube": "https://www.youtube.com/watch?v=sCndJcn75Bs&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=311&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1972"
-      }
-    },
-    {
-      "id": "tv-show-312",
-      "label": "The Hogan Family",
-      "date": 1986,
-      "youtube": "https://www.youtube.com/watch?v=WtLIEZH9Y7s&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=312&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1965"
-      }
-    },
-    {
-      "id": "tv-show-313",
-      "label": "Joanie Loves Chachi",
-      "date": 1982,
-      "youtube": "https://www.youtube.com/watch?v=Pb7fFujZcfI&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=313&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1982"
-      }
-    },
-    {
-      "id": "tv-show-314",
-      "label": "Charles in Charge",
-      "date": 1984,
-      "youtube": "https://www.youtube.com/watch?v=WvoTRhtGeWo&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=314&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1984"
-      }
-    },
-    {
-      "id": "tv-show-316",
-      "label": "Meet the Press",
-      "date": 1947,
-      "youtube": "https://www.youtube.com/watch?v=kJ8-U1o7xdU&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=316&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1947"
-      }
-    },
-    {
-      "id": "tv-show-317",
-      "label": "WWE Monday Night Raw",
-      "date": 1993,
-      "youtube": "https://www.youtube.com/watch?v=RtD8zBBHw3A&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=317&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1993"
-      }
-    },
-    {
-      "id": "tv-show-323",
-      "label": "Malcolm & Eddie",
-      "date": 1996,
-      "youtube": "https://www.youtube.com/watch?v=-jkbfKGu6Rk&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=323&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1996"
-      }
-    },
-    {
-      "id": "tv-show-325",
-      "label": "Jenny Jones",
-      "date": 1991,
-      "youtube": "https://www.youtube.com/watch?v=2jK8Ijv7OjQ&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=325&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1991"
-      }
-    },
-    {
-      "id": "tv-show-327",
-      "label": "Ricki Lake",
-      "date": 1993,
-      "youtube": "https://www.youtube.com/watch?v=jN4m528vTp8&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=327&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1993"
-      }
-    },
-    {
-      "id": "tv-show-328",
-      "label": "Who's the Boss?",
-      "date": 1991,
-      "youtube": "https://www.youtube.com/watch?v=zkD9wzrrhiA&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=328&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1991"
-      }
-    },
-    {
-      "id": "tv-show-332",
-      "label": "The Harlem Globetrotters Popcorn Machine",
-      "date": 1974,
-      "youtube": "https://www.youtube.com/watch?v=sHjn1wfGpHo&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=332&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1974"
-      }
-    },
-    {
-      "id": "tv-show-343",
-      "label": "China Beach",
-      "date": 1988,
-      "youtube": "https://www.youtube.com/watch?v=tH_-ugUwagI&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=343&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1988"
-      }
-    },
-    {
-      "id": "tv-show-344",
-      "label": "Disney's Adventures of the Gummi Bears",
-      "date": 1985,
-      "youtube": "https://www.youtube.com/watch?v=ghXltx1O4XI&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=344&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1985"
-      }
-    },
-    {
-      "id": "tv-show-346",
-      "label": "Dawson's Creek",
-      "date": 1998,
-      "youtube": "https://www.youtube.com/watch?v=izpNuTxGIrM&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=346&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1998"
-      }
-    },
-    {
-      "id": "tv-show-348",
-      "label": "The Greatest American Hero",
-      "date": 1981,
-      "youtube": "https://www.youtube.com/watch?v=72MxOo5koto&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=348&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1981"
-      }
-    },
-    {
-      "id": "tv-show-350",
-      "label": "Josie and the Pussycats",
+      "id": "tv-show-168",
+      "label": "The Gong Show",
       "date": 1970,
-      "youtube": "https://www.youtube.com/watch?v=nLxM-8drM2c&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=350&pp=iAQB",
+      "youtube": "https://www.youtube.com/watch?v=xcTvQ2PwQ7U&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=168&pp=iAQB",
       "tooltip": {
         "description": "Classic TV show that premiered in 1970"
-      }
-    },
-    {
-      "id": "tv-show-352",
-      "label": "Curb Your Enthusiasm",
-      "date": 2000,
-      "youtube": "https://www.youtube.com/watch?v=ah0qx8l4BW4&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=352&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 2000"
-      }
-    },
-    {
-      "id": "tv-show-354",
-      "label": "The New Adventures of Superman",
-      "date": 1966,
-      "youtube": "https://www.youtube.com/watch?v=tRAaIt0T3aU&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=354&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1966"
-      }
-    },
-    {
-      "id": "tv-show-357",
-      "label": "Ally McBeal",
-      "date": 1997,
-      "youtube": "https://www.youtube.com/watch?v=xhAzKAyZ5so&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=357&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1997"
-      }
-    },
-    {
-      "id": "tv-show-360",
-      "label": "Tales from the Crypt",
-      "date": 1989,
-      "youtube": "https://www.youtube.com/watch?v=bAbqWX0HR60&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=360&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1989"
-      }
-    },
-    {
-      "id": "tv-show-364",
-      "label": "The Ren & Stimpy Show",
-      "date": 1991,
-      "youtube": "https://www.youtube.com/watch?v=OHPmI8x72Rk&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=364&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1991"
-      }
-    },
-    {
-      "id": "tv-show-365",
-      "label": "Designing Women",
-      "date": 1986,
-      "youtube": "https://www.youtube.com/watch?v=9oEcAj7ojM0&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=365&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1986"
-      }
-    },
-    {
-      "id": "tv-show-367",
-      "label": "Sabrina the Teenage Witch",
-      "date": 1996,
-      "youtube": "https://www.youtube.com/watch?v=3zUu3ObsMy0&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=367&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1996"
-      }
-    },
-    {
-      "id": "tv-show-372",
-      "label": "Rules of Engagement",
-      "date": 2007,
-      "youtube": "https://www.youtube.com/watch?v=zCZwqbSJkaQ&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=372&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 2007"
-      }
-    },
-    {
-      "id": "tv-show-376",
-      "label": "Ancient Aliens",
-      "date": 2010,
-      "youtube": "https://www.youtube.com/watch?v=SLHoeKZmV1U&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=376&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 2010"
-      }
-    },
-    {
-      "id": "tv-show-377",
-      "label": "Pawn Stars",
-      "date": 2009,
-      "youtube": "https://www.youtube.com/watch?v=GodHhdwfVmw&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=377&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 2009"
-      }
-    },
-    {
-      "id": "tv-show-381",
-      "label": "30 Rock",
-      "date": 2006,
-      "youtube": "https://www.youtube.com/watch?v=huteagsm_Io&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=381&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 2006"
-      }
-    },
-    {
-      "id": "tv-show-382",
-      "label": "Parks and Recreation",
-      "date": 2009,
-      "youtube": "https://www.youtube.com/watch?v=BEw2iXAGxlk&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=382&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 2009"
-      }
-    },
-    {
-      "id": "tv-show-384",
-      "label": "The Office",
-      "date": 2005,
-      "youtube": "https://www.youtube.com/watch?v=JGorPb_jk5E&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=384&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 2005"
-      }
-    },
-    {
-      "id": "tv-show-385",
-      "label": "It's Always Sunny in Philadelphia",
-      "date": 2005,
-      "youtube": "https://www.youtube.com/watch?v=BYPzS5CVfqk&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=385&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 2005"
-      }
-    },
-    {
-      "id": "tv-show-386",
-      "label": "Forged in Fire",
-      "date": 2015,
-      "youtube": "https://www.youtube.com/watch?v=Tdk36YF5wPU&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=386&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 2015"
-      }
-    },
-    {
-      "id": "tv-show-389",
-      "label": "Chicago Fire",
-      "date": 2012,
-      "youtube": "https://www.youtube.com/watch?v=tTN2Mv3jiBk&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=389&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 2012"
-      }
-    },
-    {
-      "id": "tv-show-391",
-      "label": "The Untouchables",
-      "date": 1959,
-      "youtube": "https://www.youtube.com/watch?v=u9Cqu6iRC2E&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=391&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1959"
-      }
-    },
-    {
-      "id": "tv-show-393",
-      "label": "Rizzoli & Isles",
-      "date": 2010,
-      "youtube": "https://www.youtube.com/watch?v=AtpI8Xy2gLM&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=393&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 2010"
-      }
-    },
-    {
-      "id": "tv-show-395",
-      "label": "Chip 'n Dale: Rescue Rangers",
-      "date": 1989,
-      "youtube": "https://www.youtube.com/watch?v=3AQRa87j2Ws&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=395&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1989"
-      }
-    },
-    {
-      "id": "tv-show-396",
-      "label": "The Sopranos",
-      "date": 1999,
-      "youtube": "https://www.youtube.com/watch?v=mJpNmYeooQE&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=396&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1999"
-      }
-    },
-    {
-      "id": "tv-show-397",
-      "label": "Breaking Bad",
-      "date": 2008,
-      "youtube": "https://www.youtube.com/watch?v=3U6PSWyv5sc&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=397&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 2008"
-      }
-    },
-    {
-      "id": "tv-show-399",
-      "label": "Cagney and Lacey",
-      "date": 1981,
-      "youtube": "https://www.youtube.com/watch?v=OuwaA0BLKr4&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=399&pp=iAQB0gcJCd4JAYcqIYzv",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1981"
-      }
-    },
-    {
-      "id": "tv-show-401",
-      "label": "Family Guy",
-      "date": 1999,
-      "youtube": "https://www.youtube.com/watch?v=WJOAvttDJ-Q&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=401&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1999"
-      }
-    },
-    {
-      "id": "tv-show-402",
-      "label": "Alias Smith and Jones",
-      "date": 1971,
-      "youtube": "https://www.youtube.com/watch?v=wGUSFCVyXJU&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=402&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1971"
-      }
-    },
-    {
-      "id": "tv-show-403",
-      "label": "The Daily Show",
-      "date": 1996,
-      "youtube": "https://www.youtube.com/watch?v=yRZ2vIFLOzg&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=403&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1996"
-      }
-    },
-    {
-      "id": "tv-show-404",
-      "label": "As the World Turns",
-      "date": 1956,
-      "youtube": "https://www.youtube.com/watch?v=4aI_0lXJU6A&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=404&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1956"
-      }
-    },
-    {
-      "id": "tv-show-407",
-      "label": "Grey's Anatomy",
-      "date": 2005,
-      "youtube": "https://www.youtube.com/watch?v=GKyvMFkuCog&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=407&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 2005"
-      }
-    },
-    {
-      "id": "tv-show-409",
-      "label": "Counting Cars",
-      "date": 2012,
-      "youtube": "https://www.youtube.com/watch?v=KCuiZII2L7c&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=409&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 2012"
-      }
-    },
-    {
-      "id": "tv-show-412",
-      "label": "Keeping Up with the Kardashians",
-      "date": 2007,
-      "youtube": "https://www.youtube.com/watch?v=41C8CbMyFDo&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=412&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 2007"
-      }
-    },
-    {
-      "id": "tv-show-416",
-      "label": "Blossom",
-      "date": 1990,
-      "youtube": "https://www.youtube.com/watch?v=oLYXWLvJBRc&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=416&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1990"
-      }
-    },
-    {
-      "id": "tv-show-420",
-      "label": "Fish",
-      "date": 1977,
-      "youtube": "https://www.youtube.com/watch?v=vAeO5f_aecA&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=420&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1977"
-      }
-    },
-    {
-      "id": "tv-show-425",
-      "label": "How I Met Your Mother",
-      "date": 2005,
-      "youtube": "https://www.youtube.com/watch?v=-DUV2oAL11A&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=425&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 2005"
-      }
-    },
-    {
-      "id": "tv-show-426",
-      "label": "Top Cat",
-      "date": 1961,
-      "youtube": "https://www.youtube.com/watch?v=6fvhLrBrPQI&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=426&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1961"
-      }
-    },
-    {
-      "id": "tv-show-427",
-      "label": "The Ed Wynn Show",
-      "date": 1949,
-      "youtube": "https://www.youtube.com/watch?v=IDTh2XwS7gA&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=427&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1949"
-      }
-    },
-    {
-      "id": "tv-show-428",
-      "label": "Teen Titans",
-      "date": 2003,
-      "youtube": "https://www.youtube.com/watch?v=Ke4Z0fBfU7Q&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=428&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 2003"
-      }
-    },
-    {
-      "id": "tv-show-429",
-      "label": "The Doris Day Show",
-      "date": 1968,
-      "youtube": "https://www.youtube.com/watch?v=6OyY6eyNd8Q&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=429&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1968"
-      }
-    },
-    {
-      "id": "tv-show-434",
-      "label": "Party of Five",
-      "date": 1994,
-      "youtube": "https://www.youtube.com/watch?v=njPmHiiQpZY&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=434&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1994"
-      }
-    },
-    {
-      "id": "tv-show-438",
-      "label": "Caroline in the City",
-      "date": 1995,
-      "youtube": "https://www.youtube.com/watch?v=tV3-xyS4hqc&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=438&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1995"
-      }
-    },
-    {
-      "id": "tv-show-439",
-      "label": "The Parent 'Hood",
-      "date": 1999,
-      "youtube": "https://www.youtube.com/watch?v=jn4eqi5ryLw&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=439&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1999"
-      }
-    },
-    {
-      "id": "tv-show-441",
-      "label": "Grady",
-      "date": 1975,
-      "youtube": "https://www.youtube.com/watch?v=8dBLOr2rrw4&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=441&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1975"
-      }
-    },
-    {
-      "id": "tv-show-443",
-      "label": "SpongeBob SquarePants",
-      "date": 1999,
-      "youtube": "https://www.youtube.com/watch?v=He-LBIyBUz8&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=443&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1999"
-      }
-    },
-    {
-      "id": "tv-show-444",
-      "label": "Teletubbies",
-      "date": 1997,
-      "youtube": "https://www.youtube.com/watch?v=TIIWPACxHDU&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=444&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1997"
-      }
-    },
-    {
-      "id": "tv-show-449",
-      "label": "The Curse of Oak Island",
-      "date": 2014,
-      "youtube": "https://www.youtube.com/watch?v=_ftzWNDKaVQ&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=449&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 2014"
-      }
-    },
-    {
-      "id": "tv-show-450",
-      "label": "Degrassi: The Next Generation",
-      "date": 2001,
-      "youtube": "https://www.youtube.com/watch?v=4A9vIOWjAwU&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=450&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 2001"
-      }
-    },
-    {
-      "id": "tv-show-451",
-      "label": "Dennis the Menace",
-      "date": 1959,
-      "youtube": "https://www.youtube.com/watch?v=_xtdYavoFkQ&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=451&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1959"
-      }
-    },
-    {
-      "id": "tv-show-453",
-      "label": "The Jeff Foxworthy Show",
-      "date": 1995,
-      "youtube": "https://www.youtube.com/watch?v=Q6b1SyoW3nE&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=453&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1995"
-      }
-    },
-    {
-      "id": "tv-show-454",
-      "label": "Jake and the Fatman",
-      "date": 2010,
-      "youtube": "https://www.youtube.com/watch?v=a20SFSZTKhI&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=454&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 2010"
-      }
-    },
-    {
-      "id": "tv-show-456",
-      "label": "I Married Dora",
-      "date": 1987,
-      "youtube": "https://www.youtube.com/watch?v=Lpkzj8J_5NA&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=456&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1987"
-      }
-    },
-    {
-      "id": "tv-show-458",
-      "label": "The Hardy Boys/Nancy Drew Mysteries",
-      "date": 1977,
-      "youtube": "https://www.youtube.com/watch?v=ViNEdaKUkJQ&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=458&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1977"
-      }
-    },
-    {
-      "id": "tv-show-460",
-      "label": "The Pat Sajak Show",
-      "date": 1957,
-      "youtube": "https://www.youtube.com/watch?v=VNFNZma1z_c&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=460&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1957"
-      }
-    },
-    {
-      "id": "tv-show-461",
-      "label": "Wiseguy",
-      "date": 1987,
-      "youtube": "https://www.youtube.com/watch?v=0Gwc-eZ7wzU&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=461&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1987"
-      }
-    },
-    {
-      "id": "tv-show-463",
-      "label": "To Tell the Truth",
-      "date": 1970,
-      "youtube": "https://www.youtube.com/watch?v=Rut1Ji8VcPk&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=463&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1970"
-      }
-    },
-    {
-      "id": "tv-show-470",
-      "label": "Doc McStuffins",
-      "date": 2012,
-      "youtube": "https://www.youtube.com/watch?v=WrfVjo6qsBc",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 2012"
-      }
-    },
-    {
-      "id": "tv-show-471",
-      "label": "Go, Diego, Go!",
-      "date": 2005,
-      "youtube": "https://www.youtube.com/watch?v=4rK2C6af-M8&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=471&pp=iAQB0gcJCd4JAYcqIYzv",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 2005"
-      }
-    },
-    {
-      "id": "tv-show-473",
-      "label": "The Joey Bishop Show",
-      "date": 1961,
-      "youtube": "https://www.youtube.com/watch?v=HrBjDUEd984&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=473&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1961"
-      }
-    },
-    {
-      "id": "tv-show-475",
-      "label": "South Park",
-      "date": 1997,
-      "youtube": "https://www.youtube.com/watch?v=S8p22rtNMoM&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=475&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1997"
-      }
-    },
-    {
-      "id": "tv-show-476",
-      "label": "Robot Chicken",
-      "date": 2005,
-      "youtube": "https://www.youtube.com/watch?v=LDwJArADO9o&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=476&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 2005"
-      }
-    },
-    {
-      "id": "tv-show-477",
-      "label": "Malcolm in the Middle",
-      "date": 2000,
-      "youtube": "https://www.youtube.com/watch?v=UnV_VNj426Y&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=477&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 2000"
-      }
-    },
-    {
-      "id": "tv-show-479",
-      "label": "Max and Ruby",
-      "date": 2002,
-      "youtube": "https://www.youtube.com/watch?v=COkhjAF_FH4&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=479&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 2002"
-      }
-    },
-    {
-      "id": "tv-show-481",
-      "label": "Scrubs",
-      "date": 2001,
-      "youtube": "https://www.youtube.com/watch?v=kBz1vvlkzSw&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=481&pp=iAQB0gcJCd4JAYcqIYzv",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 2001"
-      }
-    },
-    {
-      "id": "tv-show-482",
-      "label": "Kate & Allie",
-      "date": 1984,
-      "youtube": "https://www.youtube.com/watch?v=bKct-mcWLGM&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=482&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1984"
-      }
-    },
-    {
-      "id": "tv-show-57",
-      "label": "Cannon",
-      "date": 1971,
-      "youtube": "https://www.youtube.com/watch?v=MQaNeIecJkE&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=57&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1971"
       }
     },
     {
@@ -1934,66 +431,12 @@
       }
     },
     {
-      "id": "tv-show-121",
-      "label": "McMillan & Wife",
-      "date": 1971,
-      "youtube": "https://www.youtube.com/watch?v=i_wMFjfg0I8&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=121&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1971"
-      }
-    },
-    {
       "id": "tv-show-145",
       "label": "Soul Train",
       "date": 1971,
       "youtube": "https://www.youtube.com/watch?v=y3FNXkeXhOc&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=145&pp=iAQB",
       "tooltip": {
         "description": "Classic TV show that premiered in 1971"
-      }
-    },
-    {
-      "id": "tv-show-278",
-      "label": "The Electric Company",
-      "date": 1971,
-      "youtube": "https://www.youtube.com/watch?v=H_iGaQglnKg&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=278&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1971"
-      }
-    },
-    {
-      "id": "tv-show-203",
-      "label": "In the Heat of the Night",
-      "date": 1971,
-      "youtube": "https://www.youtube.com/watch?v=bebgBmf14TE&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=203&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1971"
-      }
-    },
-    {
-      "id": "tv-show-48",
-      "label": "The Rookies",
-      "date": 1972,
-      "youtube": "https://www.youtube.com/watch?v=pde-l3Z0A4E&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=48&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1972"
-      }
-    },
-    {
-      "id": "tv-show-94",
-      "label": "Emergency!",
-      "date": 1972,
-      "youtube": "https://www.youtube.com/watch?v=egCz5qppicY&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=94&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1972"
-      }
-    },
-    {
-      "id": "tv-show-2",
-      "label": "The Streets of San Francisco",
-      "date": 1972,
-      "youtube": "https://www.youtube.com/watch?v=8UHqdVJvk08&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=2&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1972"
       }
     },
     {
@@ -2024,19 +467,19 @@
       }
     },
     {
-      "id": "tv-show-56",
-      "label": "Barnaby Jones",
+      "id": "tv-show-62",
+      "label": "The Young and the Restless",
       "date": 1973,
-      "youtube": "https://www.youtube.com/watch?v=upYY3MTUdC0&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=56&pp=iAQB",
+      "youtube": "https://www.youtube.com/watch?v=torz_CwzaTM&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=62&pp=iAQB",
       "tooltip": {
         "description": "Classic TV show that premiered in 1973"
       }
     },
     {
-      "id": "tv-show-82",
-      "label": "Toma",
+      "id": "tv-show-234",
+      "label": "The $25,000 Pyramid",
       "date": 1973,
-      "youtube": "https://www.youtube.com/watch?v=wUGt0h9E7qk&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=82&pp=iAQB",
+      "youtube": "https://www.youtube.com/watch?v=6Y6zg9nDEfE&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=234&pp=iAQB",
       "tooltip": {
         "description": "Classic TV show that premiered in 1973"
       }
@@ -2060,66 +503,21 @@
       }
     },
     {
-      "id": "tv-show-45",
-      "label": "Police Woman",
-      "date": 1974,
-      "youtube": "https://www.youtube.com/watch?v=Jnlr8TyAZnc&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=45&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1974"
-      }
-    },
-    {
-      "id": "tv-show-49",
-      "label": "Chico and the Man",
-      "date": 1974,
-      "youtube": "https://www.youtube.com/watch?v=k7FISjhfpmc&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=49&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1974"
-      }
-    },
-    {
-      "id": "tv-show-83",
-      "label": "The Rockford Files",
-      "date": 1974,
-      "youtube": "https://www.youtube.com/watch?v=W1zYNrsx9Pw&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=83&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1974"
-      }
-    },
-    {
-      "id": "tv-show-100",
-      "label": "The Hudson Brothers Razzle Dazzle Show",
-      "date": 1974,
-      "youtube": "https://www.youtube.com/watch?v=IxHx0ha0mbE&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=100&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1974"
-      }
-    },
-    {
-      "id": "tv-show-431",
-      "label": "Roc",
-      "date": 1974,
-      "youtube": "https://www.youtube.com/watch?v=kngd3wSPAeU&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=431&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1974"
-      }
-    },
-    {
-      "id": "tv-show-101",
-      "label": "Hong Kong Phooey",
-      "date": 1974,
-      "youtube": "https://www.youtube.com/watch?v=6dum1WJXJMA&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=101&pp=iAQB0gcJCd4JAYcqIYzv",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1974"
-      }
-    },
-    {
       "id": "tv-show-140",
       "label": "Happy Days",
       "date": 1974,
       "youtube": "https://www.youtube.com/watch?v=mo4AxZsuJEk&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=140&pp=iAQB",
       "tooltip": {
         "description": "Classic TV show that premiered in 1974"
+      }
+    },
+    {
+      "id": "tv-show-267",
+      "label": "The Jeffersons",
+      "date": 1975,
+      "youtube": "https://www.youtube.com/watch?v=23GrEhLUF_k&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=267&pp=iAQB",
+      "tooltip": {
+        "description": "Classic TV show that premiered in 1975"
       }
     },
     {
@@ -2144,7 +542,7 @@
       "id": "tv-show-176",
       "label": "Wonder Woman",
       "date": 1975,
-      "youtube": "https://www.youtube.com/watch?v=imc_qG8Re2Q&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=176&pp=iAQB",
+      "youtube": "https://www.youtube.com/watch?v=imc_qG8Re2Q&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=176&pp=iAQB&t=10s",
       "tooltip": {
         "description": "Classic TV show that premiered in 1975"
       }
@@ -2159,21 +557,21 @@
       }
     },
     {
-      "id": "tv-show-320",
-      "label": "Wheel of Fortune",
-      "date": 1975,
-      "youtube": "https://www.youtube.com/watch?v=UzGUpszDfac&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=320&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1975"
-      }
-    },
-    {
       "id": "tv-show-465",
       "label": "Saturday Night Live",
       "date": 1975,
       "youtube": "https://www.youtube.com/watch?v=5ebyLkCaAL0&list=PLS_gQd8UB-hKnJ_gv43YieLpzbz6wRZ0n&index=9",
       "tooltip": {
         "description": "Classic TV show that premiered in 1975"
+      }
+    },
+    {
+      "id": "tv-show-231",
+      "label": "Donny & Marie",
+      "date": 1976,
+      "youtube": "https://www.youtube.com/watch?v=hPmtN_c_BRE&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=231&pp=iAQB",
+      "tooltip": {
+        "description": "Classic TV show that premiered in 1976"
       }
     },
     {
@@ -2213,10 +611,19 @@
       }
     },
     {
-      "id": "tv-show-43",
-      "label": "Soap",
+      "id": "tv-show-310",
+      "label": "CHiPs",
       "date": 1977,
-      "youtube": "https://www.youtube.com/watch?v=0BHQT3Omqtw&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=43&pp=iAQB",
+      "youtube": "https://www.youtube.com/watch?v=wyJOrh4y7pI&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=310&pp=iAQB",
+      "tooltip": {
+        "description": "Classic TV show that premiered in 1977"
+      }
+    },
+    {
+      "id": "tv-show-420",
+      "label": "Fish",
+      "date": 1977,
+      "youtube": "https://www.youtube.com/watch?v=vAeO5f_aecA&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=420&pp=iAQB",
       "tooltip": {
         "description": "Classic TV show that premiered in 1977"
       }
@@ -2240,15 +647,6 @@
       }
     },
     {
-      "id": "tv-show-79",
-      "label": "CHiPs",
-      "date": 1977,
-      "youtube": "https://www.youtube.com/watch?v=VTDOLoDiOcg&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=79&pp=iAQB0gcJCd4JAYcqIYzv",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1977"
-      }
-    },
-    {
       "id": "tv-show-35",
       "label": "Diff'rent Strokes",
       "date": 1978,
@@ -2267,10 +665,10 @@
       }
     },
     {
-      "id": "tv-show-303",
-      "label": "Archie Bunker's Place",
+      "id": "tv-show-54",
+      "label": "Hawaii Five-O",
       "date": 1979,
-      "youtube": "https://www.youtube.com/watch?v=VS3Acv-ymLI&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=303&pp=iAQB",
+      "youtube": "https://www.youtube.com/watch?v=ZHC-YsXYTsg&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=54&pp=iAQB",
       "tooltip": {
         "description": "Classic TV show that premiered in 1979"
       }
@@ -2288,7 +686,7 @@
       "id": "tv-show-69",
       "label": "The Facts of Life",
       "date": 1979,
-      "youtube": "https://www.youtube.com/watch?v=sp0lmxphmzY&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=69&pp=iAQB",
+      "youtube": "https://www.youtube.com/watch?v=sp0lmxphmzY&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=69&pp=iAQB&t=8s",
       "tooltip": {
         "description": "Classic TV show that premiered in 1979"
       }
@@ -2298,6 +696,15 @@
       "label": "The Dukes of Hazzard",
       "date": 1979,
       "youtube": "https://www.youtube.com/watch?v=sMI6etur0d4&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=70&pp=iAQB",
+      "tooltip": {
+        "description": "Classic TV show that premiered in 1979"
+      }
+    },
+    {
+      "id": "tv-show-324",
+      "label": "The Ropers",
+      "date": 1979,
+      "youtube": "https://www.youtube.com/watch?v=jdC9nJzZNyI&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=324&pp=iAQB",
       "tooltip": {
         "description": "Classic TV show that premiered in 1979"
       }
@@ -2318,6 +725,33 @@
       "youtube": "https://www.youtube.com/watch?v=xIaXl7SqkBw&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=295&pp=iAQB0gcJCd4JAYcqIYzv",
       "tooltip": {
         "description": "Classic TV show that premiered in 1980"
+      }
+    },
+    {
+      "id": "tv-show-250",
+      "label": "The People's Court",
+      "date": 1981,
+      "youtube": "https://www.youtube.com/watch?v=fdPq4qExR9Q&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=250&pp=iAQB",
+      "tooltip": {
+        "description": "Classic TV show that premiered in 1981"
+      }
+    },
+    {
+      "id": "tv-show-348",
+      "label": "The Greatest American Hero",
+      "date": 1981,
+      "youtube": "https://www.youtube.com/watch?v=72MxOo5koto&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=348&pp=iAQB",
+      "tooltip": {
+        "description": "Classic TV show that premiered in 1981"
+      }
+    },
+    {
+      "id": "tv-show-399",
+      "label": "Cagney and Lacey",
+      "date": 1981,
+      "youtube": "https://www.youtube.com/watch?v=OuwaA0BLKr4&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=399&pp=iAQB0gcJCd4JAYcqIYzv",
+      "tooltip": {
+        "description": "Classic TV show that premiered in 1981"
       }
     },
     {
@@ -2354,6 +788,33 @@
       "youtube": "https://www.youtube.com/watch?v=MijaRcVaRK0&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=336&pp=iAQB",
       "tooltip": {
         "description": "Classic TV show that premiered in 1981"
+      }
+    },
+    {
+      "id": "tv-show-218",
+      "label": "The Fall Guy",
+      "date": 1981,
+      "youtube": "https://www.youtube.com/watch?v=dj9ev40C30M",
+      "tooltip": {
+        "description": "The Fall Guy (1981)"
+      }
+    },
+    {
+      "id": "tv-show-198",
+      "label": "Fame",
+      "date": 1982,
+      "youtube": "https://www.youtube.com/watch?v=y9U2jqoIF7k&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=198&pp=iAQB",
+      "tooltip": {
+        "description": "Classic TV show that premiered in 1982"
+      }
+    },
+    {
+      "id": "tv-show-290",
+      "label": "Ripley's Believe It or Not!",
+      "date": 1982,
+      "youtube": "https://www.youtube.com/watch?v=IXgr-hSJWGU&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=290&pp=iAQB0gcJCd4JAYcqIYzv",
+      "tooltip": {
+        "description": "Classic TV show that premiered in 1982"
       }
     },
     {
@@ -2402,6 +863,60 @@
       }
     },
     {
+      "id": "tv-show-222",
+      "label": "Silver Spoons",
+      "date": 1982,
+      "youtube": "https://www.youtube.com/watch?v=1x8HTFQcmKI&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=222&pp=iAQB",
+      "tooltip": {
+        "description": "Classic TV show that premiered in 1982"
+      }
+    },
+    {
+      "id": "tv-show-351",
+      "label": "T.J. Hooker",
+      "date": 1982,
+      "youtube": "https://www.youtube.com/watch?v=Hci3fWEx-JA&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=351&pp=iAQB",
+      "tooltip": {
+        "description": "Classic TV show that premiered in 1982"
+      }
+    },
+    {
+      "id": "tv-show-219",
+      "label": "Knight Rider",
+      "date": 1982,
+      "youtube": "https://www.youtube.com/watch?v=oNyXYPhnUIs",
+      "tooltip": {
+        "description": "Knight Rider (1982)"
+      }
+    },
+    {
+      "id": "tv-show-221",
+      "label": "Family Ties",
+      "date": 1982,
+      "youtube": "https://www.youtube.com/watch?v=ip1szfz9nZ8&t=8s",
+      "tooltip": {
+        "description": "Family Ties (1982)"
+      }
+    },
+    {
+      "id": "tv-show-222",
+      "label": "Cheers",
+      "date": 1982,
+      "youtube": "https://www.youtube.com/watch?v=7KtAgAMzaeg",
+      "tooltip": {
+        "description": "Cheers (1982)"
+      }
+    },
+    {
+      "id": "tv-show-29",
+      "label": "Mama's Family",
+      "date": 1983,
+      "youtube": "https://www.youtube.com/watch?v=2hKxc5yGBz0&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=29&pp=iAQB",
+      "tooltip": {
+        "description": "Classic TV show that premiered in 1983"
+      }
+    },
+    {
       "id": "tv-show-342",
       "label": "Webster",
       "date": 1983,
@@ -2420,19 +935,37 @@
       }
     },
     {
-      "id": "tv-show-337",
-      "label": "Airwolf",
+      "id": "tv-show-217",
+      "label": "The A-Team",
+      "date": 1983,
+      "youtube": "https://www.youtube.com/watch?v=_MVonyVSQoM",
+      "tooltip": {
+        "description": "The A-Team (1983)"
+      }
+    },
+    {
+      "id": "tv-show-314",
+      "label": "Charles in Charge",
       "date": 1984,
-      "youtube": "https://www.youtube.com/watch?v=ULfmowbNlK0&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=337&pp=iAQB0gcJCd4JAYcqIYzv",
+      "youtube": "https://www.youtube.com/watch?v=WvoTRhtGeWo&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=314&pp=iAQB",
       "tooltip": {
         "description": "Classic TV show that premiered in 1984"
       }
     },
     {
-      "id": "tv-show-457",
-      "label": "Hunter",
+      "id": "tv-show-482",
+      "label": "Kate & Allie",
       "date": 1984,
-      "youtube": "https://www.youtube.com/watch?v=7EnEDxyni98&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=457&pp=iAQB",
+      "youtube": "https://www.youtube.com/watch?v=bKct-mcWLGM&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=482&pp=iAQB",
+      "tooltip": {
+        "description": "Classic TV show that premiered in 1984"
+      }
+    },
+    {
+      "id": "tv-show-337",
+      "label": "Airwolf",
+      "date": 1984,
+      "youtube": "https://www.youtube.com/watch?v=ULfmowbNlK0&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=337&pp=iAQB0gcJCd4JAYcqIYzv",
       "tooltip": {
         "description": "Classic TV show that premiered in 1984"
       }
@@ -2453,6 +986,33 @@
       "youtube": "https://www.youtube.com/watch?v=86887s5DIXA&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=224&pp=iAQB",
       "tooltip": {
         "description": "Classic TV show that premiered in 1984"
+      }
+    },
+    {
+      "id": "tv-show-108",
+      "label": "Murder, She Wrote",
+      "date": 1984,
+      "youtube": "https://www.youtube.com/watch?v=WIdB-xSNUXE&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=108&pp=iAQB",
+      "tooltip": {
+        "description": "Classic TV show that premiered in 1984"
+      }
+    },
+    {
+      "id": "tv-show-27",
+      "label": "227",
+      "date": 1985,
+      "youtube": "https://www.youtube.com/watch?v=beiTw8b-CiQ&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=27&pp=iAQB",
+      "tooltip": {
+        "description": "Classic TV show that premiered in 1985"
+      }
+    },
+    {
+      "id": "tv-show-344",
+      "label": "Disney's Adventures of the Gummi Bears",
+      "date": 1985,
+      "youtube": "https://www.youtube.com/watch?v=ghXltx1O4XI&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=344&pp=iAQB",
+      "tooltip": {
+        "description": "Classic TV show that premiered in 1985"
       }
     },
     {
@@ -2492,6 +1052,33 @@
       }
     },
     {
+      "id": "tv-show-338",
+      "label": "Spenser: For Hire",
+      "date": 1985,
+      "youtube": "https://www.youtube.com/watch?v=69WB7qXoxNw&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=338&pp=iAQB",
+      "tooltip": {
+        "description": "Classic TV show that premiered in 1985"
+      }
+    },
+    {
+      "id": "tv-show-312",
+      "label": "The Hogan Family",
+      "date": 1986,
+      "youtube": "https://www.youtube.com/watch?v=WtLIEZH9Y7s&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=312&pp=iAQB",
+      "tooltip": {
+        "description": "Classic TV show that premiered in 1965"
+      }
+    },
+    {
+      "id": "tv-show-365",
+      "label": "Designing Women",
+      "date": 1986,
+      "youtube": "https://www.youtube.com/watch?v=9oEcAj7ojM0&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=365&pp=iAQB",
+      "tooltip": {
+        "description": "Classic TV show that premiered in 1986"
+      }
+    },
+    {
       "id": "tv-show-375",
       "label": "Perfect Strangers",
       "date": 1986,
@@ -2504,7 +1091,7 @@
       "id": "tv-show-76",
       "label": "ALF",
       "date": 1986,
-      "youtube": "https://www.youtube.com/watch?v=7BuidaA9Zow&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=76&pp=iAQB0gcJCd4JAYcqIYzv",
+      "youtube": "https://www.youtube.com/watch?v=7BuidaA9Zow&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=76&pp=iAQB0gcJCd4JAYcqIYzv&t=10s",
       "tooltip": {
         "description": "Classic TV show that premiered in 1986"
       }
@@ -2516,6 +1103,24 @@
       "youtube": "https://www.youtube.com/watch?v=FOmGIZxRhYk&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=285&pp=iAQB",
       "tooltip": {
         "description": "Classic TV show that premiered in 1986"
+      }
+    },
+    {
+      "id": "tv-show-339",
+      "label": "Sledge Hammer!",
+      "date": 1986,
+      "youtube": "https://www.youtube.com/watch?v=UGYKU7mbv74&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=339&pp=iAQB",
+      "tooltip": {
+        "description": "Classic TV show that premiered in 1986"
+      }
+    },
+    {
+      "id": "tv-show-223",
+      "label": "Perfect Strangers",
+      "date": 1986,
+      "youtube": "https://www.youtube.com/watch?v=8vbnLYROCj8",
+      "tooltip": {
+        "description": "Perfect Strangers (1986)"
       }
     },
     {
@@ -2564,6 +1169,42 @@
       }
     },
     {
+      "id": "tv-show-341",
+      "label": "The Wonder Years",
+      "date": 1988,
+      "youtube": "https://www.youtube.com/watch?v=b0bK-vUlw6M&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=341&pp=iAQB&t=3s",
+      "tooltip": {
+        "description": "Classic TV show that premiered in 1988"
+      }
+    },
+    {
+      "id": "tv-show-306",
+      "label": "Cops",
+      "date": 1989,
+      "youtube": "https://www.youtube.com/watch?v=d3i7ndJL9YQ&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=306&pp=iAQB",
+      "tooltip": {
+        "description": "Classic TV show that premiered in 1989"
+      }
+    },
+    {
+      "id": "tv-show-360",
+      "label": "Tales from the Crypt",
+      "date": 1989,
+      "youtube": "https://www.youtube.com/watch?v=bAbqWX0HR60&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=360&pp=iAQB",
+      "tooltip": {
+        "description": "Classic TV show that premiered in 1989"
+      }
+    },
+    {
+      "id": "tv-show-395",
+      "label": "Chip 'n Dale: Rescue Rangers",
+      "date": 1989,
+      "youtube": "https://www.youtube.com/watch?v=3AQRa87j2Ws&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=395&pp=iAQB",
+      "tooltip": {
+        "description": "Classic TV show that premiered in 1989"
+      }
+    },
+    {
       "id": "tv-show-130",
       "label": "Saved by the Bell",
       "date": 1989,
@@ -2609,6 +1250,42 @@
       }
     },
     {
+      "id": "tv-show-233",
+      "label": "American Gladiators",
+      "date": 1989,
+      "youtube": "https://www.youtube.com/watch?v=Fp5F2kFm-50&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=233&pp=iAQB",
+      "tooltip": {
+        "description": "Classic TV show that premiered in 1989"
+      }
+    },
+    {
+      "id": "tv-show-345",
+      "label": "Baywatch",
+      "date": 1989,
+      "youtube": "https://www.youtube.com/watch?v=O0nqwgu_Us4&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=345&pp=iAQB",
+      "tooltip": {
+        "description": "Classic TV show that premiered in 1989"
+      }
+    },
+    {
+      "id": "tv-show-415",
+      "label": "Doogie Howser, M.D.",
+      "date": 1989,
+      "youtube": "https://www.youtube.com/watch?v=mrERtikdPus&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=415&pp=iAQB",
+      "tooltip": {
+        "description": "Classic TV show that premiered in 1989"
+      }
+    },
+    {
+      "id": "tv-show-416",
+      "label": "Blossom",
+      "date": 1990,
+      "youtube": "https://www.youtube.com/watch?v=oLYXWLvJBRc&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=416&pp=iAQB",
+      "tooltip": {
+        "description": "Classic TV show that premiered in 1990"
+      }
+    },
+    {
       "id": "tv-show-96",
       "label": "In Living Color",
       "date": 1990,
@@ -2631,15 +1308,6 @@
       "label": "Law & Order",
       "date": 1990,
       "youtube": "https://www.youtube.com/watch?v=bx9rwNxEIV0&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=174&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1990"
-      }
-    },
-    {
-      "id": "tv-show-204",
-      "label": "Law & Order",
-      "date": 1990,
-      "youtube": "https://www.youtube.com/watch?v=7_MZNxKnMPs&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=204&pp=iAQB",
       "tooltip": {
         "description": "Classic TV show that premiered in 1990"
       }
@@ -2672,6 +1340,42 @@
       }
     },
     {
+      "id": "tv-show-220",
+      "label": "The Fresh Prince of Bel-Air",
+      "date": 1990,
+      "youtube": "https://www.youtube.com/watch?v=1nCqRmx3Dnw",
+      "tooltip": {
+        "description": "The Fresh Prince of Bel-Air (1990)"
+      }
+    },
+    {
+      "id": "tv-show-325",
+      "label": "Jenny Jones",
+      "date": 1991,
+      "youtube": "https://www.youtube.com/watch?v=2jK8Ijv7OjQ&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=325&pp=iAQB",
+      "tooltip": {
+        "description": "Classic TV show that premiered in 1991"
+      }
+    },
+    {
+      "id": "tv-show-328",
+      "label": "Who's the Boss?",
+      "date": 1991,
+      "youtube": "https://www.youtube.com/watch?v=zkD9wzrrhiA&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=328&pp=iAQB",
+      "tooltip": {
+        "description": "Classic TV show that premiered in 1991"
+      }
+    },
+    {
+      "id": "tv-show-364",
+      "label": "The Ren & Stimpy Show",
+      "date": 1991,
+      "youtube": "https://www.youtube.com/watch?v=OHPmI8x72Rk&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=364&pp=iAQB",
+      "tooltip": {
+        "description": "Classic TV show that premiered in 1991"
+      }
+    },
+    {
       "id": "tv-show-277",
       "label": "Home Improvement",
       "date": 1991,
@@ -2690,12 +1394,48 @@
       }
     },
     {
+      "id": "tv-show-271",
+      "label": "The Adventures of Tintin",
+      "date": 1991,
+      "youtube": "https://www.youtube.com/watch?v=5Bc_FuX7v1s&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=271&pp=iAQB0gcJCd4JAYcqIYzv",
+      "tooltip": {
+        "description": "Classic TV show that premiered in 1991"
+      }
+    },
+    {
+      "id": "tv-show-183",
+      "label": "The Larry Sanders Show",
+      "date": 1992,
+      "youtube": "https://www.youtube.com/watch?v=ixo47O2xZZQ&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=183&pp=iAQB",
+      "tooltip": {
+        "description": "Classic TV show that premiered in 1992"
+      }
+    },
+    {
       "id": "tv-show-84",
       "label": "Martin",
       "date": 1992,
       "youtube": "https://www.youtube.com/watch?v=tMGPoAq-pSY&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=84&pp=iAQB",
       "tooltip": {
         "description": "Classic TV show that premiered in 1992"
+      }
+    },
+    {
+      "id": "tv-show-124",
+      "label": "The Nanny",
+      "date": 1993,
+      "youtube": "https://www.youtube.com/watch?v=GGFAlgsZkik&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=124&pp=iAQB&t=7s",
+      "tooltip": {
+        "description": "Classic TV show that premiered in 1993"
+      }
+    },
+    {
+      "id": "tv-show-327",
+      "label": "Ricki Lake",
+      "date": 1993,
+      "youtube": "https://www.youtube.com/watch?v=jN4m528vTp8&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=327&pp=iAQB",
+      "tooltip": {
+        "description": "Classic TV show that premiered in 1993"
       }
     },
     {
@@ -2717,201 +1457,12 @@
       }
     },
     {
-      "id": "tv-show-65",
-      "label": "Frasier",
-      "date": 1993,
-      "youtube": "https://www.youtube.com/watch?v=ml5U0sKe1mU&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=65&pp=iAQB0gcJCd4JAYcqIYzv",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1993"
-      }
-    },
-    {
-      "id": "tv-show-16",
-      "label": "Gomer Pyle, U.S.M.C.",
-      "date": 1964,
-      "youtube": "https://www.youtube.com/watch?v=MZ_TDYC2Buc&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=16&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1964"
-      }
-    },
-    {
-      "id": "tv-show-63",
-      "label": "Everybody Loves Raymond",
-      "date": 1996,
-      "youtube": "https://www.youtube.com/watch?v=e8JN7d1WcbA&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=63&pp=iAQB0gcJCd4JAYcqIYzv",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1996"
-      }
-    },
-    {
-      "id": "tv-show-108",
-      "label": "Murder, She Wrote",
-      "date": 1984,
-      "youtube": "https://www.youtube.com/watch?v=WIdB-xSNUXE&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=108&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1984"
-      }
-    },
-    {
-      "id": "tv-show-110",
-      "label": "Becker",
-      "date": 1998,
-      "youtube": "https://www.youtube.com/watch?v=CKN1gTObYE4&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=110&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1998"
-      }
-    },
-    {
-      "id": "tv-show-122",
-      "label": "Bat Masterson",
-      "date": 1958,
-      "youtube": "https://www.youtube.com/watch?v=IRNImRxRNjc&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=122&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1958"
-      }
-    },
-    {
-      "id": "tv-show-129",
-      "label": "Barney Miller",
-      "date": 1975,
-      "youtube": "https://www.youtube.com/watch?v=rRoRjamgfCY&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=129&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1975"
-      }
-    },
-    {
-      "id": "tv-show-131",
-      "label": "The Super Mario Bros. Super Show!",
-      "date": 1989,
-      "youtube": "https://www.youtube.com/watch?v=BkWYP95WbbY&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=131&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1989"
-      }
-    },
-    {
-      "id": "tv-show-144",
-      "label": "The Jeffersons",
-      "date": 1995,
-      "youtube": "https://www.youtube.com/watch?v=FHDwRECFL8M&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=144&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1995"
-      }
-    },
-    {
-      "id": "tv-show-146",
-      "label": "Mayberry R.F.D.",
-      "date": 1968,
-      "youtube": "https://www.youtube.com/watch?v=yn6VscEJNi4&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=146&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1968"
-      }
-    },
-    {
-      "id": "tv-show-148",
-      "label": "Trapper John, M.D.",
-      "date": 1979,
-      "youtube": "https://www.youtube.com/watch?v=KIdRgqfHSGQ&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=148&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1979"
-      }
-    },
-    {
       "id": "tv-show-166",
       "label": "Grace Under Fire",
       "date": 1993,
-      "youtube": "https://www.youtube.com/watch?v=ycxPh2hYNjg&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=166&pp=iAQB",
+      "youtube": "https://www.youtube.com/watch?v=ycxPh2hYNjg&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=166&pp=iAQB&t=9s",
       "tooltip": {
         "description": "Classic TV show that premiered in 1993"
-      }
-    },
-    {
-      "id": "tv-show-184",
-      "label": "Speed Racer",
-      "date": 1967,
-      "youtube": "https://www.youtube.com/watch?v=e5XmMWnsiqU&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=184&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1967"
-      }
-    },
-    {
-      "id": "tv-show-212",
-      "label": "Underdog",
-      "date": 1964,
-      "youtube": "https://www.youtube.com/watch?v=qHej4ZqZDwo&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=212&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1964"
-      }
-    },
-    {
-      "id": "tv-show-214",
-      "label": "The Munsters",
-      "date": 1964,
-      "youtube": "https://www.youtube.com/watch?v=8TTIqK9nFH8&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=214&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1964"
-      }
-    },
-    {
-      "id": "tv-show-222",
-      "label": "Silver Spoons",
-      "date": 1982,
-      "youtube": "https://www.youtube.com/watch?v=1x8HTFQcmKI&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=222&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1982"
-      }
-    },
-    {
-      "id": "tv-show-230",
-      "label": "Mister Rogers' Neighborhood",
-      "date": 1968,
-      "youtube": "https://www.youtube.com/watch?v=FhAJnx5uwUU&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=230&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1968"
-      }
-    },
-    {
-      "id": "tv-show-233",
-      "label": "American Gladiators",
-      "date": 1989,
-      "youtube": "https://www.youtube.com/watch?v=Fp5F2kFm-50&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=233&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1989"
-      }
-    },
-    {
-      "id": "tv-show-262",
-      "label": "Candid Camera",
-      "date": 1960,
-      "youtube": "https://www.youtube.com/watch?v=9eH28oAP4bM&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=262&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1960"
-      }
-    },
-    {
-      "id": "tv-show-271",
-      "label": "The Adventures of Tintin",
-      "date": 1991,
-      "youtube": "https://www.youtube.com/watch?v=5Bc_FuX7v1s&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=271&pp=iAQB0gcJCd4JAYcqIYzv",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1991"
-      }
-    },
-    {
-      "id": "tv-show-279",
-      "label": "Hogan's Heroes",
-      "date": 1965,
-      "youtube": "https://www.youtube.com/watch?v=2UnB-9tIZAo&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=279&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1965"
-      }
-    },
-    {
-      "id": "tv-show-280",
-      "label": "Carter Country",
-      "date": 1977,
-      "youtube": "https://www.youtube.com/watch?v=QZf5Odx5dgI&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=280&pp=iAQB0gcJCd4JAYcqIYzv",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1977"
       }
     },
     {
@@ -2924,12 +1475,525 @@
       }
     },
     {
-      "id": "tv-show-324",
-      "label": "The Ropers",
-      "date": 1979,
-      "youtube": "https://www.youtube.com/watch?v=jdC9nJzZNyI&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=324&pp=iAQB",
+      "id": "tv-show-434",
+      "label": "Party of Five",
+      "date": 1994,
+      "youtube": "https://www.youtube.com/watch?v=njPmHiiQpZY&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=434&pp=iAQB",
       "tooltip": {
-        "description": "Classic TV show that premiered in 1979"
+        "description": "Classic TV show that premiered in 1994"
+      }
+    },
+    {
+      "id": "tv-show-21",
+      "label": "Friends",
+      "date": 1994,
+      "youtube": "https://www.youtube.com/watch?v=Niu9Zmrx0p8&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=21&pp=iAQB0gcJCd4JAYcqIYzv",
+      "tooltip": {
+        "description": "Classic TV show that premiered in 1994"
+      }
+    },
+    {
+      "id": "tv-show-127",
+      "label": "The Drew Carey Show",
+      "date": 1995,
+      "youtube": "https://www.youtube.com/watch?v=i47lyjYF5As&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=127&pp=iAQB",
+      "tooltip": {
+        "description": "Classic TV show that premiered in 1995"
+      }
+    },
+    {
+      "id": "tv-show-210",
+      "label": "NewsRadio",
+      "date": 1995,
+      "youtube": "https://www.youtube.com/watch?v=E3xO9EIrsNQ&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=210&pp=iAQB",
+      "tooltip": {
+        "description": "Classic TV show that premiered in 1995"
+      }
+    },
+    {
+      "id": "tv-show-438",
+      "label": "Caroline in the City",
+      "date": 1995,
+      "youtube": "https://www.youtube.com/watch?v=tV3-xyS4hqc&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=438&pp=iAQB",
+      "tooltip": {
+        "description": "Classic TV show that premiered in 1995"
+      }
+    },
+    {
+      "id": "tv-show-453",
+      "label": "The Jeff Foxworthy Show",
+      "date": 1995,
+      "youtube": "https://www.youtube.com/watch?v=Q6b1SyoW3nE&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=453&pp=iAQB",
+      "tooltip": {
+        "description": "Classic TV show that premiered in 1995"
+      }
+    },
+    {
+      "id": "tv-show-144",
+      "label": "The Jeffersons",
+      "date": 1995,
+      "youtube": "https://www.youtube.com/watch?v=FHDwRECFL8M&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=144&pp=iAQB",
+      "tooltip": {
+        "description": "Classic TV show that premiered in 1995"
+      }
+    },
+    {
+      "id": "tv-show-455",
+      "label": "JAG",
+      "date": 1995,
+      "youtube": "https://www.youtube.com/watch?v=wGWjUUoyLBc&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=455&pp=iAQB",
+      "tooltip": {
+        "description": "Classic TV show that premiered in 1995"
+      }
+    },
+    {
+      "id": "tv-show-97",
+      "label": "The Wayans Bros.",
+      "date": 1995,
+      "youtube": "https://www.youtube.com/watch?v=GDCINv3zY5c&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=97&pp=iAQB",
+      "tooltip": {
+        "description": "Classic TV show that premiered in 1995"
+      }
+    },
+    {
+      "id": "tv-show-175",
+      "label": "Spin City",
+      "date": 1996,
+      "youtube": "https://www.youtube.com/watch?v=pPQ0g82ZPOs&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=175&pp=iAQB",
+      "tooltip": {
+        "description": "Classic TV show that premiered in 1996"
+      }
+    },
+    {
+      "id": "tv-show-246",
+      "label": "Judge Judy",
+      "date": 1996,
+      "youtube": "https://www.youtube.com/watch?v=_lRhmINhpwo&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=246&pp=iAQB",
+      "tooltip": {
+        "description": "Classic TV show that premiered in 1996"
+      }
+    },
+    {
+      "id": "tv-show-284",
+      "label": "Moesha",
+      "date": 1996,
+      "youtube": "https://www.youtube.com/watch?v=lMDuweKaJ0I&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=284&pp=iAQB",
+      "tooltip": {
+        "description": "Classic TV show that premiered in 1996"
+      }
+    },
+    {
+      "id": "tv-show-367",
+      "label": "Sabrina the Teenage Witch",
+      "date": 1996,
+      "youtube": "https://www.youtube.com/watch?v=3zUu3ObsMy0&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=367&pp=iAQB",
+      "tooltip": {
+        "description": "Classic TV show that premiered in 1996"
+      }
+    },
+    {
+      "id": "tv-show-403",
+      "label": "The Daily Show",
+      "date": 1996,
+      "youtube": "https://www.youtube.com/watch?v=yRZ2vIFLOzg&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=403&pp=iAQB&t=4s",
+      "tooltip": {
+        "description": "Classic TV show that premiered in 1996"
+      }
+    },
+    {
+      "id": "tv-show-63",
+      "label": "Everybody Loves Raymond",
+      "date": 1996,
+      "youtube": "https://www.youtube.com/watch?v=e8JN7d1WcbA&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=63&pp=iAQB0gcJCd4JAYcqIYzv",
+      "tooltip": {
+        "description": "Classic TV show that premiered in 1996"
+      }
+    },
+    {
+      "id": "tv-show-138",
+      "label": "Just Shoot Me!",
+      "date": 1997,
+      "youtube": "https://www.youtube.com/watch?v=eJQ0oLYS9XM&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=138&pp=iAQB",
+      "tooltip": {
+        "description": "Classic TV show that premiered in 1997"
+      }
+    },
+    {
+      "id": "tv-show-141",
+      "label": "Dharma & Greg",
+      "date": 1997,
+      "youtube": "https://www.youtube.com/watch?v=uZNZXBlNCN8&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=141&pp=iAQB",
+      "tooltip": {
+        "description": "Classic TV show that premiered in 1997"
+      }
+    },
+    {
+      "id": "tv-show-202",
+      "label": "King of the Hill",
+      "date": 1997,
+      "youtube": "https://www.youtube.com/watch?v=-Jv_cYh2MGE&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=202&pp=iAQB",
+      "tooltip": {
+        "description": "Classic TV show that premiered in 1997"
+      }
+    },
+    {
+      "id": "tv-show-357",
+      "label": "Ally McBeal",
+      "date": 1997,
+      "youtube": "https://www.youtube.com/watch?v=xhAzKAyZ5so&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=357&pp=iAQB",
+      "tooltip": {
+        "description": "Classic TV show that premiered in 1997"
+      }
+    },
+    {
+      "id": "tv-show-444",
+      "label": "Teletubbies",
+      "date": 1997,
+      "youtube": "https://www.youtube.com/watch?v=TIIWPACxHDU&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=444&pp=iAQB",
+      "tooltip": {
+        "description": "Classic TV show that premiered in 1997"
+      }
+    },
+    {
+      "id": "tv-show-475",
+      "label": "South Park",
+      "date": 1997,
+      "youtube": "https://www.youtube.com/watch?v=S8p22rtNMoM&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=475&pp=iAQB",
+      "tooltip": {
+        "description": "Classic TV show that premiered in 1997"
+      }
+    },
+    {
+      "id": "tv-show-232",
+      "label": "That '70s Show",
+      "date": 1998,
+      "youtube": "https://www.youtube.com/watch?v=Fh8QmHcm49U&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=232&pp=iAQB0gcJCd4JAYcqIYzv",
+      "tooltip": {
+        "description": "Classic TV show that premiered in 1998"
+      }
+    },
+    {
+      "id": "tv-show-346",
+      "label": "Dawson's Creek",
+      "date": 1998,
+      "youtube": "https://www.youtube.com/watch?v=izpNuTxGIrM&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=346&pp=iAQB",
+      "tooltip": {
+        "description": "Classic TV show that premiered in 1998"
+      }
+    },
+    {
+      "id": "tv-show-396",
+      "label": "The Sopranos",
+      "date": 1999,
+      "youtube": "https://www.youtube.com/watch?v=mJpNmYeooQE&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=396&pp=iAQB",
+      "tooltip": {
+        "description": "Classic TV show that premiered in 1999"
+      }
+    },
+    {
+      "id": "tv-show-401",
+      "label": "Family Guy",
+      "date": 1999,
+      "youtube": "https://www.youtube.com/watch?v=WJOAvttDJ-Q&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=401&pp=iAQB",
+      "tooltip": {
+        "description": "Classic TV show that premiered in 1999"
+      }
+    },
+    {
+      "id": "tv-show-443",
+      "label": "SpongeBob SquarePants",
+      "date": 1999,
+      "youtube": "https://www.youtube.com/watch?v=He-LBIyBUz8&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=443&pp=iAQB",
+      "tooltip": {
+        "description": "Classic TV show that premiered in 1999"
+      }
+    },
+    {
+      "id": "tv-show-308",
+      "label": "Yes, Dear",
+      "date": 2000,
+      "youtube": "https://www.youtube.com/watch?v=j6vVNa7kG_Y&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=308&pp=iAQB",
+      "tooltip": {
+        "description": "Classic TV show that premiered in 2000"
+      }
+    },
+    {
+      "id": "tv-show-352",
+      "label": "Curb Your Enthusiasm",
+      "date": 2000,
+      "youtube": "https://www.youtube.com/watch?v=ah0qx8l4BW4&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=352&pp=iAQB",
+      "tooltip": {
+        "description": "Classic TV show that premiered in 2000"
+      }
+    },
+    {
+      "id": "tv-show-477",
+      "label": "Malcolm in the Middle",
+      "date": 2000,
+      "youtube": "https://www.youtube.com/watch?v=UnV_VNj426Y&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=477&pp=iAQB",
+      "tooltip": {
+        "description": "Classic TV show that premiered in 2000"
+      }
+    },
+    {
+      "id": "tv-show-450",
+      "label": "Degrassi: The Next Generation",
+      "date": 2001,
+      "youtube": "https://www.youtube.com/watch?v=4A9vIOWjAwU&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=450&pp=iAQB",
+      "tooltip": {
+        "description": "Classic TV show that premiered in 2001"
+      }
+    },
+    {
+      "id": "tv-show-481",
+      "label": "Scrubs",
+      "date": 2001,
+      "youtube": "https://www.youtube.com/watch?v=kBz1vvlkzSw&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=481&pp=iAQB0gcJCd4JAYcqIYzv",
+      "tooltip": {
+        "description": "Classic TV show that premiered in 2001"
+      }
+    },
+    {
+      "id": "tv-show-479",
+      "label": "Max and Ruby",
+      "date": 2002,
+      "youtube": "https://www.youtube.com/watch?v=COkhjAF_FH4&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=479&pp=iAQB",
+      "tooltip": {
+        "description": "Classic TV show that premiered in 2002"
+      }
+    },
+    {
+      "id": "tv-show-373",
+      "label": "American Idol",
+      "date": 2002,
+      "youtube": "https://www.youtube.com/watch?v=5zSMogk2diI&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=373&pp=iAQB",
+      "tooltip": {
+        "description": "Classic TV show that premiered in 2002"
+      }
+    },
+    {
+      "id": "tv-show-283",
+      "label": "Arrested Development",
+      "date": 2003,
+      "youtube": "https://www.youtube.com/watch?v=-YNARP9K9MY&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=283&pp=iAQB",
+      "tooltip": {
+        "description": "Classic TV show that premiered in 2003"
+      }
+    },
+    {
+      "id": "tv-show-428",
+      "label": "Teen Titans",
+      "date": 2003,
+      "youtube": "https://www.youtube.com/watch?v=Ke4Z0fBfU7Q&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=428&pp=iAQB",
+      "tooltip": {
+        "description": "Classic TV show that premiered in 2003"
+      }
+    },
+    {
+      "id": "tv-show-366",
+      "label": "The Ellen DeGeneres Show",
+      "date": 2003,
+      "youtube": "https://www.youtube.com/watch?v=6cTRiX-AZOQ&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=366&pp=iAQB",
+      "tooltip": {
+        "description": "Classic TV show that premiered in 2003"
+      }
+    },
+    {
+      "id": "tv-show-111",
+      "label": "Joey",
+      "date": 2004,
+      "youtube": "https://www.youtube.com/watch?v=2s3AZbkTs2Q&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=111&pp=iAQB",
+      "tooltip": {
+        "description": "Classic TV show that premiered in 1961"
+      }
+    },
+    {
+      "id": "tv-show-286",
+      "label": "Boston Legal",
+      "date": 2004,
+      "youtube": "https://www.youtube.com/watch?v=Oniw_CbXo5U&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=286&pp=iAQB",
+      "tooltip": {
+        "description": "Classic TV show that premiered in 2004"
+      }
+    },
+    {
+      "id": "tv-show-384",
+      "label": "The Office",
+      "date": 2005,
+      "youtube": "https://www.youtube.com/watch?v=JGorPb_jk5E&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=384&pp=iAQB",
+      "tooltip": {
+        "description": "Classic TV show that premiered in 2005"
+      }
+    },
+    {
+      "id": "tv-show-385",
+      "label": "It's Always Sunny in Philadelphia",
+      "date": 2005,
+      "youtube": "https://www.youtube.com/watch?v=BYPzS5CVfqk&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=385&pp=iAQB",
+      "tooltip": {
+        "description": "Classic TV show that premiered in 2005"
+      }
+    },
+    {
+      "id": "tv-show-407",
+      "label": "Grey's Anatomy",
+      "date": 2005,
+      "youtube": "https://www.youtube.com/watch?v=GKyvMFkuCog&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=407&pp=iAQB",
+      "tooltip": {
+        "description": "Classic TV show that premiered in 2005"
+      }
+    },
+    {
+      "id": "tv-show-425",
+      "label": "How I Met Your Mother",
+      "date": 2005,
+      "youtube": "https://www.youtube.com/watch?v=-DUV2oAL11A&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=425&pp=iAQB",
+      "tooltip": {
+        "description": "Classic TV show that premiered in 2005"
+      }
+    },
+    {
+      "id": "tv-show-471",
+      "label": "Go, Diego, Go!",
+      "date": 2005,
+      "youtube": "https://www.youtube.com/watch?v=4rK2C6af-M8&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=471&pp=iAQB0gcJCd4JAYcqIYzv",
+      "tooltip": {
+        "description": "Classic TV show that premiered in 2005"
+      }
+    },
+    {
+      "id": "tv-show-476",
+      "label": "Robot Chicken",
+      "date": 2005,
+      "youtube": "https://www.youtube.com/watch?v=LDwJArADO9o&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=476&pp=iAQB",
+      "tooltip": {
+        "description": "Classic TV show that premiered in 2005"
+      }
+    },
+    {
+      "id": "tv-show-430",
+      "label": "Everybody Hates Chris",
+      "date": 2005,
+      "youtube": "https://www.youtube.com/watch?v=5MVcc4ea4jY&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=430&pp=iAQB",
+      "tooltip": {
+        "description": "Classic TV show that premiered in 2005"
+      }
+    },
+    {
+      "id": "tv-show-381",
+      "label": "30 Rock",
+      "date": 2006,
+      "youtube": "https://www.youtube.com/watch?v=huteagsm_Io&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=381&pp=iAQB",
+      "tooltip": {
+        "description": "Classic TV show that premiered in 2006"
+      }
+    },
+    {
+      "id": "tv-show-412",
+      "label": "Keeping Up with the Kardashians",
+      "date": 2007,
+      "youtube": "https://www.youtube.com/watch?v=41C8CbMyFDo&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=412&pp=iAQB",
+      "tooltip": {
+        "description": "Classic TV show that premiered in 2007"
+      }
+    },
+    {
+      "id": "tv-show-397",
+      "label": "Breaking Bad",
+      "date": 2008,
+      "youtube": "https://www.youtube.com/watch?v=3U6PSWyv5sc&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=397&pp=iAQB",
+      "tooltip": {
+        "description": "Classic TV show that premiered in 2008"
+      }
+    },
+    {
+      "id": "tv-show-139",
+      "label": "The Cleveland Show",
+      "date": 2009,
+      "youtube": "https://www.youtube.com/watch?v=LNDXrKBOKrw&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=139&pp=iAQB",
+      "tooltip": {
+        "description": "Classic TV show that premiered in 2009"
+      }
+    },
+    {
+      "id": "tv-show-377",
+      "label": "Pawn Stars",
+      "date": 2009,
+      "youtube": "https://www.youtube.com/watch?v=GodHhdwfVmw&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=377&pp=iAQB",
+      "tooltip": {
+        "description": "Classic TV show that premiered in 2009"
+      }
+    },
+    {
+      "id": "tv-show-382",
+      "label": "Parks and Recreation",
+      "date": 2009,
+      "youtube": "https://www.youtube.com/watch?v=BEw2iXAGxlk&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=382&pp=iAQB",
+      "tooltip": {
+        "description": "Classic TV show that premiered in 2009"
+      }
+    },
+    {
+      "id": "tv-show-424",
+      "label": "Modern Family",
+      "date": 2009,
+      "youtube": "https://www.youtube.com/watch?v=q3xrdZpMdu0&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=424&pp=iAQB0gcJCd4JAYcqIYzv",
+      "tooltip": {
+        "description": "Classic TV show that premiered in 2009"
+      }
+    },
+    {
+      "id": "tv-show-393",
+      "label": "Rizzoli & Isles",
+      "date": 2010,
+      "youtube": "https://www.youtube.com/watch?v=AtpI8Xy2gLM&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=393&pp=iAQB",
+      "tooltip": {
+        "description": "Classic TV show that premiered in 2010"
+      }
+    },
+    {
+      "id": "tv-show-454",
+      "label": "Jake and the Fatman",
+      "date": 2010,
+      "youtube": "https://www.youtube.com/watch?v=a20SFSZTKhI&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=454&pp=iAQB",
+      "tooltip": {
+        "description": "Classic TV show that premiered in 2010"
+      }
+    },
+    {
+      "id": "tv-show-370",
+      "label": "Bob's Burgers",
+      "date": 2011,
+      "youtube": "https://www.youtube.com/watch?v=8KH97Sp5jRE&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=370&pp=iAQB",
+      "tooltip": {
+        "description": "Classic TV show that premiered in 2011"
+      }
+    },
+    {
+      "id": "tv-show-389",
+      "label": "Chicago Fire",
+      "date": 2012,
+      "youtube": "https://www.youtube.com/watch?v=tTN2Mv3jiBk&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=389&pp=iAQB",
+      "tooltip": {
+        "description": "Classic TV show that premiered in 2012"
+      }
+    },
+    {
+      "id": "tv-show-371",
+      "label": "The Goldbergs",
+      "date": 2013,
+      "youtube": "https://www.youtube.com/watch?v=aMbU7wvo4FI&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=371&pp=iAQB",
+      "tooltip": {
+        "description": "Classic TV show that premiered in 2013"
+      }
+    },
+    {
+      "id": "tv-show-386",
+      "label": "Forged in Fire",
+      "date": 2015,
+      "youtube": "https://www.youtube.com/watch?v=Tdk36YF5wPU&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=386&pp=iAQB",
+      "tooltip": {
+        "description": "Classic TV show that premiered in 2015"
       }
     },
     {
@@ -2948,231 +2012,6 @@
       "youtube": "https://www.youtube.com/watch?v=p9QZ3HEXFUA&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=330&pp=iAQB0gcJCd4JAYcqIYzv",
       "tooltip": {
         "description": "Classic TV show that premiered in 2018"
-      }
-    },
-    {
-      "id": "tv-show-338",
-      "label": "Spenser: For Hire",
-      "date": 1985,
-      "youtube": "https://www.youtube.com/watch?v=69WB7qXoxNw&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=338&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1985"
-      }
-    },
-    {
-      "id": "tv-show-339",
-      "label": "Sledge Hammer!",
-      "date": 1986,
-      "youtube": "https://www.youtube.com/watch?v=UGYKU7mbv74&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=339&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1986"
-      }
-    },
-    {
-      "id": "tv-show-341",
-      "label": "The Wonder Years",
-      "date": 1988,
-      "youtube": "https://www.youtube.com/watch?v=b0bK-vUlw6M&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=341&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1988"
-      }
-    },
-    {
-      "id": "tv-show-345",
-      "label": "Baywatch",
-      "date": 1989,
-      "youtube": "https://www.youtube.com/watch?v=O0nqwgu_Us4&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=345&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1989"
-      }
-    },
-    {
-      "id": "tv-show-351",
-      "label": "T.J. Hooker",
-      "date": 1982,
-      "youtube": "https://www.youtube.com/watch?v=Hci3fWEx-JA&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=351&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1982"
-      }
-    },
-    {
-      "id": "tv-show-359",
-      "label": "The Avengers",
-      "date": 1961,
-      "youtube": "https://www.youtube.com/watch?v=GeK3Lkd_XL4&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=359&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1961"
-      }
-    },
-    {
-      "id": "tv-show-366",
-      "label": "The Ellen DeGeneres Show",
-      "date": 2003,
-      "youtube": "https://www.youtube.com/watch?v=6cTRiX-AZOQ&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=366&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 2003"
-      }
-    },
-    {
-      "id": "tv-show-370",
-      "label": "Bob's Burgers",
-      "date": 2011,
-      "youtube": "https://www.youtube.com/watch?v=8KH97Sp5jRE&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=370&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 2011"
-      }
-    },
-    {
-      "id": "tv-show-371",
-      "label": "The Goldbergs",
-      "date": 2013,
-      "youtube": "https://www.youtube.com/watch?v=aMbU7wvo4FI&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=371&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 2013"
-      }
-    },
-    {
-      "id": "tv-show-373",
-      "label": "American Idol",
-      "date": 2002,
-      "youtube": "https://www.youtube.com/watch?v=5zSMogk2diI&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=373&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 2002"
-      }
-    },
-    {
-      "id": "tv-show-380",
-      "label": "American Pickers",
-      "date": 2010,
-      "youtube": "https://www.youtube.com/watch?v=6IQKa6uFPsI&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=380&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 2010"
-      }
-    },
-    {
-      "id": "tv-show-387",
-      "label": "Danger Island",
-      "date": 1968,
-      "youtube": "https://www.youtube.com/watch?v=BP8MenxZdm8&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=387&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1968"
-      }
-    },
-    {
-      "id": "tv-show-405",
-      "label": "General Hospital",
-      "date": 1963,
-      "youtube": "https://www.youtube.com/watch?v=FB2irpDzC0Y&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=405&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1963"
-      }
-    },
-    {
-      "id": "tv-show-408",
-      "label": "American Restoration",
-      "date": 2010,
-      "youtube": "https://www.youtube.com/watch?v=FuX9fr9wvbU&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=408&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 2010"
-      }
-    },
-    {
-      "id": "tv-show-415",
-      "label": "Doogie Howser, M.D.",
-      "date": 1989,
-      "youtube": "https://www.youtube.com/watch?v=mrERtikdPus&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=415&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1989"
-      }
-    },
-    {
-      "id": "tv-show-424",
-      "label": "Modern Family",
-      "date": 2009,
-      "youtube": "https://www.youtube.com/watch?v=q3xrdZpMdu0&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=424&pp=iAQB0gcJCd4JAYcqIYzv",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 2009"
-      }
-    },
-    {
-      "id": "tv-show-430",
-      "label": "Everybody Hates Chris",
-      "date": 2005,
-      "youtube": "https://www.youtube.com/watch?v=5MVcc4ea4jY&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=430&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 2005"
-      }
-    },
-    {
-      "id": "tv-show-432",
-      "label": "Dos Mujeres, Un Camino",
-      "date": 1993,
-      "youtube": "https://www.youtube.com/watch?v=XHnmU9iC6iY&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=432&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1993"
-      }
-    },
-    {
-      "id": "tv-show-433",
-      "label": "Sister, Sister",
-      "date": 1994,
-      "youtube": "https://www.youtube.com/watch?v=T4JcOZJi5JQ&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=433&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1994"
-      }
-    },
-    {
-      "id": "tv-show-435",
-      "label": "Flipper",
-      "date": 1964,
-      "youtube": "https://www.youtube.com/watch?v=azEOeTX1LqM&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=435&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1964"
-      }
-    },
-    {
-      "id": "tv-show-442",
-      "label": "Diners, Drive-Ins and Dives",
-      "date": 2007,
-      "youtube": "https://www.youtube.com/watch?v=3gvWiyMS_ec&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=442&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 2007"
-      }
-    },
-    {
-      "id": "tv-show-455",
-      "label": "JAG",
-      "date": 1995,
-      "youtube": "https://www.youtube.com/watch?v=wGWjUUoyLBc&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=455&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1995"
-      }
-    },
-    {
-      "id": "tv-show-466",
-      "label": "The Bernie Mac Show",
-      "date": 2001,
-      "youtube": "https://www.youtube.com/watch?v=PxgIepSouYs&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=466&pp=iAQB0gcJCd4JAYcqIYzv",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 2001"
-      }
-    },
-    {
-      "id": "tv-show-21",
-      "label": "Friends",
-      "date": 1994,
-      "youtube": "https://www.youtube.com/watch?v=Niu9Zmrx0p8&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=21&pp=iAQB0gcJCd4JAYcqIYzv",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1994"
-      }
-    },
-    {
-      "id": "tv-show-97",
-      "label": "The Wayans Bros.",
-      "date": 1995,
-      "youtube": "https://www.youtube.com/watch?v=GDCINv3zY5c&list=PLbUeFawYcXN_vETUIPeMbDCnr878tQ_RX&index=97&pp=iAQB",
-      "tooltip": {
-        "description": "Classic TV show that premiered in 1995"
       }
     }
   ]

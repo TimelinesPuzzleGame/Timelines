@@ -583,7 +583,7 @@ export default function BigScreenPartyMode({
     <div className="h-screen bg-gray-900 flex flex-col overflow-y-auto" style={{ zIndex: 1 }}>
       <style>{bounceScaleCSS}</style>
       {/* Debug info and Full Screen button */}
-      <div className="fixed top-0 left-0 bg-black text-white p-2 z-[9999]" style={{width: '532px'}}>
+      <div className="fixed top-0 left-0  text-white p-2 z-[9999]" style={{width: '532px'}}>
         <div>Aspect Ratio: {aspectRatio.toFixed(2)}</div>
         {videoId && (
           <button
@@ -649,9 +649,9 @@ export default function BigScreenPartyMode({
 
       {aspectRatio >= 1.75 ? (
         // --- ULTRAWIDE LAYOUT ---
-        <div className="flex flex-col h-full w-full bg-black relative" style={{height: '100vh', background: '#000'}}>
+        <div className="flex flex-col h-full w-full relative" style={{height: '100vh'}}>
           {/* Main content: UI and Video in a single row, no negative space */}
-          <div className="flex flex-row flex-shrink-0 w-full bg-black" style={{flex: '1 1 auto', alignItems: 'flex-start', minHeight: 0, background: '#000'}}>
+          <div className="flex flex-row flex-shrink-0 w-full" style={{flex: '1 1 auto', alignItems: 'flex-start', minHeight: 0}}>
             {/* UI block on the left, fills all space left of video, background transparent for team names */}
             <div className="flex-1 flex flex-col items-center justify-start p-[min(4vw,32px)]" style={{zIndex: 10}}>
               {/* Title */}
@@ -722,7 +722,7 @@ export default function BigScreenPartyMode({
               )}
             </div>
             {/* Video flush with UI, right-justified, no overlap */}
-            <div className="flex-shrink-0 flex items-start justify-end bg-black" style={{minHeight: 0, height: 'auto', background: '#000'}}>
+            <div className="flex-shrink-0 flex items-start justify-end" style={{minHeight: 0, height: 'auto'}}>
               {/* Placeholder for video - actual video is rendered above */}
               <div 
                 className="max-h-[85vh] relative"
@@ -739,27 +739,27 @@ export default function BigScreenPartyMode({
           </div>
           
             {/* Timeline fixed to bottom, no overlap, fully interactive */}
-          <div className="fixed left-0 right-0 bottom-0 px-8 pb-4 z-40 bg-black" style={{pointerEvents: 'auto', background: '#000'}}>
+          <div className="fixed left-0 right-0 bottom-0 px-8 pb-4 z-40" style={{pointerEvents: 'auto'}}>
             {/* Large invisible clickable area for drop zone */}
             {!locked && !videoEnded && (
               <div
                 className="fixed left-0 right-0 z-30 cursor-pointer"
                 style={{
                   top: isFullScreen ? 
-                    `${window.innerHeight * 0.5}px` : 
-                    `${Math.max(document.querySelector('iframe, img, div[class*="youtube"]')?.getBoundingClientRect()?.bottom || 0, window.innerHeight * 0.5)}px`,
+                    `${window.innerHeight * 0.7}px` : 
+                    `${Math.max(document.querySelector('iframe, img, div[class*="youtube"]')?.getBoundingClientRect()?.bottom || 0, window.innerHeight * 0.5) + 128}px`,
                   bottom: 0,
                 }}
                 onMouseMove={handleTimelineMouseMove}
                 onClick={handleTimelineClick}
               />
             )}
-            {/* Dynamically set the height of the timeline container to cover the placeable area */}
+            {/* Fixed height timeline container - no more dynamic growing */}
             <div
               ref={timelineRef}
               className="relative w-full"
               style={{
-                height: placeableArea && placeableArea.height > 0 ? `${placeableArea.height}px` : '48px',
+                height: '200px',
                 cursor: locked ? 'default' : 'pointer',
               }}
             >
@@ -879,8 +879,8 @@ export default function BigScreenPartyMode({
                   className="fixed left-0 right-0 z-30 cursor-pointer"
                   style={{
                     top: isFullScreen ? 
-                      `${window.innerHeight * 0.5}px` : 
-                      `${Math.max(document.querySelector('iframe, img, div[class*="youtube"]')?.getBoundingClientRect()?.bottom || 0, window.innerHeight * 0.5)}px`,
+                      `${window.innerHeight * 0.7}px` : 
+                      `${Math.max(document.querySelector('iframe, img, div[class*="youtube"]')?.getBoundingClientRect()?.bottom || 0, window.innerHeight * 0.5) + 128}px`,
                     bottom: 0,
                   }}
                   onMouseMove={handleTimelineMouseMove}
@@ -1340,3 +1340,4 @@ export default function BigScreenPartyMode({
     </div>
   );
 }
+

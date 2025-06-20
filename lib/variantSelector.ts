@@ -58,7 +58,127 @@ export function selectSafeVariant(card: VariantCard): EventCard {
 }
 
 /**
+ * Process cards with fair movie distribution - select movies first, then variants
+ * This prevents bias toward movies with more variants
+ */
+export function processCardsWithFairDistribution(cards: any[], targetCount?: number): EventCard[] {
+  if (!Array.isArray(cards)) {
+    console.error('processCardsWithFairDistribution: cards is not an array:', cards);
+    return [];
+  }
+
+  // Step 1: Group cards by movie (using label as movie identifier)
+  const movieGroups = new Map<string, any[]>();
+  
+  cards.forEach(card => {
+    if (!card || typeof card !== 'object') {
+      console.error('Invalid card:', card);
+      return;
+    }
+
+    const movieKey = card.label || card.movie || card.topic || 'Unknown';
+    if (!movieGroups.has(movieKey)) {
+      movieGroups.set(movieKey, []);
+    }
+    movieGroups.get(movieKey)!.push(card);
+  });
+
+  console.log(`🎬 Fair distribution: Found ${movieGroups.size} unique movies`);
+  
+  // Step 2: Convert to array and shuffle movies for fair selection
+  const movieList = Array.from(movieGroups.entries());
+  const shuffledMovies = shuffleMovies(movieList);
+  
+  // Step 3: Select movies (if targetCount specified, otherwise use all)
+  const moviesToUse = targetCount && targetCount < shuffledMovies.length 
+    ? shuffledMovies.slice(0, targetCount)
+    : shuffledMovies;
+  
+  console.log(`🎲 Fair distribution: Selected ${moviesToUse.length} movies for processing`);
+  
+  // Step 4: For each selected movie, randomly pick one variant
+  const result: EventCard[] = [];
+  
+  moviesToUse.forEach(([movieName, movieCards]) => {
+    try {
+      // Pick a random card from this movie's variants
+      const randomCard = movieCards[Math.floor(Math.random() * movieCards.length)];
+      
+      // Process the selected card (handle variants if present)
+      const processedCard = processSingleCardWithVariants(randomCard);
+      result.push(processedCard);
+      
+      console.log(`🎯 Selected variant for "${movieName}": ${movieCards.length} variants available`);
+    } catch (error) {
+      console.error('Error processing movie variants:', error, movieName);
+      // Add a safe fallback card
+      result.push(createSafeCard(movieCards[0]));
+    }
+  });
+  
+  console.log(`✅ Fair distribution complete: ${result.length} cards processed`);
+  return result;
+}
+
+/**
+ * Helper function to shuffle movie groups fairly
+ */
+function shuffleMovies<T>(array: T[]): T[] {
+  const result = [...array];
+  for (let i = result.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [result[i], result[j]] = [result[j], result[i]];
+  }
+  return result;
+}
+
+/**
+ * Process a single card with variants (extracted from the main function)
+ */
+function processSingleCardWithVariants(card: any): EventCard {
+  try {
+    // Validate card structure
+    if (!card || typeof card !== 'object') {
+      console.error('Invalid card:', card);
+      return createSafeCard(card);
+    }
+
+    // If no variants, return the card as-is with validation
+    if (!card.variants || !Array.isArray(card.variants) || card.variants.length === 0) {
+      return validateCard(card);
+    }
+
+    // Randomly select a variant
+    const selectedVariant = card.variants[Math.floor(Math.random() * card.variants.length)];
+    
+    // Validate the selected variant
+    if (!selectedVariant || typeof selectedVariant !== 'object') {
+      console.error('Invalid variant selected:', selectedVariant);
+      return validateCard(card);
+    }
+
+    // Merge the selected variant with the base card
+    const mergedCard = {
+      ...card,
+      ...selectedVariant,
+      // Preserve these fields from the base card
+      id: card.id || generateCardId(),
+      date: card.date || selectedVariant.date || new Date(2000, 0, 1).getTime(),
+      label: selectedVariant.label || card.label || 'Unknown',
+      // Remove variants from the final card
+      variants: undefined
+    };
+
+    return validateCard(mergedCard);
+  } catch (error) {
+    console.error('Error processing card with variants:', error, card);
+    return createSafeCard(card);
+  }
+}
+
+/**
  * Process cards that have variants and randomly select one variant per card
+ * UPDATED: Now uses fair distribution by default to prevent variant bias
  */
 export function processCardsWithVariants(cards: any[]): EventCard[] {
   if (!Array.isArray(cards)) {
@@ -66,46 +186,8 @@ export function processCardsWithVariants(cards: any[]): EventCard[] {
     return [];
   }
 
-  return cards.map(card => {
-    try {
-      // Validate card structure
-      if (!card || typeof card !== 'object') {
-        console.error('Invalid card:', card);
-        return createSafeCard(card);
-      }
-
-      // If no variants, return the card as-is with validation
-      if (!card.variants || !Array.isArray(card.variants) || card.variants.length === 0) {
-        return validateCard(card);
-      }
-
-      // Randomly select a variant
-      const selectedVariant = card.variants[Math.floor(Math.random() * card.variants.length)];
-      
-      // Validate the selected variant
-      if (!selectedVariant || typeof selectedVariant !== 'object') {
-        console.error('Invalid variant selected:', selectedVariant);
-        return validateCard(card);
-      }
-
-      // Merge the selected variant with the base card
-      const mergedCard = {
-        ...card,
-        ...selectedVariant,
-        // Preserve these fields from the base card
-        id: card.id || generateCardId(),
-        date: card.date || selectedVariant.date || new Date(2000, 0, 1).getTime(),
-        label: selectedVariant.label || card.label || 'Unknown',
-        // Remove variants from the final card
-        variants: undefined
-      };
-
-      return validateCard(mergedCard);
-    } catch (error) {
-      console.error('Error processing card with variants:', error, card);
-      return createSafeCard(card);
-    }
-  });
+  // Use the new fair distribution method
+  return processCardsWithFairDistribution(cards);
 }
 
 /**
